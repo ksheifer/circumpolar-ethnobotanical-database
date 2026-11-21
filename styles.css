@@ -117,3 +117,27 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 
 #profile-map{height:480px;min-height:360px;position:relative;overflow:hidden}
 .map-load-error{display:flex;align-items:center;justify-content:center;height:100%;font-size:14px;color:#666}
+
+/* Map labels: complete multilingual names, no character-by-character wrapping. */
+#profile-map .leaflet-tooltip.phytonym-pin-label {
+  width:max-content!important;
+  min-width:max-content!important;
+  max-width:420px!important;
+  white-space:normal!important;
+  word-break:normal!important;
+  overflow-wrap:normal!important;
+  padding:5px 8px;
+  line-height:1.35;
+  text-align:left;
+  box-sizing:border-box;
+}
+#profile-map .phytonym-pin-label .pin-word-list {display:flex;flex-direction:column;gap:2px;max-height:250px;overflow-y:auto;overflow-x:hidden;}
+#profile-map .phytonym-pin-label .pin-word {display:block;white-space:nowrap!important;word-break:keep-all!important;overflow-wrap:normal!important;}
+#profile-map .phytonym-pin-label .pin-language {font-weight:400;font-size:11px;color:#4f5960;}
+@media (max-width:600px){#profile-map .leaflet-tooltip.phytonym-pin-label{max-width:290px!important}#profile-map .phytonym-pin-label .pin-word{white-space:normal!important;overflow-wrap:normal!important}}
+
+/* Lexical equivalents, listed below the map across all languages and varieties. */
+.lexical-correspondences{margin-top:18px}
+.lexical-correspondences h4{margin:0 0 10px;font-size:1rem}
+.lexical-correspondences ul{margin:0;padding-left:22px;line-height:1.7}
+.lexical-correspondences li{padding:2px 0}
