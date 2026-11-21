@@ -61,6 +61,8 @@ ids = {key:check_table(key, tables[key], singular+'_id') for key,singular in {
     'languages':'language','dialects':'dialect','locations':'location','contributors':'contributor',
     'sources':'source','taxa':'taxon','phytonyms':'phytonym'}.items()}
 for loc in tables['locations']:
+    if not all(isinstance(loc.get('name_'+lang),str) and loc['name_'+lang].strip() for lang in ('ru','en')):
+        errors.append(f"{loc.get('location_id')}: bilingual location names missing")
     if 'settlement' in loc or not isinstance(loc.get('locality'),str):
         errors.append(f"{loc.get('location_id')}: locality key missing or old settlement key present")
     if not isinstance(loc.get('language_ids'),list):
@@ -72,6 +74,8 @@ for loc in tables['locations']:
     elif lat is not None and (not all(isinstance(v,(float,int)) and math.isfinite(v) for v in (lat,lon)) or not(-90<=lat<=90 and -180<=lon<=180)):
         errors.append(f"{loc.get('location_id')}: invalid coordinates")
 for d in tables['dialects']:
+    if not all(isinstance(d.get('name_'+lang),str) and d['name_'+lang].strip() for lang in ('ru','en')):
+        errors.append(f"{d.get('dialect_id')}: bilingual dialect names missing")
     linked(d.get('language_id'),ids['languages'],d.get('dialect_id'))
     if not isinstance(d.get('location_ids'),list):errors.append(f"{d.get('dialect_id')}: location_ids must be list")
     for loc in d.get('location_ids',[]):

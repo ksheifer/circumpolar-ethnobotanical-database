@@ -13,7 +13,9 @@
     "location_id": "loc_beryozovka_001",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Берёзовка",
+    "name_en": "Beryozovka"
   },
   {
     "country": "Россия",
@@ -29,7 +31,9 @@
     "location_id": "loc_044104350431044f043d002d043a044e0451043b044c",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Себян-Кюёль",
+    "name_en": "Sebyan-Kyuyol"
   },
   {
     "country": "Россия",
@@ -45,7 +49,9 @@
     "location_id": "loc_0442043e043f043e043b0438043d043e0435",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Тополиное",
+    "name_en": "Topolinoe"
   },
   {
     "country": "Россия",
@@ -62,7 +68,9 @@
     "language_ids": [
       "even",
       "tundra-yukaghir"
-    ]
+    ],
+    "name_ru": "Андрюшкино",
+    "name_en": "Andryushkino"
   },
   {
     "country": "Россия",
@@ -78,7 +86,9 @@
     "location_id": "loc_044104300441044b0440",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Сасыр",
+    "name_en": "Sasyr"
   },
   {
     "country": "Россия",
@@ -94,7 +104,9 @@
     "location_id": "loc_0445043e043d04430443",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Хонуу",
+    "name_en": "Khonuu"
   },
   {
     "country": "Россия",
@@ -111,7 +123,9 @@
     "language_ids": [
       "even",
       "sakha"
-    ]
+    ],
+    "name_ru": "Батагай-Алыта",
+    "name_en": "Batagay-Alyta"
   },
   {
     "country": "Россия",
@@ -127,7 +141,9 @@
     "location_id": "loc_043a04430441044204430440",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Кустур",
+    "name_en": "Kustur"
   },
   {
     "country": "Россия",
@@ -143,7 +159,9 @@
     "location_id": "loc_043e043b0435043d04350433043e04400441043a",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Оленегорск",
+    "name_en": "Olenegorsk"
   },
   {
     "country": "Россия",
@@ -159,7 +177,9 @@
     "location_id": "loc_0443044f043d04340438",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Уянди",
+    "name_en": "Uyandi"
   },
   {
     "country": "Россия",
@@ -175,7 +195,9 @@
     "location_id": "loc_044e0447044e043304350439",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Ючюгей",
+    "name_en": "Yuchyugey"
   },
   {
     "country": "Россия",
@@ -191,7 +213,9 @@
     "location_id": "loc_04300440043a0430",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Арка",
+    "name_en": "Arka"
   },
   {
     "country": "Россия",
@@ -207,7 +231,9 @@
     "location_id": "loc_044d04410441043e",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Эссо",
+    "name_en": "Esso"
   },
   {
     "country": "Россия",
@@ -223,7 +249,9 @@
     "location_id": "loc_043e043b0430",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Ола",
+    "name_en": "Ola"
   },
   {
     "country": "Россия",
@@ -239,7 +267,9 @@
     "location_id": "loc_043304380436043804330430",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Гижига",
+    "name_en": "Gizhiga"
   },
   {
     "country": "Россия",
@@ -255,7 +285,9 @@
     "location_id": "loc_044d04320435043d0441043a",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Эвенск",
+    "name_en": "Evensk"
   },
   {
     "country": "Россия",
@@ -271,7 +303,9 @@
     "location_id": "loc_0442043e043f043e043b043e0432043a0430",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Тополовка",
+    "name_en": "Topolovka"
   },
   {
     "country": "Россия",
@@ -288,7 +322,9 @@
     "language_ids": [
       "even",
       "koryak"
-    ]
+    ],
+    "name_ru": "Анавгай",
+    "name_en": "Anavgay"
   },
   {
     "country": "Россия",
@@ -304,7 +340,9 @@
     "location_id": "loc_0430044f043d043a0430",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Аянка",
+    "name_en": "Ayanka"
   },
   {
     "country": "Россия",
@@ -320,7 +358,9 @@
     "location_id": "loc_043e043a043b0430043d",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Оклан",
+    "name_en": "Oklan"
   },
   {
     "country": "Россия",
@@ -336,7 +376,9 @@
     "location_id": "loc_04320430043504330438",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Ваеги",
+    "name_en": "Vaegi"
   },
   {
     "country": "Россия",
@@ -352,7 +394,9 @@
     "location_id": "loc_043b0430043c044304420441043a043e0435",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Ламутское",
+    "name_en": "Lamutskoe"
   },
   {
     "country": "Россия",
@@ -368,7 +412,9 @@
     "location_id": "loc_043e043c043e043b043e043d",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Омолон",
+    "name_en": "Omolon"
   },
   {
     "country": "Россия",
@@ -385,7 +431,9 @@
     "language_ids": [
       "even",
       "alyutor"
-    ]
+    ],
+    "name_ru": "Манилы",
+    "name_en": "Manily"
   },
   {
     "country": "Россия",
@@ -401,7 +449,9 @@
     "location_id": "loc_043a0430043c0435043d0441043a043e0435",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Каменское",
+    "name_en": "Kamenskoe"
   },
   {
     "country": "Россия",
@@ -417,7 +467,9 @@
     "location_id": "loc_0441043b043004430442043d043e0435",
     "language_ids": [
       "even"
-    ]
+    ],
+    "name_ru": "Слаутное",
+    "name_en": "Slautnoe"
   },
   {
     "country": "Россия",
@@ -433,7 +485,9 @@
     "location_id": "loc_0442044304400430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Тура",
+    "name_en": "Tura"
   },
   {
     "country": "Россия",
@@ -449,7 +503,9 @@
     "location_id": "loc_0447043804400438043d04340430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Чиринда",
+    "name_en": "Chirinda"
   },
   {
     "country": "Россия",
@@ -465,7 +521,9 @@
     "location_id": "loc_044d043a043e043d04340430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Эконда",
+    "name_en": "Ekonda"
   },
   {
     "country": "Россия",
@@ -481,7 +539,9 @@
     "location_id": "loc_043d04380434044b043c",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Нидым",
+    "name_en": "Nidym"
   },
   {
     "country": "Россия",
@@ -497,7 +557,9 @@
     "location_id": "loc_044204430442043e043d04470430043d044b",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Тутончаны",
+    "name_en": "Tutonchany"
   },
   {
     "country": "Россия",
@@ -513,7 +575,9 @@
     "location_id": "loc_043a04380441043b043e043a0430043d",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Кислокан",
+    "name_en": "Kislokan"
   },
   {
     "country": "Россия",
@@ -529,7 +593,9 @@
     "location_id": "loc_043104300439043a04380442",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Байкит",
+    "name_en": "Baykit"
   },
   {
     "country": "Россия",
@@ -545,7 +611,9 @@
     "location_id": "loc_04320430043d04300432043004400430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Ванавара",
+    "name_en": "Vanavara"
   },
   {
     "country": "Россия",
@@ -561,7 +629,9 @@
     "location_id": "loc_0441044304400438043d04340430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Суринда",
+    "name_en": "Surinda"
   },
   {
     "country": "Россия",
@@ -577,7 +647,9 @@
     "location_id": "loc_043f043e043b0438043304430441",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Полигус",
+    "name_en": "Poligus"
   },
   {
     "country": "Россия",
@@ -593,7 +665,9 @@
     "location_id": "loc_0441044204400435043b043a0430002d04470443043d044f",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Стрелка-Чуня",
+    "name_en": "Strelka-Chunya"
   },
   {
     "country": "Россия",
@@ -609,7 +683,9 @@
     "location_id": "loc_04380435043d043304400430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Иенгра",
+    "name_en": "Iengra"
   },
   {
     "country": "Россия",
@@ -625,7 +701,9 @@
     "location_id": "loc_0442044f043d044f",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Тяня",
+    "name_en": "Tyanya"
   },
   {
     "country": "Россия",
@@ -641,7 +719,9 @@
     "location_id": "loc_044304410442044c002d043d044e043a04360430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Усть-Нюкжа",
+    "name_en": "Ust-Nyukzha"
   },
   {
     "country": "Россия",
@@ -657,7 +737,9 @@
     "location_id": "loc_044304410442044c002d04430440043a0438043c0430",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Усть-Уркима",
+    "name_en": "Ust-Urkima"
   },
   {
     "country": "Россия",
@@ -674,7 +756,9 @@
     "language_ids": [
       "evenki",
       "sakha"
-    ]
+    ],
+    "name_ru": "Усть-Мая",
+    "name_en": "Ust-Maya"
   },
   {
     "country": "Россия",
@@ -690,7 +774,9 @@
     "location_id": "loc_043f0435044004350432043e0437",
     "language_ids": [
       "evenki"
-    ]
+    ],
+    "name_ru": "Перевоз",
+    "name_en": "Perevoz"
   },
   {
     "country": "Россия",
@@ -707,7 +793,9 @@
     "language_ids": [
       "dolgan",
       "nganasan"
-    ]
+    ],
+    "name_ru": "Волочанка",
+    "name_en": "Volochanka"
   },
   {
     "country": "Россия",
@@ -724,7 +812,9 @@
     "language_ids": [
       "dolgan",
       "nganasan"
-    ]
+    ],
+    "name_ru": "Усть-Авам",
+    "name_en": "Ust-Avam"
   },
   {
     "country": "Россия",
@@ -740,7 +830,9 @@
     "location_id": "loc_04450430043d0442043004390441043a043e04350020043e043704350440043e",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Хантайское Озеро",
+    "name_en": "Khantayskoe Ozero"
   },
   {
     "country": "Россия",
@@ -757,7 +849,9 @@
     "language_ids": [
       "dolgan",
       "forest-enets"
-    ]
+    ],
+    "name_ru": "Потапово",
+    "name_en": "Potapovo"
   },
   {
     "country": "Россия",
@@ -776,7 +870,9 @@
       "nganasan",
       "tundra-enets",
       "forest-enets"
-    ]
+    ],
+    "name_ru": "Дудинка",
+    "name_en": "Dudinka"
   },
   {
     "country": "Россия",
@@ -793,7 +889,9 @@
     "language_ids": [
       "dolgan",
       "nganasan"
-    ]
+    ],
+    "name_ru": "Хатанга",
+    "name_en": "Khatanga"
   },
   {
     "country": "Россия",
@@ -809,7 +907,9 @@
     "location_id": "loc_043a0440043504410442044b",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Кресты",
+    "name_en": "Kresty"
   },
   {
     "country": "Россия",
@@ -826,7 +926,9 @@
     "language_ids": [
       "dolgan",
       "nganasan"
-    ]
+    ],
+    "name_ru": "Новая",
+    "name_en": "Novaya"
   },
   {
     "country": "Россия",
@@ -842,7 +944,9 @@
     "location_id": "loc_0445043504420430",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Хета",
+    "name_en": "Kheta"
   },
   {
     "country": "Россия",
@@ -858,7 +962,9 @@
     "location_id": "loc_043a04300442044b0440044b043a",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Катырык",
+    "name_en": "Katyryk"
   },
   {
     "country": "Россия",
@@ -874,7 +980,9 @@
     "location_id": "loc_043d043e0432043e0440044b0431043d0430044f",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Новорыбная",
+    "name_en": "Novorybnaya"
   },
   {
     "country": "Россия",
@@ -890,7 +998,9 @@
     "location_id": "loc_0441044b043d0434043004410441043a043e",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Сындасско",
+    "name_en": "Syndassko"
   },
   {
     "country": "Россия",
@@ -906,7 +1016,9 @@
     "location_id": "loc_043f043e043f0438043304300439",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Попигай",
+    "name_en": "Popigay"
   },
   {
     "country": "Россия",
@@ -922,7 +1034,9 @@
     "location_id": "loc_043604340430043d043804450430",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Жданиха",
+    "name_en": "Zhdanikha"
   },
   {
     "country": "Россия",
@@ -939,7 +1053,9 @@
     "language_ids": [
       "dolgan",
       "sakha"
-    ]
+    ],
+    "name_ru": "Саскылах",
+    "name_en": "Saskylakh"
   },
   {
     "country": "Россия",
@@ -955,7 +1071,9 @@
     "location_id": "loc_044e0440044e043d0433002d04450430044f",
     "language_ids": [
       "dolgan"
-    ]
+    ],
+    "name_ru": "Юрюнг-Хая",
+    "name_en": "Yuryung-Khaya"
   },
   {
     "country": "Россия",
@@ -971,7 +1089,9 @@
     "location_id": "loc_0443044d043b0435043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Уэлен",
+    "name_en": "Uelen"
   },
   {
     "country": "Россия",
@@ -987,7 +1107,9 @@
     "location_id": "loc_043b043e04400438043d043e",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Лорино",
+    "name_en": "Lorino"
   },
   {
     "country": "Россия",
@@ -1003,7 +1125,9 @@
     "location_id": "loc_043b0430043204400435043d04420438044f",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Лаврентия",
+    "name_en": "Lavrentiya"
   },
   {
     "country": "Россия",
@@ -1019,7 +1143,9 @@
     "location_id": "loc_043d04350448043a0430043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Нешкан",
+    "name_en": "Neshkan"
   },
   {
     "country": "Россия",
@@ -1035,7 +1161,9 @@
     "location_id": "loc_0438043d0447043e0443043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Инчоун",
+    "name_en": "Inchoun"
   },
   {
     "country": "Россия",
@@ -1051,7 +1179,9 @@
     "location_id": "loc_044d043d04430440043c0438043d043e",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Энурмино",
+    "name_en": "Enurmino"
   },
   {
     "country": "Россия",
@@ -1067,7 +1197,9 @@
     "location_id": "loc_0430043c04330443044d043c0430",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Амгуэма",
+    "name_en": "Amguema"
   },
   {
     "country": "Россия",
@@ -1083,7 +1215,9 @@
     "location_id": "loc_043a043e043d0435044004330438043d043e",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Конергино",
+    "name_en": "Konergino"
   },
   {
     "country": "Россия",
@@ -1099,7 +1233,9 @@
     "location_id": "loc_0440044b0440043a04300439043f04380439",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Рыркайпий",
+    "name_en": "Ryrkaypiy"
   },
   {
     "country": "Россия",
@@ -1115,7 +1251,9 @@
     "location_id": "loc_04320430043d043a043004400435043c",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Ванкарем",
+    "name_en": "Vankarem"
   },
   {
     "country": "Россия",
@@ -1131,7 +1269,9 @@
     "location_id": "loc_044d043d043c0435043b0435043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Энмелен",
+    "name_en": "Enmelen"
   },
   {
     "country": "Россия",
@@ -1147,7 +1287,9 @@
     "location_id": "loc_043d0443043d043b0438043304400430043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Нунлигран",
+    "name_en": "Nunligran"
   },
   {
     "country": "Россия",
@@ -1163,7 +1305,9 @@
     "location_id": "loc_044504300442044b0440043a0430",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Хатырка",
+    "name_en": "Khatyrka"
   },
   {
     "country": "Россия",
@@ -1179,7 +1323,9 @@
     "location_id": "loc_0430043b044c043a04300442043204300430043c",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Алькатваам",
+    "name_en": "Alkatvaam"
   },
   {
     "country": "Россия",
@@ -1195,7 +1341,9 @@
     "location_id": "loc_04300439043e043d",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Айон",
+    "name_en": "Ayon"
   },
   {
     "country": "Россия",
@@ -1211,7 +1359,9 @@
     "location_id": "loc_0440044b0442043a044304470438",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Рыткучи",
+    "name_en": "Rytkuchi"
   },
   {
     "country": "Россия",
@@ -1227,7 +1377,9 @@
     "location_id": "loc_04310438043b043b0438043d04330441",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Биллингс",
+    "name_en": "Billings"
   },
   {
     "country": "Россия",
@@ -1243,7 +1395,9 @@
     "location_id": "loc_0438043b04380440043d04350439",
     "language_ids": [
       "chukchi"
-    ]
+    ],
+    "name_ru": "Илирней",
+    "name_en": "Ilirney"
   },
   {
     "country": "Россия",
@@ -1260,7 +1414,9 @@
     "language_ids": [
       "chukchi",
       "koryak"
-    ]
+    ],
+    "name_ru": "Ачайваям",
+    "name_en": "Achayvayam"
   },
   {
     "country": "Россия",
@@ -1276,7 +1432,9 @@
     "location_id": "loc_0432043e0440043e043d0446043e0432043e",
     "language_ids": [
       "tundra-enets"
-    ]
+    ],
+    "name_ru": "Воронцово",
+    "name_en": "Vorontsovo"
   },
   {
     "country": "Россия",
@@ -1292,7 +1450,9 @@
     "location_id": "loc_04410435044f04450430",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Сеяха",
+    "name_en": "Seyakha"
   },
   {
     "country": "Россия",
@@ -1308,7 +1468,9 @@
     "location_id": "loc_044f0440002d04410430043b0435",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Яр-Сале",
+    "name_en": "Yar-Sale"
   },
   {
     "country": "Россия",
@@ -1324,7 +1486,9 @@
     "location_id": "loc_043f0430043d0430043504320441043a",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Панаевск",
+    "name_en": "Panaevsk"
   },
   {
     "country": "Россия",
@@ -1340,7 +1504,9 @@
     "location_id": "loc_043d043e0432044b04390020043f043e04400442",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Новый Порт",
+    "name_en": "Novyy Port"
   },
   {
     "country": "Россия",
@@ -1356,7 +1522,9 @@
     "location_id": "loc_0433044b04340430",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Гыда",
+    "name_en": "Gyda"
   },
   {
     "country": "Россия",
@@ -1372,7 +1540,9 @@
     "location_id": "loc_0430043d04420438043f0430044e04420430",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Антипаюта",
+    "name_en": "Antipayuta"
   },
   {
     "country": "Россия",
@@ -1388,7 +1558,9 @@
     "location_id": "loc_044204300437043e04320441043a04380439",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Тазовский",
+    "name_en": "Tazovskiy"
   },
   {
     "country": "Россия",
@@ -1404,7 +1576,9 @@
     "location_id": "loc_0430043a044104300440043a0430",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Аксарка",
+    "name_en": "Aksarka"
   },
   {
     "country": "Россия",
@@ -1420,7 +1594,9 @@
     "location_id": "loc_043d0435043b044c043c0438043d0020043d043e0441",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Нельмин Нос",
+    "name_en": "Nelmin Nos"
   },
   {
     "country": "Россия",
@@ -1436,7 +1612,9 @@
     "location_id": "loc_04310443043304400438043d043e",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Бугрино",
+    "name_en": "Bugrino"
   },
   {
     "country": "Россия",
@@ -1452,7 +1630,9 @@
     "location_id": "loc_043d04350441044c",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Несь",
+    "name_en": "Nes"
   },
   {
     "country": "Россия",
@@ -1468,7 +1648,9 @@
     "location_id": "loc_043d04300440044c044f043d002d043c04300440",
     "language_ids": [
       "tundra-nenets"
-    ]
+    ],
+    "name_ru": "Нарьян-Мар",
+    "name_en": "Naryan-Mar"
   },
   {
     "country": "Россия",
@@ -1484,7 +1666,9 @@
     "location_id": "loc_0445043004400430043c043f04430440",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Харампур",
+    "name_en": "Kharampur"
   },
   {
     "country": "Россия",
@@ -1500,7 +1684,9 @@
     "location_id": "loc_04450430043b044f044104300432044d0439",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Халясавэй",
+    "name_en": "Khalyasavey"
   },
   {
     "country": "Россия",
@@ -1516,7 +1702,9 @@
     "location_id": "loc_044204300440043a043e002d04410430043b0435",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Тарко-Сале",
+    "name_en": "Tarko-Sale"
   },
   {
     "country": "Россия",
@@ -1532,7 +1720,9 @@
     "location_id": "loc_043204300440044c045104330430043d",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Варьёган",
+    "name_en": "Varyogan"
   },
   {
     "country": "Россия",
@@ -1548,7 +1738,9 @@
     "location_id": "loc_043004330430043d",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Аган",
+    "name_en": "Agan"
   },
   {
     "country": "Россия",
@@ -1564,7 +1756,9 @@
     "location_id": "loc_043d0443043c0442043e",
     "language_ids": [
       "forest-nenets"
-    ]
+    ],
+    "name_ru": "Нумто",
+    "name_en": "Numto"
   },
   {
     "country": "Россия",
@@ -1580,7 +1774,9 @@
     "location_id": "loc_043a04300437044b043c",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Казым",
+    "name_en": "Kazym"
   },
   {
     "country": "Россия",
@@ -1596,7 +1792,9 @@
     "location_id": "loc_044e0438043b044c0441043a",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Юильск",
+    "name_en": "Yuilsk"
   },
   {
     "country": "Россия",
@@ -1612,7 +1810,9 @@
     "location_id": "loc_043f043e043b043d043e043204300442",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Полноват",
+    "name_en": "Polnovat"
   },
   {
     "country": "Россия",
@@ -1628,7 +1828,9 @@
     "location_id": "loc_04320430043d04370435043204300442",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Ванзеват",
+    "name_en": "Vanzevat"
   },
   {
     "country": "Россия",
@@ -1644,7 +1846,9 @@
     "location_id": "loc_043c044304360438",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Мужи",
+    "name_en": "Muzhi"
   },
   {
     "country": "Россия",
@@ -1660,7 +1864,9 @@
     "location_id": "loc_043e04320433043e04400442",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Овгорт",
+    "name_en": "Ovgort"
   },
   {
     "country": "Россия",
@@ -1676,7 +1882,9 @@
     "location_id": "loc_043f04380442043b044f0440",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Питляр",
+    "name_en": "Pitlyar"
   },
   {
     "country": "Россия",
@@ -1692,7 +1900,9 @@
     "location_id": "loc_0433043e0440043a0438",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Горки",
+    "name_en": "Gorki"
   },
   {
     "country": "Россия",
@@ -1708,7 +1918,9 @@
     "location_id": "loc_043b043e043f0445043004400438",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Лопхари",
+    "name_en": "Lopkhari"
   },
   {
     "country": "Россия",
@@ -1724,7 +1936,9 @@
     "location_id": "loc_044804430440044b0448043a04300440044b",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Шурышкары",
+    "name_en": "Shuryshkary"
   },
   {
     "country": "Россия",
@@ -1740,7 +1954,9 @@
     "location_id": "loc_04410430043b04350445043004400434",
     "language_ids": [
       "northern-khanty"
-    ]
+    ],
+    "name_ru": "Салехард",
+    "name_en": "Salekhard"
   },
   {
     "country": "Россия",
@@ -1756,7 +1972,9 @@
     "location_id": "loc_043a043e043b044b043c0441043a043e0435",
     "language_ids": [
       "tundra-yukaghir"
-    ]
+    ],
+    "name_ru": "Колымское",
+    "name_en": "Kolymskoe"
   },
   {
     "country": "Россия",
@@ -1772,7 +1990,9 @@
     "location_id": "loc_043f043e0445043e04340441043a",
     "language_ids": [
       "tundra-yukaghir"
-    ]
+    ],
+    "name_ru": "Походск",
+    "name_en": "Pokhodsk"
   },
   {
     "country": "Россия",
@@ -1789,7 +2009,9 @@
     "language_ids": [
       "tundra-yukaghir",
       "sakha"
-    ]
+    ],
+    "name_ru": "Черский",
+    "name_en": "Chersky"
   },
   {
     "country": "Россия",
@@ -1805,7 +2027,9 @@
     "location_id": "loc_043d0435043b0435043c043d043e0435",
     "language_ids": [
       "forest-yukaghir"
-    ]
+    ],
+    "name_ru": "Нелемное",
+    "name_en": "Nelemnoe"
   },
   {
     "country": "Россия",
@@ -1822,7 +2046,9 @@
     "language_ids": [
       "forest-yukaghir",
       "sakha"
-    ]
+    ],
+    "name_ru": "Зырянка",
+    "name_en": "Zyryanka"
   },
   {
     "country": "Россия",
@@ -1838,7 +2064,9 @@
     "location_id": "loc_0432043504400445043d0435043a043e043b044b043c0441043a",
     "language_ids": [
       "forest-yukaghir"
-    ]
+    ],
+    "name_ru": "Верхнеколымск",
+    "name_en": "Verkhnekolymsk"
   },
   {
     "country": "Россия",
@@ -1855,7 +2083,9 @@
     "language_ids": [
       "koryak",
       "alyutor"
-    ]
+    ],
+    "name_ru": "Хаилино",
+    "name_en": "Khailino"
   },
   {
     "country": "Россия",
@@ -1871,7 +2101,9 @@
     "location_id": "loc_0441044004350434043d043804350020043f04300445043004470438",
     "language_ids": [
       "koryak"
-    ]
+    ],
+    "name_ru": "Средние Пахачи",
+    "name_en": "Srednie Pakhachi"
   },
   {
     "country": "Россия",
@@ -1887,7 +2119,9 @@
     "location_id": "loc_043f04300445043004470438",
     "language_ids": [
       "koryak"
-    ]
+    ],
+    "name_ru": "Пахачи",
+    "name_en": "Pakhachi"
   },
   {
     "country": "Россия",
@@ -1904,7 +2138,9 @@
     "language_ids": [
       "koryak",
       "alyutor"
-    ]
+    ],
+    "name_ru": "Тиличики",
+    "name_en": "Tilichiki"
   },
   {
     "country": "Россия",
@@ -1921,7 +2157,9 @@
     "language_ids": [
       "koryak",
       "alyutor"
-    ]
+    ],
+    "name_ru": "Апука",
+    "name_en": "Apuka"
   },
   {
     "country": "Россия",
@@ -1937,7 +2175,9 @@
     "location_id": "loc_0432043e044f043c043f043e043b043a0430",
     "language_ids": [
       "koryak"
-    ]
+    ],
+    "name_ru": "Воямполка",
+    "name_en": "Voyampolka"
   },
   {
     "country": "Россия",
@@ -1953,7 +2193,9 @@
     "location_id": "loc_0441043504340430043d043a0430",
     "language_ids": [
       "koryak"
-    ]
+    ],
+    "name_ru": "Седанка",
+    "name_en": "Sedanka"
   },
   {
     "country": "Россия",
@@ -1969,7 +2211,9 @@
     "location_id": "loc_043f043004400435043d044c",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Парень",
+    "name_en": "Paren"
   },
   {
     "country": "Россия",
@@ -1985,7 +2229,9 @@
     "location_id": "loc_0432044b04320435043d043a0430",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Вывенка",
+    "name_en": "Vyvenka"
   },
   {
     "country": "Россия",
@@ -2001,7 +2247,9 @@
     "location_id": "loc_043b04350441043d0430044f",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Лесная",
+    "name_en": "Lesnaya"
   },
   {
     "country": "Россия",
@@ -2017,7 +2265,9 @@
     "location_id": "loc_043f0430043b0430043d0430",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Палана",
+    "name_en": "Palana"
   },
   {
     "country": "Россия",
@@ -2033,7 +2283,9 @@
     "location_id": "loc_043a04300440043004330430",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Карага",
+    "name_en": "Karaga"
   },
   {
     "country": "Россия",
@@ -2049,7 +2301,9 @@
     "location_id": "loc_0442044b043c043b04300442",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Тымлат",
+    "name_en": "Tymlat"
   },
   {
     "country": "Россия",
@@ -2065,7 +2319,9 @@
     "location_id": "loc_043e04410441043e04400430",
     "language_ids": [
       "alyutor"
-    ]
+    ],
+    "name_ru": "Оссора",
+    "name_en": "Ossora"
   },
   {
     "country": "Россия",
@@ -2081,7 +2337,9 @@
     "location_id": "loc_04380436043c0430",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Ижма",
+    "name_en": "Izhma"
   },
   {
     "country": "Россия",
@@ -2097,7 +2355,9 @@
     "location_id": "loc_043c043e044504470430",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Мохча",
+    "name_en": "Mokhcha"
   },
   {
     "country": "Россия",
@@ -2113,7 +2373,9 @@
     "location_id": "loc_044104380437044f04310441043a",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Сизябск",
+    "name_en": "Sizyabsk"
   },
   {
     "country": "Россия",
@@ -2129,7 +2391,9 @@
     "location_id": "loc_043a044004300441043d043e0431043e0440",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Краснобор",
+    "name_en": "Krasnobor"
   },
   {
     "country": "Россия",
@@ -2145,7 +2409,9 @@
     "location_id": "loc_04490435043b044c044f044e0440",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Щельяюр",
+    "name_en": "Shchelyayur"
   },
   {
     "country": "Россия",
@@ -2161,7 +2427,9 @@
     "location_id": "loc_043a0438043f043804350432043e",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Кипиево",
+    "name_en": "Kipievo"
   },
   {
     "country": "Россия",
@@ -2177,7 +2445,9 @@
     "location_id": "loc_04340438044e0440",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Диюр",
+    "name_en": "Diyur"
   },
   {
     "country": "Россия",
@@ -2193,7 +2463,9 @@
     "location_id": "loc_044304410442044c002d04380436043c0430",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Усть-Ижма",
+    "name_en": "Ust-Izhma"
   },
   {
     "country": "Россия",
@@ -2209,7 +2481,9 @@
     "location_id": "loc_043d044f044804300431043e0436",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Няшабож",
+    "name_en": "Nyashabozh"
   },
   {
     "country": "Россия",
@@ -2225,7 +2499,9 @@
     "location_id": "loc_043b043e0432043e0437",
     "language_ids": [
       "izhma-komi"
-    ]
+    ],
+    "name_ru": "Ловоз",
+    "name_en": "Lovoz"
   },
   {
     "country": "Россия",
@@ -2241,7 +2517,9 @@
     "location_id": "loc_043b043e0432043e043704350440043e",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Ловозеро",
+    "name_en": "Lovozero"
   },
   {
     "country": "Россия",
@@ -2257,7 +2535,9 @@
     "location_id": "loc_043a044004300441043d043e04490435043b044c0435",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Краснощелье",
+    "name_en": "Krasnoshchele"
   },
   {
     "country": "Россия",
@@ -2273,7 +2553,9 @@
     "location_id": "loc_0451043d0430",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Ёна",
+    "name_en": "Yona"
   },
   {
     "country": "Россия",
@@ -2289,7 +2571,9 @@
     "location_id": "loc_0442043504400438043104350440043a0430",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Териберка",
+    "name_en": "Teriberka"
   },
   {
     "country": "Россия",
@@ -2305,7 +2589,9 @@
     "location_id": "loc_0432043e0440043e043d044c0435",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Воронье",
+    "name_en": "Vorone"
   },
   {
     "country": "Россия",
@@ -2321,7 +2607,9 @@
     "location_id": "loc_04320430044004370438043d043e",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Варзино",
+    "name_en": "Varzino"
   },
   {
     "country": "Россия",
@@ -2337,7 +2625,9 @@
     "location_id": "loc_04470430043b044c043c043d044b002d0432043004400440044d",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Чальмны-Варрэ",
+    "name_en": "Chalmny-Varre"
   },
   {
     "country": "Россия",
@@ -2353,7 +2643,9 @@
     "location_id": "loc_043a0438043b044c04340438043d",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Кильдин",
+    "name_en": "Kildin"
   },
   {
     "country": "Россия",
@@ -2369,7 +2661,9 @@
     "location_id": "loc_043d043e0442043e043704350440043e",
     "language_ids": [
       "kola-s-mi"
-    ]
+    ],
+    "name_ru": "Нотозеро",
+    "name_en": "Notozero"
   },
   {
     "location_id": "loc_sakha_aldan",
@@ -2385,7 +2679,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Алдан",
+    "name_en": "Aldan"
   },
   {
     "location_id": "loc_sakha_amga",
@@ -2401,7 +2697,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Амга",
+    "name_en": "Amga"
   },
   {
     "location_id": "loc_sakha_aykhal",
@@ -2417,7 +2715,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Айхал",
+    "name_en": "Aykhal"
   },
   {
     "location_id": "loc_sakha_batagay",
@@ -2433,7 +2733,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Батагай",
+    "name_en": "Batagay"
   },
   {
     "location_id": "loc_sakha_belaya_gora",
@@ -2449,7 +2751,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Белая Гора",
+    "name_en": "Belaya Gora"
   },
   {
     "location_id": "loc_sakha_berdigestyakh",
@@ -2465,7 +2769,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Бердигестях",
+    "name_en": "Berdigestyakh"
   },
   {
     "location_id": "loc_sakha_berkakit",
@@ -2481,7 +2787,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Беркакит",
+    "name_en": "Berkakit"
   },
   {
     "location_id": "loc_sakha_borogontsy",
@@ -2497,7 +2805,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Борогонцы",
+    "name_en": "Borogontsy"
   },
   {
     "location_id": "loc_sakha_chernyshevskiy",
@@ -2513,7 +2823,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Чернышевский",
+    "name_en": "Chernyshevskiy"
   },
   {
     "location_id": "loc_sakha_chokurdakh",
@@ -2529,7 +2841,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Чокурдах",
+    "name_en": "Chokurdakh"
   },
   {
     "location_id": "loc_sakha_chulman",
@@ -2545,7 +2859,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Чульман",
+    "name_en": "Chulman"
   },
   {
     "location_id": "loc_sakha_churapcha",
@@ -2561,7 +2877,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Чурапча",
+    "name_en": "Churapcha"
   },
   {
     "location_id": "loc_sakha_deputatsky",
@@ -2577,7 +2895,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Депутатский",
+    "name_en": "Deputatsky"
   },
   {
     "location_id": "loc_sakha_dzhebariki_khaya",
@@ -2593,7 +2913,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Джебарики-Хая",
+    "name_en": "Dzhebariki-Khaya"
   },
   {
     "location_id": "loc_sakha_kangalassy",
@@ -2609,7 +2931,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Кангалассы",
+    "name_en": "Kangalassy"
   },
   {
     "location_id": "loc_sakha_khandyga",
@@ -2625,7 +2949,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Хандыга",
+    "name_en": "Khandyga"
   },
   {
     "location_id": "loc_sakha_khatassy",
@@ -2641,7 +2967,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Хатассы",
+    "name_en": "Khatassy"
   },
   {
     "location_id": "loc_sakha_kysyl_syr",
@@ -2657,7 +2985,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Кысыл-Сыр",
+    "name_en": "Kysyl-Syr"
   },
   {
     "location_id": "loc_sakha_lensk",
@@ -2673,7 +3003,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Ленск",
+    "name_en": "Lensk"
   },
   {
     "location_id": "loc_sakha_magan",
@@ -2689,7 +3021,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Маган",
+    "name_en": "Magan"
   },
   {
     "location_id": "loc_sakha_markha",
@@ -2705,7 +3039,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Марха",
+    "name_en": "Markha"
   },
   {
     "location_id": "loc_sakha_mayya",
@@ -2721,7 +3057,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Майя",
+    "name_en": "Mayya"
   },
   {
     "location_id": "loc_sakha_mirny",
@@ -2737,7 +3075,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Мирный",
+    "name_en": "Mirny"
   },
   {
     "location_id": "loc_sakha_mokhsogollokh",
@@ -2753,7 +3093,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Мохсоголлох",
+    "name_en": "Mokhsogollokh"
   },
   {
     "location_id": "loc_sakha_namtsy",
@@ -2769,7 +3111,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Намцы",
+    "name_en": "Namtsy"
   },
   {
     "location_id": "loc_sakha_neryungri",
@@ -2785,7 +3129,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Нерюнгри",
+    "name_en": "Neryungri"
   },
   {
     "location_id": "loc_sakha_nizhniy_bestyakh",
@@ -2801,7 +3147,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Нижний Бестях",
+    "name_en": "Nizhniy Bestyakh"
   },
   {
     "location_id": "loc_sakha_nyurba",
@@ -2817,7 +3165,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Нюрба",
+    "name_en": "Nyurba"
   },
   {
     "location_id": "loc_sakha_olenyok",
@@ -2833,7 +3183,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Оленёк",
+    "name_en": "Olenyok"
   },
   {
     "location_id": "loc_sakha_olyokminsk",
@@ -2849,7 +3201,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Олёкминск",
+    "name_en": "Olyokminsk"
   },
   {
     "location_id": "loc_sakha_pokrovsk",
@@ -2865,7 +3219,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Покровск",
+    "name_en": "Pokrovsk"
   },
   {
     "location_id": "loc_sakha_sangar",
@@ -2881,7 +3237,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Сангар",
+    "name_en": "Sangar"
   },
   {
     "location_id": "loc_sakha_srednekolymsk",
@@ -2897,7 +3255,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Среднеколымск",
+    "name_en": "Srednekolymsk"
   },
   {
     "location_id": "loc_sakha_suntar",
@@ -2913,7 +3273,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Сунтар",
+    "name_en": "Suntar"
   },
   {
     "location_id": "loc_sakha_tabaga",
@@ -2929,7 +3291,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Табага",
+    "name_en": "Tabaga"
   },
   {
     "location_id": "loc_sakha_tiksi",
@@ -2945,7 +3309,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Тикси",
+    "name_en": "Tiksi"
   },
   {
     "location_id": "loc_sakha_tommot",
@@ -2961,7 +3327,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Томмот",
+    "name_en": "Tommot"
   },
   {
     "location_id": "loc_sakha_udachny",
@@ -2977,7 +3345,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Удачный",
+    "name_en": "Udachny"
   },
   {
     "location_id": "loc_sakha_ust_kuyga",
@@ -2993,7 +3363,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Усть-Куйга",
+    "name_en": "Ust-Kuyga"
   },
   {
     "location_id": "loc_sakha_ust_nera",
@@ -3009,7 +3381,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Усть-Нера",
+    "name_en": "Ust-Nera"
   },
   {
     "location_id": "loc_sakha_verkhnevilyuysk",
@@ -3025,7 +3399,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Верхневилюйск",
+    "name_en": "Verkhnevilyuysk"
   },
   {
     "location_id": "loc_sakha_verkhoyansk",
@@ -3041,7 +3417,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Верхоянск",
+    "name_en": "Verkhoyansk"
   },
   {
     "location_id": "loc_sakha_vilyuysk",
@@ -3057,7 +3435,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Вилюйск",
+    "name_en": "Vilyuysk"
   },
   {
     "location_id": "loc_sakha_vitim",
@@ -3073,7 +3453,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Витим",
+    "name_en": "Vitim"
   },
   {
     "location_id": "loc_sakha_yakutsk",
@@ -3089,7 +3471,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Якутск",
+    "name_en": "Yakutsk"
   },
   {
     "location_id": "loc_sakha_ytyk_kyuyol",
@@ -3105,7 +3489,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Ытык-Кюёль",
+    "name_en": "Ytyk-Kyuyol"
   },
   {
     "location_id": "loc_sakha_zhatay",
@@ -3121,7 +3507,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Жатай",
+    "name_en": "Zhatay"
   },
   {
     "location_id": "loc_sakha_zhigansk",
@@ -3137,7 +3525,9 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Жиганск",
+    "name_en": "Zhigansk"
   },
   {
     "location_id": "loc_sakha_nizhniy_kuranakh",
@@ -3153,6 +3543,8 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+    "name_ru": "Нижний Куранах",
+    "name_en": "Nizhniy Kuranakh"
   }
 ]
