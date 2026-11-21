@@ -103,19 +103,11 @@
   },
   {
     "language_id": "koryak",
-    "name_en": "Koryak",
-    "name_ru": "Корякский",
+    "name_en": "Koryak / Alyutor",
+    "name_ru": "Корякский / алюторский",
     "iso_639_3": "",
-    "notes": "",
+    "notes": "Combined navigation/catalog group for Koryak and Alyutor. This editorial grouping does not imply identical linguistic varieties.",
     "west_east_order": 17
-  },
-  {
-    "language_id": "alyutor",
-    "name_en": "Alyutor",
-    "name_ru": "Алюторский",
-    "iso_639_3": "",
-    "notes": "",
-    "west_east_order": 18
   },
   {
     "language_id": "chukchi",

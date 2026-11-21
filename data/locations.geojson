@@ -1,0 +1,5489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.59028,
+          67.13194
+        ]
+      },
+      "properties": {
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "Среднеколымский улус / Srednekolymsky District",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Центр населённого пункта (не место сбора растений и не адрес информанта). Берёзовский национальный (кочевой) наслег. Coordinates and administrative affiliation: https://regionum.ru/respublika-saha-yakutiya/srednekolymskiy-ulus/beryozovka/ ; contextual identification: https://journals.tsu.ru/vestnik/&journal_page=archive&id=1906&article_id=42890 .",
+        "locality": "Берёзовка / Beryozovka",
+        "location_id": "loc_beryozovka_001",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Берёзовка",
+        "name_en": "Beryozovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.008392,
+          65.288282
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sebyan-kyuel/",
+        "locality": "Себян-Кюёль",
+        "location_id": "loc_044104350431044f043d002d043a044e0451043b044c",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Себян-Кюёль",
+        "name_en": "Sebyan-Kyuyol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.962722,
+          64.073215
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/topolinyy/",
+        "locality": "Тополиное",
+        "location_id": "loc_0442043e043f043e043b0438043d043e0435",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Тополиное",
+        "name_en": "Topolinoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.4448,
+          69.1723
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "Нижнеколымский улус / Nizhnekolymsky District",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Ориентир языкового сообщества; не установленное место фиксации конкретного фитонима. Координаты приблизительно соответствуют центру населённого пункта. / Language-community reference point, not a verified attestation site; coordinates are approximate settlement-center locations.",
+        "locality": "Андрюшкино",
+        "location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+        "language_ids": [
+          "even",
+          "yukaghir"
+        ],
+        "name_ru": "Андрюшкино",
+        "name_en": "Andryushkino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.082257,
+          65.162097
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sasyr_sakha_r./",
+        "locality": "Сасыр",
+        "location_id": "loc_044104300441044b0440",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Сасыр",
+        "name_en": "Sasyr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.22,
+          66.455
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " | Geographic reference: https://atlaskmns.ru/page/ru/people_eveny_transport.html",
+        "locality": "Хонуу",
+        "location_id": "loc_0445043e043d04430443",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Хонуу",
+        "name_en": "Khonuu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.40119,
+          67.79846
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "",
+        "visibility": "public",
+        "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+        "locality": "Батагай-Алыта",
+        "location_id": "loc_0431043004420430043304300439002d0430043b044b04420430",
+        "language_ids": [
+          "even",
+          "sakha"
+        ],
+        "name_ru": "Батагай-Алыта",
+        "name_en": "Batagay-Alyta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.67523,
+          68.17266
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16387958",
+        "locality": "Кустур",
+        "location_id": "loc_043a04430441044204430440",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Кустур",
+        "name_en": "Kustur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.486517,
+          69.811514
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hayagastah/",
+        "locality": "Оленегорск",
+        "location_id": "loc_043e043b0435043d04350433043e04400441043a",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Оленегорск",
+        "name_en": "Olenegorsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.929983,
+          69.320366
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/uyandi/",
+        "locality": "Уянди",
+        "location_id": "loc_0443044f043d04340438",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Уянди",
+        "name_en": "Uyandi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1689,
+          63.30252
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N2294263139",
+        "locality": "Ючюгей",
+        "location_id": "loc_044e0447044e043304350439",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Ючюгей",
+        "name_en": "Yuchyugey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.328333,
+          60.083056
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://ru.wikipedia.org/wiki/Арка_(Хабаровский_край)",
+        "locality": "Арка",
+        "location_id": "loc_04300440043a0430",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Арка",
+        "name_en": "Arka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.701,
+          55.9275
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " | Geographic reference: https://essobmr.ru/",
+        "locality": "Эссо",
+        "location_id": "loc_044d04410441043e",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Эссо",
+        "name_en": "Esso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3023,
+          59.5802
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " | Geographic reference: https://na-meste.ru/magadanskaya-oblast/ola.php",
+        "locality": "Ола",
+        "location_id": "loc_043e043b0430",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Ола",
+        "name_en": "Ola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.377692,
+          61.948978
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gizhiga_mag._obl./",
+        "locality": "Гижига",
+        "location_id": "loc_043304380436043804330430",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Гижига",
+        "name_en": "Gizhiga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.234604,
+          61.917972
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jevensk_mag._obl./",
+        "locality": "Эвенск",
+        "location_id": "loc_044d04320435043d0441043a",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Эвенск",
+        "name_en": "Evensk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.12591,
+          61.36543
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/topolovka/",
+        "locality": "Тополовка",
+        "location_id": "loc_0442043e043f043e043b043e0432043a0430",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Тополовка",
+        "name_en": "Topolovka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.97111,
+          56.053578
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/anavgajj_kamch._kr./",
+        "locality": "Анавгай",
+        "location_id": "loc_0430043d04300432043304300439",
+        "language_ids": [
+          "even",
+          "koryak"
+        ],
+        "name_ru": "Анавгай",
+        "name_en": "Anavgay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.58404,
+          63.725944
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ayanka_kamch._kr./",
+        "locality": "Аянка",
+        "location_id": "loc_0430044f043d043a0430",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Аянка",
+        "name_en": "Ayanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.579427,
+          62.712621
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/oklan/",
+        "locality": "Оклан",
+        "location_id": "loc_043e043a043b0430043d",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Оклан",
+        "name_en": "Oklan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.04221,
+          64.166
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16585476",
+        "locality": "Ваеги",
+        "location_id": "loc_04320430043504330438",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Ваеги",
+        "name_en": "Vaegi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.853656,
+          65.534654
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lamutskoe/",
+        "locality": "Ламутское",
+        "location_id": "loc_043b0430043c044304420441043a043e0435",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Ламутское",
+        "name_en": "Lamutskoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.53947,
+          65.23262
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/omolonlhz/",
+        "locality": "Омолон",
+        "location_id": "loc_043e043c043e043b043e043d",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Омолон",
+        "name_en": "Omolon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.339384,
+          62.48512
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/manilyi/",
+        "locality": "Манилы",
+        "location_id": "loc_043c0430043d0438043b044b",
+        "language_ids": [
+          "even",
+          "alyutor"
+        ],
+        "name_ru": "Манилы",
+        "name_en": "Manily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.207,
+          62.4687
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " | Geographic reference: https://www.zskk.ru/MSU/MOKk/obrazovanie/vse/penzhinskiy-munitsipalnyy-rayon/",
+        "locality": "Каменское",
+        "location_id": "loc_043a0430043c0435043d0441043a043e0435",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Каменское",
+        "name_en": "Kamenskoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.973181,
+          63.170231
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/slautnoe/",
+        "locality": "Слаутное",
+        "location_id": "loc_0441043b043004430442043d043e0435",
+        "language_ids": [
+          "even"
+        ],
+        "name_ru": "Слаутное",
+        "name_en": "Slautnoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.21667,
+          64.28333
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " | Geographic reference: https://atlaskmns.ru/page/ru/lang_evenki_all.html",
+        "locality": "Тура",
+        "location_id": "loc_0442044304400430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Тура",
+        "name_en": "Tura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.407392,
+          67.543806
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/chirinda_krasn._kr./",
+        "locality": "Чиринда",
+        "location_id": "loc_0447043804400438043d04340430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Чиринда",
+        "name_en": "Chirinda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.327765,
+          65.754538
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jekonda_krasn._kr./",
+        "locality": "Эконда",
+        "location_id": "loc_044d043a043e043d04340430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Эконда",
+        "name_en": "Ekonda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.918129,
+          64.116427
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/nidym_krasn._kr./",
+        "locality": "Нидым",
+        "location_id": "loc_043d04380434044b043c",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Нидым",
+        "name_en": "Nidym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.795647,
+          64.208826
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tutonchany_krasn._kr./",
+        "locality": "Тутончаны",
+        "location_id": "loc_044204430442043e043d04470430043d044b",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Тутончаны",
+        "name_en": "Tutonchany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95493,
+          63.589153
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kislokan_krasn._kr./",
+        "locality": "Кислокан",
+        "location_id": "loc_043a04380441043b043e043a0430043d",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Кислокан",
+        "name_en": "Kislokan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.38333,
+          61.67778
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Reference locality coordinates (not a phytonym attestation). Coordinate source: https://allardais.github.io/validwd/okato/04250.html",
+        "locality": "Байкит",
+        "location_id": "loc_043104300439043a04380442",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Байкит",
+        "name_en": "Baykit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.287866,
+          60.346038
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vanavara_krasn._kr./",
+        "locality": "Ванавара",
+        "location_id": "loc_04320430043d04300432043004400430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Ванавара",
+        "name_en": "Vanavara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.408628,
+          62.557924
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/surinda_krasn._kr./",
+        "locality": "Суринда",
+        "location_id": "loc_0441044304400438043d04340430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Суринда",
+        "name_en": "Surinda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.656965,
+          61.989996
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/poligus/",
+        "locality": "Полигус",
+        "location_id": "loc_043f043e043b0438043304430441",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Полигус",
+        "name_en": "Poligus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.80114,
+          61.739918
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/strelka_chunya_krasn._kr./",
+        "locality": "Стрелка-Чуня",
+        "location_id": "loc_0441044204400435043b043a0430002d04470443043d044f",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Стрелка-Чуня",
+        "name_en": "Strelka-Chunya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.836,
+          56.2186
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Reference locality coordinates (not a phytonym attestation). Coordinate source: https://ru.db-city.com/Россия--Саха--Нерюнгринский-район--Иенгра",
+        "locality": "Иенгра",
+        "location_id": "loc_04380435043d043304400430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Иенгра",
+        "name_en": "Iengra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.799389,
+          59.054683
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tyanya_sakha_r./",
+        "locality": "Тяня",
+        "location_id": "loc_0442044f043d044f",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Тяня",
+        "name_en": "Tyanya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59166,
+          56.56097
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ust-nyukja/",
+        "locality": "Усть-Нюкжа",
+        "location_id": "loc_044304410442044c002d043d044e043a04360430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Усть-Нюкжа",
+        "name_en": "Ust-Nyukzha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.165236,
+          55.312485
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ust-urkima/",
+        "locality": "Усть-Уркима",
+        "location_id": "loc_044304410442044c002d04430440043a0438043c0430",
+        "language_ids": [
+          "evenki"
+        ],
+        "name_ru": "Усть-Уркима",
+        "name_en": "Ust-Urkima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.54405,
+          60.41553
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "",
+        "visibility": "public",
+        "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+        "locality": "Усть-Мая",
+        "location_id": "loc_044304410442044c002d043c0430044f",
+        "language_ids": [
+          "evenki",
+          "sakha"
+        ],
+        "name_ru": "Усть-Мая",
+        "name_en": "Ust-Maya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.54194,
+          70.97639
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://regionum.ru/krasnoyarskiy-kray/taymyrskiy-dolgano-nenetskiy-rayon/volochanka/",
+        "locality": "Волочанка",
+        "location_id": "loc_0432043e043b043e04470430043d043a0430",
+        "language_ids": [
+          "dolgan",
+          "nganasan"
+        ],
+        "name_ru": "Волочанка",
+        "name_en": "Volochanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.82316,
+          71.11474
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://mapcarta.com/N1249500714/Map",
+        "locality": "Усть-Авам",
+        "location_id": "loc_044304410442044c002d043004320430043c",
+        "language_ids": [
+          "dolgan",
+          "nganasan"
+        ],
+        "name_ru": "Усть-Авам",
+        "name_en": "Ust-Avam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.98582,
+          68.2203
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://www.plantarium.ru/page/landscapes/point/12292.html",
+        "locality": "Хантайское Озеро",
+        "location_id": "loc_04450430043d0442043004390441043a043e04350020043e043704350440043e",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Хантайское Озеро",
+        "name_en": "Khantayskoe Ozero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.27566,
+          68.68413
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://www.komandirovka.ru/cities/potapovocko/",
+        "locality": "Потапово",
+        "location_id": "loc_043f043e04420430043f043e0432043e",
+        "language_ids": [
+          "dolgan",
+          "enets"
+        ],
+        "name_ru": "Потапово",
+        "name_en": "Potapovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.175072,
+          69.406067
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://rosecomonitoring.ru/voda/krasnoyarsk/taymyrsky-dolgano-nenetsky/dudinka/",
+        "locality": "Дудинка",
+        "location_id": "loc_0434044304340438043d043a0430",
+        "language_ids": [
+          "dolgan",
+          "nganasan",
+          "enets"
+        ],
+        "name_ru": "Дудинка",
+        "name_en": "Dudinka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4833297,
+          71.9804472
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://rgex.ru/rasstoyanie/krasnoyarskiy-kray/n/taymyrskiy-dolgano-neneckiy/hatanga/",
+        "locality": "Хатанга",
+        "location_id": "loc_0445043004420430043d04330430",
+        "language_ids": [
+          "dolgan",
+          "nganasan"
+        ],
+        "name_ru": "Хатанга",
+        "name_en": "Khatanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.119533,
+          71.913487
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Кресты",
+        "location_id": "loc_043a0440043504410442044b",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Кресты",
+        "name_en": "Kresty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.231308,
+          71.750019
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Новая",
+        "location_id": "loc_043d043e04320430044f",
+        "language_ids": [
+          "dolgan",
+          "nganasan"
+        ],
+        "name_ru": "Новая",
+        "name_en": "Novaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.648085,
+          71.564661
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Хета",
+        "location_id": "loc_0445043504420430",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Хета",
+        "name_en": "Kheta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.379121,
+          71.275243
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Катырык",
+        "location_id": "loc_043a04300442044b0440044b043a",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Катырык",
+        "name_en": "Katyryk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.789951,
+          72.837097
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Новорыбная",
+        "location_id": "loc_043d043e0432043e0440044b0431043d0430044f",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Новорыбная",
+        "name_en": "Novorybnaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.205349,
+          73.261307
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Сындасско",
+        "location_id": "loc_0441044b043d0434043004410441043a043e",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Сындасско",
+        "name_en": "Syndassko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.828041,
+          72.56153
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Попигай",
+        "location_id": "loc_043f043e043f0438043304300439",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Попигай",
+        "name_en": "Popigay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.868131,
+          72.171839
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "Таймырский Долгано-Ненецкий район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
+        "locality": "Жданиха",
+        "location_id": "loc_043604340430043d043804450430",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Жданиха",
+        "name_en": "Zhdanikha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.09199,
+          71.96347
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Республика Саха (Якутия)",
+        "district": "Анабарский улус",
+        "location_type": "settlement",
+        "coordinate_precision": "",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Coordinate reference: https://latlong.info/russia/sakha-republic",
+        "locality": "Саскылах",
+        "location_id": "loc_044104300441043a044b043b04300445",
+        "language_ids": [
+          "dolgan",
+          "sakha"
+        ],
+        "name_ru": "Саскылах",
+        "name_en": "Saskylakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.232,
+          72.8119
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Республика Саха (Якутия)",
+        "district": "Анабарский улус",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://ru.db-city.com/Россия--Саха--Анабарский-улус--Юрюнг-Хая",
+        "locality": "Юрюнг-Хая",
+        "location_id": "loc_044e0440044e043d0433002d04450430044f",
+        "language_ids": [
+          "dolgan"
+        ],
+        "name_ru": "Юрюнг-Хая",
+        "name_en": "Yuryung-Khaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.817611,
+          66.160079
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/uelen/",
+        "locality": "Уэлен",
+        "location_id": "loc_0443044d043b0435043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Уэлен",
+        "name_en": "Uelen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.70396,
+          65.50331
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lorinolvu/",
+        "locality": "Лорино",
+        "location_id": "loc_043b043e04400438043d043e",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Лорино",
+        "name_en": "Lorino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.012918,
+          65.584787
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lavrentiya/",
+        "locality": "Лаврентия",
+        "location_id": "loc_043b0430043204400435043d04420438044f",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Лаврентия",
+        "name_en": "Lavrentiya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.964293,
+          67.037129
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/neshkan/",
+        "locality": "Нешкан",
+        "location_id": "loc_043d04350448043a0430043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Нешкан",
+        "name_en": "Neshkan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.279103,
+          66.296914
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/inchoun/",
+        "locality": "Инчоун",
+        "location_id": "loc_0438043d0447043e0443043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Инчоун",
+        "name_en": "Inchoun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.865069,
+          66.953588
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enurmino/",
+        "locality": "Энурмино",
+        "location_id": "loc_044d043d04430440043c0438043d043e",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Энурмино",
+        "name_en": "Enurmino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.879519,
+          67.044523
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/amguema/",
+        "locality": "Амгуэма",
+        "location_id": "loc_0430043c04330443044d043c0430",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Амгуэма",
+        "name_en": "Amguema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -178.84582,
+          65.9022
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/konergino/",
+        "locality": "Конергино",
+        "location_id": "loc_043a043e043d0435044004330438043d043e",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Конергино",
+        "name_en": "Konergino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.48292,
+          68.917
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ryirkaypiy/",
+        "locality": "Рыркайпий",
+        "location_id": "loc_0440044b0440043a04300439043f04380439",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Рыркайпий",
+        "name_en": "Ryrkaypiy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.838821,
+          67.840855
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vankarem/",
+        "locality": "Ванкарем",
+        "location_id": "loc_04320430043d043a043004400435043c",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Ванкарем",
+        "name_en": "Vankarem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.84352,
+          65.01243
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enmelen/",
+        "locality": "Энмелен",
+        "location_id": "loc_044d043d043c0435043b0435043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Энмелен",
+        "name_en": "Enmelen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.3843,
+          64.794696
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/nunligran/",
+        "locality": "Нунлигран",
+        "location_id": "loc_043d0443043d043b0438043304400430043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Нунлигран",
+        "name_en": "Nunligran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.288773,
+          62.061584
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hatyirka/",
+        "locality": "Хатырка",
+        "location_id": "loc_044504300442044b0440043a0430",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Хатырка",
+        "name_en": "Khatyrka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.030556,
+          63.128889
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://ru.wikipedia.org/wiki/Алькатваам_(село)",
+        "locality": "Алькатваам",
+        "location_id": "loc_0430043b044c043a04300442043204300430043c",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Алькатваам",
+        "name_en": "Alkatvaam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.994,
+          69.9367
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Чукотский автономный округ",
+        "district": "Чаунский район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Современное село на острове Айон. Источник координат: https://ru.db-city.com/Россия--Чукотский--Чаунский-район--Айон",
+        "locality": "Айон",
+        "location_id": "loc_04300439043e043d",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Айон",
+        "name_en": "Ayon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.7159,
+          68.89665
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ryitkuchi/",
+        "locality": "Рыткучи",
+        "location_id": "loc_0440044b0442043a044304470438",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Рыткучи",
+        "name_en": "Rytkuchi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.747049,
+          69.87664
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/billingsjbv/",
+        "locality": "Биллингс",
+        "location_id": "loc_04310438043b043b0438043d04330441",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Биллингс",
+        "name_en": "Billings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.958018,
+          67.256134
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ilirney/",
+        "locality": "Илирней",
+        "location_id": "loc_0438043b04380440043d04350439",
+        "language_ids": [
+          "chukchi"
+        ],
+        "name_ru": "Илирней",
+        "name_en": "Ilirney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.507868,
+          61.007986
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/achay-vayam/",
+        "locality": "Ачайваям",
+        "location_id": "loc_043004470430043904320430044f043c",
+        "language_ids": [
+          "chukchi",
+          "koryak"
+        ],
+        "name_ru": "Ачайваям",
+        "name_en": "Achayvayam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.556729,
+          71.697559
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/voroncovo_krasn._kr./",
+        "locality": "Воронцово",
+        "location_id": "loc_0432043e0440043e043d0446043e0432043e",
+        "language_ids": [
+          "enets"
+        ],
+        "name_ru": "Воронцово",
+        "name_en": "Vorontsovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.511058,
+          70.167798
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/seyaha/",
+        "locality": "Сеяха",
+        "location_id": "loc_04410435044f04450430",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Сеяха",
+        "name_en": "Seyakha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.839311,
+          66.861201
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/yarsale/",
+        "locality": "Яр-Сале",
+        "location_id": "loc_044f0440002d04410430043b0435",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Яр-Сале",
+        "name_en": "Yar-Sale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.086756,
+          66.744137
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/panaevsk/",
+        "locality": "Панаевск",
+        "location_id": "loc_043f0430043d0430043504320441043a",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Панаевск",
+        "name_en": "Panaevsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.896389,
+          67.691944
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/novyport/",
+        "locality": "Новый Порт",
+        "location_id": "loc_043d043e0432044b04390020043f043e04400442",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Новый Порт",
+        "name_en": "Novyy Port"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.485034,
+          70.893391
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gyda/",
+        "locality": "Гыда",
+        "location_id": "loc_0433044b04340430",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Гыда",
+        "name_en": "Gyda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.86464,
+          69.1011
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/antipayuta/",
+        "locality": "Антипаюта",
+        "location_id": "loc_0430043d04420438043f0430044e04420430",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Антипаюта",
+        "name_en": "Antipayuta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.714401,
+          67.4742
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tazovsky/",
+        "locality": "Тазовский",
+        "location_id": "loc_044204300437043e04320441043a04380439",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Тазовский",
+        "name_en": "Tazovskiy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.80349,
+          66.561868
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/aksarka/",
+        "locality": "Аксарка",
+        "location_id": "loc_0430043a044104300440043a0430",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Аксарка",
+        "name_en": "Aksarka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.956575,
+          67.981313
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/nelmin-nos/",
+        "locality": "Нельмин Нос",
+        "location_id": "loc_043d0435043b044c043c0438043d0020043d043e0441",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Нельмин Нос",
+        "name_en": "Nelmin Nos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.277965,
+          68.778059
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/bugrinoroc/",
+        "locality": "Бугрино",
+        "location_id": "loc_04310443043304400438043d043e",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Бугрино",
+        "name_en": "Bugrino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.68094,
+          66.6004
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/neskzx/",
+        "locality": "Несь",
+        "location_id": "loc_043d04350441044c",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Несь",
+        "name_en": "Nes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0071,
+          67.638
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/fr/Narian-Mar",
+        "locality": "Нарьян-Мар",
+        "location_id": "loc_043d04300440044c044f043d002d043c04300440",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Нарьян-Мар",
+        "name_en": "Naryan-Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.107885,
+          64.28306
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Ямало-Ненецкий автономный округ",
+        "district": "Пуровский район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Деревня; ориентировочный центр населённого пункта. Источник координат: https://www.kartatut.ru/карта_сельского_поселения_деревня_харампур.html",
+        "locality": "Харампур",
+        "location_id": "loc_0445043004400430043c043f04430440",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Харампур",
+        "name_en": "Kharampur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.325511,
+          63.382486
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/halyasavey/",
+        "locality": "Халясавэй",
+        "location_id": "loc_04450430043b044f044104300432044d0439",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Халясавэй",
+        "name_en": "Khalyasavey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.761055,
+          64.911819
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/tarko-sale/",
+        "locality": "Тарко-Сале",
+        "location_id": "loc_044204300440043a043e002d04410430043b0435",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Тарко-Сале",
+        "name_en": "Tarko-Sale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.74513,
+          62.00209
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N600516713",
+        "locality": "Варьёган",
+        "location_id": "loc_043204300440044c045104330430043d",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Варьёган",
+        "name_en": "Varyogan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.08556,
+          61.63889
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Ханты-Мансийский автономный округ — Югра",
+        "district": "Нижневартовский район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Посёлок Аган, не река Аган. Источник координат: https://moy-region.ru/loc/agan",
+        "locality": "Аган",
+        "location_id": "loc_043004330430043d",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Аган",
+        "name_en": "Agan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3578,
+          63.513352
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/numto/",
+        "locality": "Нумто",
+        "location_id": "loc_043d0443043c0442043e",
+        "language_ids": [
+          "nenets"
+        ],
+        "name_ru": "Нумто",
+        "name_en": "Numto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.238782,
+          63.705486
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kazym_khmao/",
+        "locality": "Казым",
+        "location_id": "loc_043a04300437044b043c",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Казым",
+        "name_en": "Kazym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.645836,
+          63.677671
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/yuilsk_khmao/",
+        "locality": "Юильск",
+        "location_id": "loc_044e0438043b044c0441043a",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Юильск",
+        "name_en": "Yuilsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.904946,
+          63.786449
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/polnovat/",
+        "locality": "Полноват",
+        "location_id": "loc_043f043e043b043d043e043204300442",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Полноват",
+        "name_en": "Polnovat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.035388,
+          64.23369
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vanzevat/",
+        "locality": "Ванзеват",
+        "location_id": "loc_04320430043d04370435043204300442",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Ванзеват",
+        "name_en": "Vanzevat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.698611,
+          65.398056
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/muzhy/",
+        "locality": "Мужи",
+        "location_id": "loc_043c044304360438",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Мужи",
+        "name_en": "Muzhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.970271,
+          64.828465
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ovgort/",
+        "locality": "Овгорт",
+        "location_id": "loc_043e04320433043e04400442",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Овгорт",
+        "name_en": "Ovgort"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.911144,
+          65.839271
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/pitlyar/",
+        "locality": "Питляр",
+        "location_id": "loc_043f04380442043b044f0440",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Питляр",
+        "name_en": "Pitlyar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.27577,
+          65.05346
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gorkipeu/",
+        "locality": "Горки",
+        "location_id": "loc_0433043e0440043a0438",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Горки",
+        "name_en": "Gorki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.8,
+          65.0
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lophari/",
+        "locality": "Лопхари",
+        "location_id": "loc_043b043e043f0445043004400438",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Лопхари",
+        "name_en": "Lopkhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.350524,
+          65.902446
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/shuryishkaryi/",
+        "locality": "Шурышкары",
+        "location_id": "loc_044804430440044b0448043a04300440044b",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Шурышкары",
+        "name_en": "Shuryshkary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6146,
+          66.5299
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/Salekhard",
+        "locality": "Салехард",
+        "location_id": "loc_04410430043b04350445043004400434",
+        "language_ids": [
+          "khanty"
+        ],
+        "name_ru": "Салехард",
+        "name_en": "Salekhard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.704472,
+          68.727784
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kolymskoe_sakha_r./",
+        "locality": "Колымское",
+        "location_id": "loc_043a043e043b044b043c0441043a043e0435",
+        "language_ids": [
+          "yukaghir"
+        ],
+        "name_ru": "Колымское",
+        "name_en": "Kolymskoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.96297,
+          69.07988
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16589628",
+        "locality": "Походск",
+        "location_id": "loc_043f043e0445043e04340441043a",
+        "language_ids": [
+          "yukaghir"
+        ],
+        "name_ru": "Походск",
+        "name_en": "Pokhodsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.33197,
+          68.75325
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "",
+        "visibility": "public",
+        "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+        "locality": "Черский",
+        "location_id": "loc_0447043504400441043a04380439",
+        "language_ids": [
+          "yukaghir",
+          "sakha"
+        ],
+        "name_ru": "Черский",
+        "name_en": "Chersky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0986,
+          65.4983
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "Верхнеколымский улус / Verkhnekolymsky District",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Ориентир языкового сообщества; не установленное место фиксации конкретного фитонима. Координаты приблизительно соответствуют центру населённого пункта. / Language-community reference point, not a verified attestation site; coordinates are approximate settlement-center locations.",
+        "locality": "Нелемное",
+        "location_id": "loc_043d0435043b0435043c043d043e0435",
+        "language_ids": [
+          "yukaghir"
+        ],
+        "name_ru": "Нелемное",
+        "name_en": "Nelemnoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.89429,
+          65.73489
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "",
+        "visibility": "public",
+        "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+        "locality": "Зырянка",
+        "location_id": "loc_0437044b0440044f043d043a0430",
+        "language_ids": [
+          "yukaghir",
+          "sakha"
+        ],
+        "name_ru": "Зырянка",
+        "name_en": "Zyryanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.833721,
+          65.717653
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/verhnekolyimsk/",
+        "locality": "Верхнеколымск",
+        "location_id": "loc_0432043504400445043d0435043a043e043b044b043c0441043a",
+        "language_ids": [
+          "yukaghir"
+        ],
+        "name_ru": "Верхнеколымск",
+        "name_en": "Verkhnekolymsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.84686,
+          60.95795
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hailino/",
+        "locality": "Хаилино",
+        "location_id": "loc_044504300438043b0438043d043e",
+        "language_ids": [
+          "koryak",
+          "alyutor"
+        ],
+        "name_ru": "Хаилино",
+        "name_en": "Khailino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.065703,
+          60.828774
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/srednyaya-pahacha/",
+        "locality": "Средние Пахачи",
+        "location_id": "loc_0441044004350434043d043804350020043f04300445043004470438",
+        "language_ids": [
+          "koryak"
+        ],
+        "name_ru": "Средние Пахачи",
+        "name_en": "Srednie Pakhachi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.143327,
+          60.555326
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/pakhachi_kamch._kr./",
+        "locality": "Пахачи",
+        "location_id": "loc_043f04300445043004470438",
+        "language_ids": [
+          "koryak"
+        ],
+        "name_ru": "Пахачи",
+        "name_en": "Pakhachi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.055628,
+          60.428322
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tilichiki_kamch._kr./",
+        "locality": "Тиличики",
+        "location_id": "loc_04420438043b043804470438043a0438",
+        "language_ids": [
+          "koryak",
+          "alyutor"
+        ],
+        "name_ru": "Тиличики",
+        "name_en": "Tilichiki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.605636,
+          60.442644
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/apuka/",
+        "locality": "Апука",
+        "location_id": "loc_0430043f0443043a0430",
+        "language_ids": [
+          "koryak",
+          "alyutor"
+        ],
+        "name_ru": "Апука",
+        "name_en": "Apuka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.392905,
+          58.306367
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/voyampolkayjc/",
+        "locality": "Воямполка",
+        "location_id": "loc_0432043e044f043c043f043e043b043a0430",
+        "language_ids": [
+          "koryak"
+        ],
+        "name_ru": "Воямполка",
+        "name_en": "Voyampolka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.28719,
+          57.72589
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sedanka/",
+        "locality": "Седанка",
+        "location_id": "loc_0441043504340430043d043a0430",
+        "language_ids": [
+          "koryak"
+        ],
+        "name_ru": "Седанка",
+        "name_en": "Sedanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.091332,
+          62.416746
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/paren_kamch._kr./",
+        "locality": "Парень",
+        "location_id": "loc_043f043004400435043d044c",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Парень",
+        "name_en": "Paren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.461474,
+          60.185777
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vyivenka/",
+        "locality": "Вывенка",
+        "location_id": "loc_0432044b04320435043d043a0430",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Вывенка",
+        "name_en": "Vyvenka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.55666,
+          59.46663
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lesnayarzw/",
+        "locality": "Лесная",
+        "location_id": "loc_043b04350441043d0430044f",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Лесная",
+        "name_en": "Lesnaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.953705,
+          59.084319
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/palana_kamch._kr./",
+        "locality": "Палана",
+        "location_id": "loc_043f0430043b0430043d0430",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Палана",
+        "name_en": "Palana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.122072,
+          59.108653
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/karaga/",
+        "locality": "Карага",
+        "location_id": "loc_043a04300440043004330430",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Карага",
+        "name_en": "Karaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.18833,
+          59.49054
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tyimlat/",
+        "locality": "Тымлат",
+        "location_id": "loc_0442044b043c043b04300442",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Тымлат",
+        "name_en": "Tymlat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          163.07,
+          59.246667
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://routez.ru/ossora/",
+        "locality": "Оссора",
+        "location_id": "loc_043e04410441043e04400430",
+        "language_ids": [
+          "alyutor"
+        ],
+        "name_ru": "Оссора",
+        "name_en": "Ossora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.911739,
+          65.009279
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/izhma_komi._r./",
+        "locality": "Ижма",
+        "location_id": "loc_04380436043c0430",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Ижма",
+        "name_en": "Izhma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.830945,
+          65.006147
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/mokhcha_komi._r./",
+        "locality": "Мохча",
+        "location_id": "loc_043c043e044504470430",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Мохча",
+        "name_en": "Mokhcha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.85759,
+          65.06529
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607093790",
+        "locality": "Сизябск",
+        "location_id": "loc_044104380437044f04310441043a",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Сизябск",
+        "name_en": "Sizyabsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.2855,
+          65.29466
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607036315",
+        "locality": "Краснобор",
+        "location_id": "loc_043a044004300441043d043e0431043e0440",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Краснобор",
+        "name_en": "Krasnobor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.434913,
+          65.325744
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/shhelyayur_komi._r./",
+        "locality": "Щельяюр",
+        "location_id": "loc_04490435043b044c044f044e0440",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Щельяюр",
+        "name_en": "Shchelyayur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.51689,
+          65.66192
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/13442792",
+        "locality": "Кипиево",
+        "location_id": "loc_043a0438043f043804350432043e",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Кипиево",
+        "name_en": "Kipievo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.36483,
+          65.27655
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607036316",
+        "locality": "Диюр",
+        "location_id": "loc_04340438044e0440",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Диюр",
+        "name_en": "Diyur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.91768,
+          65.29919
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/13301840",
+        "locality": "Усть-Ижма",
+        "location_id": "loc_044304410442044c002d04380436043c0430",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Усть-Ижма",
+        "name_en": "Ust-Izhma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8405535,
+          65.465875
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Республика Коми",
+        "district": "Ижемский район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Село Няшабож, не центр сельского поселения. Источник координат: https://ko.2rus.org/nyashabozh/karta/sat/",
+        "locality": "Няшабож",
+        "location_id": "loc_043d044f044804300431043e0436",
+        "language_ids": [
+          "komi"
+        ],
+        "name_ru": "Няшабож",
+        "name_en": "Nyashabozh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.014515,
+          68.007118
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/hotels/lovozero_mur._obl./koavas-hotel/",
+        "locality": "Ловозеро",
+        "location_id": "loc_043b043e0432043e043704350440043e",
+        "language_ids": [
+          "sami"
+        ],
+        "name_ru": "Ловозеро",
+        "name_en": "Lovozero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.053427,
+          67.35024
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/krasnoshhele_mur._obl./",
+        "locality": "Краснощелье",
+        "location_id": "loc_043a044004300441043d043e04490435043b044c0435",
+        "language_ids": [
+          "sami"
+        ],
+        "name_ru": "Краснощелье",
+        "name_en": "Krasnoshchele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16102,
+          67.604
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enawmr/",
+        "locality": "Ёна",
+        "location_id": "loc_0451043d0430",
+        "language_ids": [
+          "sami"
+        ],
+        "name_ru": "Ёна",
+        "name_en": "Yona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.140556,
+          69.164167
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/teriberka/",
+        "locality": "Териберка",
+        "location_id": "loc_0442043504400438043104350440043a0430",
+        "language_ids": [
+          "sami"
+        ],
+        "name_ru": "Териберка",
+        "name_en": "Teriberka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55,
+          67.25
+        ]
+      },
+      "properties": {
+        "country": "Россия",
+        "region": "Мурманская область",
+        "district": "Ловозерский район",
+        "location_type": "historical_settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Историческое упразднённое поселение; координаты исторического географического справочника грубой точности. Источник координат: https://geographic.org/geographic_names/name.php?c=russia&fid=5544&uni=-4054076",
+        "locality": "Чальмны-Варрэ",
+        "location_id": "loc_04470430043b044c043c043d044b002d0432043004400440044d",
+        "language_ids": [
+          "sami"
+        ],
+        "name_ru": "Чальмны-Варрэ",
+        "name_en": "Chalmny-Varre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39613,
+          58.61021
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_aldan",
+        "locality": "Алдан / Aldan",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Алдан",
+        "name_en": "Aldan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.97882,
+          60.90009
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_amga",
+        "locality": "Амга / Amga",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Амга",
+        "name_en": "Amga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.4834,
+          65.93381
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_aykhal",
+        "locality": "Айхал / Aykhal",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Айхал",
+        "name_en": "Aykhal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.63962,
+          67.65653
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_batagay",
+        "locality": "Батагай / Batagay",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Батагай",
+        "name_en": "Batagay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18583,
+          68.53805
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_belaya_gora",
+        "locality": "Белая Гора / Belaya Gora",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Белая Гора",
+        "name_en": "Belaya Gora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.69573,
+          62.09842
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_berdigestyakh",
+        "locality": "Бердигестях / Berdigestyakh",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Бердигестях",
+        "name_en": "Berdigestyakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.77635,
+          56.57456
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_berkakit",
+        "locality": "Беркакит / Berkakit",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Беркакит",
+        "name_en": "Berkakit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.16344,
+          62.6706
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_borogontsy",
+        "locality": "Борогонцы / Borogontsy",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Борогонцы",
+        "name_en": "Borogontsy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.46901,
+          63.01601
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_chernyshevskiy",
+        "locality": "Чернышевский / Chernyshevskiy",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Чернышевский",
+        "name_en": "Chernyshevskiy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8973,
+          70.61897
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_chokurdakh",
+        "locality": "Чокурдах / Chokurdakh",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha",
+          "even"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Чокурдах",
+        "name_en": "Chokurdakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.90812,
+          56.84735
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_chulman",
+        "locality": "Чульман / Chulman",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha",
+          "evenki"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Чульман",
+        "name_en": "Chulman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.43341,
+          61.99858
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_churapcha",
+        "locality": "Чурапча / Churapcha",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Чурапча",
+        "name_en": "Churapcha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.97571,
+          69.30958
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_deputatsky",
+        "locality": "Депутатский / Deputatsky",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Депутатский",
+        "name_en": "Deputatsky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.84876,
+          62.21084
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_dzhebariki_khaya",
+        "locality": "Джебарики-Хая / Dzhebariki-Khaya",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Джебарики-Хая",
+        "name_en": "Dzhebariki-Khaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.96471,
+          62.34824
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_kangalassy",
+        "locality": "Кангалассы / Kangalassy",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Кангалассы",
+        "name_en": "Kangalassy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5667,
+          62.65333
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_khandyga",
+        "locality": "Хандыга / Khandyga",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha",
+          "even"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Хандыга",
+        "name_en": "Khandyga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.63302,
+          61.90638
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_khatassy",
+        "locality": "Хатассы / Khatassy",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Хатассы",
+        "name_en": "Khatassy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7654,
+          63.89482
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_kysyl_syr",
+        "locality": "Кысыл-Сыр / Kysyl-Syr",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Кысыл-Сыр",
+        "name_en": "Kysyl-Syr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92778,
+          60.72528
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_lensk",
+        "locality": "Ленск / Lensk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Ленск",
+        "name_en": "Lensk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.53184,
+          62.10746
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_magan",
+        "locality": "Маган / Magan",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Маган",
+        "name_en": "Magan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.74403,
+          62.11454
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_markha",
+        "locality": "Марха / Markha",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Марха",
+        "name_en": "Markha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.28161,
+          61.73824
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_mayya",
+        "locality": "Майя / Mayya",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Майя",
+        "name_en": "Mayya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.96111,
+          62.53528
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_mirny",
+        "locality": "Мирный / Mirny",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Мирный",
+        "name_en": "Mirny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.9381,
+          61.39619
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_mokhsogollokh",
+        "locality": "Мохсоголлох / Mokhsogollokh",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Мохсоголлох",
+        "name_en": "Mokhsogollokh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.66722,
+          62.71959
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_namtsy",
+        "locality": "Намцы / Namtsy",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Намцы",
+        "name_en": "Namtsy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.63825,
+          56.66637
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_neryungri",
+        "locality": "Нерюнгри / Neryungri",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Нерюнгри",
+        "name_en": "Neryungri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.91245,
+          61.96202
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_nizhniy_bestyakh",
+        "locality": "Нижний Бестях / Nizhniy Bestyakh",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Нижний Бестях",
+        "name_en": "Nizhniy Bestyakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.33194,
+          63.28417
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_nyurba",
+        "locality": "Нюрба / Nyurba",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Нюрба",
+        "name_en": "Nyurba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4485,
+          68.50472
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_olenyok",
+        "locality": "Оленёк / Olenyok",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Оленёк",
+        "name_en": "Olenyok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4203,
+          60.3743
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_olyokminsk",
+        "locality": "Олёкминск / Olyokminsk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha",
+          "evenki"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Олёкминск",
+        "name_en": "Olyokminsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.13699,
+          61.47768
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_pokrovsk",
+        "locality": "Покровск / Pokrovsk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Покровск",
+        "name_en": "Pokrovsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.47135,
+          63.92301
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_sangar",
+        "locality": "Сангар / Sangar",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Сангар",
+        "name_en": "Sangar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.70246,
+          67.45659
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_srednekolymsk",
+        "locality": "Среднеколымск / Srednekolymsk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Среднеколымск",
+        "name_en": "Srednekolymsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.63194,
+          62.14444
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_suntar",
+        "locality": "Сунтар / Suntar",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Сунтар",
+        "name_en": "Suntar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.60022,
+          61.85502
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_tabaga",
+        "locality": "Табага / Tabaga",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Табага",
+        "name_en": "Tabaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.86467,
+          71.69002
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_tiksi",
+        "locality": "Тикси / Tiksi",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Тикси",
+        "name_en": "Tiksi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.29158,
+          58.95717
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_tommot",
+        "locality": "Томмот / Tommot",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha",
+          "evenki"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Томмот",
+        "name_en": "Tommot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4021,
+          66.42989
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_udachny",
+        "locality": "Удачный / Udachny",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Удачный",
+        "name_en": "Udachny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.54876,
+          70.00208
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_ust_kuyga",
+        "locality": "Усть-Куйга / Ust-Kuyga",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Усть-Куйга",
+        "name_en": "Ust-Kuyga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.237,
+          64.56968
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_ust_nera",
+        "locality": "Усть-Нера / Ust-Nera",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Усть-Нера",
+        "name_en": "Ust-Nera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30739,
+          63.44578
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_verkhnevilyuysk",
+        "locality": "Верхневилюйск / Verkhnevilyuysk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Верхневилюйск",
+        "name_en": "Verkhnevilyuysk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.38976,
+          67.55387
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_verkhoyansk",
+        "locality": "Верхоянск / Verkhoyansk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Верхоянск",
+        "name_en": "Verkhoyansk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63339,
+          63.74683
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_vilyuysk",
+        "locality": "Вилюйск / Vilyuysk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Вилюйск",
+        "name_en": "Vilyuysk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.56993,
+          59.44326
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_vitim",
+        "locality": "Витим / Vitim",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Витим",
+        "name_en": "Vitim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.75403,
+          61.97382
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_yakutsk",
+        "locality": "Якутск / Yakutsk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Якутск",
+        "name_en": "Yakutsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.56044,
+          62.36119
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_ytyk_kyuyol",
+        "locality": "Ытык-Кюёль / Ytyk-Kyuyol",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Ытык-Кюёль",
+        "name_en": "Ytyk-Kyuyol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.82843,
+          62.15975
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_zhatay",
+        "locality": "Жатай / Zhatay",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Жатай",
+        "name_en": "Zhatay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.37418,
+          66.76601
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_zhigansk",
+        "locality": "Жиганск / Zhigansk",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Жиганск",
+        "name_en": "Zhigansk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.52278,
+          58.8238
+        ]
+      },
+      "properties": {
+        "location_id": "loc_sakha_nizhniy_kuranakh",
+        "locality": "Нижний Куранах / Nizhniy Kuranakh",
+        "country": "Россия / Russia",
+        "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate_settlement_centre",
+        "language_ids": [
+          "sakha"
+        ],
+        "visibility": "public",
+        "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
+        "name_ru": "Нижний Куранах",
+        "name_en": "Nizhniy Kuranakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1763,
+          56.4605
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_01",
+        "locality": "Аян",
+        "name_ru": "Аян",
+        "name_en": "Ayan",
+        "country": "Россия",
+        "region": "Хабаровский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Ayan settlement. Source: https://awdb.ru/rasstoyanie/habarovskiy-kr/n/ayano-mayskiy/ayan/",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.58722,
+          54.44444
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_03",
+        "locality": "Багдарин",
+        "name_ru": "Багдарин",
+        "name_en": "Bagdarin",
+        "country": "Россия",
+        "region": "Республика Бурятия",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre: Bauntovsky Evenki District. Source: https://www.komandirovka.ru/cities/bagdarin/",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6347,
+          53.6172
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_04",
+        "locality": "Баргузин",
+        "name_ru": "Баргузин",
+        "name_en": "Barguzin",
+        "country": "Россия",
+        "region": "Республика Бурятия",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Barguzin settlement. Source: https://ru.wikipedia.org/wiki/Баргузин_(село)",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0108,
+          61.2767
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_09",
+        "locality": "Ербогачён",
+        "name_ru": "Ербогачён",
+        "name_en": "Yerbogachyon",
+        "country": "Россия",
+        "region": "Иркутская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Yerbogachen settlement. Source: https://www.komandirovka.ru/cities/erbogachen_irk._obl./",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2566,
+          53.7372
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_10",
+        "locality": "Зея",
+        "name_ru": "Зея",
+        "name_en": "Zeya",
+        "country": "Россия",
+        "region": "Амурская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Representative toponym Zeya; wider Zeya catchment not represented by a single village. Source: https://na-meste.ru/amurskaya-oblast/zeya.php",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1714,
+          57.6542
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_13",
+        "locality": "Нелькан",
+        "name_ru": "Нелькан",
+        "name_en": "Nelkan",
+        "country": "Россия",
+        "region": "Хабаровский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Maya variety of Ayano-Maysky district; indicative locality, not unique distribution. Source: https://socio-siberian-lang.iling-ran.ru/event/ekspediciya-k-evenkam-ayano-mayskogo-rayona-khabarovskogo-kraya",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2325,
+          59.2447
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_15",
+        "locality": "Непа",
+        "name_ru": "Непа",
+        "name_en": "Nepa",
+        "country": "Россия",
+        "region": "Иркутская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Nepa settlement. Source: https://regionum.ru/irkutskaya-oblast/katangskiy-rayon/nepa/",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.58569,
+          51.97706
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_16",
+        "locality": "Нерчинск",
+        "name_ru": "Нерчинск",
+        "name_en": "Nerchinsk",
+        "country": "Россия",
+        "region": "Забайкальский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Nerchinsk. Source: https://herbariumle.ru/?id=1918&t=toponyms",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3639,
+          60.3472
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_20",
+        "locality": "Сым",
+        "name_ru": "Сым",
+        "name_en": "Sym",
+        "country": "Россия",
+        "region": "Красноярский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Sym settlement. Source: https://pogodaiklimat.ru/station/23975.htm",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.323,
+          55.637
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_21",
+        "locality": "Северобайкальск",
+        "name_ru": "Северобайкальск",
+        "name_en": "Severobaykalsk",
+        "country": "Россия",
+        "region": "Республика Бурятия",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Northern Baikal geographic reference, indicative location. Source: https://geo.satmaps.info/name/Северобайкальск/254598/",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.944,
+          53.069
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_22",
+        "locality": "Экимчан",
+        "name_ru": "Экимчан",
+        "name_en": "Ekimchan",
+        "country": "Россия",
+        "region": "Амурская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre of Selemdzhinsky District. Source: https://moy-region.ru/loc/ekimchan",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.83474,
+          59.98051
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_24",
+        "locality": "Токко",
+        "name_ru": "Токко",
+        "name_en": "Tokko",
+        "country": "Россия",
+        "region": "Республика Саха (Якутия)",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokko settlement. Source: https://www.komandirovka.ru/cities/tokko_sakha_r./",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87333,
+          58.26
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_25",
+        "locality": "Токма",
+        "name_ru": "Токма",
+        "name_en": "Tokma",
+        "country": "Россия",
+        "region": "Иркутская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokma settlement. Source: https://ru.wikipedia.org/wiki/Токма_(село)",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9437,
+          54.4268
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_27",
+        "locality": "Тупик",
+        "name_ru": "Тупик",
+        "name_en": "Tupik",
+        "country": "Россия",
+        "region": "Забайкальский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre of Tungiro-Olyokminsky District; only indicative. Source: https://geotree.ru/oktmo?sort=rank&title=село+Тупик",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.31309,
+          54.71869
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_myreeva_33",
+        "locality": "Чумикан",
+        "name_ru": "Чумикан",
+        "name_en": "Chumikan",
+        "country": "Россия",
+        "region": "Хабаровский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Chumikan settlement. Source: https://www.komandirovka.ru/cities/chumikan_khab._kr./",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5103,
+          64.7342
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_even_myreeva_03",
+        "locality": "Анадырь",
+        "name_ru": "Анадырь",
+        "name_en": "Anadyr",
+        "country": "Россия",
+        "region": "Чукотский автономный округ",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Anadyr; indicative, not individual attestation. Source: https://timehelper.ru/coordinates/anadyr",
+        "language_ids": [
+          "even"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.12698,
+          59.67464
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_even_myreeva_04",
+        "locality": "Армань",
+        "name_ru": "Армань",
+        "name_en": "Arman",
+        "country": "Россия",
+        "region": "Магаданская область",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Arman settlement. Source: https://www.komandirovka.ru/cities/armankur/",
+        "language_ids": [
+          "even"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21222,
+          59.36139
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_even_myreeva_09",
+        "locality": "Охотск",
+        "name_ru": "Охотск",
+        "name_en": "Okhotsk",
+        "country": "Россия",
+        "region": "Хабаровский край",
+        "district": "",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference locality; not a phonetic or phytonym attestation. Representative toponym: Okhotsk. Source: https://moy-region.ru/loc/ohotsk",
+        "language_ids": [
+          "even"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.880251,
+          53.963379
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_kachug",
+        "locality": "Качуг",
+        "name_ru": "Качуг",
+        "name_en": "Kachug",
+        "country": "Россия",
+        "region": "Иркутская область",
+        "district": "Качугский район",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference only. Upper-Lena (Kachug) Evenki group. Linguistic area: https://www.ru.sberopedia.org/wiki/Эвенкийский_язык ; coordinate source: https://moy-region.ru/loc/kachug",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1146,
+          51.8458
+        ]
+      },
+      "properties": {
+        "location_id": "loc_dialect_reference_evenki_nogliki",
+        "locality": "Ноглики",
+        "name_ru": "Ноглики",
+        "name_en": "Nogliki",
+        "country": "Россия",
+        "region": "Сахалинская область",
+        "district": "Ногликский муниципальный округ",
+        "location_type": "settlement",
+        "coordinate_precision": "approximate",
+        "visibility": "public",
+        "notes": "Dialect geographic reference only (Sakhalin), not location of lexical attestation. Sakhalin Evenki residence: https://www.simdp.ru/peoples-of-the-far-north/ ; coordinate source: https://awdb.ru/rasstoyanie/sahalinskaya-obl/n/noglikskiy/nogliki/",
+        "language_ids": [
+          "evenki"
+        ]
+      }
+    }
+  ]
+}

@@ -48,8 +48,14 @@ const locName=id=>{const l=by('locations',id);return l?.['name_'+state.lang]||''
 // Display the expanded dialect name when known; otherwise retain the source abbreviation.
 // The abbreviation remains stored in dialects.json for source fidelity and searching.
 const dialName=id=>{const d=by('dialects',id);return d?.['name_'+state.lang]?.trim()||d?.source_abbreviation?.trim()||''};
-const attDialectLabels=a=>(a?.dialect_ids||[]).map(dialName).filter(Boolean).join(', ');
-const attDialectFull=a=>(a?.dialect_ids||[]).map(dialName).filter(Boolean).join('; ');
+// Suppress umbrella Selkup varieties only when a more specific variety is recorded.
+const normalizedDialectIds=a=>{
+ const ids=[...new Set((a?.dialect_ids||[]).filter(Boolean))];
+ return ids.filter(id=>!(id==='dia_group_southern_selkup'&&ids.some(other=>other.startsWith('dia_southern-selkup_')))
+   &&!(id==='dia_group_northern_selkup'&&ids.some(other=>other.startsWith('dia_northern-selkup_'))));
+};
+const attDialectLabels=a=>normalizedDialectIds(a).map(dialName).filter(Boolean).join(', ');
+const attDialectFull=a=>normalizedDialectIds(a).map(dialName).filter(Boolean).join('; ');
 // Short references: [Author Year: Page], with volume only for explicitly multivolume books.
 // Without a page (e.g., bibliographies), do not add a colon.
 const romanNumeral=n=>{let x=Number(n);if(!Number.isInteger(x)||x<1||x>3999)return String(n);let result='';for(const [value,symbol] of [[1000,'M'],[900,'CM'],[500,'D'],[400,'CD'],[100,'C'],[90,'XC'],[50,'L'],[40,'XL'],[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']]){while(x>=value){result+=symbol;x-=value;}}return result;};
@@ -69,7 +75,7 @@ const attestationOverview=p=>{
  return {
   citations:unique(attestations.map(a=>citeSource(a.source_id,a.source_pages))),
   localities:unique(attestations.map(a=>locName(a.location_id))),
-  dialects:unique([dialName(p.dialect_id),...attestations.map(a=>attDialectLabels(a)||dialName(a.dialect_id))])
+  dialects:unique(normalizedDialectIds({dialect_ids:[p.dialect_id,...attestations.flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])]}).map(dialName))
  };
 };
 // English glosses are the only lexical key for cross-language comparison.
@@ -83,7 +89,7 @@ function locatableEntries(candidate){
   const location=by('locations',locationId);
   if(!location||location.visibility==='confidential'||!Number.isFinite(location.latitude)||!Number.isFinite(location.longitude))return;
   const dialectIds=[candidate.dialect_id,...(candidate.attestations||[]).flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])].filter(Boolean);
-  const dialect=[...new Set(dialectIds.map(dialName).filter(Boolean))].join('; ');
+  const dialect=[...new Set(normalizedDialectIds({dialect_ids:dialectIds}).map(dialName).filter(Boolean))].join('; ');
   const source=[...new Set((candidate.attestations||[]).map(a=>citeSource(a.source_id,a.source_pages)).filter(Boolean))].join('; ');
   entries.push({location_id:locationId,locality:locName(locationId),latitude:location.latitude,longitude:location.longitude,kind,
    phytonym_id:candidate.phytonym_id,name:candidate.name_native_language,language:langName(candidate.language_id),dialect,source});
@@ -98,7 +104,7 @@ function locatableEntries(candidate){
  if(entries.length===0&&candidate.reference_location_id)emit(candidate.reference_location_id,'community');
  return entries;
 }
-const relatedGlossMapEntries=profile=>relatedProfilesByGloss(profile).flatMap(locatableEntries);
+const relatedGlossMapEntries=profile=>(profile?.english_gloss?relatedProfilesByGloss(profile):[profile]).flatMap(locatableEntries);
 function pair(key,value){return filled(value)?`<tr><th scope="row">${esc(tr(key))}</th><td>${esc(Array.isArray(value)?value.join('; '):typeof value==='object'?Object.entries(value).filter(([,v])=>filled(v)).map(([k,v])=>`${k}: ${v}`).join('; '):value)}</td></tr>`:''}
 function section(title,rows){return rows.some(Boolean)?`<section class="profile-section"><h3>${esc(tr(title))}</h3><table class="detail-table"><tbody>${rows.join('')}</tbody></table></section>`:''}
 function sourcedDetailRows(profile,group){
@@ -117,7 +123,7 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
  const bot=section('botanical',[pair('taxon',tax.scientific_name),pair('family',tax.botanical_family),pair('conservation_invasiveness_status',tax.conservation_invasiveness_status)]);
  const eco=section('ecology',sourcedDetailRows(p,'ecological_data'));
  const know=section('knowledge',sourcedDetailRows(p,'indigenous_knowledge'));
- const attest=(p.attestations||[]).map(a=>{const c=by('contributors',a.contributor_id)||{};return section('evidence',[pair('locality',locName(a.location_id)),pair('dialect',attDialectFull(a)||dialName(a.dialect_id)),a.source_id?`<tr><th scope="row">${esc(tr('source'))}</th><td><button class="plain-link" data-source="${esc(a.source_id)}" data-source-language="${esc(p.language_id)}">${esc(citeSource(a.source_id,a.source_pages))}</button></td></tr>`:'',pair('last',c.last_name),pair('first',c.first_name),pair('patronymic',c.patronymic_name),pair('clan',c.clan),pair('gender',c.gender),pair('collector',a.collector),pair('year',a.recording_year),pair('recordDate',a.record_date),pair('name_number',a.name_number),pair('source_use_categories',a.source_use_categories),pair('source_one_generation_uses',a.source_one_generation_uses),pair('maritime_frequency_dots',a.maritime_frequency_dots),pair('tundra_frequency_dots',a.tundra_frequency_dots),pair('folklore',a.folklore)])}).join('');
+ const attest=(p.attestations||[]).filter(a=>Object.entries(a).some(([k,v])=>!['location_id','reference_location_id','attestation_id','id'].includes(k)&&filled(v))).map(a=>{const c=by('contributors',a.contributor_id)||{};return section('evidence',[pair('locality',locName(a.location_id)),pair('dialect',attDialectFull(a)||dialName(a.dialect_id)),a.source_id?`<tr><th scope="row">${esc(tr('source'))}</th><td><button class="plain-link" data-source="${esc(a.source_id)}" data-source-language="${esc(p.language_id)}">${esc(citeSource(a.source_id,a.source_pages))}</button></td></tr>`:'',pair('last',c.last_name),pair('first',c.first_name),pair('patronymic',c.patronymic_name),pair('clan',c.clan),pair('gender',c.gender),pair('collector',a.collector),pair('year',a.recording_year),pair('recordDate',a.record_date),pair('name_number',a.name_number),pair('source_use_categories',a.source_use_categories),pair('source_one_generation_uses',a.source_one_generation_uses),pair('maritime_frequency_dots',a.maritime_frequency_dots),pair('tundra_frequency_dots',a.tundra_frequency_dots),pair('folklore',a.folklore)])}).join('');
  const related=relatedProfilesByGloss(p);
  const entries=related.flatMap(locatableEntries);
  state.currentProfileEntries=entries;
@@ -126,7 +132,7 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
   const dialectNames=[...new Set(dialects.map(dialName).filter(Boolean))];
   return `<li><button type="button" class="plain-link related-name" data-profile="${esc(candidate.phytonym_id)}">${esc(candidate.name_native_language)}</button> — ${esc(langName(candidate.language_id))}${dialectNames.length?`; ${esc(dialectNames.join('; '))}`:''}</li>`;
  }).join('');
- const mapSection=p.english_gloss?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
+ const mapSection=(p.english_gloss||locatableEntries(p).length)?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
 
  return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
 }
@@ -194,7 +200,7 @@ function renderStatistics(){
  const counts=new Map(state.data.languages.map(lang=>[lang.language_id,0]));
  for(const record of state.data.phytonyms)counts.set(record.language_id,(counts.get(record.language_id)||0)+1);
  const languages=[...state.data.languages].sort((a,b)=>(a.west_east_order||0)-(b.west_east_order||0));
- const rows=languages.map(lang=>`<tr><td>${esc(langName(lang.language_id))}</td><td class="numeric">${counts.get(lang.language_id)||0}</td></tr>`).join('');
+ const rows=languages.map(lang=>`<tr><td><a class="plain-link" href="${esc(sectionURL('catalog').pathname+'?language='+encodeURIComponent(lang.language_id))}" data-stat-language="${esc(lang.language_id)}">${esc(langName(lang.language_id))}</a></td><td class="numeric">${counts.get(lang.language_id)||0}</td></tr>`).join('');
  const total=state.data.phytonyms.length;
  return title('statistics')+`<div class="table-wrap"><table class="index statistics-table"><thead><tr><th scope="col">${esc(tr('language'))}</th><th scope="col" class="numeric">${esc(tr('phytonymCount'))}</th></tr></thead><tbody>${rows}</tbody><tfoot><tr><th scope="row">${esc(tr('total'))}</th><td class="numeric">${total}</td></tr></tfoot></table></div>`;
 }
@@ -255,9 +261,9 @@ function mountProfileMap(){
  const markers=[];
  for(const group of grouped.values()){
   const forms=[...new Map(group.items.map(item=>[item.phytonym_id+':'+item.kind,item])).values()];
-  const list=forms.map(item=>`<li><strong>${esc(item.name)}</strong> — ${esc(item.language)}${item.dialect?`; ${esc(item.dialect)}`:''}<br><small>${esc(tr(item.kind==='attested'?'directPlace':item.kind==='community'?'referencePlace':'dialectPlace'))}</small>${item.source?`<br><small>${esc(item.source)}</small>`:''}</li>`).join('');
+  const list=forms.map(item=>`<li><strong>${esc(item.name)}</strong> — ${esc(item.language)}${item.dialect?`; ${esc(item.dialect)}`:''}<br><small>${item.kind==='community'?'':esc(tr(item.kind==='attested'?'directPlace':'dialectPlace'))}</small>${item.source?`<br><small>${esc(item.source)}</small>`:''}</li>`).join('');
   const certain=forms.some(item=>item.kind==='attested');
-  const mark=L.circleMarker([group.latitude,group.longitude],{radius:6,color:certain?'#225a91':'#9b6c2d',weight:2,fillOpacity:certain?.85:0.15})
+  const mark=L.circleMarker([group.latitude,group.longitude],{radius:6,color:certain?'#225a91':'#9b6c2d',weight:2,fillOpacity:certain?.85:0.7})
     .bindPopup(`<strong>${esc(group.locality)}</strong><ul class="map-popup-list">${list}</ul>`)
     .bindTooltip(esc(forms.map(x=>x.name).filter((v,i,a)=>a.indexOf(v)===i).slice(0,2).join(' · '))+(forms.length>2?' …':''),{direction:'top',permanent:grouped.size<=12,className:'phytonym-tooltip'}).addTo(map);
   markers.push(mark);
@@ -275,12 +281,12 @@ function render(){
  document.getElementById('main').innerHTML=({profile:renderProfile,home:renderHome,catalog:renderCatalog,statistics:renderStatistics,sources:renderSources})[state.view]();
  if(state.view==='profile')mountProfileMap();
 }
-const DATA_RELEASE='20261121-short-paths-map-fix';
+const DATA_RELEASE='20261121-links-clean';
 const fetchDataJSON=path=>fetch(new URL(path+'?v='+DATA_RELEASE,SITE_ROOT),{cache:'no-store'});
-async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render();scrollToHash()}
-document.addEventListener('click',e=>{const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
-window.addEventListener('popstate',()=>{if(!state.data)return;state.view=sectionFromURL();render();scrollToHash();});
+async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}const queryLang=new URL(window.location.href).searchParams.get('language');if(queryLang&&state.data.languages.some(l=>l.language_id===queryLang))state.selectedLanguage=queryLang;if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render();scrollToHash()}
+document.addEventListener('click',e=>{const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const statLanguage=e.target.closest('[data-stat-language]');if(statLanguage){e.preventDefault();state.selectedLanguage=statLanguage.dataset.statLanguage;navigateSection('catalog');const url=sectionURL('catalog');url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
+window.addEventListener('popstate',()=>{if(!state.data)return;state.view=sectionFromURL();const q=new URL(window.location.href).searchParams.get('language');if(q&&state.data.languages.some(l=>l.language_id===q))state.selectedLanguage=q;render();scrollToHash();});
 window.addEventListener('hashchange',()=>{if(state.data&&state.view==='sources')scrollToHash();});
-document.addEventListener('change',e=>{if(e.target.id==='languageFilter'){state.selectedLanguage=e.target.value;render()}});
+document.addEventListener('change',e=>{if(e.target.id==='languageFilter'){state.selectedLanguage=e.target.value;const url=sectionURL('catalog');if(state.selectedLanguage)url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);render()}});
 document.addEventListener('input',e=>{if(e.target.id==='globalSearch'){const pos=e.target.selectionStart;state.search=e.target.value;render();const input=document.getElementById('globalSearch');input.focus();input.setSelectionRange(pos,pos)}});
 load().catch(e=>{document.getElementById('main').innerHTML=`<h1>Data loading error / Ошибка загрузки данных</h1><p class="error">${esc(e.message)}</p><p>Open the site via GitHub Pages or a local HTTP server.</p>`;console.error(e)});

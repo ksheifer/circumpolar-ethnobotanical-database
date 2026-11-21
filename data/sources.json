@@ -995,5 +995,29 @@
     "language_ids": [
       "selkup"
     ]
+  },
+  {
+    "publication_type": "book",
+    "authors": "Свиридова Наталья Аркадьевна",
+    "editors": "",
+    "title": "Приглашаем на туюн",
+    "subtitle": "Из эвенкийской национальной кухни",
+    "publisher": "",
+    "publication_place": "Красноярск",
+    "year": "1995",
+    "total_pages": "",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "53–77",
+    "doi": "",
+    "isbn": "",
+    "url": "",
+    "notes": "Проверено по приложенному фотоскану: печатные страницы 53–77. Для прямых переходов приложен фрагмент книги docs/sviridova_tuyun_pp53-77.pdf (1-я страница фрагмента соответствует печатной с. 53). Содержит как эвенкийские термины, так и русские описания использования растений; их статус не смешивать.",
+    "source_id": "src_sviridova_1995_tuyun",
+    "language_ids": [
+      "evenki"
+    ],
+    "citation_key": "Sviridova1995"
   }
 ]

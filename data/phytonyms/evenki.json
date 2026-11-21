@@ -15162,5 +15162,410 @@
     "source_lemma": "тӯрут",
     "source_volume": null,
     "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0001",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "ирэктэ",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "На с. 58 прямо дано: «лиственница, по-эвенкийски ... ирэктэ». Пищевые рецепты книги отчасти представлены как рекомендации автора, а не обязательно как старинный обычай.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Молодую хвою описывают как пищевую добавку; приводятся рецепты напитка и масла из хвои.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "58",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "ирэктэ",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0002",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_pinus",
+    "name_native_language": "дягда",
+    "names_other_varieties": [],
+    "russian_gloss": "сосна",
+    "english_gloss": "pine",
+    "linguistic_comment": "На с. 58 явно приведён перевод «дягда — ... сосна». Описаны пищевые и общеоздоровительные представления, не клинически проверенные рекомендации.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Почки и молодые побеги сосны использовали для настоев и напитков; отмечено употребление свежих молодых побегов.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "58–59",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "дягда",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0003",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_selkup_pine",
+    "name_native_language": "тактыкан",
+    "names_other_varieties": [],
+    "russian_gloss": "кедр",
+    "english_gloss": "Siberian pine / cedar pine",
+    "linguistic_comment": "«Кедр» в сибирском русском употреблении может означать кедровую сосну; указание Pinus sibirica здесь рабочее и требует флористической проверки.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Кедровые орехи ели сырыми или со скорлупой; их растирали и заливали горячей водой для получения напитка.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "59",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "тактыкан",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0004",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_betula",
+    "name_native_language": "чалбан",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "На с. 59 заголовок «ЧАЛБАН» следует непосредственно за разделом о кедре и относится к берёзе. С. 67–73 дополнительно посвящены берестяной утвари, но не содержат на этих страницах нового фитонима.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Весной собирали берёзовый сок; описано изготовление напитка/сиропа.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "59",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "чалбан",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0005",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_salix",
+    "name_native_language": "секта",
+    "names_other_varieties": [],
+    "russian_gloss": "ива, тальник",
+    "english_gloss": "willow",
+    "linguistic_comment": "В тексте с. 59 явно «СЕКТА. Это ива, она же тальник». Французский рецепт на с. 60 не приписывать эвенкийской традиции.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Листья и молодые побеги тальника использовали в чаях и блюдах; автор приводит также французские способы приготовления побегов.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "59–60",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "секта",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0006",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_vaccinium",
+    "name_native_language": "диктэ",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog bilberry",
+    "linguistic_comment": "На с. 60 прямо «голубика. ДИКТЭ»; на с. 73 «диктэ» в описании берестяного приспособления для сбора голубики.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Свежие ягоды; запасание на зиму в берестяной или деревянной посуде под слоем жира; также ягода служила приправой к рыбе и мясу.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "60–61, 73",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "диктэ",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0007",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": "tax_family_inferred_lilium",
+    "name_native_language": "поно",
+    "names_other_varieties": [],
+    "russian_gloss": "сарана, лилия кудреватая",
+    "english_gloss": "martagon lily",
+    "linguistic_comment": "На с. 56 сарана названа «поно». В том же фрагменте описано различение съедобных и ядовитых луковиц; видовую идентификацию требуется подтвердить отдельно.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Луковицы сараны выкапывали; варили, сушили, добавляли в суп и тесто. На с. 57 обсуждается приготовление хлеба с мукой из сараны.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "55–57",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "поно",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0008",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "синикта",
+    "names_other_varieties": [],
+    "russian_gloss": "солодка (корень)",
+    "english_gloss": "licorice",
+    "linguistic_comment": "На с. 54 указан корень солодки «синикта»; точный ботанический вид в тексте не определён.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Сладкие корни выкапывали и жевали.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "54",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "синикта",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_evenki_sviridova_0009",
+    "language_id": "evenki",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "орокомкура",
+    "names_other_varieties": [],
+    "russian_gloss": "папоротник",
+    "english_gloss": "fern",
+    "linguistic_comment": "На с. 55 прямо дан термин «папоротники — орокомкура»; род/вид не установлен.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Листья и стебли папоротника добавляли в суп.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_evenki_sviridova_0009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "55",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
+    "source_lemma": "орокомкура",
+    "source_volume": null,
+    "ipa": null
   }
 ]

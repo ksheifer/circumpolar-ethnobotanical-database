@@ -34,3 +34,12 @@ python scripts/validate_data.py
 ```
 
 The same validation runs in GitHub Actions when changes are pushed.
+
+
+## Source-specific terminology
+
+The Evenki botanical terminology index is available at `/sviridova/` and in `data/evenki_sviridova_terminology.csv`. Citations give **printed pages** of Свиридова, *Приглашаем на туюн* (1995); the accompanying `docs/sviridova_tuyun_pp53-77.pdf` is a 25-page viewing extract. Navigation page offsets in PDF links are not bibliographic page numbers.
+
+## Geographic precision
+
+`data/locations.json` records 216 localities, 210 with coordinates; `data/locations.geojson` and `.csv` are exports of the same data. A community or language-variety reference point is not necessarily the place where a word was recorded.

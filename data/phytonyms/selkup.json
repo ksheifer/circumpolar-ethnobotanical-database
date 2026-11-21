@@ -2,7 +2,7 @@
   {
     "phytonym_id": "phy_selkup_2005_005",
     "language_id": "selkup",
-    "dialect_id": "dia_group_northern_selkup",
+    "dialect_id": "dia_northern-selkup_taz_unspecified",
     "taxon_id": "tax_selkup_sarana",
     "name_native_language": "toqil",
     "names_other_varieties": [],
@@ -57,7 +57,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_northern_selkup",
           "dia_northern-selkup_taz_unspecified"
         ],
         "dialect_abbreviations": [
@@ -73,7 +72,7 @@
   {
     "phytonym_id": "phy_selkup_2005_008",
     "language_id": "selkup",
-    "dialect_id": "dia_group_northern_selkup",
+    "dialect_id": "dia_northern-selkup_taz_unspecified",
     "taxon_id": "tax_selkup_pine",
     "name_native_language": "satqi",
     "names_other_varieties": [],
@@ -128,7 +127,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_northern_selkup",
           "dia_northern-selkup_taz_unspecified"
         ],
         "dialect_abbreviations": [
@@ -372,7 +370,7 @@
   {
     "phytonym_id": "phy_selkup_2005_006",
     "language_id": "selkup",
-    "dialect_id": "dia_group_southern_selkup",
+    "dialect_id": "dia_southern-selkup_ket_unspecified",
     "taxon_id": "tax_selkup_pine",
     "name_native_language": "swengi",
     "names_other_varieties": [],
@@ -427,7 +425,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_southern_selkup",
           "dia_southern-selkup_ket_unspecified"
         ],
         "dialect_abbreviations": [
@@ -443,7 +440,7 @@
   {
     "phytonym_id": "phy_selkup_2005_007",
     "language_id": "selkup",
-    "dialect_id": "dia_group_southern_selkup",
+    "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_pine",
     "name_native_language": "hwešk",
     "names_other_varieties": [],
@@ -498,7 +495,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_southern_selkup",
           "dia_southern-selkup_narym"
         ],
         "dialect_abbreviations": [
@@ -514,7 +510,7 @@
   {
     "phytonym_id": "phy_selkup_2005_009",
     "language_id": "selkup",
-    "dialect_id": "dia_group_southern_selkup",
+    "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_poplar",
     "name_native_language": "qa",
     "names_other_varieties": [],
@@ -561,7 +557,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_southern_selkup",
           "dia_southern-selkup_narym"
         ],
         "dialect_abbreviations": [
@@ -574,7 +569,7 @@
   {
     "phytonym_id": "phy_selkup_2005_010",
     "language_id": "selkup",
-    "dialect_id": "dia_group_southern_selkup",
+    "dialect_id": "dia_southern-selkup_ket_unspecified",
     "taxon_id": "tax_selkup_chaga",
     "name_native_language": "očči",
     "names_other_varieties": [],
@@ -621,7 +616,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_southern_selkup",
           "dia_southern-selkup_ket_unspecified"
         ],
         "dialect_abbreviations": [
@@ -634,7 +628,7 @@
   {
     "phytonym_id": "phy_selkup_2005_011",
     "language_id": "selkup",
-    "dialect_id": "dia_group_southern_selkup",
+    "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_chaga",
     "name_native_language": "pužel laga",
     "names_other_varieties": [],
@@ -681,7 +675,6 @@
         "collector": null,
         "folklore": null,
         "dialect_ids": [
-          "dia_group_southern_selkup",
           "dia_southern-selkup_narym"
         ],
         "dialect_abbreviations": [

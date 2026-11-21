@@ -778,7 +778,7 @@
     "source_id": "src_myreeva_2001",
     "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
     "geographic_reference_kind": "dialect_reference",
-    "geographic_reference_basis": "Toponymic reference: Ola settlement",
+    "geographic_reference_basis": "Representative settlement for language variety; not a place of lexical attestation",
     "geographic_reference_source": "https://na-meste.ru/magadanskaya-oblast/ola.php"
   },
   {
@@ -895,7 +895,9 @@
       "loc_beryozovka_001"
     ],
     "notes": "Садовникова 2024: 103 (список сокращений), Бер — березовский говор восточного наречия.",
-    "source_abbreviation": "Бер"
+    "source_abbreviation": "Бер",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Representative settlement for language variety; not a place of lexical attestation"
   },
   {
     "dialect_id": "dia_komi_upper_vychegda",
@@ -1103,8 +1105,8 @@
   {
     "dialect_id": "dia_southern-selkup_narym",
     "language_id": "selkup",
-    "name_ru": "нарымский диалект",
-    "name_en": "Narym dialect",
+    "name_ru": "Южный селькупский, нарымский диалект",
+    "name_en": "Southern Selkup, Narym dialect",
     "alternative_names": [],
     "source_abbreviation": "",
     "location_ids": [],
@@ -1281,8 +1283,8 @@
   {
     "dialect_id": "dia_northern-selkup_taz_unspecified",
     "language_id": "selkup",
-    "name_ru": "тазовский вариант (без уточнения говора)",
-    "name_en": "Taz variety (subdialect unspecified)",
+    "name_ru": "Северный селькупский, тазовский вариант",
+    "name_en": "Northern Selkup, Taz variety",
     "alternative_names": [],
     "source_abbreviation": "тазов.",
     "location_ids": [],
@@ -1292,8 +1294,8 @@
   {
     "dialect_id": "dia_southern-selkup_ket_unspecified",
     "language_id": "selkup",
-    "name_ru": "кетский вариант (без уточнения говора)",
-    "name_en": "Ket variety (subdialect unspecified)",
+    "name_ru": "южноселькупский, кетский вариант",
+    "name_en": "Southern Selkup, Ket variety",
     "alternative_names": [],
     "source_abbreviation": "кет.",
     "location_ids": [],
@@ -1342,8 +1344,12 @@
     "name_ru": "Лесной юкагирский (одульский)",
     "name_en": "Forest Yukaghir (Odul)",
     "alternative_names": [],
-    "location_ids": [],
-    "notes": "Broad language variety; not a location of lexical attestation."
+    "location_ids": [
+      "loc_043d0435043b0435043c043d043e0435"
+    ],
+    "notes": "Broad language variety; not a location of lexical attestation.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Representative settlement for language variety; not a place of lexical attestation"
   },
   {
     "dialect_id": "dia_group_tundra_yukaghir",
@@ -1351,8 +1357,12 @@
     "name_ru": "Тундренный юкагирский (вадульский)",
     "name_en": "Tundra Yukaghir (Wadul)",
     "alternative_names": [],
-    "location_ids": [],
-    "notes": "Broad language variety; not a location of lexical attestation."
+    "location_ids": [
+      "loc_0430043d04340440044e0448043a0438043d043e"
+    ],
+    "notes": "Broad language variety; not a location of lexical attestation.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Representative settlement for language variety; not a place of lexical attestation"
   },
   {
     "dialect_id": "dia_group_northern_khanty",
@@ -1362,5 +1372,14 @@
     "alternative_names": [],
     "location_ids": [],
     "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_alyutor_group",
+    "language_id": "koryak",
+    "name_ru": "Алюторский",
+    "name_en": "Alyutor",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Preserved as a distinct named variety in the joint Koryak / Alyutor catalog group."
   }
 ]
