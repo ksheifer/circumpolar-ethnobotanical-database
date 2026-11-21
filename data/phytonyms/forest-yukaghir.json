@@ -1,0 +1,800 @@
+[
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_001",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "шаал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "исторически также название лиственницы; современное основное значение «дерево»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "162",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "одун шаал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "буквально «юкагирское дерево»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_003",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "одуншаа",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "вариант одун шаал",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_004",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "онда",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "историческая фиксация",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_005",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ондьаа",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая лиственница",
+    "english_gloss": "young larch",
+    "linguistic_comment": "вариант онда с более узким значением",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_006",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "өнмиэдиэ",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая лиственница",
+    "english_gloss": "young larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "165",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_007",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ondacione shal",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая гибкая лиственница",
+    "english_gloss": "young flexible larch",
+    "linguistic_comment": "историческая латинская транскрипция, сохранена как в публикации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "165",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_008",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "шаан шоххо",
+    "names_other_varieties": [],
+    "russian_gloss": "высокое дерево с круглой кроной",
+    "english_gloss": "tall tree with a round crown",
+    "linguistic_comment": "В статье сопоставлено с шаан шотхаткиэ (почитаемая лиственница); исходный словарь переводит как «дерево (высокое с круглой макушкой)».",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "166",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_009",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "шаан шотхаткиэ",
+    "names_other_varieties": [],
+    "russian_gloss": "почитаемая лиственница",
+    "english_gloss": "venerated larch",
+    "linguistic_comment": "Почитаемая лиственница, «шаман-дерево», по полевому сообщению в статье.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "166",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_010",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "orpanri-shal",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "историческая латинская транскрипция",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_011",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "орполубэ",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница, дерево человека",
+    "english_gloss": "ritual larch, human-tree",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_012",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "орполубаа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница, дерево человека",
+    "english_gloss": "ritual larch, human-tree",
+    "linguistic_comment": "вариант орполубэ",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_013",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "орпондьираа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_014",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "орпонраа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_015",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "amungi",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "историческая латинская транскрипция",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_001",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "одун лэбэйдии",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "Буквально «юкагирская ягода»; приводится в статье на основании Иохельсона.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "поньхаараа",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "Буквально связано с признаком «белый».",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "угурчэраа",
+    "names_other_varieties": [],
+    "russian_gloss": "тополь",
+    "english_gloss": "poplar",
+    "linguistic_comment": "Этимология первого компонента обсуждается как неясная.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "йиэрчэраа",
+    "names_other_varieties": [],
+    "russian_gloss": "тальник, молодое дерево с развилкой",
+    "english_gloss": "willow scrub, forked sapling",
+    "linguistic_comment": "Может относиться к растительному объекту, используемому как вешала; вид растения не установлен.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]

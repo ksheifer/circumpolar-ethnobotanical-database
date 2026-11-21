@@ -83,3 +83,9 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 
 .resource-url{color:#165d9d;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
 .resource-url:hover{color:#0d4070}
+
+.language-varieties{margin:16px 0 20px}
+.language-varieties h2{margin-bottom:6px}
+.language-varieties ul{margin:0;padding-left:18px;columns:2}
+.language-varieties li{break-inside:avoid;margin:3px 0}
+@media(max-width:600px){.language-varieties ul{columns:1}}

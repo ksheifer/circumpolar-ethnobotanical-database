@@ -13,6 +13,9 @@
     "phytonyms/sakha.json",
     "phytonyms/evenki.json",
     "phytonyms/chukchi.json",
-    "phytonyms/dolgan.json"
+    "phytonyms/dolgan.json",
+    "phytonyms/komi.json",
+    "phytonyms/tundra-yukaghir.json",
+    "phytonyms/forest-yukaghir.json"
   ]
 }

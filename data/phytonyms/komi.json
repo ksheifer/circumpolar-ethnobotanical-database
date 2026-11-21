@@ -1,0 +1,5037 @@
+[
+  {
+    "phytonym_id": "phy_komi_rakin1989_001",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "азь",
+    "names_other_varieties": [
+      "азьгум"
+    ],
+    "russian_gloss": "борщевик сибирский",
+    "english_gloss": "Siberian hogweed",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_002",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "азьгум",
+    "names_other_varieties": [
+      "азь"
+    ],
+    "russian_gloss": "борщевик сибирский",
+    "english_gloss": "Siberian hogweed",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_003",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "азь калей гум",
+    "names_other_varieties": [],
+    "russian_gloss": "борщевик сибирский",
+    "english_gloss": "Siberian hogweed",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_004",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ай нитш",
+    "names_other_varieties": [],
+    "russian_gloss": "кукушкин лён",
+    "english_gloss": "haircap moss",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_005",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "акань турун",
+    "names_other_varieties": [],
+    "russian_gloss": "дрёма белая",
+    "english_gloss": "white campion",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_006",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "аляй цвет",
+    "names_other_varieties": [],
+    "russian_gloss": "иван-чай узколистный",
+    "english_gloss": "fireweed",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_007",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "анькышкор турун",
+    "names_other_varieties": [],
+    "russian_gloss": "ясколка даурская",
+    "english_gloss": "Dahurian mouse-ear chickweed",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_008",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "аньор турун",
+    "names_other_varieties": [],
+    "russian_gloss": "одуванчик",
+    "english_gloss": "dandelion",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_009",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_vym",
+    "taxon_id": null,
+    "name_native_language": "анягур",
+    "names_other_varieties": [],
+    "russian_gloss": "кострика",
+    "english_gloss": "brome grass",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_010",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "баба турун",
+    "names_other_varieties": [],
+    "russian_gloss": "василистник густоцветковый",
+    "english_gloss": "dense-flowered meadow-rue",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_011",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бабайор турун",
+    "names_other_varieties": [],
+    "russian_gloss": "нивяник обыкновенный",
+    "english_gloss": "oxeye daisy",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_012",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "багульник",
+    "names_other_varieties": [],
+    "russian_gloss": "багульник болотный",
+    "english_gloss": "marsh Labrador tea",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_sysola",
+          "dia_komi_izhma",
+          "dia_komi_luza",
+          "dia_komi_pechora",
+          "dia_komi_syktyvkar",
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "вс.",
+          "иж.",
+          "л.",
+          "печ.",
+          "скр.",
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_013",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бадь",
+    "names_other_varieties": [
+      "бадь пу"
+    ],
+    "russian_gloss": "ива, верба",
+    "english_gloss": "willow",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_014",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бадь пу",
+    "names_other_varieties": [
+      "бадь"
+    ],
+    "russian_gloss": "ива, верба",
+    "english_gloss": "willow",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_015",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бадь нёбръяс",
+    "names_other_varieties": [],
+    "russian_gloss": "ивняк",
+    "english_gloss": "willow scrub",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_016",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "байдӧглана",
+    "names_other_varieties": [
+      "байдӧг турун"
+    ],
+    "russian_gloss": "сабельник болотный",
+    "english_gloss": "marsh cinquefoil",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_016",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_017",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "байдӧг турун",
+    "names_other_varieties": [
+      "байдӧглана"
+    ],
+    "russian_gloss": "сабельник болотный",
+    "english_gloss": "marsh cinquefoil",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_017",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "6",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_018",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бальсянь",
+    "names_other_varieties": [],
+    "russian_gloss": "жимолость голубая",
+    "english_gloss": "blue honeysuckle",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_018",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_pechora",
+          "dia_komi_upper_sysola"
+        ],
+        "dialect_abbreviations": [
+          "печ.",
+          "вс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_019",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "баля турун",
+    "names_other_varieties": [],
+    "russian_gloss": "тимофеевка луговая",
+    "english_gloss": "timothy grass",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_019",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_020",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "банка",
+    "names_other_varieties": [],
+    "russian_gloss": "одуванчик",
+    "english_gloss": "dandelion",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_020",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_021",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "батӧг",
+    "names_other_varieties": [],
+    "russian_gloss": "полынь обыкновенная",
+    "english_gloss": "mugwort",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_021",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_022",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "биа турун",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель курчавый, щавель конский",
+    "english_gloss": "curly dock, horse sorrel",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_022",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola",
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "сс.",
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_023",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бикыв",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель курчавый, щавель конский",
+    "english_gloss": "curly dock, horse sorrel",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_023",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda",
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "нв.",
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_024",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "би турун",
+    "names_other_varieties": [],
+    "russian_gloss": "марьянник, щавель конский",
+    "english_gloss": "cow-wheat, horse sorrel",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_024",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_025",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бобӧнянь",
+    "names_other_varieties": [
+      "бобӧ турун"
+    ],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_025",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola",
+          "dia_komi_pechora"
+        ],
+        "dialect_abbreviations": [
+          "сс.",
+          "печ."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_026",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бобӧ турун",
+    "names_other_varieties": [
+      "бобӧнянь"
+    ],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_026",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola",
+          "dia_komi_pechora"
+        ],
+        "dialect_abbreviations": [
+          "сс.",
+          "печ."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_027",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "бобушка",
+    "names_other_varieties": [],
+    "russian_gloss": "одуванчик",
+    "english_gloss": "dandelion",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_027",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_028",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "болӧ",
+    "names_other_varieties": [],
+    "russian_gloss": "кубышка жёлтая",
+    "english_gloss": "yellow water-lily",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_028",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_029",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "боля турун",
+    "names_other_varieties": [],
+    "russian_gloss": "василистник",
+    "english_gloss": "meadow-rue",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_029",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_030",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "бор петшер",
+    "names_other_varieties": [],
+    "russian_gloss": "крапива двудомная",
+    "english_gloss": "stinging nettle",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_030",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_031",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "бортурын",
+    "names_other_varieties": [],
+    "russian_gloss": "зверобой четырёхгранный",
+    "english_gloss": "square-stalked St Johns wort",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_031",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_032",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бӧньдӧг",
+    "names_other_varieties": [],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_032",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda",
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв.",
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_033",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бӧрйӧм",
+    "names_other_varieties": [],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_033",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda",
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "нв.",
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_034",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "буглес турун",
+    "names_other_varieties": [],
+    "russian_gloss": "камыш, ситник нитевидный",
+    "english_gloss": "bulrush, thread rush",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_034",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_035",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "букта",
+    "names_other_varieties": [],
+    "russian_gloss": "мох болотный",
+    "english_gloss": "bog moss",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_035",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_036",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "булля",
+    "names_other_varieties": [],
+    "russian_gloss": "купальница европейская, кубышка жёлтая",
+    "english_gloss": "European globeflower, yellow water-lily",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_036",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "7",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_pechora",
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "печ.",
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_037",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бур пув",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_037",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_038",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "бутляк",
+    "names_other_varieties": [
+      "бутляк байд",
+      "бутлас"
+    ],
+    "russian_gloss": "шиповник иглистый, шиповник коричный",
+    "english_gloss": "prickly rose, cinnamon rose",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_038",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_039",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "бутляк байд",
+    "names_other_varieties": [
+      "бутляк",
+      "бутлас"
+    ],
+    "russian_gloss": "шиповник иглистый, шиповник коричный",
+    "english_gloss": "prickly rose, cinnamon rose",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_039",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_040",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "бутлас",
+    "names_other_varieties": [
+      "бутляк",
+      "бутляк байд"
+    ],
+    "russian_gloss": "шиповник иглистый, шиповник коричный",
+    "english_gloss": "prickly rose, cinnamon rose",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_040",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_041",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "бутя",
+    "names_other_varieties": [],
+    "russian_gloss": "шиповник иглистый, шиповник коричный",
+    "english_gloss": "prickly rose, cinnamon rose",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_041",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_042",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "быгзян турун",
+    "names_other_varieties": [],
+    "russian_gloss": "гвоздика травянка, кукушкин цвет, смолёвка обыкновенная",
+    "english_gloss": "maiden pink, ragged robin, bladder campion",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_042",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda",
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв.",
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_043",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "быныдук",
+    "names_other_varieties": [],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_043",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_044",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "быриыльли",
+    "names_other_varieties": [],
+    "russian_gloss": "василёк синий",
+    "english_gloss": "cornflower",
+    "linguistic_comment": "Dialect abbreviations reflect the source legend (Rakin 1989, p. 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_044",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "8",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_045",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "ва бӧльӧ",
+    "names_other_varieties": [],
+    "russian_gloss": "калужница болотная",
+    "english_gloss": "marsh marigold",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_045",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_046",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "ва вукта",
+    "names_other_varieties": [],
+    "russian_gloss": "мох болотный",
+    "english_gloss": "bog moss",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_046",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_047",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_vym",
+    "taxon_id": null,
+    "name_native_language": "вадор бадь",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_047",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_048",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ва самӧвар",
+    "names_other_varieties": [],
+    "russian_gloss": "кубышка жёлтая",
+    "english_gloss": "yellow water-lily",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_048",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_049",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_luza_letka",
+    "taxon_id": null,
+    "name_native_language": "ва чача",
+    "names_other_varieties": [],
+    "russian_gloss": "кубышка",
+    "english_gloss": "water-lily",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_049",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_luza_letka"
+        ],
+        "dialect_abbreviations": [
+          "лл."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_050",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "ва чачӧ",
+    "names_other_varieties": [],
+    "russian_gloss": "калужница болотная",
+    "english_gloss": "marsh marigold",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_050",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_051",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "веж байд",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_051",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_052",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "веж балюк",
+    "names_other_varieties": [],
+    "russian_gloss": "лютик едкий",
+    "english_gloss": "meadow buttercup",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_052",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_053",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "веж йӧн",
+    "names_other_varieties": [],
+    "russian_gloss": "осот",
+    "english_gloss": "sow-thistle",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_053",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_054",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "веж нитш",
+    "names_other_varieties": [],
+    "russian_gloss": "мох болотный",
+    "english_gloss": "bog moss",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_054",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_055",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_luza_letka",
+    "taxon_id": null,
+    "name_native_language": "ва кискан лис",
+    "names_other_varieties": [],
+    "russian_gloss": "подорожник большой, подорожник средний",
+    "english_gloss": "broadleaf plantain, hoary plantain",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_055",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "9",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_luza_letka"
+        ],
+        "dialect_abbreviations": [
+          "лл."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_056",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_sysola",
+    "taxon_id": null,
+    "name_native_language": "веж чача",
+    "names_other_varieties": [],
+    "russian_gloss": "мать-и-мачеха обыкновенная",
+    "english_gloss": "coltsfoot",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_056",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_sysola"
+        ],
+        "dialect_abbreviations": [
+          "вс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_057",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "везель пирег",
+    "names_other_varieties": [
+      "везель турун"
+    ],
+    "russian_gloss": "горошек мышиный",
+    "english_gloss": "tufted vetch",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_057",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_058",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "везель турун",
+    "names_other_varieties": [
+      "везель пирег"
+    ],
+    "russian_gloss": "горошек мышиный",
+    "english_gloss": "tufted vetch",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_058",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_059",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "везеля турун",
+    "names_other_varieties": [],
+    "russian_gloss": "клевер",
+    "english_gloss": "clover",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_059",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_060",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "виж балюк",
+    "names_other_varieties": [],
+    "russian_gloss": "лютик едкий",
+    "english_gloss": "meadow buttercup",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_060",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_061",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_lower_vychegda",
+    "taxon_id": null,
+    "name_native_language": "виж байд",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_061",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_lower_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "нв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_062",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "виж йӧн",
+    "names_other_varieties": [],
+    "russian_gloss": "осот полевой",
+    "english_gloss": "field sow-thistle",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_062",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_063",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "виж йыла турун",
+    "names_other_varieties": [],
+    "russian_gloss": "одуванчик",
+    "english_gloss": "dandelion",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_063",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_064",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "виж ялла чача",
+    "names_other_varieties": [],
+    "russian_gloss": "мать-и-мачеха обыкновенная",
+    "english_gloss": "coltsfoot",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_064",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_065",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "вина турун",
+    "names_other_varieties": [],
+    "russian_gloss": "мать-и-мачеха обыкновенная",
+    "english_gloss": "coltsfoot",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_065",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola",
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "сс.",
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_066",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "вир дугӧдан турун",
+    "names_other_varieties": [],
+    "russian_gloss": "тысячелистник обыкновенный",
+    "english_gloss": "common yarrow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_066",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_067",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "вир кутан турун",
+    "names_other_varieties": [],
+    "russian_gloss": "тысячелистник обыкновенный",
+    "english_gloss": "common yarrow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_067",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_068",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "вир ланьтӧдан турун",
+    "names_other_varieties": [],
+    "russian_gloss": "тысячелистник обыкновенный",
+    "english_gloss": "common yarrow",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_068",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_069",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "войвутш",
+    "names_other_varieties": [],
+    "russian_gloss": "метлица",
+    "english_gloss": "bentgrass",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_069",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_070",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_vym",
+    "taxon_id": null,
+    "name_native_language": "вӧвняк",
+    "names_other_varieties": [],
+    "russian_gloss": "клевер дикорастущий",
+    "english_gloss": "wild clover",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_070",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_071",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "вӧвтурын",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель конский, щавель курчавый",
+    "english_gloss": "horse sorrel, curly dock",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_071",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_072",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "вӧййыв",
+    "names_other_varieties": [],
+    "russian_gloss": "иван-чай узколистный",
+    "english_gloss": "fireweed",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_072",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_073",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_middle_sysola",
+    "taxon_id": null,
+    "name_native_language": "вӧлкуз турун",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель курчавый, щавель конский",
+    "english_gloss": "curly dock, horse sorrel",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_073",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_074",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_luza_letka",
+    "taxon_id": null,
+    "name_native_language": "вӧлкуз шомага",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель конский, щавель курчавый",
+    "english_gloss": "horse sorrel, curly dock",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_074",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_luza_letka"
+        ],
+        "dialect_abbreviations": [
+          "лл."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_075",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_vym",
+    "taxon_id": null,
+    "name_native_language": "вӧр ураоз",
+    "names_other_varieties": [],
+    "russian_gloss": "костяника обыкновенная",
+    "english_gloss": "stone bramble",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_075",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_076",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_upper_vychegda",
+    "taxon_id": null,
+    "name_native_language": "вӧрса оз",
+    "names_other_varieties": [],
+    "russian_gloss": "земляника лесная",
+    "english_gloss": "wild strawberry",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_076",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_077",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "вӧрса пӧдтурун",
+    "names_other_varieties": [],
+    "russian_gloss": "марь белая, лебеда",
+    "english_gloss": "white goosefoot",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_077",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_078",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "вӧр тӧзь",
+    "names_other_varieties": [],
+    "russian_gloss": "чистец лесной",
+    "english_gloss": "hedge woundwort",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_078",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_079",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "вӧр таг",
+    "names_other_varieties": [],
+    "russian_gloss": "дикий хмель",
+    "english_gloss": "wild hop",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_079",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "12",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_080",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_udora",
+    "taxon_id": null,
+    "name_native_language": "вукта",
+    "names_other_varieties": [],
+    "russian_gloss": "мох болотный",
+    "english_gloss": "bog moss",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_080",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_rakin1989_081",
+    "language_id": "komi",
+    "dialect_id": "dia_komi_izhma",
+    "taxon_id": null,
+    "name_native_language": "выя турун",
+    "names_other_varieties": [],
+    "russian_gloss": "одуванчик, лапчатка малая",
+    "english_gloss": "dandelion, small cinquefoil",
+    "linguistic_comment": "Диалектные пометы переданы по легенде Ракина (1989: 4).",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_komi_rakin1989_081",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_rakin_1989",
+        "source_pages": "13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_001",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "бакамач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "молодой дождевик; букв. «гнилой мяч»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_002",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэрамач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_003",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "гымкольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное громом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_004",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "гыммач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное громом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_005",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "гынмач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное громом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_006",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "гымтшак",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное громом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_izhma"
+        ],
+        "dialect_abbreviations": [
+          "иж."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_007",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "дымкольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное громом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_008",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зӧрмач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_udora"
+        ],
+        "dialect_abbreviations": [
+          "уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_009",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зьвернакольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название старого высохшего дождевика; букв. «яйцо для зверей»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_010",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэркольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_sysola"
+        ],
+        "dialect_abbreviations": [
+          "вс."
+        ],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_011",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэрмамач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_012",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэрмач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С. Уд."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_013",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэрна",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_014",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэрнакольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_015",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "зэринамач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda"
+        ],
+        "dialect_abbreviations": [
+          "вв."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_016",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "жернакольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное дождём",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_016",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_017",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "катшабатш",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное белым цветом гриба",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_017",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_018",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "катшакольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное белым цветом гриба",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_018",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_019",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "катша позтыр",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное белым цветом гриба",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_019",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_020",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "катшапопыль",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название, мотивированное белым цветом гриба",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_020",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_luza_letka"
+        ],
+        "dialect_abbreviations": [
+          "лл."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_021",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "кӧчамач",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "обозначает также негодного человека; употребляется как междометие",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_021",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_upper_vychegda",
+          "dia_komi_pechora"
+        ],
+        "dialect_abbreviations": [
+          "вв.",
+          "печ."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_022",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "понкольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_022",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_pechora"
+        ],
+        "dialect_abbreviations": [
+          "печ."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_023",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "понпуш",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "название высохшего дождевика; также бранное обозначение человека",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_023",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_024",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "уль понпуш",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_024",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_luza_letka"
+        ],
+        "dialect_abbreviations": [
+          "лл."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_025",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "шмакакольк",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "букв. «яйцо с утолщением»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_025",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_026",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "понпушка",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "старый высохший дождевик",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_026",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "87",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym",
+          "dia_komi_lower_vychegda",
+          "dia_komi_pechora",
+          "dia_komi_middle_sysola"
+        ],
+        "dialect_abbreviations": [
+          "вым.",
+          "нв.",
+          "печ.",
+          "сс."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_027",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "name_native_language": "понпушкан",
+    "names_other_varieties": [],
+    "russian_gloss": "дождевик шиповатый",
+    "english_gloss": "common puffball",
+    "linguistic_comment": "старый высохший дождевик",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_027",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "87",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_028",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "понсэтӧр",
+    "names_other_varieties": [],
+    "russian_gloss": "жимолость лесная",
+    "english_gloss": "wood honeysuckle",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_028",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "87",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_komi_tsypanov2016_029",
+    "language_id": "komi",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "понтаг",
+    "names_other_varieties": [],
+    "russian_gloss": "княжик сибирский",
+    "english_gloss": "Siberian clematis",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tsypanov2016_029",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "87",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]

@@ -1,18 +1,18 @@
 [
   {
-    "language_id": "kola-s-mi",
-    "name_en": "Kola Sámi",
-    "name_ru": "Кольский саамский",
+    "language_id": "sami",
+    "name_en": "Sámi",
+    "name_ru": "Саамский",
     "iso_639_3": "",
-    "notes": "",
+    "notes": "Umbrella catalog entry. The four Kola Sámi varieties are separate languages in linguistic classification; see DOBES Kola Sámi documentation (https://dobes.mpi.nl/projects/sami/language/).",
     "west_east_order": 1
   },
   {
-    "language_id": "izhma-komi",
-    "name_en": "Izhma Komi",
-    "name_ru": "Коми-ижемский",
-    "iso_639_3": "",
-    "notes": "",
+    "language_id": "komi",
+    "name_en": "Komi",
+    "name_ru": "Коми",
+    "iso_639_3": "kpv",
+    "notes": "Komi language, with dialect distinctions given in Rakin (1989).",
     "west_east_order": 2
   },
   {
@@ -40,12 +40,28 @@
     "west_east_order": 5
   },
   {
+    "language_id": "northern-selkup",
+    "name_en": "Northern Selkup",
+    "name_ru": "Северноселькупский",
+    "iso_639_3": "",
+    "notes": "Northern Selkup (Taz–Turukhan); dialect divisions follow INEL Selkup Corpus 2.0 documentation.",
+    "west_east_order": 6
+  },
+  {
+    "language_id": "southern-selkup",
+    "name_en": "Southern Selkup",
+    "name_ru": "Южноселькупский",
+    "iso_639_3": "",
+    "notes": "Two-language grouping used here includes central (Tym, Narym, Vasyugan, Vakh) and southern varieties (Ob, Chaya, Ket, Chulym). Some linguistic classifications treat Central Selkup separately; see INEL Selkup Corpus 2.0.",
+    "west_east_order": 7
+  },
+  {
     "language_id": "forest-enets",
     "name_en": "Forest Enets",
     "name_ru": "Лесной энецкий",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 6
+    "west_east_order": 8
   },
   {
     "language_id": "tundra-enets",
@@ -53,7 +69,7 @@
     "name_ru": "Тундровый энецкий",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 7
+    "west_east_order": 9
   },
   {
     "language_id": "nganasan",
@@ -61,7 +77,7 @@
     "name_ru": "Нганасанский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 8
+    "west_east_order": 10
   },
   {
     "language_id": "dolgan",
@@ -69,7 +85,7 @@
     "name_ru": "Долганский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 9
+    "west_east_order": 11
   },
   {
     "language_id": "evenki",
@@ -77,7 +93,7 @@
     "name_ru": "Эвенкийский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 10
+    "west_east_order": 12
   },
   {
     "language_id": "sakha",
@@ -85,7 +101,7 @@
     "name_ru": "Саха",
     "iso_639_3": "sah",
     "notes": "",
-    "west_east_order": 11
+    "west_east_order": 13
   },
   {
     "language_id": "even",
@@ -93,7 +109,7 @@
     "name_ru": "Эвенский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 12
+    "west_east_order": 14
   },
   {
     "language_id": "forest-yukaghir",
@@ -101,7 +117,13 @@
     "name_ru": "Лесной юкагирский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 13
+    "west_east_order": 15,
+    "alternative_names_ru": [
+      "Одульский"
+    ],
+    "alternative_names_en": [
+      "Odul"
+    ]
   },
   {
     "language_id": "tundra-yukaghir",
@@ -109,7 +131,13 @@
     "name_ru": "Тундренный юкагирский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 14
+    "west_east_order": 16,
+    "alternative_names_ru": [
+      "Вадульский"
+    ],
+    "alternative_names_en": [
+      "Wadul"
+    ]
   },
   {
     "language_id": "koryak",
@@ -117,7 +145,7 @@
     "name_ru": "Корякский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 15
+    "west_east_order": 17
   },
   {
     "language_id": "alyutor",
@@ -125,7 +153,7 @@
     "name_ru": "Алюторский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 16
+    "west_east_order": 18
   },
   {
     "language_id": "chukchi",
@@ -133,6 +161,6 @@
     "name_ru": "Чукотский",
     "iso_639_3": "",
     "notes": "",
-    "west_east_order": 17
+    "west_east_order": 19
   }
 ]

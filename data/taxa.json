@@ -1022,5 +1022,13 @@
     "taxon_rank": "species",
     "conservation_invasiveness_status": "",
     "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_lycoperdon_perlatum",
+    "scientific_name": "Lycoperdon perlatum Pers.",
+    "botanical_family": "Agaricaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "The source prints the genus as Lykoperdon; standardized spelling Lycoperdon."
   }
 ]

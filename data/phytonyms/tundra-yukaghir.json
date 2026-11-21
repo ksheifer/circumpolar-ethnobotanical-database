@@ -1,0 +1,128 @@
+[
+  {
+    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_000",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "пэльwиэдэwчэ",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица",
+    "english_gloss": "cottongrass",
+    "linguistic_comment": "народное обозначение пушицы; буквально «верхушка кочки»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_kurilova2026_000",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurilova_2026_wadul",
+        "source_pages": "2262",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_001",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "пөльwиэдэwчэ",
+    "names_other_varieties": [],
+    "russian_gloss": "дриада, куропаточья трава",
+    "english_gloss": "mountain avens",
+    "linguistic_comment": "в статье предлагается отождествление с Dryas octopetala; ботаническая идентификация предположительная, исходно это название могло обозначать разные растения",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_kurilova2026_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurilova_2026_wadul",
+        "source_pages": "2263",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_prokopeva2026_extra_001",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "нуҥниираал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница для изготовления гроба",
+    "english_gloss": "larch used for a coffin",
+    "linguistic_comment": "Цитируется в статье по Курилову (2001: 293), вторичное свидетельство.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_prokopeva2026_extra_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "162",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]

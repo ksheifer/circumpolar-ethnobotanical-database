@@ -2336,7 +2336,7 @@
     "locality": "Ижма",
     "location_id": "loc_04380436043c0430",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Ижма",
     "name_en": "Izhma"
@@ -2354,7 +2354,7 @@
     "locality": "Мохча",
     "location_id": "loc_043c043e044504470430",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Мохча",
     "name_en": "Mokhcha"
@@ -2372,7 +2372,7 @@
     "locality": "Сизябск",
     "location_id": "loc_044104380437044f04310441043a",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Сизябск",
     "name_en": "Sizyabsk"
@@ -2390,7 +2390,7 @@
     "locality": "Краснобор",
     "location_id": "loc_043a044004300441043d043e0431043e0440",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Краснобор",
     "name_en": "Krasnobor"
@@ -2408,7 +2408,7 @@
     "locality": "Щельяюр",
     "location_id": "loc_04490435043b044c044f044e0440",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Щельяюр",
     "name_en": "Shchelyayur"
@@ -2426,7 +2426,7 @@
     "locality": "Кипиево",
     "location_id": "loc_043a0438043f043804350432043e",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Кипиево",
     "name_en": "Kipievo"
@@ -2444,7 +2444,7 @@
     "locality": "Диюр",
     "location_id": "loc_04340438044e0440",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Диюр",
     "name_en": "Diyur"
@@ -2462,7 +2462,7 @@
     "locality": "Усть-Ижма",
     "location_id": "loc_044304410442044c002d04380436043c0430",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Усть-Ижма",
     "name_en": "Ust-Izhma"
@@ -2480,7 +2480,7 @@
     "locality": "Няшабож",
     "location_id": "loc_043d044f044804300431043e0436",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Няшабож",
     "name_en": "Nyashabozh"
@@ -2498,7 +2498,7 @@
     "locality": "Ловоз",
     "location_id": "loc_043b043e0432043e0437",
     "language_ids": [
-      "izhma-komi"
+      "komi"
     ],
     "name_ru": "Ловоз",
     "name_en": "Lovoz"
@@ -2516,7 +2516,7 @@
     "locality": "Ловозеро",
     "location_id": "loc_043b043e0432043e043704350440043e",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Ловозеро",
     "name_en": "Lovozero"
@@ -2534,7 +2534,7 @@
     "locality": "Краснощелье",
     "location_id": "loc_043a044004300441043d043e04490435043b044c0435",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Краснощелье",
     "name_en": "Krasnoshchele"
@@ -2552,7 +2552,7 @@
     "locality": "Ёна",
     "location_id": "loc_0451043d0430",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Ёна",
     "name_en": "Yona"
@@ -2570,7 +2570,7 @@
     "locality": "Териберка",
     "location_id": "loc_0442043504400438043104350440043a0430",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Териберка",
     "name_en": "Teriberka"
@@ -2588,7 +2588,7 @@
     "locality": "Воронье",
     "location_id": "loc_0432043e0440043e043d044c0435",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Воронье",
     "name_en": "Vorone"
@@ -2606,7 +2606,7 @@
     "locality": "Варзино",
     "location_id": "loc_04320430044004370438043d043e",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Варзино",
     "name_en": "Varzino"
@@ -2624,7 +2624,7 @@
     "locality": "Чальмны-Варрэ",
     "location_id": "loc_04470430043b044c043c043d044b002d0432043004400440044d",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Чальмны-Варрэ",
     "name_en": "Chalmny-Varre"
@@ -2642,7 +2642,7 @@
     "locality": "Кильдин",
     "location_id": "loc_043a0438043b044c04340438043d",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Кильдин",
     "name_en": "Kildin"
@@ -2660,7 +2660,7 @@
     "locality": "Нотозеро",
     "location_id": "loc_043d043e0442043e043704350440043e",
     "language_ids": [
-      "kola-s-mi"
+      "sami"
     ],
     "name_ru": "Нотозеро",
     "name_en": "Notozero"
