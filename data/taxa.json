@@ -17,7 +17,7 @@
   },
   {
     "taxon_id": "tax_chukchi_belichenko_002",
-    "scientific_name": "Allium sp.",
+    "scientific_name": "Allium",
     "botanical_family": "Amaryllidaceae",
     "taxon_rank": "source_taxon_or_group",
     "conservation_invasiveness_status": "",
@@ -25,7 +25,7 @@
   },
   {
     "taxon_id": "tax_chukchi_belichenko_003",
-    "scientific_name": "Alnus sp.",
+    "scientific_name": "Alnus",
     "botanical_family": "Betulaceae",
     "taxon_rank": "source_taxon_or_group",
     "conservation_invasiveness_status": "",
@@ -249,7 +249,7 @@
   },
   {
     "taxon_id": "tax_chukchi_belichenko_031",
-    "scientific_name": "Salix sp.",
+    "scientific_name": "Salix",
     "botanical_family": "Salicaceae",
     "taxon_rank": "source_taxon_or_group",
     "conservation_invasiveness_status": "",
@@ -257,7 +257,7 @@
   },
   {
     "taxon_id": "tax_chukchi_belichenko_032",
-    "scientific_name": "Sphagnum sp.",
+    "scientific_name": "Sphagnum",
     "botanical_family": "Sphagnaceae",
     "taxon_rank": "source_taxon_or_group",
     "conservation_invasiveness_status": "",
@@ -1409,7 +1409,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_pimpinella",
-    "scientific_name": "Pimpinella sp.",
+    "scientific_name": "Pimpinella",
     "botanical_family": "Apiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1417,7 +1417,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_larix",
-    "scientific_name": "Larix sp.",
+    "scientific_name": "Larix",
     "botanical_family": "Pinaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1425,7 +1425,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_rhododendron",
-    "scientific_name": "Rhododendron sp.",
+    "scientific_name": "Rhododendron",
     "botanical_family": "Ericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1433,7 +1433,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_crataegus",
-    "scientific_name": "Crataegus sp.",
+    "scientific_name": "Crataegus",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1441,7 +1441,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_pinus",
-    "scientific_name": "Pinus sp.",
+    "scientific_name": "Pinus",
     "botanical_family": "Pinaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1449,7 +1449,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_equisetum",
-    "scientific_name": "Equisetum sp.",
+    "scientific_name": "Equisetum",
     "botanical_family": "Equisetaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1457,7 +1457,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_plantago",
-    "scientific_name": "Plantago sp.",
+    "scientific_name": "Plantago",
     "botanical_family": "Plantaginaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1465,7 +1465,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_kobresia",
-    "scientific_name": "Kobresia sp.",
+    "scientific_name": "Kobresia",
     "botanical_family": "Cyperaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1473,7 +1473,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_cicuta",
-    "scientific_name": "Cicuta sp.",
+    "scientific_name": "Cicuta",
     "botanical_family": "Apiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1481,7 +1481,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_morchella",
-    "scientific_name": "Morchella sp.",
+    "scientific_name": "Morchella",
     "botanical_family": "Morchellaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1489,7 +1489,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_aconitum",
-    "scientific_name": "Aconitum sp.",
+    "scientific_name": "Aconitum",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1497,7 +1497,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_rosa",
-    "scientific_name": "Rosa sp.",
+    "scientific_name": "Rosa",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1505,7 +1505,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_secale",
-    "scientific_name": "Secale sp.",
+    "scientific_name": "Secale",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1513,7 +1513,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_fragaria",
-    "scientific_name": "Fragaria sp.",
+    "scientific_name": "Fragaria",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1521,7 +1521,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_hordeum",
-    "scientific_name": "Hordeum sp.",
+    "scientific_name": "Hordeum",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1529,7 +1529,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_hedysarum",
-    "scientific_name": "Hedysarum sp.",
+    "scientific_name": "Hedysarum",
     "botanical_family": "Fabaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1537,7 +1537,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_salix",
-    "scientific_name": "Salix sp.",
+    "scientific_name": "Salix",
     "botanical_family": "Salicaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1545,7 +1545,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_humulus",
-    "scientific_name": "Humulus sp.",
+    "scientific_name": "Humulus",
     "botanical_family": "Cannabaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1553,7 +1553,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_lactarius",
-    "scientific_name": "Lactarius sp.",
+    "scientific_name": "Lactarius",
     "botanical_family": "Russulaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1561,7 +1561,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_schoenoplectus",
-    "scientific_name": "Schoenoplectus sp.",
+    "scientific_name": "Schoenoplectus",
     "botanical_family": "Cyperaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1569,7 +1569,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_chamaenerion",
-    "scientific_name": "Chamaenerion sp.",
+    "scientific_name": "Chamaenerion",
     "botanical_family": "Onagraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1577,7 +1577,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_vaccinium",
-    "scientific_name": "Vaccinium sp.",
+    "scientific_name": "Vaccinium",
     "botanical_family": "Ericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1585,7 +1585,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_rumex",
-    "scientific_name": "Rumex sp.",
+    "scientific_name": "Rumex",
     "botanical_family": "Polygonaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1593,7 +1593,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_pleuropogon",
-    "scientific_name": "Pleuropogon sp.",
+    "scientific_name": "Pleuropogon",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1601,7 +1601,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_leymus",
-    "scientific_name": "Leymus sp.",
+    "scientific_name": "Leymus",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1609,7 +1609,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_trollius",
-    "scientific_name": "Trollius sp.",
+    "scientific_name": "Trollius",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1617,7 +1617,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_juniperus",
-    "scientific_name": "Juniperus sp.",
+    "scientific_name": "Juniperus",
     "botanical_family": "Cupressaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1625,7 +1625,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_veratrum",
-    "scientific_name": "Veratrum sp.",
+    "scientific_name": "Veratrum",
     "botanical_family": "Melanthiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1633,7 +1633,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_allium",
-    "scientific_name": "Allium sp.",
+    "scientific_name": "Allium",
     "botanical_family": "Amaryllidaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1641,7 +1641,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_linum",
-    "scientific_name": "Linum sp.",
+    "scientific_name": "Linum",
     "botanical_family": "Linaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1649,7 +1649,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_senecio",
-    "scientific_name": "Senecio sp.",
+    "scientific_name": "Senecio",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1657,7 +1657,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_ribes",
-    "scientific_name": "Ribes sp.",
+    "scientific_name": "Ribes",
     "botanical_family": "Grossulariaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1665,7 +1665,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_rubus",
-    "scientific_name": "Rubus sp.",
+    "scientific_name": "Rubus",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1673,7 +1673,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_pulsatilla",
-    "scientific_name": "Pulsatilla sp.",
+    "scientific_name": "Pulsatilla",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1681,7 +1681,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_taraxacum",
-    "scientific_name": "Taraxacum sp.",
+    "scientific_name": "Taraxacum",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1689,7 +1689,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_cucumis",
-    "scientific_name": "Cucumis sp.",
+    "scientific_name": "Cucumis",
     "botanical_family": "Cucurbitaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1697,7 +1697,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_solanum",
-    "scientific_name": "Solanum sp.",
+    "scientific_name": "Solanum",
     "botanical_family": "Solanaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1705,7 +1705,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_salvia",
-    "scientific_name": "Salvia sp.",
+    "scientific_name": "Salvia",
     "botanical_family": "Lamiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1713,7 +1713,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_sorbus",
-    "scientific_name": "Sorbus sp.",
+    "scientific_name": "Sorbus",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1721,7 +1721,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_lilium",
-    "scientific_name": "Lilium sp.",
+    "scientific_name": "Lilium",
     "botanical_family": "Liliaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1729,7 +1729,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_alnus",
-    "scientific_name": "Alnus sp.",
+    "scientific_name": "Alnus",
     "botanical_family": "Betulaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1737,7 +1737,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_orobanche",
-    "scientific_name": "Orobanche sp.",
+    "scientific_name": "Orobanche",
     "botanical_family": "Orobanchaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1745,7 +1745,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_triticum",
-    "scientific_name": "Triticum sp.",
+    "scientific_name": "Triticum",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1753,7 +1753,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_saxifraga",
-    "scientific_name": "Saxifraga sp.",
+    "scientific_name": "Saxifraga",
     "botanical_family": "Saxifragaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1761,7 +1761,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_nicotiana",
-    "scientific_name": "Nicotiana sp.",
+    "scientific_name": "Nicotiana",
     "botanical_family": "Solanaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1769,7 +1769,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_populus",
-    "scientific_name": "Populus sp.",
+    "scientific_name": "Populus",
     "botanical_family": "Salicaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1777,7 +1777,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_filipendula",
-    "scientific_name": "Filipendula sp.",
+    "scientific_name": "Filipendula",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1785,7 +1785,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_cucurbita",
-    "scientific_name": "Cucurbita sp.",
+    "scientific_name": "Cucurbita",
     "botanical_family": "Cucurbitaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1793,7 +1793,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_carex",
-    "scientific_name": "Carex sp.",
+    "scientific_name": "Carex",
     "botanical_family": "Cyperaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1801,7 +1801,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_betula",
-    "scientific_name": "Betula sp.",
+    "scientific_name": "Betula",
     "botanical_family": "Betulaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1809,7 +1809,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_avena",
-    "scientific_name": "Avena sp.",
+    "scientific_name": "Avena",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1817,7 +1817,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_artemisia",
-    "scientific_name": "Artemisia sp.",
+    "scientific_name": "Artemisia",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1825,7 +1825,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_convolvulus",
-    "scientific_name": "Convolvulus sp.",
+    "scientific_name": "Convolvulus",
     "botanical_family": "Convolvulaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1841,7 +1841,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_prunus",
-    "scientific_name": "Prunus sp.",
+    "scientific_name": "Prunus",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1857,7 +1857,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_adonis",
-    "scientific_name": "Adonis sp.",
+    "scientific_name": "Adonis",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1865,7 +1865,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_acorus",
-    "scientific_name": "Acorus sp.",
+    "scientific_name": "Acorus",
     "botanical_family": "Acoraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1873,7 +1873,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_calluna",
-    "scientific_name": "Calluna sp.",
+    "scientific_name": "Calluna",
     "botanical_family": "Ericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1881,7 +1881,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_geranium",
-    "scientific_name": "Geranium sp.",
+    "scientific_name": "Geranium",
     "botanical_family": "Geraniaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1889,7 +1889,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_ranunculus",
-    "scientific_name": "Ranunculus sp.",
+    "scientific_name": "Ranunculus",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1897,7 +1897,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_tanacetum",
-    "scientific_name": "Tanacetum sp.",
+    "scientific_name": "Tanacetum",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1913,7 +1913,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_cerastium",
-    "scientific_name": "Cerastium sp.",
+    "scientific_name": "Cerastium",
     "botanical_family": "Caryophyllaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1921,7 +1921,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_thymus",
-    "scientific_name": "Thymus sp.",
+    "scientific_name": "Thymus",
     "botanical_family": "Lamiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1929,7 +1929,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_solidago",
-    "scientific_name": "Solidago sp.",
+    "scientific_name": "Solidago",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1937,7 +1937,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_empetrum",
-    "scientific_name": "Empetrum sp.",
+    "scientific_name": "Empetrum",
     "botanical_family": "Ericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1945,7 +1945,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_eriophorum",
-    "scientific_name": "Eriophorum sp.",
+    "scientific_name": "Eriophorum",
     "botanical_family": "Cyperaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1953,7 +1953,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_picea",
-    "scientific_name": "Picea sp.",
+    "scientific_name": "Picea",
     "botanical_family": "Pinaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1961,7 +1961,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_iris",
-    "scientific_name": "Iris sp.",
+    "scientific_name": "Iris",
     "botanical_family": "Iridaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1969,7 +1969,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_arctostaphylos",
-    "scientific_name": "Arctostaphylos sp.",
+    "scientific_name": "Arctostaphylos",
     "botanical_family": "Ericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1977,7 +1977,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_hypericum",
-    "scientific_name": "Hypericum sp.",
+    "scientific_name": "Hypericum",
     "botanical_family": "Hypericaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1985,7 +1985,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_lonicera",
-    "scientific_name": "Lonicera sp.",
+    "scientific_name": "Lonicera",
     "botanical_family": "Caprifoliaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -1993,7 +1993,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_tussilago",
-    "scientific_name": "Tussilago sp.",
+    "scientific_name": "Tussilago",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2001,7 +2001,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_prunella",
-    "scientific_name": "Prunella sp.",
+    "scientific_name": "Prunella",
     "botanical_family": "Lamiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2009,7 +2009,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_suillus",
-    "scientific_name": "Suillus sp.",
+    "scientific_name": "Suillus",
     "botanical_family": "Suillaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2017,7 +2017,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_heracleum",
-    "scientific_name": "Heracleum sp.",
+    "scientific_name": "Heracleum",
     "botanical_family": "Apiaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2025,7 +2025,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_silene",
-    "scientific_name": "Silene sp.",
+    "scientific_name": "Silene",
     "botanical_family": "Caryophyllaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2033,7 +2033,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_bromus",
-    "scientific_name": "Bromus sp.",
+    "scientific_name": "Bromus",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2041,7 +2041,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_thalictrum",
-    "scientific_name": "Thalictrum sp.",
+    "scientific_name": "Thalictrum",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2049,7 +2049,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_leucanthemum",
-    "scientific_name": "Leucanthemum sp.",
+    "scientific_name": "Leucanthemum",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2057,7 +2057,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_comarum",
-    "scientific_name": "Comarum sp.",
+    "scientific_name": "Comarum",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2065,7 +2065,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_phleum",
-    "scientific_name": "Phleum sp.",
+    "scientific_name": "Phleum",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2073,7 +2073,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_trifolium",
-    "scientific_name": "Trifolium sp.",
+    "scientific_name": "Trifolium",
     "botanical_family": "Fabaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2081,7 +2081,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_nuphar",
-    "scientific_name": "Nuphar sp.",
+    "scientific_name": "Nuphar",
     "botanical_family": "Nymphaeaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2089,7 +2089,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_caltha",
-    "scientific_name": "Caltha sp.",
+    "scientific_name": "Caltha",
     "botanical_family": "Ranunculaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2097,7 +2097,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_vicia",
-    "scientific_name": "Vicia sp.",
+    "scientific_name": "Vicia",
     "botanical_family": "Fabaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2105,7 +2105,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_achillea",
-    "scientific_name": "Achillea sp.",
+    "scientific_name": "Achillea",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2113,7 +2113,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_abies",
-    "scientific_name": "Abies sp.",
+    "scientific_name": "Abies",
     "botanical_family": "Pinaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2121,7 +2121,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_quercus",
-    "scientific_name": "Quercus sp.",
+    "scientific_name": "Quercus",
     "botanical_family": "Fagaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2129,7 +2129,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_fraxinus",
-    "scientific_name": "Fraxinus sp.",
+    "scientific_name": "Fraxinus",
     "botanical_family": "Oleaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2137,7 +2137,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_malus",
-    "scientific_name": "Malus sp.",
+    "scientific_name": "Malus",
     "botanical_family": "Rosaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2145,7 +2145,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_cannabis",
-    "scientific_name": "Cannabis sp.",
+    "scientific_name": "Cannabis",
     "botanical_family": "Cannabaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2153,7 +2153,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_arctium",
-    "scientific_name": "Arctium sp.",
+    "scientific_name": "Arctium",
     "botanical_family": "Asteraceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2161,7 +2161,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_phragmites",
-    "scientific_name": "Phragmites sp.",
+    "scientific_name": "Phragmites",
     "botanical_family": "Poaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2169,7 +2169,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_gentiana",
-    "scientific_name": "Gentiana sp.",
+    "scientific_name": "Gentiana",
     "botanical_family": "Gentianaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2177,7 +2177,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_polygonum",
-    "scientific_name": "Polygonum sp.",
+    "scientific_name": "Polygonum",
     "botanical_family": "Polygonaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2185,7 +2185,7 @@
   },
   {
     "taxon_id": "tax_family_inferred_fallopia",
-    "scientific_name": "Fallopia sp.",
+    "scientific_name": "Fallopia",
     "botanical_family": "Polygonaceae",
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
@@ -2222,5 +2222,69 @@
     "taxon_rank": "family",
     "conservation_invasiveness_status": "",
     "notes": "Family assignment supported by source gloss; no species-level identification implied."
+  },
+  {
+    "taxon_id": "tax_selkup_currant",
+    "scientific_name": "Ribes",
+    "botanical_family": "Grossulariaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies only the culturally recognized plant group; no narrower determination."
+  },
+  {
+    "taxon_id": "tax_selkup_bird_cherry",
+    "scientific_name": "Prunus padus",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification based on the Russian gloss in cited source."
+  },
+  {
+    "taxon_id": "tax_selkup_lingonberry",
+    "scientific_name": "Vaccinium vitis-idaea",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification based on the Russian gloss in cited source."
+  },
+  {
+    "taxon_id": "tax_selkup_cranberry",
+    "scientific_name": "Vaccinium",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies only the culturally recognized plant group; no narrower determination."
+  },
+  {
+    "taxon_id": "tax_selkup_sarana",
+    "scientific_name": "Liliaceae",
+    "botanical_family": "Liliaceae",
+    "taxon_rank": "family",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies only the culturally recognized plant group; no narrower determination."
+  },
+  {
+    "taxon_id": "tax_selkup_pine",
+    "scientific_name": "Pinus sibirica",
+    "botanical_family": "Pinaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification based on the Russian gloss in cited source."
+  },
+  {
+    "taxon_id": "tax_selkup_poplar",
+    "scientific_name": "Populus nigra",
+    "botanical_family": "Salicaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification based on the Russian gloss in cited source."
+  },
+  {
+    "taxon_id": "tax_selkup_chaga",
+    "scientific_name": "Inonotus obliquus",
+    "botanical_family": "Hymenochaetaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies chaga."
   }
 ]

@@ -1,0 +1,694 @@
+[
+  {
+    "phytonym_id": "phy_selkup_2005_005",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_northern_selkup",
+    "taxon_id": "tax_selkup_sarana",
+    "name_native_language": "toqil",
+    "names_other_varieties": [],
+    "russian_gloss": "сарана",
+    "english_gloss": "sarana",
+    "linguistic_comment": "тазовский вариант (источник: «тазов.»); подговор не указан",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "пойменные долины",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "из растения изготовляли напиток, названный в источнике «селькупское вино»",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "used to prepare a drink called “Selkup wine” in the source"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      },
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_005",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_northern_selkup",
+          "dia_northern-selkup_taz_unspecified"
+        ],
+        "dialect_abbreviations": [
+          "taz"
+        ]
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "floodplain valleys"
+    }
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_008",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_northern_selkup",
+    "taxon_id": "tax_selkup_pine",
+    "name_native_language": "satqi",
+    "names_other_varieties": [],
+    "russian_gloss": "кедровый орех",
+    "english_gloss": "Siberian pine nut",
+    "linguistic_comment": "тазовский вариант (источник: «тазов.»); подговор не указан",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "сбор орехов преимущественно в середине сентября",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "кедровые орехи собирали осенью, обычно в сентябре; они служили лакомством и товаром",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "pine nuts gathered in autumn, especially September; eaten as a delicacy and traded"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      },
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_008",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_northern_selkup",
+          "dia_northern-selkup_taz_unspecified"
+        ],
+        "dialect_abbreviations": [
+          "taz"
+        ]
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "pine nut gathering mainly in mid-September"
+    }
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_001",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_currant",
+    "name_native_language": "kepti",
+    "names_other_varieties": [],
+    "russian_gloss": "смородина",
+    "english_gloss": "currant",
+    "linguistic_comment": "селькупская форма без указания диалекта в источнике",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды сушили для хранения; листья заваривали вместо чая",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries dried for storage; leaves brewed as a tea substitute"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_001",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_002",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_bird_cherry",
+    "name_native_language": "t’iwwi",
+    "names_other_varieties": [],
+    "russian_gloss": "черёмуха",
+    "english_gloss": "bird cherry",
+    "linguistic_comment": "селькупская форма без указания диалекта в источнике",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды сушили в берестяных коробах",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries dried in birch-bark containers"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_002",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_003",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_lingonberry",
+    "name_native_language": "mandu",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "селькупская форма без указания диалекта в источнике",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды замораживали и хранили в деревянных кадках; использовали для квашения рыбы",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries frozen and kept in wooden tubs; used in fish fermentation"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_003",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_004",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_cranberry",
+    "name_native_language": "qarran apsot",
+    "names_other_varieties": [],
+    "russian_gloss": "клюква",
+    "english_gloss": "cranberry",
+    "linguistic_comment": "селькупская форма без указания диалекта в источнике",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды замораживали и хранили в деревянных кадках; ягоды использовали для квашения рыбы",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries frozen and kept in wooden tubs; berries used in fish fermentation"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_004",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_006",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_pine",
+    "name_native_language": "swengi",
+    "names_other_varieties": [],
+    "russian_gloss": "кедровый орех",
+    "english_gloss": "Siberian pine nut",
+    "linguistic_comment": "кетский вариант (источник: «кет.»); точный подговор не указан",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "сбор орехов преимущественно в середине сентября",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "кедровые орехи собирали осенью, обычно в сентябре; они служили лакомством и товаром",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "pine nuts gathered in autumn, especially September; eaten as a delicacy and traded"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      },
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_006",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup",
+          "dia_southern-selkup_ket_unspecified"
+        ],
+        "dialect_abbreviations": [
+          "ket"
+        ]
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "pine nut gathering mainly in mid-September"
+    }
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_007",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_pine",
+    "name_native_language": "hwešk",
+    "names_other_varieties": [],
+    "russian_gloss": "кедровый орех",
+    "english_gloss": "Siberian pine nut",
+    "linguistic_comment": "нарымский вариант (источник: «нарым.»)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "сбор орехов преимущественно в середине сентября",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "кедровые орехи собирали осенью, обычно в сентябре; они служили лакомством и товаром",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "pine nuts gathered in autumn, especially September; eaten as a delicacy and traded"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      },
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_007",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup",
+          "dia_southern-selkup_narym"
+        ],
+        "dialect_abbreviations": [
+          "narym"
+        ]
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "pine nut gathering mainly in mid-September"
+    }
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_009",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_poplar",
+    "name_native_language": "qa",
+    "names_other_varieties": [],
+    "russian_gloss": "осокорь",
+    "english_gloss": "black poplar",
+    "linguistic_comment": "нарымский вариант (источник: «нарым.»)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "кору использовали для изготовления поплавков рыболовных сетей",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "bark used to make fishing-net floats"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "319"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_009",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "319",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup",
+          "dia_southern-selkup_narym"
+        ],
+        "dialect_abbreviations": [
+          "narym"
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_010",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_chaga",
+    "name_native_language": "očči",
+    "names_other_varieties": [],
+    "russian_gloss": "чага",
+    "english_gloss": "chaga",
+    "linguistic_comment": "кетский вариант (источник: «кет.»); точный подговор не указан",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "собирали осенью; толкли и добавляли в чай и табак",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "gathered in autumn, crushed and added to tea and tobacco"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_010",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup",
+          "dia_southern-selkup_ket_unspecified"
+        ],
+        "dialect_abbreviations": [
+          "ket"
+        ]
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_selkup_2005_011",
+    "language_id": "selkup",
+    "dialect_id": "dia_group_southern_selkup",
+    "taxon_id": "tax_selkup_chaga",
+    "name_native_language": "pužel laga",
+    "names_other_varieties": [],
+    "russian_gloss": "чага",
+    "english_gloss": "chaga",
+    "linguistic_comment": "нарымский вариант (источник: «нарым.»)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "собирали осенью; толкли и добавляли в чай и табак",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "gathered in autumn, crushed and added to tea and tobacco"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_gemuev_molodin_sokolova_2005",
+            "source_pages": "328"
+          }
+        ]
+      }
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_selkup_2005_011",
+        "source_id": "src_gemuev_molodin_sokolova_2005",
+        "source_pages": "328",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_southern_selkup",
+          "dia_southern-selkup_narym"
+        ],
+        "dialect_abbreviations": [
+          "narym"
+        ]
+      }
+    ],
+    "ipa": null
+  }
+]

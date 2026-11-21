@@ -67,7 +67,7 @@
     "location_id": "loc_0430043d04340440044e0448043a0438043d043e",
     "language_ids": [
       "even",
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "name_ru": "Андрюшкино",
     "name_en": "Andryushkino"
@@ -1448,7 +1448,7 @@
     "locality": "Сеяха",
     "location_id": "loc_04410435044f04450430",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Сеяха",
     "name_en": "Seyakha"
@@ -1466,7 +1466,7 @@
     "locality": "Яр-Сале",
     "location_id": "loc_044f0440002d04410430043b0435",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Яр-Сале",
     "name_en": "Yar-Sale"
@@ -1484,7 +1484,7 @@
     "locality": "Панаевск",
     "location_id": "loc_043f0430043d0430043504320441043a",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Панаевск",
     "name_en": "Panaevsk"
@@ -1502,7 +1502,7 @@
     "locality": "Новый Порт",
     "location_id": "loc_043d043e0432044b04390020043f043e04400442",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Новый Порт",
     "name_en": "Novyy Port"
@@ -1520,7 +1520,7 @@
     "locality": "Гыда",
     "location_id": "loc_0433044b04340430",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Гыда",
     "name_en": "Gyda"
@@ -1538,7 +1538,7 @@
     "locality": "Антипаюта",
     "location_id": "loc_0430043d04420438043f0430044e04420430",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Антипаюта",
     "name_en": "Antipayuta"
@@ -1556,7 +1556,7 @@
     "locality": "Тазовский",
     "location_id": "loc_044204300437043e04320441043a04380439",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Тазовский",
     "name_en": "Tazovskiy"
@@ -1574,7 +1574,7 @@
     "locality": "Аксарка",
     "location_id": "loc_0430043a044104300440043a0430",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Аксарка",
     "name_en": "Aksarka"
@@ -1592,7 +1592,7 @@
     "locality": "Нельмин Нос",
     "location_id": "loc_043d0435043b044c043c0438043d0020043d043e0441",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Нельмин Нос",
     "name_en": "Nelmin Nos"
@@ -1610,7 +1610,7 @@
     "locality": "Бугрино",
     "location_id": "loc_04310443043304400438043d043e",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Бугрино",
     "name_en": "Bugrino"
@@ -1628,7 +1628,7 @@
     "locality": "Несь",
     "location_id": "loc_043d04350441044c",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Несь",
     "name_en": "Nes"
@@ -1646,7 +1646,7 @@
     "locality": "Нарьян-Мар",
     "location_id": "loc_043d04300440044c044f043d002d043c04300440",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "name_ru": "Нарьян-Мар",
     "name_en": "Naryan-Mar"
@@ -1664,7 +1664,7 @@
     "locality": "Харампур",
     "location_id": "loc_0445043004400430043c043f04430440",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Харампур",
     "name_en": "Kharampur"
@@ -1682,7 +1682,7 @@
     "locality": "Халясавэй",
     "location_id": "loc_04450430043b044f044104300432044d0439",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Халясавэй",
     "name_en": "Khalyasavey"
@@ -1700,7 +1700,7 @@
     "locality": "Тарко-Сале",
     "location_id": "loc_044204300440043a043e002d04410430043b0435",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Тарко-Сале",
     "name_en": "Tarko-Sale"
@@ -1718,7 +1718,7 @@
     "locality": "Варьёган",
     "location_id": "loc_043204300440044c045104330430043d",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Варьёган",
     "name_en": "Varyogan"
@@ -1736,7 +1736,7 @@
     "locality": "Аган",
     "location_id": "loc_043004330430043d",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Аган",
     "name_en": "Agan"
@@ -1754,7 +1754,7 @@
     "locality": "Нумто",
     "location_id": "loc_043d0443043c0442043e",
     "language_ids": [
-      "forest-nenets"
+      "nenets"
     ],
     "name_ru": "Нумто",
     "name_en": "Numto"
@@ -1772,7 +1772,7 @@
     "locality": "Казым",
     "location_id": "loc_043a04300437044b043c",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Казым",
     "name_en": "Kazym"
@@ -1790,7 +1790,7 @@
     "locality": "Юильск",
     "location_id": "loc_044e0438043b044c0441043a",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Юильск",
     "name_en": "Yuilsk"
@@ -1808,7 +1808,7 @@
     "locality": "Полноват",
     "location_id": "loc_043f043e043b043d043e043204300442",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Полноват",
     "name_en": "Polnovat"
@@ -1826,7 +1826,7 @@
     "locality": "Ванзеват",
     "location_id": "loc_04320430043d04370435043204300442",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Ванзеват",
     "name_en": "Vanzevat"
@@ -1844,7 +1844,7 @@
     "locality": "Мужи",
     "location_id": "loc_043c044304360438",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Мужи",
     "name_en": "Muzhi"
@@ -1862,7 +1862,7 @@
     "locality": "Овгорт",
     "location_id": "loc_043e04320433043e04400442",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Овгорт",
     "name_en": "Ovgort"
@@ -1880,7 +1880,7 @@
     "locality": "Питляр",
     "location_id": "loc_043f04380442043b044f0440",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Питляр",
     "name_en": "Pitlyar"
@@ -1898,7 +1898,7 @@
     "locality": "Горки",
     "location_id": "loc_0433043e0440043a0438",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Горки",
     "name_en": "Gorki"
@@ -1916,7 +1916,7 @@
     "locality": "Лопхари",
     "location_id": "loc_043b043e043f0445043004400438",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Лопхари",
     "name_en": "Lopkhari"
@@ -1934,7 +1934,7 @@
     "locality": "Шурышкары",
     "location_id": "loc_044804430440044b0448043a04300440044b",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Шурышкары",
     "name_en": "Shuryshkary"
@@ -1952,7 +1952,7 @@
     "locality": "Салехард",
     "location_id": "loc_04410430043b04350445043004400434",
     "language_ids": [
-      "northern-khanty"
+      "khanty"
     ],
     "name_ru": "Салехард",
     "name_en": "Salekhard"
@@ -1970,7 +1970,7 @@
     "locality": "Колымское",
     "location_id": "loc_043a043e043b044b043c0441043a043e0435",
     "language_ids": [
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "name_ru": "Колымское",
     "name_en": "Kolymskoe"
@@ -1988,7 +1988,7 @@
     "locality": "Походск",
     "location_id": "loc_043f043e0445043e04340441043a",
     "language_ids": [
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "name_ru": "Походск",
     "name_en": "Pokhodsk"
@@ -2006,7 +2006,7 @@
     "locality": "Черский",
     "location_id": "loc_0447043504400441043a04380439",
     "language_ids": [
-      "tundra-yukaghir",
+      "yukaghir",
       "sakha"
     ],
     "name_ru": "Черский",
@@ -2025,7 +2025,7 @@
     "locality": "Нелемное",
     "location_id": "loc_043d0435043b0435043c043d043e0435",
     "language_ids": [
-      "forest-yukaghir"
+      "yukaghir"
     ],
     "name_ru": "Нелемное",
     "name_en": "Nelemnoe"
@@ -2043,7 +2043,7 @@
     "locality": "Зырянка",
     "location_id": "loc_0437044b0440044f043d043a0430",
     "language_ids": [
-      "forest-yukaghir",
+      "yukaghir",
       "sakha"
     ],
     "name_ru": "Зырянка",
@@ -2062,7 +2062,7 @@
     "locality": "Верхнеколымск",
     "location_id": "loc_0432043504400445043d0435043a043e043b044b043c0441043a",
     "language_ids": [
-      "forest-yukaghir"
+      "yukaghir"
     ],
     "name_ru": "Верхнеколымск",
     "name_en": "Verkhnekolymsk"

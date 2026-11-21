@@ -1025,7 +1025,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_middle-taz",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "среднетазовский диалект",
     "name_en": "Middle Taz dialect",
     "alternative_names": [],
@@ -1036,7 +1036,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_upper-taz",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "верхнетазовский диалект",
     "name_en": "Upper Taz dialect",
     "alternative_names": [],
@@ -1047,7 +1047,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_upper-tolka",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "верхнетолькинский (ларьякский) диалект",
     "name_en": "Upper Tolka (Laryak) dialect",
     "alternative_names": [],
@@ -1058,7 +1058,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_baikha",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "баихинский (туруханский) диалект",
     "name_en": "Baikha (Turukhan) dialect",
     "alternative_names": [],
@@ -1069,7 +1069,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_karasino",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "карасинский диалект",
     "name_en": "Karasino dialect",
     "alternative_names": [],
@@ -1080,7 +1080,7 @@
   },
   {
     "dialect_id": "dia_northern-selkup_yeloguy",
-    "language_id": "northern-selkup",
+    "language_id": "selkup",
     "name_ru": "елогуйский диалект",
     "name_en": "Yeloguy dialect",
     "alternative_names": [],
@@ -1091,7 +1091,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_tym",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "тымский диалект",
     "name_en": "Tym dialect",
     "alternative_names": [],
@@ -1102,7 +1102,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_narym",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "нарымский диалект",
     "name_en": "Narym dialect",
     "alternative_names": [],
@@ -1113,7 +1113,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_vasyugan",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "васюганский диалект",
     "name_en": "Vasyugan dialect",
     "alternative_names": [],
@@ -1124,7 +1124,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_vakh",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "ваховский диалект",
     "name_en": "Vakh dialect",
     "alternative_names": [],
@@ -1135,7 +1135,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_middle-ob",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "среднеобской диалект",
     "name_en": "Middle Ob dialect",
     "alternative_names": [],
@@ -1146,7 +1146,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_upper-ob",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "верхнеобской диалект",
     "name_en": "Upper Ob dialect",
     "alternative_names": [],
@@ -1157,7 +1157,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_chaya",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "чаинский диалект",
     "name_en": "Chaya dialect",
     "alternative_names": [],
@@ -1168,7 +1168,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_lower-ket",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "нижнекетский говор",
     "name_en": "Lower Ket subdialect",
     "alternative_names": [],
@@ -1179,7 +1179,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_middle-ket",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "среднекетский говор",
     "name_en": "Middle Ket subdialect",
     "alternative_names": [],
@@ -1190,7 +1190,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_upper-ket",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "верхнекетский говор",
     "name_en": "Upper Ket subdialect",
     "alternative_names": [],
@@ -1201,7 +1201,7 @@
   },
   {
     "dialect_id": "dia_southern-selkup_chulym",
-    "language_id": "southern-selkup",
+    "language_id": "selkup",
     "name_ru": "чулымский диалект",
     "name_en": "Chulym dialect",
     "alternative_names": [],
@@ -1277,5 +1277,90 @@
     "alternative_names": [],
     "location_ids": [],
     "notes": "Catalog grouping; do not infer a collection locality."
+  },
+  {
+    "dialect_id": "dia_northern-selkup_taz_unspecified",
+    "language_id": "selkup",
+    "name_ru": "тазовский вариант (без уточнения говора)",
+    "name_en": "Taz variety (subdialect unspecified)",
+    "alternative_names": [],
+    "source_abbreviation": "тазов.",
+    "location_ids": [],
+    "classification_group": "unspecified subvariety",
+    "notes": "Book Narody Zapadnoi Sibiri (2005), p. 328; no more specific subdialect attested."
+  },
+  {
+    "dialect_id": "dia_southern-selkup_ket_unspecified",
+    "language_id": "selkup",
+    "name_ru": "кетский вариант (без уточнения говора)",
+    "name_en": "Ket variety (subdialect unspecified)",
+    "alternative_names": [],
+    "source_abbreviation": "кет.",
+    "location_ids": [],
+    "classification_group": "unspecified subvariety",
+    "notes": "Book Narody Zapadnoi Sibiri (2005), p. 328; no more specific subdialect attested."
+  },
+  {
+    "dialect_id": "dia_group_tundra_nenets",
+    "language_id": "nenets",
+    "name_ru": "Тундровый ненецкий",
+    "name_en": "Tundra Nenets",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_forest_nenets",
+    "language_id": "nenets",
+    "name_ru": "Лесной ненецкий",
+    "name_en": "Forest Nenets",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_northern_selkup",
+    "language_id": "selkup",
+    "name_ru": "Северный селькупский",
+    "name_en": "Northern Selkup",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_southern_selkup",
+    "language_id": "selkup",
+    "name_ru": "Южный селькупский",
+    "name_en": "Southern Selkup",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_forest_yukaghir",
+    "language_id": "yukaghir",
+    "name_ru": "Лесной юкагирский (одульский)",
+    "name_en": "Forest Yukaghir (Odul)",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "language_id": "yukaghir",
+    "name_ru": "Тундренный юкагирский (вадульский)",
+    "name_en": "Tundra Yukaghir (Wadul)",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
+  },
+  {
+    "dialect_id": "dia_group_northern_khanty",
+    "language_id": "khanty",
+    "name_ru": "Северный хантыйский",
+    "name_en": "Northern Khanty",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Broad language variety; not a location of lexical attestation."
   }
 ]

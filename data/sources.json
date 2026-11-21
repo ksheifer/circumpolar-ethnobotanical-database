@@ -26,21 +26,21 @@
   {
     "publication_type": "book",
     "authors": "",
-    "editors": "Роббек Василий Афанасьевич",
-    "title": "Фольклор эвенов Березовки",
-    "subtitle": "",
-    "publisher": "",
+    "editors": "Роббек Василий Афанасьевич (составитель); Тарабукина Е. К. (ответственный редактор)",
+    "title": "Фольклор эвенов Березовки = Хоен эвэсэлни алмантан",
+    "subtitle": "Образцы шедевров",
+    "publisher": "Издательство Института проблем малочисленных народов Севера СО РАН",
     "publication_place": "Якутск",
     "year": "2005",
-    "total_pages": "",
+    "total_pages": "360, [1] с., X л. ил.",
     "journal": "",
     "volume": "",
     "issue": "",
     "page_range": "",
     "doi": "",
     "isbn": "",
-    "url": "",
-    "notes": "Составитель указан в предоставленном пользователем описании. Издательство и число страниц неизвестны.",
+    "url": "https://nlrs.ru/to-readers/segments/pub/open/1571",
+    "notes": "",
     "source_id": "src_folklor_evenov_2005",
     "language_ids": [
       "even"
@@ -595,7 +595,7 @@
     "notes": "EDN: YXOTQQ",
     "source_id": "src_kurilova_2026_wadul",
     "language_ids": [
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "citation_key": "Kurilova",
     "publication_type": "journal_article",
@@ -619,8 +619,7 @@
     "notes": "",
     "source_id": "src_prokopeva_2026_odul",
     "language_ids": [
-      "forest-yukaghir",
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "citation_key": "Prokopeva",
     "publication_type": "journal_article",
@@ -631,8 +630,7 @@
   {
     "source_id": "src_jochelson_yukaghir_1910_part_i",
     "language_ids": [
-      "forest-yukaghir",
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "citation_key": "Jochelson",
     "publication_type": "book",
@@ -657,8 +655,7 @@
   {
     "source_id": "src_jochelson_yukaghir_1924_part_ii",
     "language_ids": [
-      "forest-yukaghir",
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "citation_key": "Jochelson",
     "publication_type": "book",
@@ -683,8 +680,7 @@
   {
     "source_id": "src_jochelson_yukaghir_1926_part_iii",
     "language_ids": [
-      "forest-yukaghir",
-      "tundra-yukaghir"
+      "yukaghir"
     ],
     "citation_key": "Jochelson",
     "publication_type": "book",
@@ -709,8 +705,7 @@
   {
     "source_id": "src_inel_selkup_corpus_2021",
     "language_ids": [
-      "northern-selkup",
-      "southern-selkup"
+      "selkup"
     ],
     "citation_key": "INEL Selkup Corpus",
     "publication_type": "report",
@@ -775,7 +770,7 @@
     "url": "https://etnografia.kunstkamera.ru/files/etnografia_journal/2023_01/08_adaev.pdf",
     "notes": "",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "citation_key": "Adaev"
   },
@@ -799,7 +794,7 @@
     "url": "https://cdnsciencepub.com/doi/full/10.1139/as-2023-0046",
     "notes": "",
     "language_ids": [
-      "tundra-nenets"
+      "nenets"
     ],
     "citation_key": "Laptander et al."
   },
@@ -899,5 +894,106 @@
       "enets"
     ],
     "notes": ""
+  },
+  {
+    "source_id": "src_gemuev_molodin_sokolova_2005",
+    "citation_key": "Gemuev et al.",
+    "year": "2005",
+    "publication_type": "book",
+    "authors": "",
+    "editors": "Гемуев Измаил Нухович; Молодин Вячеслав Иванович; Соколова Зоя Петровна",
+    "title": "Народы Западной Сибири: ханты, манси, селькупы, ненцы, энцы, нганасаны, кеты",
+    "subtitle": "",
+    "publisher": "Наука",
+    "publication_place": "Москва",
+    "total_pages": "805",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "",
+    "doi": "",
+    "isbn": "5-02-010297-0",
+    "url": "",
+    "notes": "",
+    "language_ids": [
+      "selkup",
+      "enets",
+      "nganasan",
+      "nenets"
+    ]
+  },
+  {
+    "source_id": "src_tuchkova_2013_selkup",
+    "citation_key": "Tuchkova et al.",
+    "year": "2013",
+    "publication_type": "book",
+    "authors": "Тучкова Н. А.; Глушков С. В.; Кошкарева Е. Ю. и др.",
+    "editors": "",
+    "title": "Селькупы: очерки традиционной культуры и селькупского языка",
+    "subtitle": "2-е издание, исправленное и дополненное",
+    "publisher": "Издательство Томского политехнического университета",
+    "publication_place": "Томск",
+    "total_pages": "318",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "",
+    "doi": "",
+    "isbn": "978-5-4387-0185-9",
+    "url": "",
+    "notes": "",
+    "language_ids": [
+      "selkup"
+    ]
+  },
+  {
+    "source_id": "src_glukhiy_2010_samoyedic",
+    "citation_key": "Glukhiy et al.",
+    "year": "2010",
+    "publication_type": "book",
+    "authors": "Глухий Я. А.; Глушко С. В.; Столярова А. К.; Сусеков В. А.; Морев Ю. А.",
+    "editors": "",
+    "title": "Очерки по фонетике исчезающих самодийских языков (энцы, нганасаны, селькупы): анализ дистрибуции и фонемный состав",
+    "subtitle": "",
+    "publisher": "Издательство Томского политехнического университета",
+    "publication_place": "Томск",
+    "total_pages": "159",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "",
+    "doi": "",
+    "isbn": "978-5-98298-754-9",
+    "url": "",
+    "notes": "",
+    "language_ids": [
+      "selkup",
+      "enets",
+      "nganasan"
+    ]
+  },
+  {
+    "source_id": "src_kvashnin_2002_lower_taz",
+    "citation_key": "Kvashnin",
+    "year": "2002",
+    "publication_type": "journal_article",
+    "authors": "Квашнин Юрий Николаевич",
+    "editors": "",
+    "title": "Селькупы в низовьях Таза",
+    "subtitle": "",
+    "publisher": "",
+    "publication_place": "",
+    "total_pages": "",
+    "journal": "Вестник археологии, антропологии и этнографии",
+    "volume": "",
+    "issue": "4",
+    "page_range": "230–232",
+    "doi": "",
+    "isbn": "",
+    "url": "",
+    "notes": "",
+    "language_ids": [
+      "selkup"
+    ]
   }
 ]

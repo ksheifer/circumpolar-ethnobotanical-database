@@ -15,10 +15,11 @@
     "phytonyms/chukchi.json",
     "phytonyms/dolgan.json",
     "phytonyms/komi.json",
-    "phytonyms/tundra-yukaghir.json",
-    "phytonyms/forest-yukaghir.json",
-    "phytonyms/tundra-nenets.json",
     "phytonyms/nganasan.json",
-    "phytonyms/enets.json"
+    "phytonyms/enets.json",
+    "phytonyms/nenets.json",
+    "phytonyms/selkup.json",
+    "phytonyms/yukaghir.json",
+    "phytonyms/khanty.json"
   ]
 }

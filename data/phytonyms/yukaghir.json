@@ -1,0 +1,1825 @@
+[
+  {
+    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_000",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_family_inferred_eriophorum",
+    "name_native_language": "пэльwиэдэwчэ",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица",
+    "english_gloss": "cottongrass",
+    "linguistic_comment": "народное обозначение пушицы; буквально «верхушка кочки»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_kurilova2026_000",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurilova_2026_wadul",
+        "source_pages": "2262",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": null,
+    "name_native_language": "пөльwиэдэwчэ",
+    "names_other_varieties": [],
+    "russian_gloss": "дриада, куропаточья трава",
+    "english_gloss": "mountain avens",
+    "linguistic_comment": "в статье предлагается отождествление с Dryas octopetala; ботаническая идентификация предположительная, исходно это название могло обозначать разные растения",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_kurilova2026_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurilova_2026_wadul",
+        "source_pages": "2263",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_prokopeva2026_extra_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "нуҥниираал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница для изготовления гроба",
+    "english_gloss": "larch used for a coffin",
+    "linguistic_comment": "Цитируется в статье по Курилову (2001: 293), вторичное свидетельство.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_prokopeva2026_extra_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "162",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_chukchi_belichenko_028",
+    "name_native_language": "čomo'l-mo'lje",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре, в том числе по заболоченным участкам",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_001_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "čomo'l-mo'lje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra, including marshy areas"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_002",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_chukchi_belichenko_034",
+    "name_native_language": "ke'ile-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_002_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "ke'ile-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_003",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_chukchi_belichenko_014",
+    "name_native_language": "parana'-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "шикша",
+    "english_gloss": "crowberry",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_003_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "parana'-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_004",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_chukchi_belichenko_033",
+    "name_native_language": "o'dun-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "буквально «юкагирская ягода»; сопоставимо с одульским «одун лэбэйдии»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_004_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "o'dun-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_005",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_tundra_yukaghir",
+    "taxon_id": "tax_family_inferred_juniperus",
+    "name_native_language": "canaga'i-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "ягоды можжевельника",
+    "english_gloss": "juniper berries",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_005_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_tundra_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "canaga'i-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "шаал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "исторически также название лиственницы; современное основное значение «дерево»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лиственничные леса северо-восточной Сибири, в том числе речные долины",
+      "plant_community": "преобладающая древесная порода внутренних лесных районов",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "брёвна применяли для строительства домов; корни старой лиственницы отваривали для получения красной краски при окрашивании кожи",
+      "spiritual_use": "лиственничные брёвна использовали для подвесных погребальных сооружений; стоящие лиственницы служили опорами погребальных платформ",
+      "human_consumption": "внутренний слой коры использовали в пищу",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "162",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "larch forests of northeastern Siberia, including river valleys",
+      "plant_community": "dominant tree of interior forest areas"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ],
+        "plant_community": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "343"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "400"
+          }
+        ],
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ],
+        "spiritual_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1924_part_ii",
+            "source_pages": "223"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "logs used for houses; roots of old larch boiled for a red dye used to colour skins",
+      "human_consumption": "inner bark was eaten",
+      "spiritual_use": "larch beams used for elevated coffins; standing larches served as supports for funerary platforms"
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "одун шаал",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "буквально «юкагирское дерево»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_003",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "одуншаа",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "вариант одун шаал",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_004",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "онда",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "историческая фиксация",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_005",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "ондьаа",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая лиственница",
+    "english_gloss": "young larch",
+    "linguistic_comment": "вариант онда с более узким значением",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_006",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "өнмиэдиэ",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая лиственница",
+    "english_gloss": "young larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "165",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_007",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "ondacione shal",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая гибкая лиственница",
+    "english_gloss": "young flexible larch",
+    "linguistic_comment": "историческая латинская транскрипция, сохранена как в публикации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "165",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_008",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": null,
+    "name_native_language": "шаан шоххо",
+    "names_other_varieties": [],
+    "russian_gloss": "высокое дерево с круглой кроной",
+    "english_gloss": "tall tree with a round crown",
+    "linguistic_comment": "В статье сопоставлено с шаан шотхаткиэ (почитаемая лиственница); исходный словарь переводит как «дерево (высокое с круглой макушкой)».",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "166",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_009",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "шаан шотхаткиэ",
+    "names_other_varieties": [],
+    "russian_gloss": "почитаемая лиственница",
+    "english_gloss": "venerated larch",
+    "linguistic_comment": "Почитаемая лиственница, «шаман-дерево», по полевому сообщению в статье.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "166",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_010",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "orpanri-shal",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "историческая латинская транскрипция",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_011",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_pinaceae",
+    "name_native_language": "орполубэ",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница, дерево человека",
+    "english_gloss": "ritual larch, human-tree",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_012",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_pinaceae",
+    "name_native_language": "орполубаа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница, дерево человека",
+    "english_gloss": "ritual larch, human-tree",
+    "linguistic_comment": "вариант орполубэ",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_013",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "орпондьираа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_014",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "орпонраа",
+    "names_other_varieties": [],
+    "russian_gloss": "ритуальная лиственница",
+    "english_gloss": "ritual larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_015",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_larix",
+    "name_native_language": "amungi",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "историческая латинская транскрипция",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_vaccinium",
+    "name_native_language": "одун лэбэйдии",
+    "names_other_varieties": [
+      "o'dun-lebe'idi (Jochelson 1926)"
+    ],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "Буквально «юкагирская ягода»; приводится в статье на основании Иохельсона.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "голубика названа любимой ягодой юкагиров; ягоды ели и запасали на зиму",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "bog blueberry described as a favourite berry; berries eaten and stored for winter"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_betula",
+    "name_native_language": "поньхаараа",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "Буквально связано с признаком «белый».",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "берёзовую древесину использовали для изготовления нарт; из бересты делали сосуды",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "birch wood used for sledges; birch bark for containers"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "413"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_populus",
+    "name_native_language": "угурчэраа",
+    "names_other_varieties": [],
+    "russian_gloss": "тополь",
+    "english_gloss": "poplar",
+    "linguistic_comment": "Этимология первого компонента обсуждается как неясная.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "стволы тополя использовали для долблёных лодок",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "poplar trunks used for dugout canoes"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_salix",
+    "name_native_language": "йиэрчэраа",
+    "names_other_varieties": [],
+    "russian_gloss": "тальник, молодое дерево с развилкой",
+    "english_gloss": "willow scrub, forked sapling",
+    "linguistic_comment": "Может относиться к растительному объекту, используемому как вешала; вид растения не установлен.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "из ивовых прутьев делали рыболовные ловушки, плели верёвки и сооружали заграждения",
+      "spiritual_use": "ивовыми обручами скрепляли части погребального гроба",
+      "human_consumption": "внутреннюю кору ивы отваривали и ели при недостатке другой пищи; весной пили ивовый сок",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_prokopeva2026_extra_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_prokopeva_2026_odul",
+        "source_pages": "163",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "willow twigs used for fish traps, twisted ropes, and fish weirs",
+      "human_consumption": "inner willow bark boiled as famine food; willow sap drunk in spring",
+      "spiritual_use": "willow hoops used to secure parts of elevated burial coffins"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "373–374"
+          }
+        ],
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "419"
+          }
+        ],
+        "spiritual_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1924_part_ii",
+            "source_pages": "223"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_001",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_rubus",
+    "name_native_language": "tobo'ko-čalje",
+    "names_other_varieties": [],
+    "russian_gloss": "малина",
+    "english_gloss": "raspberry",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "южные части территории, преимущественно лесная зона и речные долины",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "листья малины применяли при золотухе и опухании шейных желез",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; их замораживали на зиму и растирали с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_001_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "tobo'ko-čalje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "southern forest-region territory, including river valleys"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ],
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish",
+      "medicinal_use": "raspberry leaves were used for scrofula and swelling of neck glands"
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_002",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_rubus",
+    "name_native_language": "yuku-ma'lje",
+    "names_other_varieties": [],
+    "russian_gloss": "княженика",
+    "english_gloss": "arctic bramble",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "южные части территории, преимущественно лесная зона и речные долины",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; их замораживали на зиму и растирали с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_002_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "yuku-ma'lje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "southern forest-region territory, including river valleys"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish"
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_003",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": "tax_family_inferred_thymus",
+    "name_native_language": "xoid-ule'ge",
+    "names_other_varieties": [],
+    "russian_gloss": "чабрец",
+    "english_gloss": "wild thyme",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "листья курили с табаком против кашля или вдыхали дым от тлеющих листьев; при головной боли прикладывали ко лбу",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_003_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "xoid-ule'ge",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "leaves were smoked with tobacco against cough or their smoke inhaled; applied to the forehead for headache"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_004",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": null,
+    "name_native_language": "n-u'tneye-la'rxul",
+    "names_other_varieties": [],
+    "russian_gloss": "растение, именуемое «пупочным корнем»",
+    "english_gloss": "navelwort",
+    "linguistic_comment": "ботаническая идентификация Cotyledon umbilicus дана по историческому источнику и не нормализована",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "корень отваривали и пили от боли в животе, которую связывали со смещением «корня пупка»",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_004_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "n-u'tneye-la'rxul",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "root boiled in water and drunk for stomach ache, traditionally understood as displacement of the navel root"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_005",
+    "language_id": "yukaghir",
+    "dialect_id": "dia_group_forest_yukaghir",
+    "taxon_id": null,
+    "name_native_language": "kere'ked-ule'ge",
+    "names_other_varieties": [],
+    "russian_gloss": "неопознанная горная трава с красными листьями",
+    "english_gloss": "unidentified red-leaved mountain herb",
+    "linguistic_comment": null,
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "горная трава с красными листьями (ботанический вид не определён)",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "траву сжигали на углях и вдыхали дым для лечения инфекций",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_005_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_group_forest_yukaghir"
+        ],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "kere'ked-ule'ge",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "herb burned on charcoal and smoke inhaled to treat infections"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      },
+      "ecological_data": {
+        "description": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "ecological_data_en": {
+      "description": "mountain herb with red leaves (botanical species unidentified)"
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+  }
+]
