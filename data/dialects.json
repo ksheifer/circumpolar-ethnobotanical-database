@@ -750,7 +750,9 @@
     "name_en": "Upper Vychegda dialect",
     "source_abbreviation": "вв.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_усть_кулом"
+    ]
   },
   {
     "dialect_id": "dia_komi_upper_sysola",
@@ -759,7 +761,9 @@
     "name_en": "Upper Sysola dialect",
     "source_abbreviation": "вс.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_койгородок"
+    ]
   },
   {
     "dialect_id": "dia_komi_vym",
@@ -768,7 +772,9 @@
     "name_en": "Vym dialect",
     "source_abbreviation": "вым.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_усть_вымь"
+    ]
   },
   {
     "dialect_id": "dia_komi_izhma",
@@ -778,11 +784,7 @@
     "source_abbreviation": "иж.",
     "alternative_names": [],
     "location_ids": [
-      "loc_04380436043c0430",
-      "loc_043c043e044504470430",
-      "loc_044104380437044f04310441043a",
-      "loc_043a044004300441043d043e0431043e0440",
-      "loc_04490435043b044c044f044e0440"
+      "loc_04380436043c0430"
     ]
   },
   {
@@ -792,7 +794,9 @@
     "name_en": "Luza dialect",
     "source_abbreviation": "л.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_объячево"
+    ]
   },
   {
     "dialect_id": "dia_komi_letka",
@@ -801,7 +805,9 @@
     "name_en": "Letka dialect",
     "source_abbreviation": "лет.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_летка"
+    ]
   },
   {
     "dialect_id": "dia_komi_luza_letka",
@@ -810,7 +816,9 @@
     "name_en": "Luza–Letka dialect",
     "source_abbreviation": "лл.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_объячево"
+    ]
   },
   {
     "dialect_id": "dia_komi_lower_vychegda",
@@ -819,7 +827,9 @@
     "name_en": "Lower Vychegda dialect",
     "source_abbreviation": "нв.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_айкино"
+    ]
   },
   {
     "dialect_id": "dia_komi_pechora",
@@ -828,7 +838,9 @@
     "name_en": "Pechora dialect",
     "source_abbreviation": "печ.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_троицко_печорск"
+    ]
   },
   {
     "dialect_id": "dia_komi_syktyvkar",
@@ -837,7 +849,9 @@
     "name_en": "Syktyvkar area dialect",
     "source_abbreviation": "скр.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_выльгорт"
+    ]
   },
   {
     "dialect_id": "dia_komi_middle_sysola",
@@ -846,7 +860,9 @@
     "name_en": "Middle Sysola dialect",
     "source_abbreviation": "сс.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_komi_визинга"
+    ]
   },
   {
     "dialect_id": "dia_komi_udora",
@@ -855,7 +871,9 @@
     "name_en": "Udora dialect",
     "source_abbreviation": "уд.",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_043a043e0441043b0430"
+    ]
   },
   {
     "dialect_id": "dia_northern-selkup_middle-taz",
@@ -1119,7 +1137,9 @@
     "name_ru": "Тундровый ненецкий",
     "name_en": "Tundra Nenets",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_044f0440002d04410430043b0435"
+    ]
   },
   {
     "dialect_id": "dia_group_forest_nenets",
@@ -1127,7 +1147,9 @@
     "name_ru": "Лесной ненецкий",
     "name_en": "Forest Nenets",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_0445043004400430043c043f04430440"
+    ]
   },
   {
     "dialect_id": "dia_group_northern_selkup",

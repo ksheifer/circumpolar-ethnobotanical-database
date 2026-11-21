@@ -1041,5 +1041,30 @@
       "sami"
     ],
     "citation_key": "Ivanishcheva"
+  },
+  {
+    "source_id": "src_tsintsius_tms_1975_1977",
+    "publication_type": "dictionary",
+    "authors": "",
+    "editors": "В. И. Цинциус (отв. ред.)",
+    "title": "Сравнительный словарь тунгусо-маньчжурских языков: материалы к этимологическому словарю",
+    "subtitle": "В 2 томах: Т. 1 (А–Н, 1975); Т. 2 (О–Э, 1977)",
+    "publisher": "Наука, Ленинградское отделение",
+    "publication_place": "Ленинград",
+    "year": "1975–1977",
+    "total_pages": "Т. 1: 672; Т. 2: 992",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://tms.etymdata.org/",
+    "language_ids": [
+      "evenki"
+    ],
+    "citation_key": "Tsintsius",
+    "url_label_en": "TMS — searchable online dictionary",
+    "url_label_ru": "ТМС — электронная версия словаря"
   }
 ]

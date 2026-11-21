@@ -374,50 +374,6 @@
     "reference_location_id": "loc_sakha_yakutsk"
   },
   {
-    "phytonym_id": "phy_sakha_0010",
-    "language_id": "sakha",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "болох",
-    "names_other_varieties": [],
-    "russian_gloss": "торчащая надо льдом вмерзшая трава",
-    "english_gloss": "grass frozen into ice and protruding above its surface",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_sakha_0010",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sakha_dictionary_vol_02",
-        "source_pages": "379",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null
-      }
-    ],
-    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
-    "source_lemma": "БОЛОХ",
-    "source_volume": 2,
-    "ipa": null,
-    "reference_location_id": "loc_sakha_yakutsk"
-  },
-  {
     "phytonym_id": "phy_sakha_0011",
     "language_id": "sakha",
     "dialect_id": null,
@@ -2530,50 +2486,6 @@
     "reference_location_id": "loc_sakha_yakutsk"
   },
   {
-    "phytonym_id": "phy_sakha_0057",
-    "language_id": "sakha",
-    "dialect_id": null,
-    "taxon_id": "",
-    "name_native_language": "мас",
-    "names_other_varieties": [],
-    "russian_gloss": "дерево (древесные растение)",
-    "english_gloss": "tree (woody plant)",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_sakha_0057",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sakha_dictionary_vol_06",
-        "source_pages": "237–242",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null
-      }
-    ],
-    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
-    "source_lemma": "МАС",
-    "source_volume": 6,
-    "ipa": null,
-    "reference_location_id": "loc_sakha_yakutsk"
-  },
-  {
     "phytonym_id": "phy_sakha_0058",
     "language_id": "sakha",
     "dialect_id": null,
@@ -2613,50 +2525,6 @@
     ],
     "extraction_status": "dictionary_candidate_reviewed_by_gloss",
     "source_lemma": "МООННЬОҔОН II",
-    "source_volume": 6,
-    "ipa": null,
-    "reference_location_id": "loc_sakha_yakutsk"
-  },
-  {
-    "phytonym_id": "phy_sakha_0059",
-    "language_id": "sakha",
-    "dialect_id": null,
-    "taxon_id": "",
-    "name_native_language": "моркуоп",
-    "names_other_varieties": [],
-    "russian_gloss": "морковь",
-    "english_gloss": "carrot",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_sakha_0059",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sakha_dictionary_vol_06",
-        "source_pages": "294",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null
-      }
-    ],
-    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
-    "source_lemma": "МОРКУОП",
     "source_volume": 6,
     "ipa": null,
     "reference_location_id": "loc_sakha_yakutsk"
@@ -2745,50 +2613,6 @@
     ],
     "extraction_status": "dictionary_candidate_reviewed_by_gloss",
     "source_lemma": "МОРУОСКА",
-    "source_volume": 6,
-    "ipa": null,
-    "reference_location_id": "loc_sakha_yakutsk"
-  },
-  {
-    "phytonym_id": "phy_sakha_0062",
-    "language_id": "sakha",
-    "dialect_id": null,
-    "taxon_id": "",
-    "name_native_language": "муох",
-    "names_other_varieties": [],
-    "russian_gloss": "мох",
-    "english_gloss": "moss",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_sakha_0062",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sakha_dictionary_vol_06",
-        "source_pages": "363",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null
-      }
-    ],
-    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
-    "source_lemma": "МУОХ",
     "source_volume": 6,
     "ipa": null,
     "reference_location_id": "loc_sakha_yakutsk"
@@ -3062,7 +2886,7 @@
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_taraxacum",
-    "name_native_language": "ньээм",
+    "name_native_language": "ньээм ~ ньээм от",
     "names_other_varieties": [],
     "russian_gloss": "одуванчик",
     "english_gloss": "dandelion",
@@ -3104,6 +2928,18 @@
         "recording_year": null,
         "collector": null,
         "folklore": null
+      },
+      {
+        "attestation_id": "att_sakha_afanasyev_1976_067",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_afanasyev_voronkin_alekseev_1976",
+        "source_pages": "379",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "source_area_abbreviations": "Т.; Чур."
       }
     ],
     "extraction_status": "dictionary_candidate_reviewed_by_gloss",
@@ -9644,51 +9480,6 @@
     "source_volume": null,
     "ipa": null,
     "source_area_abbreviations": "О. Хал.",
-    "reference_location_id": "loc_sakha_yakutsk"
-  },
-  {
-    "phytonym_id": "phy_sakha_afanasyev_1976_067",
-    "language_id": "sakha",
-    "dialect_id": null,
-    "taxon_id": "tax_sakha1976_taraxacum",
-    "name_native_language": "ньээм от",
-    "names_other_varieties": [],
-    "russian_gloss": "одуванчик",
-    "english_gloss": "dandelion",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_sakha_afanasyev_1976_067",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_afanasyev_voronkin_alekseev_1976",
-        "source_pages": "379",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null
-      }
-    ],
-    "extraction_status": "manual_checked_from_scanned_1976_appendix",
-    "source_lemma": "ньээм от",
-    "source_volume": null,
-    "ipa": null,
-    "source_area_abbreviations": "Т.; Чур.",
     "reference_location_id": "loc_sakha_yakutsk"
   },
   {

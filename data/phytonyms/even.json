@@ -736,7 +736,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "гит",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "31"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0019",
@@ -1109,7 +1119,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "инӈамта",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "31"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0028",
@@ -1167,7 +1187,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "ирэт",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "spiritual_use": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "18"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0029",
@@ -1630,7 +1660,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "кэкучэн тэвтэӈэн",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "29"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0041",
@@ -3238,7 +3278,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "хемтэ",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "32"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0085",
@@ -3566,7 +3616,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "хул",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "spiritual_use": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "19"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0092",
@@ -3781,7 +3841,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "хэӈкэс",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "spiritual_use": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "19"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0097",
@@ -4064,7 +4134,17 @@
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "чоя",
     "ipa": null,
-    "reference_location_id": "loc_043e043b0430"
+    "reference_location_id": "loc_043e043b0430",
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_sadovnikova_2024",
+            "source_pages": "32"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_even_sadovnikova_2024_0103",

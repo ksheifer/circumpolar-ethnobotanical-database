@@ -2,10 +2,10 @@
 loc_beryozovka_001,Берёзовка,Beryozovka,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),Среднеколымский улус / Srednekolymsky District,67.13194,156.59028,settlement,approximate,public,even
 loc_044104350431044f043d002d043a044e0451043b044c,Себян-Кюёль,Sebyan-Kyuyol,Россия,,,65.288282,130.008392,settlement,approximate,public,even
 loc_0442043e043f043e043b0438043d043e0435,Тополиное,Topolinoe,Россия,,,64.073215,135.962722,settlement,approximate,public,even
-loc_0430043d04340440044e0448043a0438043d043e,Андрюшкино,Andryushkino,Россия,Республика Саха (Якутия) / Sakha Republic (Yakutia),Нижнеколымский улус / Nizhnekolymsky District,69.1723,154.4448,settlement,approximate,public,even; yukaghir
+loc_0430043d04340440044e0448043a0438043d043e,Андрюшкино,Andryushkino,Россия,Республика Саха (Якутия) / Sakha Republic (Yakutia),Нижнеколымский улус / Nizhnekolymsky District,69.1723,154.4448,settlement,approximate,public,even;yukaghir
 loc_044104300441044b0440,Сасыр,Sasyr,Россия,,,65.162097,147.082257,settlement,approximate,public,even
 loc_0445043e043d04430443,Хонуу,Khonuu,Россия,,,66.455,143.22,settlement,approximate,public,even
-loc_0431043004420430043304300439002d0430043b044b04420430,Батагай-Алыта,Batagay-Alyta,Россия,,,67.79846,130.40119,settlement,,public,even; sakha
+loc_0431043004420430043304300439002d0430043b044b04420430,Батагай-Алыта,Batagay-Alyta,Россия,,,67.79846,130.40119,settlement,,public,even;sakha
 loc_043a04430441044204430440,Кустур,Kustur,Россия,,,68.17266,131.67523,settlement,approximate,public,even
 loc_043e043b0435043d04350433043e04400441043a,Оленегорск,Olenegorsk,Россия,,,69.811514,147.486517,settlement,approximate,public,even
 loc_0443044f043d04340438,Уянди,Uyandi,Россия,,,69.320366,140.929983,settlement,approximate,public,even
@@ -14,15 +14,15 @@ loc_04300440043a0430,Арка,Arka,Россия,,,60.083056,142.328333,settlemen
 loc_044d04410441043e,Эссо,Esso,Россия,,,55.9275,158.701,settlement,approximate,public,even
 loc_043e043b0430,Ола,Ola,Россия,,,59.5802,151.3023,settlement,approximate,public,even
 loc_043304380436043804330430,Гижига,Gizhiga,Россия,,,61.948978,160.377692,settlement,approximate,public,even
-loc_044d04320435043d0441043a,Эвенск,Evensk,Россия,,,61.917972,159.234604,settlement,approximate,public,even; koryak
+loc_044d04320435043d0441043a,Эвенск,Evensk,Россия,,,61.917972,159.234604,settlement,approximate,public,even;koryak
 loc_0442043e043f043e043b043e0432043a0430,Тополовка,Topolovka,Россия,,,61.36543,160.12591,settlement,approximate,public,even
-loc_0430043d04300432043304300439,Анавгай,Anavgay,Россия,,,56.053578,158.97111,settlement,approximate,public,even; koryak
+loc_0430043d04300432043304300439,Анавгай,Anavgay,Россия,,,56.053578,158.97111,settlement,approximate,public,even;koryak
 loc_0430044f043d043a0430,Аянка,Ayanka,Россия,,,63.725944,167.58404,settlement,approximate,public,even
 loc_043e043a043b0430043d,Оклан,Oklan,Россия,,,62.712621,166.579427,settlement,approximate,public,even
 loc_04320430043504330438,Ваеги,Vaegi,Россия,,,64.166,171.04221,settlement,approximate,public,even
 loc_043b0430043c044304420441043a043e0435,Ламутское,Lamutskoe,Россия,,,65.534654,168.853656,settlement,approximate,public,even
 loc_043e043c043e043b043e043d,Омолон,Omolon,Россия,,,65.23262,160.53947,settlement,approximate,public,even
-loc_043c0430043d0438043b044b,Манилы,Manily,Россия,,,62.48512,165.339384,settlement,approximate,public,even; koryak
+loc_043c0430043d0438043b044b,Манилы,Manily,Россия,,,62.48512,165.339384,settlement,approximate,public,even;koryak
 loc_043a0430043c0435043d0441043a043e0435,Каменское,Kamenskoe,Россия,,,62.4687,166.207,settlement,approximate,public,even
 loc_0441043b043004430442043d043e0435,Слаутное,Slautnoe,Россия,,,63.170231,167.973181,settlement,approximate,public,even
 loc_0442044304400430,Тура,Tura,Россия,,,64.28333,100.21667,settlement,approximate,public,evenki
@@ -40,23 +40,23 @@ loc_04380435043d043304400430,Иенгра,Iengra,Россия,,,56.2186,124.836,
 loc_0442044f043d044f,Тяня,Tyanya,Россия,,,59.054683,119.799389,settlement,approximate,public,evenki
 loc_044304410442044c002d043d044e043a04360430,Усть-Нюкжа,Ust-Nyukzha,Россия,,,56.56097,121.59166,settlement,approximate,public,evenki
 loc_044304410442044c002d04430440043a0438043c0430,Усть-Уркима,Ust-Urkima,Россия,,,55.312485,123.165236,settlement,approximate,public,evenki
-loc_044304410442044c002d043c0430044f,Усть-Мая,Ust-Maya,Россия,,,60.41553,134.54405,settlement,,public,evenki; sakha
+loc_044304410442044c002d043c0430044f,Усть-Мая,Ust-Maya,Россия,,,60.41553,134.54405,settlement,,public,evenki;sakha
 loc_043f0435044004350432043e0437,Перевоз,Perevoz,Россия,,,,,settlement,,public,evenki
-loc_0432043e043b043e04470430043d043a0430,Волочанка,Volochanka,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,70.97639,94.54194,settlement,approximate,public,dolgan; nganasan
-loc_044304410442044c002d043004320430043c,Усть-Авам,Ust-Avam,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.11474,92.82316,settlement,approximate,public,dolgan; nganasan
+loc_0432043e043b043e04470430043d043a0430,Волочанка,Volochanka,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,70.97639,94.54194,settlement,approximate,public,dolgan;nganasan
+loc_044304410442044c002d043004320430043c,Усть-Авам,Ust-Avam,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.11474,92.82316,settlement,approximate,public,dolgan;nganasan
 loc_04450430043d0442043004390441043a043e04350020043e043704350440043e,Хантайское Озеро,Khantayskoe Ozero,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,68.2203,89.98582,settlement,approximate,public,dolgan
-loc_043f043e04420430043f043e0432043e,Потапово,Potapovo,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,68.68413,86.27566,settlement,approximate,public,dolgan; enets
-loc_0434044304340438043d043a0430,Дудинка,Dudinka,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,69.406067,86.175072,settlement,approximate,public,dolgan; nganasan; enets
-loc_0445043004420430043d04330430,Хатанга,Khatanga,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.9804472,102.4833297,settlement,approximate,public,dolgan; nganasan
+loc_043f043e04420430043f043e0432043e,Потапово,Potapovo,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,68.68413,86.27566,settlement,approximate,public,dolgan;enets
+loc_0434044304340438043d043a0430,Дудинка,Dudinka,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,69.406067,86.175072,settlement,approximate,public,dolgan;nganasan;enets
+loc_0445043004420430043d04330430,Хатанга,Khatanga,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.9804472,102.4833297,settlement,approximate,public,dolgan;nganasan
 loc_043a0440043504410442044b,Кресты,Kresty,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.913487,102.119533,settlement,approximate,public,dolgan
-loc_043d043e04320430044f,Новая,Novaya,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.750019,101.231308,settlement,approximate,public,dolgan; nganasan
+loc_043d043e04320430044f,Новая,Novaya,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.750019,101.231308,settlement,approximate,public,dolgan;nganasan
 loc_0445043504420430,Хета,Kheta,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.564661,99.648085,settlement,approximate,public,dolgan
 loc_043a04300442044b0440044b043a,Катырык,Katyryk,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,71.275243,99.379121,settlement,approximate,public,dolgan
 loc_043d043e0432043e0440044b0431043d0430044f,Новорыбная,Novorybnaya,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,72.837097,105.789951,settlement,approximate,public,dolgan
 loc_0441044b043d0434043004410441043a043e,Сындасско,Syndassko,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,73.261307,108.205349,settlement,approximate,public,dolgan
 loc_043f043e043f0438043304300439,Попигай,Popigay,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,72.56153,108.828041,settlement,approximate,public,dolgan
 loc_043604340430043d043804450430,Жданиха,Zhdanikha,Россия,Красноярский край,Таймырский Долгано-Ненецкий район,72.171839,102.868131,settlement,approximate,public,dolgan
-loc_044104300441043a044b043b04300445,Саскылах,Saskylakh,Россия,Республика Саха (Якутия),Анабарский улус,71.96347,114.09199,settlement,,public,dolgan; sakha
+loc_044104300441043a044b043b04300445,Саскылах,Saskylakh,Россия,Республика Саха (Якутия),Анабарский улус,71.96347,114.09199,settlement,,public,dolgan;sakha
 loc_044e0440044e043d0433002d04450430044f,Юрюнг-Хая,Yuryung-Khaya,Россия,Республика Саха (Якутия),Анабарский улус,72.8119,113.232,settlement,approximate,public,dolgan
 loc_0443044d043b0435043d,Уэлен,Uelen,Россия,,,66.160079,-169.817611,settlement,approximate,public,chukchi
 loc_043b043e04400438043d043e,Лорино,Lorino,Россия,,,65.50331,-171.70396,settlement,approximate,public,chukchi
@@ -76,7 +76,7 @@ loc_04300439043e043d,Айон,Ayon,Россия,Чукотский автоно�
 loc_0440044b0442043a044304470438,Рыткучи,Rytkuchi,Россия,,,68.89665,170.7159,settlement,approximate,public,chukchi
 loc_04310438043b043b0438043d04330441,Биллингс,Billings,Россия,,,69.87664,175.747049,settlement,approximate,public,chukchi
 loc_0438043b04380440043d04350439,Илирней,Ilirney,Россия,,,67.256134,167.958018,settlement,approximate,public,chukchi
-loc_043004470430043904320430044f043c,Ачайваям,Achayvayam,Россия,,,61.007986,170.507868,settlement,approximate,public,chukchi; koryak
+loc_043004470430043904320430044f043c,Ачайваям,Achayvayam,Россия,,,61.007986,170.507868,settlement,approximate,public,chukchi;koryak
 loc_0432043e0440043e043d0446043e0432043e,Воронцово,Vorontsovo,Россия,,,71.697559,83.556729,settlement,approximate,public,enets
 loc_04410435044f04450430,Сеяха,Seyakha,Россия,,,70.167798,72.511058,settlement,approximate,public,nenets
 loc_044f0440002d04410430043b0435,Яр-Сале,Yar-Sale,Россия,,,66.861201,70.839311,settlement,approximate,public,nenets
@@ -109,9 +109,9 @@ loc_044804430440044b0448043a04300440044b,Шурышкары,Shuryshkary,Росс
 loc_04410430043b04350445043004400434,Салехард,Salekhard,Россия,,,66.5299,66.6146,settlement,approximate,public,khanty
 loc_043a043e043b044b043c0441043a043e0435,Колымское,Kolymskoe,Россия,,,68.727784,158.704472,settlement,approximate,public,yukaghir
 loc_043f043e0445043e04340441043a,Походск,Pokhodsk,Россия,,,69.07988,160.96297,settlement,approximate,public,yukaghir
-loc_0447043504400441043a04380439,Черский,Chersky,Россия,,,68.75325,161.33197,settlement,,public,yukaghir; sakha
+loc_0447043504400441043a04380439,Черский,Chersky,Россия,,,68.75325,161.33197,settlement,,public,yukaghir;sakha
 loc_043d0435043b0435043c043d043e0435,Нелемное,Nelemnoe,Россия,Республика Саха (Якутия) / Sakha Republic (Yakutia),Верхнеколымский улус / Verkhnekolymsky District,65.4983,151.0986,settlement,approximate,public,yukaghir
-loc_0437044b0440044f043d043a0430,Зырянка,Zyryanka,Россия,,,65.73489,150.89429,settlement,,public,yukaghir; sakha
+loc_0437044b0440044f043d043a0430,Зырянка,Zyryanka,Россия,,,65.73489,150.89429,settlement,,public,yukaghir;sakha
 loc_0432043504400445043d0435043a043e043b044b043c0441043a,Верхнеколымск,Verkhnekolymsk,Россия,,,65.717653,150.833721,settlement,approximate,public,yukaghir
 loc_044504300438043b0438043d043e,Хаилино,Khailino,Россия,,,60.95795,166.84686,settlement,approximate,public,koryak
 loc_0441044004350434043d043804350020043f04300445043004470438,Средние Пахачи,Srednie Pakhachi,Россия,,,60.828774,169.065703,settlement,approximate,public,koryak
@@ -155,13 +155,13 @@ loc_sakha_berdigestyakh,Бердигестях,Berdigestyakh,Россия / Russ
 loc_sakha_berkakit,Беркакит,Berkakit,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,56.57456,124.77635,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_borogontsy,Борогонцы,Borogontsy,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.6706,131.16344,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_chernyshevskiy,Чернышевский,Chernyshevskiy,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,63.01601,112.46901,settlement,approximate_settlement_centre,public,sakha
-loc_sakha_chokurdakh,Чокурдах,Chokurdakh,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,70.61897,147.8973,settlement,approximate_settlement_centre,public,sakha; even
-loc_sakha_chulman,Чульман,Chulman,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,56.84735,124.90812,settlement,approximate_settlement_centre,public,sakha; evenki
+loc_sakha_chokurdakh,Чокурдах,Chokurdakh,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,70.61897,147.8973,settlement,approximate_settlement_centre,public,sakha;even
+loc_sakha_chulman,Чульман,Chulman,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,56.84735,124.90812,settlement,approximate_settlement_centre,public,sakha;evenki
 loc_sakha_churapcha,Чурапча,Churapcha,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,61.99858,132.43341,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_deputatsky,Депутатский,Deputatsky,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,69.30958,139.97571,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_dzhebariki_khaya,Джебарики-Хая,Dzhebariki-Khaya,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.21084,135.84876,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_kangalassy,Кангалассы,Kangalassy,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.34824,129.96471,settlement,approximate_settlement_centre,public,sakha
-loc_sakha_khandyga,Хандыга,Khandyga,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.65333,135.5667,settlement,approximate_settlement_centre,public,sakha; even
+loc_sakha_khandyga,Хандыга,Khandyga,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.65333,135.5667,settlement,approximate_settlement_centre,public,sakha;even
 loc_sakha_khatassy,Хатассы,Khatassy,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,61.90638,129.63302,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_kysyl_syr,Кысыл-Сыр,Kysyl-Syr,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,63.89482,122.7654,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_lensk,Ленск,Lensk,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,60.72528,114.92778,settlement,approximate_settlement_centre,public,sakha
@@ -175,14 +175,14 @@ loc_sakha_neryungri,Нерюнгри,Neryungri,Россия / Russia,Респу�
 loc_sakha_nizhniy_bestyakh,Нижний Бестях,Nizhniy Bestyakh,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,61.96202,129.91245,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_nyurba,Нюрба,Nyurba,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,63.28417,118.33194,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_olenyok,Оленёк,Olenyok,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,68.50472,112.4485,settlement,approximate_settlement_centre,public,sakha
-loc_sakha_olyokminsk,Олёкминск,Olyokminsk,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,60.3743,120.4203,settlement,approximate_settlement_centre,public,sakha; evenki
+loc_sakha_olyokminsk,Олёкминск,Olyokminsk,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,60.3743,120.4203,settlement,approximate_settlement_centre,public,sakha;evenki
 loc_sakha_pokrovsk,Покровск,Pokrovsk,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,61.47768,129.13699,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_sangar,Сангар,Sangar,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,63.92301,127.47135,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_srednekolymsk,Среднеколымск,Srednekolymsk,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,67.45659,153.70246,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_suntar,Сунтар,Suntar,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,62.14444,117.63194,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_tabaga,Табага,Tabaga,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,61.85502,129.60022,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_tiksi,Тикси,Tiksi,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,71.69002,128.86467,settlement,approximate_settlement_centre,public,sakha
-loc_sakha_tommot,Томмот,Tommot,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,58.95717,126.29158,settlement,approximate_settlement_centre,public,sakha; evenki
+loc_sakha_tommot,Томмот,Tommot,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,58.95717,126.29158,settlement,approximate_settlement_centre,public,sakha;evenki
 loc_sakha_udachny,Удачный,Udachny,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,66.42989,112.4021,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_ust_kuyga,Усть-Куйга,Ust-Kuyga,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,70.00208,135.54876,settlement,approximate_settlement_centre,public,sakha
 loc_sakha_ust_nera,Усть-Нера,Ust-Nera,Россия / Russia,Республика Саха (Якутия) / Sakha Republic (Yakutia),,64.56968,143.237,settlement,approximate_settlement_centre,public,sakha
@@ -217,3 +217,13 @@ loc_dialect_reference_evenki_kachug,Качуг,Kachug,Россия,Иркутс�
 loc_dialect_reference_evenki_nogliki,Ноглики,Nogliki,Россия,Сахалинская область,Ногликский муниципальный округ,51.8458,143.1146,settlement,approximate,public,evenki
 loc_selkup_narym_reference,Нарым,Narym,Россия / Russia,Томская область / Tomsk Oblast,Парабельский район / Parabelsky District,58.924118,81.595585,settlement,settlement_centre,public,selkup
 loc_selkup_krasnoselkup_reference,Красноселькуп,Krasnoselkup,Россия / Russia,Ямало-Ненецкий автономный округ / Yamalo-Nenets Autonomous Okrug,Красноселькупский район / Krasnoselkupsky District,65.705556,82.46,settlement,settlement_centre,public,selkup
+loc_043a043e0441043b0430,Кослан,Koslan,Россия,Республика Коми,Удорский район,63.462819,48.957258,settlement,approximate_settlement_centre,public,komi
+loc_komi_усть_кулом,Усть-Кулом,Ust-Kulom,Россия,Республика Коми,Усть-Куломский район,61.68806,53.69083,settlement,approximate_settlement_centre,public,komi
+loc_komi_койгородок,Койгородок,Koygorodok,Россия,Республика Коми,Койгородский район,60.447,50.998,settlement,approximate_settlement_centre,public,komi
+loc_komi_усть_вымь,Усть-Вымь,Ust-Vym,Россия,Республика Коми,Усть-Вымский район,62.22583,50.39093,settlement,approximate_settlement_centre,public,komi
+loc_komi_объячево,Объячево,Obyachevo,Россия,Республика Коми,Прилузский район,60.297622,49.573331,settlement,approximate_settlement_centre,public,komi
+loc_komi_летка,Летка,Letka,Россия,Республика Коми,Прилузский район,59.691643,49.476179,settlement,approximate_settlement_centre,public,komi
+loc_komi_айкино,Айкино,Aykino,Россия,Республика Коми,Усть-Вымский район,62.223853,49.998733,settlement,approximate_settlement_centre,public,komi
+loc_komi_троицко_печорск,Троицко-Печорск,Troitsko-Pechorsk,Россия,Республика Коми,Троицко-Печорский район,62.699194,56.15553,settlement,approximate_settlement_centre,public,komi
+loc_komi_выльгорт,Выльгорт,Vylgort,Россия,Республика Коми,Сыктывдинский район,61.617819,50.551875,settlement,approximate_settlement_centre,public,komi
+loc_komi_визинга,Визинга,Vizinga,Россия,Республика Коми,Сысольский район,61.075886,50.085614,settlement,approximate_settlement_centre,public,komi

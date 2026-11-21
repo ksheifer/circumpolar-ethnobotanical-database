@@ -202,9 +202,9 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 #profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {display: block !important;}
 
 /* Back to top is visible only after scrolling within Resources. */
-#resources-back-to-top {position:fixed;left:20px;bottom:20px;z-index:1050;
+#resources-back-to-top {position:fixed;right:20px;bottom:20px;z-index:1050;
  padding:10px 14px;background:#fff;color:#155a9a;border:1px solid #aab2b9;
  box-shadow:0 2px 8px rgba(0,0,0,.10);font-weight:600;}
 #resources-back-to-top:hover {background:#f0f6ff;color:#0c3a66;}
 #resources-back-to-top[hidden] {display:none!important;}
-@media(max-width:600px){#resources-back-to-top{left:12px;bottom:12px;padding:9px 12px;}}
+@media(max-width:600px){#resources-back-to-top{right:12px;bottom:12px;padding:9px 12px;}}

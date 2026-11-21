@@ -3726,5 +3726,175 @@
     ],
     "name_ru": "Красноселькуп",
     "name_en": "Krasnoselkup"
+  },
+  {
+    "location_id": "loc_043a043e0441043b0430",
+    "locality": "Кослан",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Удорский район",
+    "location_type": "settlement",
+    "latitude": 63.462819,
+    "longitude": 48.957258,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "komi"
+    ],
+    "visibility": "public",
+    "name_ru": "Кослан",
+    "name_en": "Koslan"
+  },
+  {
+    "location_id": "loc_komi_усть_кулом",
+    "locality": "Усть-Кулом",
+    "name_ru": "Усть-Кулом",
+    "name_en": "Ust-Kulom",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Усть-Куломский район",
+    "location_type": "settlement",
+    "latitude": 61.68806,
+    "longitude": 53.69083,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_койгородок",
+    "locality": "Койгородок",
+    "name_ru": "Койгородок",
+    "name_en": "Koygorodok",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Койгородский район",
+    "location_type": "settlement",
+    "latitude": 60.447,
+    "longitude": 50.998,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_усть_вымь",
+    "locality": "Усть-Вымь",
+    "name_ru": "Усть-Вымь",
+    "name_en": "Ust-Vym",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Усть-Вымский район",
+    "location_type": "settlement",
+    "latitude": 62.22583,
+    "longitude": 50.39093,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_объячево",
+    "locality": "Объячево",
+    "name_ru": "Объячево",
+    "name_en": "Obyachevo",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Прилузский район",
+    "location_type": "settlement",
+    "latitude": 60.297622,
+    "longitude": 49.573331,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_летка",
+    "locality": "Летка",
+    "name_ru": "Летка",
+    "name_en": "Letka",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Прилузский район",
+    "location_type": "settlement",
+    "latitude": 59.691643,
+    "longitude": 49.476179,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_айкино",
+    "locality": "Айкино",
+    "name_ru": "Айкино",
+    "name_en": "Aykino",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Усть-Вымский район",
+    "location_type": "settlement",
+    "latitude": 62.223853,
+    "longitude": 49.998733,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_троицко_печорск",
+    "locality": "Троицко-Печорск",
+    "name_ru": "Троицко-Печорск",
+    "name_en": "Troitsko-Pechorsk",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Троицко-Печорский район",
+    "location_type": "settlement",
+    "latitude": 62.699194,
+    "longitude": 56.15553,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_выльгорт",
+    "locality": "Выльгорт",
+    "name_ru": "Выльгорт",
+    "name_en": "Vylgort",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Сыктывдинский район",
+    "location_type": "settlement",
+    "latitude": 61.617819,
+    "longitude": 50.551875,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
+  },
+  {
+    "location_id": "loc_komi_визинга",
+    "locality": "Визинга",
+    "name_ru": "Визинга",
+    "name_en": "Vizinga",
+    "country": "Россия",
+    "region": "Республика Коми",
+    "district": "Сысольский район",
+    "location_type": "settlement",
+    "latitude": 61.075886,
+    "longitude": 50.085614,
+    "coordinate_precision": "approximate_settlement_centre",
+    "visibility": "public",
+    "language_ids": [
+      "komi"
+    ]
   }
 ]
