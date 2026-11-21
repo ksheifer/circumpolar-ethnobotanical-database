@@ -1,0 +1,6572 @@
+[
+  {
+    "phytonym_id": "phy_sakha_0001",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "айгыр",
+    "names_other_varieties": [],
+    "russian_gloss": "Резуха (трава, широко распространенная в Якутии).",
+    "english_gloss": "",
+    "common_name_state_language": "Резуха (трава, широко распространенная в Якутии).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "333",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АЙГЫР I",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0002",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "анньыыс",
+    "names_other_varieties": [],
+    "russian_gloss": "Анис (однолетнее травянистое растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Анис (однолетнее травянистое растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "477",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АННЬЫЫС",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0003",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "антыы",
+    "names_other_varieties": [],
+    "russian_gloss": "Растение, растущее на склоне горы.",
+    "english_gloss": "",
+    "common_name_state_language": "Растение, растущее на склоне горы.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "479",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АНТЫЫ",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0004",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "аҥаалык",
+    "names_other_varieties": [],
+    "russian_gloss": "Крупное засохшее лиственничное дерево.",
+    "english_gloss": "",
+    "common_name_state_language": "Крупное засохшее лиственничное дерево.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "485",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АҤААЛЫК",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0005",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "арбаанай",
+    "names_other_varieties": [],
+    "russian_gloss": "Один из видов хвоща, похожий на ветвистую ель.",
+    "english_gloss": "",
+    "common_name_state_language": "Один из видов хвоща, похожий на ветвистую ель.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "538",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АРБААНАЙ",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0006",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "арбуз",
+    "names_other_varieties": [],
+    "russian_gloss": "Арбуз.",
+    "english_gloss": "",
+    "common_name_state_language": "Арбуз.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_01",
+        "source_pages": "542",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "АРБУЗ (ОРБУУС)",
+    "source_volume": 1,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0007",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бабылыанньык",
+    "names_other_varieties": [],
+    "russian_gloss": "Душистое кустарниковое растение, употребляемое на Севере как лекарственное средство, багульник.",
+    "english_gloss": "",
+    "common_name_state_language": "Душистое кустарниковое растение, употребляемое на Севере как лекарственное средство, багульник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "97",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БАБЫЛЫАННЬЫК",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0008",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "байаарка",
+    "names_other_varieties": [],
+    "russian_gloss": "Боярышник.",
+    "english_gloss": "",
+    "common_name_state_language": "Боярышник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "129",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БАЙААРКА",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0009",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "болбукта",
+    "names_other_varieties": [],
+    "russian_gloss": "Кедровый стланик.",
+    "english_gloss": "",
+    "common_name_state_language": "Кедровый стланик.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "374",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БОЛБУКТА",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0010",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "болох",
+    "names_other_varieties": [],
+    "russian_gloss": "Торчащая надо льдом вмерзшая трава.",
+    "english_gloss": "",
+    "common_name_state_language": "Торчащая надо льдом вмерзшая трава.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "379",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БОЛОХ",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0011",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "боруу",
+    "names_other_varieties": [],
+    "russian_gloss": "Трава, произрастающая обычно в воде, болоте, топи, с полым ломким стеблем, иногда без ветвей; хвощ (у якутов это название имеют не все виды хвощевидных, нек-рые имеют др. названия)",
+    "english_gloss": "",
+    "common_name_state_language": "Трава, произрастающая обычно в воде, болоте, топи, с полым ломким стеблем, иногда без ветвей; хвощ (у якутов это название имеют не все виды хвощевидных, нек-рые имеют др. названия)",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "410–411",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БОРУУ",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0012",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бохсурҕан",
+    "names_other_varieties": [],
+    "russian_gloss": "Подорожник.",
+    "english_gloss": "",
+    "common_name_state_language": "Подорожник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "425",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БОХСУРҔАН",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0013",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "буостук",
+    "names_other_varieties": [],
+    "russian_gloss": "Кобрезия (трава).",
+    "english_gloss": "",
+    "common_name_state_language": "Кобрезия (трава).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "550",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БУОСТУК I",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0014",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бурут",
+    "names_other_varieties": [],
+    "russian_gloss": "Вех ядовитый, цикута.",
+    "english_gloss": "",
+    "common_name_state_language": "Вех ядовитый, цикута.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "577–578",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БУРУТ II",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0015",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бүүччэх",
+    "names_other_varieties": [],
+    "russian_gloss": "Гриб-сморчок.",
+    "english_gloss": "",
+    "common_name_state_language": "Гриб-сморчок.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "659",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БҮҮЧЧЭХ",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0016",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "быдьына",
+    "names_other_varieties": [],
+    "russian_gloss": "Однолетнее травянистое растение со светло-желтыми цветками из семейства крестоцветных, крупка.",
+    "english_gloss": "",
+    "common_name_state_language": "Однолетнее травянистое растение со светло-желтыми цветками из семейства крестоцветных, крупка.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0016",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "677",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЫДЬЫНА II",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0017",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бэгэл",
+    "names_other_varieties": [],
+    "russian_gloss": "Малорослая сосна, с вершины до корней обросшая ветвями.",
+    "english_gloss": "",
+    "common_name_state_language": "Малорослая сосна, с вершины до корней обросшая ветвями.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0017",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "829",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЭГЭЛ",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0018",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бэрдьигэс",
+    "names_other_varieties": [],
+    "russian_gloss": "Сосенка; маленькая сосна; молодой сосняк.",
+    "english_gloss": "",
+    "common_name_state_language": "Сосенка; маленькая сосна; молодой сосняк.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0018",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "870–871",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЭРДЬИГЭС",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0019",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бэс",
+    "names_other_varieties": [],
+    "russian_gloss": "Сосна.",
+    "english_gloss": "",
+    "common_name_state_language": "Сосна.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0019",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "888–890",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЭС",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0020",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бэстиҥилэр",
+    "names_other_varieties": [],
+    "russian_gloss": "Сосновые.",
+    "english_gloss": "",
+    "common_name_state_language": "Сосновые.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0020",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "893",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЭСТИҤИЛЭР",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0021",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "бэчик",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодая лиственница.",
+    "english_gloss": "",
+    "common_name_state_language": "Молодая лиственница.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0021",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_02",
+        "source_pages": "902",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "БЭЧИК",
+    "source_volume": 2,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0022",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "горох",
+    "names_other_varieties": [],
+    "russian_gloss": "Горох.",
+    "english_gloss": "",
+    "common_name_state_language": "Горох.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0022",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "56",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ГОРОХ (ГОРУОХ)",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0023",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "даадар",
+    "names_other_varieties": [],
+    "russian_gloss": "Борец.",
+    "english_gloss": "",
+    "common_name_state_language": "Борец.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0023",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "66",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДААДАР",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0024",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "долохоно",
+    "names_other_varieties": [],
+    "russian_gloss": "Боярышник.",
+    "english_gloss": "",
+    "common_name_state_language": "Боярышник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0024",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "162",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДОЛОХОНО",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0025",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дөлүһүөн",
+    "names_other_varieties": [],
+    "russian_gloss": "Шиповник.",
+    "english_gloss": "",
+    "common_name_state_language": "Шиповник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0025",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "178",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДӨЛҮҺҮӨН",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0026",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дьаарысса",
+    "names_other_varieties": [],
+    "russian_gloss": "Злак, из молотых зерен которого выпекают черный хлеб, рожь яровая.",
+    "english_gloss": "",
+    "common_name_state_language": "Злак, из молотых зерен которого выпекают черный хлеб, рожь яровая.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0026",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "268",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДЬААРЫССА",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0027",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дьанта",
+    "names_other_varieties": [],
+    "russian_gloss": "Кедровый стланик.",
+    "english_gloss": "",
+    "common_name_state_language": "Кедровый стланик.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0027",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "306",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДЬАНТА",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0028",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дьылыһын",
+    "names_other_varieties": [],
+    "russian_gloss": "Высокая, тонкая, молодая лиственница.",
+    "english_gloss": "",
+    "common_name_state_language": "Высокая, тонкая, молодая лиственница.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0028",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "499",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДЬЫЛЫҺЫН",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0029",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дьэдьэн",
+    "names_other_varieties": [],
+    "russian_gloss": "Земляника, ее ягоды.",
+    "english_gloss": "",
+    "common_name_state_language": "Земляника, ее ягоды.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0029",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "520",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДЬЭДЬЭН",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0030",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дьэһимиэн",
+    "names_other_varieties": [],
+    "russian_gloss": "Хлебный злак; ячмень.",
+    "english_gloss": "",
+    "common_name_state_language": "Хлебный злак; ячмень.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0030",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "544",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ДЬЭҺИМИЭН",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0031",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "идьики",
+    "names_other_varieties": [],
+    "russian_gloss": "Растущая в горах съедобная трава, похожая на лилию, копеечник горшковидный.",
+    "english_gloss": "",
+    "common_name_state_language": "Растущая в горах съедобная трава, похожая на лилию, копеечник горшковидный.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0031",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "563",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ИДЬИКИ",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0032",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "иирэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Ива береговая. Үрдүк сыырдартан таҥнары өҥөйөн үмүрүһэн турар хойуу иирэлэр анныларынан, хойуу кыламаннаах санаарҕас харахтар курдук, төгүрүк чүөмпэлэр онон-манан чөҥөрүһэн хаалалл",
+    "english_gloss": "",
+    "common_name_state_language": "Ива береговая. Үрдүк сыырдартан таҥнары өҥөйөн үмүрүһэн турар хойуу иирэлэр анныларынан, хойуу кыламаннаах санаарҕас харахтар курдук, төгүрүк чүөмпэлэр онон-манан чөҥөрүһэн хаалалл",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0032",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "581",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ИИРЭ",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0033",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ииччэх",
+    "names_other_varieties": [],
+    "russian_gloss": "Растущий кустами мелкий тальник, кустарник.",
+    "english_gloss": "",
+    "common_name_state_language": "Растущий кустами мелкий тальник, кустарник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0033",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_03",
+        "source_pages": "589",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ИИЧЧЭХ",
+    "source_volume": 3,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0034",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кииһилэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Щавель, кислица.",
+    "english_gloss": "",
+    "common_name_state_language": "Щавель, кислица.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0034",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "85",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КИИҺИЛЭ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0035",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кимиэл",
+    "names_other_varieties": [],
+    "russian_gloss": "Хмель (растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Хмель (растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0035",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "119–120",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КИМИЭЛ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0036",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "көппөх",
+    "names_other_varieties": [],
+    "russian_gloss": "Мох (лесной, водяной).",
+    "english_gloss": "",
+    "common_name_state_language": "Мох (лесной, водяной).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0036",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "313–314",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КӨППӨХ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0037",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кубачыын",
+    "names_other_varieties": [],
+    "russian_gloss": "Рыжик (гриб). Үрүҥ тэллэйдэр хатыҥнар, харыйалар, дууптар тастарыгар, кубачыыннар бэс уонна харыйа ойуурдарга, тэтиҥ тэллэйэ тэтиҥнэр чугастарыгар үүнэллэр.",
+    "english_gloss": "",
+    "common_name_state_language": "Рыжик (гриб). Үрүҥ тэллэйдэр хатыҥнар, харыйалар, дууптар тастарыгар, кубачыыннар бэс уонна харыйа ойуурдарга, тэтиҥ тэллэйэ тэтиҥнэр чугастарыгар үүнэллэр.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0037",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "419",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУБАЧЫЫН",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0038",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кулуһун",
+    "names_other_varieties": [],
+    "russian_gloss": "Камыш озерный.",
+    "english_gloss": "",
+    "common_name_state_language": "Камыш озерный.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0038",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "468",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУЛУҺУН I",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0039",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кунаах",
+    "names_other_varieties": [],
+    "russian_gloss": "Гриб вообще.",
+    "english_gloss": "",
+    "common_name_state_language": "Гриб вообще.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0039",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "479",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУНААХ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0040",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кучарыын",
+    "names_other_varieties": [],
+    "russian_gloss": "Рыжик (гриб).",
+    "english_gloss": "",
+    "common_name_state_language": "Рыжик (гриб).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0040",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "584–585",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУЧАРЫЫН",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0041",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кучарыыс",
+    "names_other_varieties": [],
+    "russian_gloss": "Рыжик (сорная трава).",
+    "english_gloss": "",
+    "common_name_state_language": "Рыжик (сорная трава).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0041",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "585",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУЧАРЫЫС",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0042",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кучу",
+    "names_other_varieties": [],
+    "russian_gloss": "Кипрей узколистный, иван-чай.",
+    "english_gloss": "",
+    "common_name_state_language": "Кипрей узколистный, иван-чай.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0042",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "585",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУЧУ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0043",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кучукта",
+    "names_other_varieties": [],
+    "russian_gloss": "Название растения, которое раньше привозили с речки Уды и лечили разные болезни.",
+    "english_gloss": "",
+    "common_name_state_language": "Название растения, которое раньше привозили с речки Уды и лечили разные болезни.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0043",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "586",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КУЧУКТА",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0044",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "күлүүкүбэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Клюква (растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Клюква (растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0044",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_04",
+        "source_pages": "626",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КҮЛҮҮКҮБЭ",
+    "source_volume": 4,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0045",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кыабакы",
+    "names_other_varieties": [],
+    "russian_gloss": "Горец (разновидность сорняка).",
+    "english_gloss": "",
+    "common_name_state_language": "Горец (разновидность сорняка).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0045",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "142",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫАБАКЫ",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0046",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кылыкына",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодая поросль тальника, густо растущая на наносных песках. Өлүөнэ өрүс кылыкына талаҕыттан битэмииннээх мээккэни \"АВМ\" агрегатынан бэлэмнээһин быраактыката биһиги сопхуоска 1977",
+    "english_gloss": "",
+    "common_name_state_language": "Молодая поросль тальника, густо растущая на наносных песках. Өлүөнэ өрүс кылыкына талаҕыттан битэмииннээх мээккэни \"АВМ\" агрегатынан бэлэмнээһин быраактыката биһиги сопхуоска 1977",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0046",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "245",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫЛЫКЫНА",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0047",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кылыстыган",
+    "names_other_varieties": [],
+    "russian_gloss": "Плевропогон (обычно растущее в тундре у берегов ручьев, озер небольшое растение высотой десять-тридцать см).",
+    "english_gloss": "",
+    "common_name_state_language": "Плевропогон (обычно растущее в тундре у берегов ручьев, озер небольшое растение высотой десять-тридцать см).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0047",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "251–252",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫЛЫСТЫГАН",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0048",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кылыстык",
+    "names_other_varieties": [],
+    "russian_gloss": "Вострец (растущая на прибрежных песках, галечниках, незаливаемых гривах пойм рек кормовая трава с широкими длинными листьями, покрытыми белыми волосками, с соцветием в виде колоско",
+    "english_gloss": "",
+    "common_name_state_language": "Вострец (растущая на прибрежных песках, галечниках, незаливаемых гривах пойм рек кормовая трава с широкими длинными листьями, покрытыми белыми волосками, с соцветием в виде колоско",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0048",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "252",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫЛЫСТЫК",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0049",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кырсаада",
+    "names_other_varieties": [],
+    "russian_gloss": "Купальница (растение, предпочитающее влажную лесную почву, цветок напоминает розу с лепестками золотистого цвета).",
+    "english_gloss": "",
+    "common_name_state_language": "Купальница (растение, предпочитающее влажную лесную почву, цветок напоминает розу с лепестками золотистого цвета).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0049",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "332–333",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫРСААДА",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0050",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кытыан",
+    "names_other_varieties": [],
+    "russian_gloss": "Можжевельник.",
+    "english_gloss": "",
+    "common_name_state_language": "Можжевельник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0050",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_05",
+        "source_pages": "400",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "КЫТЫАН I",
+    "source_volume": 5,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0051",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "лабыкта",
+    "names_other_varieties": [],
+    "russian_gloss": "Лишайник \"олений мох\"; ягель.",
+    "english_gloss": "",
+    "common_name_state_language": "Лишайник \"олений мох\"; ягель.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0051",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "70",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛАБЫКТА",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0052",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "локуора",
+    "names_other_varieties": [],
+    "russian_gloss": "Многолетняя луговая и лесная ядовитая трава с толстым корневищем, используемая в народной ветеринарии и медицине; чемерица остродольная.",
+    "english_gloss": "",
+    "common_name_state_language": "Многолетняя луговая и лесная ядовитая трава с толстым корневищем, используемая в народной ветеринарии и медицине; чемерица остродольная.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0052",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "116",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛОКУОРА",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0053",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "луҥту",
+    "names_other_varieties": [],
+    "russian_gloss": "Кедр; лес из кедровых деревьев.",
+    "english_gloss": "",
+    "common_name_state_language": "Кедр; лес из кедровых деревьев.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0053",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "134",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛУҤТУ",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0054",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "луук",
+    "names_other_varieties": [],
+    "russian_gloss": "Лук (растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Лук (растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0054",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "136",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛУУК",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0055",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "лүөн",
+    "names_other_varieties": [],
+    "russian_gloss": "Лён.",
+    "english_gloss": "",
+    "common_name_state_language": "Лён.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0055",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "141",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛҮӨН",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0056",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "лэбэн-түөрэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Крестовник (лекарственная полевая трава).",
+    "english_gloss": "",
+    "common_name_state_language": "Крестовник (лекарственная полевая трава).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0056",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "161",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЛЭБЭН-ТҮӨРЭ",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0057",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "мас",
+    "names_other_varieties": [],
+    "russian_gloss": "Дерево (древесные растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Дерево (древесные растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0057",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "237–242",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МАС",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0058",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "моонньоҕон",
+    "names_other_varieties": [],
+    "russian_gloss": "Кустарник черной смородины; черная смородина.",
+    "english_gloss": "",
+    "common_name_state_language": "Кустарник черной смородины; черная смородина.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0058",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "290",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МООННЬОҔОН II",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0059",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "моркуоп",
+    "names_other_varieties": [],
+    "russian_gloss": "Морковь.",
+    "english_gloss": "",
+    "common_name_state_language": "Морковь.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0059",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "294",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МОРКУОП",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0060",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "мородьуна",
+    "names_other_varieties": [],
+    "russian_gloss": "Черная смородина.",
+    "english_gloss": "",
+    "common_name_state_language": "Черная смородина.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0060",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "294",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МОРОДЬУНА",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0061",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "моруоска",
+    "names_other_varieties": [],
+    "russian_gloss": "Морошка.",
+    "english_gloss": "",
+    "common_name_state_language": "Морошка.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0061",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "295",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МОРУОСКА",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0062",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "муох",
+    "names_other_varieties": [],
+    "russian_gloss": "Мох.",
+    "english_gloss": "",
+    "common_name_state_language": "Мох.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0062",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_06",
+        "source_pages": "363",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "МУОХ",
+    "source_volume": 6,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0063",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньааҕытык",
+    "names_other_varieties": [],
+    "russian_gloss": "Морошка.",
+    "english_gloss": "",
+    "common_name_state_language": "Морошка.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0063",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "63",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬААҔЫТЫК",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0064",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньаамыкта",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодой мелкий тальник.",
+    "english_gloss": "",
+    "common_name_state_language": "Молодой мелкий тальник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0064",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "65–66",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬААМЫКТА",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0065",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньалбыкта",
+    "names_other_varieties": [],
+    "russian_gloss": "Мягкая шелковистая трава, растущая у воды (несъедобна для домашнего скота).",
+    "english_gloss": "",
+    "common_name_state_language": "Мягкая шелковистая трава, растущая у воды (несъедобна для домашнего скота).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0065",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "78",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬАЛБЫКТА",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0066",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньалҕай",
+    "names_other_varieties": [],
+    "russian_gloss": "Ситник, вострец (осенняя пожелтевшая трава, к-рую используют в качестве потников и стелек).",
+    "english_gloss": "",
+    "common_name_state_language": "Ситник, вострец (осенняя пожелтевшая трава, к-рую используют в качестве потников и стелек).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0066",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "80",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬАЛҔАЙ II",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0067",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньалыкта",
+    "names_other_varieties": [],
+    "russian_gloss": "Боярышник даурский (разновидность боярышника, отличающаяся ярко-желтыми ягодами).",
+    "english_gloss": "",
+    "common_name_state_language": "Боярышник даурский (разновидность боярышника, отличающаяся ярко-желтыми ягодами).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0067",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬАЛЫКТА",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0068",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньургуһун",
+    "names_other_varieties": [],
+    "russian_gloss": "Первый весенний цветок; подснежник, прострел.",
+    "english_gloss": "",
+    "common_name_state_language": "Первый весенний цветок; подснежник, прострел.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0068",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "145",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬУРГУҺУН",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0069",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ньээм",
+    "names_other_varieties": [],
+    "russian_gloss": "Одуванчик.",
+    "english_gloss": "",
+    "common_name_state_language": "Одуванчик.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0069",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "188",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "НЬЭЭМ (НЬЭЭМ ОТ)",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0070",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "оҕурсу",
+    "names_other_varieties": [],
+    "russian_gloss": "Огурец.",
+    "english_gloss": "",
+    "common_name_state_language": "Огурец.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0070",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "212–213",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОҔУРСУ",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0071",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "омнуона",
+    "names_other_varieties": [],
+    "russian_gloss": "Род хвоща, растущего на горных речках (лошади, отъевшиеся этим хвощом могут пасть).",
+    "english_gloss": "",
+    "common_name_state_language": "Род хвоща, растущего на горных речках (лошади, отъевшиеся этим хвощом могут пасть).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0071",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "282",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОМНУОНА",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0072",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "оруос",
+    "names_other_varieties": [],
+    "russian_gloss": "Рожь.",
+    "english_gloss": "",
+    "common_name_state_language": "Рожь.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0072",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "345",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОРУОС",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0073",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "от",
+    "names_other_varieties": [],
+    "russian_gloss": "Трава.",
+    "english_gloss": "",
+    "common_name_state_language": "Трава.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0073",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "360–361",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОТ",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0074",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "отон",
+    "names_other_varieties": [],
+    "russian_gloss": "Ягода.",
+    "english_gloss": "",
+    "common_name_state_language": "Ягода.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0074",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "362–363",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОТОН",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0075",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "оттук",
+    "names_other_varieties": [],
+    "russian_gloss": "Трава на пастбище; подножный корм.",
+    "english_gloss": "",
+    "common_name_state_language": "Трава на пастбище; подножный корм.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0075",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "367",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ОТТУК I",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0076",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "помудуор",
+    "names_other_varieties": [],
+    "russian_gloss": "Помидор.",
+    "english_gloss": "",
+    "common_name_state_language": "Помидор.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0076",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_07",
+        "source_pages": "513",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ПОМУДУОР",
+    "source_volume": 7,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0077",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "салаат",
+    "names_other_varieties": [],
+    "russian_gloss": "Травянистое овощное растение, листья которого идут в пищу в сыром виде, салат.",
+    "english_gloss": "",
+    "common_name_state_language": "Травянистое овощное растение, листья которого идут в пищу в сыром виде, салат.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0077",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "169–170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САЛААТ",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0078",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "салахайдар",
+    "names_other_varieties": [],
+    "russian_gloss": "Одноклеточные или многоклеточные низшие водные растения, у которых отсутствует членение на корень, стебель и листья; скопление их на поверхности воды; водоросли.",
+    "english_gloss": "",
+    "common_name_state_language": "Одноклеточные или многоклеточные низшие водные растения, у которых отсутствует членение на корень, стебель и листья; скопление их на поверхности воды; водоросли.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0078",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "176",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САЛАХАЙДАР",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0079",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "салпыай",
+    "names_other_varieties": [],
+    "russian_gloss": "Травянистое растение; шалфей.",
+    "english_gloss": "",
+    "common_name_state_language": "Травянистое растение; шалфей.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0079",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "193",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САЛПЫАЙ",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0080",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "салыгыныар",
+    "names_other_varieties": [],
+    "russian_gloss": "Произрастающая на севере трава с хорошим кормовым качеством (особенно для лошадей); крестовник арктический.",
+    "english_gloss": "",
+    "common_name_state_language": "Произрастающая на севере трава с хорошим кормовым качеством (особенно для лошадей); крестовник арктический.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0080",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "196",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САЛЫГЫНЫАР",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0081",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сандаал",
+    "names_other_varieties": [],
+    "russian_gloss": "Южное вечнозелёное дерево, насыщенное ароматом, сандал.",
+    "english_gloss": "",
+    "common_name_state_language": "Южное вечнозелёное дерево, насыщенное ароматом, сандал.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0081",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "225",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САНДААЛ",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0082",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "саппырыыс-иппириис",
+    "names_other_varieties": [],
+    "russian_gloss": "Сильнодействующие лечебные растения типа сассапарили (имеет собир. знач. ).",
+    "english_gloss": "",
+    "common_name_state_language": "Сильнодействующие лечебные растения типа сассапарили (имеет собир. знач. ).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0082",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "256",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САППЫРЫЫС-ИППИРИИС",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0083",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сарбынньах",
+    "names_other_varieties": [],
+    "russian_gloss": "Лиственное дерево с плодами в виде пучка оранжевокрасных ягод; рябина (на территории Якутии произрастает преим. в верховьях Лены).",
+    "english_gloss": "",
+    "common_name_state_language": "Лиственное дерево с плодами в виде пучка оранжевокрасных ягод; рябина (на территории Якутии произрастает преим. в верховьях Лены).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0083",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "274–275",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САРБЫННЬАХ II",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0084",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сардаа",
+    "names_other_varieties": [],
+    "russian_gloss": "Встречающаяся преимущественно в лесной зоне севера Якутии трава с белыми цветами (корни к-рого местные жители раньше употребляли в пищу в молотом виде); копеечник горошковидный.",
+    "english_gloss": "",
+    "common_name_state_language": "Встречающаяся преимущественно в лесной зоне севера Якутии трава с белыми цветами (корни к-рого местные жители раньше употребляли в пищу в молотом виде); копеечник горошковидный.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0084",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "277",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САРДАА",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0085",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сардаана",
+    "names_other_varieties": [],
+    "russian_gloss": "Растущая преимущественно по берегам рек луковичная трава с приметными цветами красно-оранжевого цвета; лилия даурская.",
+    "english_gloss": "",
+    "common_name_state_language": "Растущая преимущественно по берегам рек луковичная трава с приметными цветами красно-оранжевого цвета; лилия даурская.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0085",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "277",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САРДААНА I",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0086",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сахсырҕаһыт",
+    "names_other_varieties": [],
+    "russian_gloss": "Небольшое хищное растение с узкими длинными листьями; росолист.",
+    "english_gloss": "",
+    "common_name_state_language": "Небольшое хищное растение с узкими длинными листьями; росолист.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0086",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "334",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "САХСЫРҔАҺЫТ",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0087",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сиибиктэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Ветвистый, нежный вид хвоща, растущий по опушкам леса в тени и отличающийся питательностью для скота (особенно для лошадей и оленей), хвощ пестрый.",
+    "english_gloss": "",
+    "common_name_state_language": "Ветвистый, нежный вид хвоща, растущий по опушкам леса в тени и отличающийся питательностью для скота (особенно для лошадей и оленей), хвощ пестрый.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0087",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "360–361",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СИИБИКТЭ",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0088",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сиһик",
+    "names_other_varieties": [],
+    "russian_gloss": "Ольха.",
+    "english_gloss": "",
+    "common_name_state_language": "Ольха.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0088",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_08",
+        "source_pages": "455",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СИҺИК",
+    "source_volume": 8,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0089",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сөлүөҥкэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Кормовое растение, идущее в корм скоту в свежем виде, зелёнка.",
+    "english_gloss": "",
+    "common_name_state_language": "Кормовое растение, идущее в корм скоту в свежем виде, зелёнка.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0089",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "67",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СӨЛҮӨҤКЭ I",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0090",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сугун",
+    "names_other_varieties": [],
+    "russian_gloss": "Голубика.",
+    "english_gloss": "",
+    "common_name_state_language": "Голубика.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0090",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "102",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СУГУН",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0091",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сутуйба",
+    "names_other_varieties": [],
+    "russian_gloss": "Заразиха (травянистое сорное растение, паразитирующее на полыни).",
+    "english_gloss": "",
+    "common_name_state_language": "Заразиха (травянистое сорное растение, паразитирующее на полыни).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0091",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "191",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СУТУЙБА",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0092",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сэлиэһинэй",
+    "names_other_varieties": [],
+    "russian_gloss": "Пшеница. Үрүҥ сэлиэһинэй Куолас кутан тахсыа.",
+    "english_gloss": "",
+    "common_name_state_language": "Пшеница. Үрүҥ сэлиэһинэй Куолас кутан тахсыа.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0092",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "558",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СЭЛИЭҺИНЭЙ",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0093",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сэппэнньэх",
+    "names_other_varieties": [],
+    "russian_gloss": "Полукустарник – многолетнее растение с древесными нижними и травянистыми верхними частями.",
+    "english_gloss": "",
+    "common_name_state_language": "Полукустарник – многолетнее растение с древесными нижними и травянистыми верхними частями.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0093",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "583",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СЭППЭННЬЭХ",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0094",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "сэппэрээк",
+    "names_other_varieties": [],
+    "russian_gloss": "Кустарник.",
+    "english_gloss": "",
+    "common_name_state_language": "Кустарник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0094",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_09",
+        "source_pages": "584",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "СЭППЭРЭЭК",
+    "source_volume": 9,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0095",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "таастыйа",
+    "names_other_varieties": [],
+    "russian_gloss": "Камнеломка Стеллера, редкое растение, внесенное в красную книгу Якутии.",
+    "english_gloss": "",
+    "common_name_state_language": "Камнеломка Стеллера, редкое растение, внесенное в красную книгу Якутии.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0095",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "103",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТААСТЫЙА III",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0096",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "табах",
+    "names_other_varieties": [],
+    "russian_gloss": "Табак (как травянистое растение).",
+    "english_gloss": "",
+    "common_name_state_language": "Табак (как травянистое растение).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0096",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "116",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТАБАХ",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0097",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "талах",
+    "names_other_varieties": [],
+    "russian_gloss": "Общее название растений с гибкими групповыми стеблями, которые растут обычно по сырым местам: тальник; ива; верба.",
+    "english_gloss": "",
+    "common_name_state_language": "Общее название растений с гибкими групповыми стеблями, которые растут обычно по сырым местам: тальник; ива; верба.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0097",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "166–168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТАЛАХ",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0098",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тахтыкан",
+    "names_other_varieties": [],
+    "russian_gloss": "Низкорослое дерево с густыми ветвями, типичное для лесотундры.",
+    "english_gloss": "",
+    "common_name_state_language": "Низкорослое дерево с густыми ветвями, типичное для лесотундры.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0098",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "310",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТАХТЫКАН",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0099",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тиит",
+    "names_other_varieties": [],
+    "russian_gloss": "Лиственница.",
+    "english_gloss": "",
+    "common_name_state_language": "Лиственница.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0099",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "334–335",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТИИТ",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0100",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тирэх",
+    "names_other_varieties": [],
+    "russian_gloss": "Тополь.",
+    "english_gloss": "",
+    "common_name_state_language": "Тополь.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0100",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "376",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТИРЭХ II",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0101",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "титирик",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодая лиственница.",
+    "english_gloss": "",
+    "common_name_state_language": "Молодая лиственница.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0101",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "385",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТИТИРИК",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0102",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тобулуоскай",
+    "names_other_varieties": [],
+    "russian_gloss": "Полый мелкий кустарник, растущий на кочках, таволга иволистная.",
+    "english_gloss": "",
+    "common_name_state_language": "Полый мелкий кустарник, растущий на кочках, таволга иволистная.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0102",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_10",
+        "source_pages": "408",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТОБУЛУОСКАЙ",
+    "source_volume": 10,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0103",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "туру",
+    "names_other_varieties": [],
+    "russian_gloss": "Шаманское дерево (вырастает одновременно с обращением кого-л. в шаманы, засыхает и падает с его смертью).",
+    "english_gloss": "",
+    "common_name_state_language": "Шаманское дерево (вырастает одновременно с обращением кого-л. в шаманы, засыхает и падает с его смертью).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0103",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_11",
+        "source_pages": "166",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТУРУ I",
+    "source_volume": 11,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0104",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тыыкыба",
+    "names_other_varieties": [],
+    "russian_gloss": "Огородное, бахчевое растение с большими круглыми или овальными съедобными плодами, а также плод этого растения; тыква.",
+    "english_gloss": "",
+    "common_name_state_language": "Огородное, бахчевое растение с большими круглыми или овальными съедобными плодами, а также плод этого растения; тыква.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0104",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_11",
+        "source_pages": "415–416",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТЫЫКЫБА",
+    "source_volume": 11,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0105",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тэллэй",
+    "names_other_varieties": [],
+    "russian_gloss": "Гриб.",
+    "english_gloss": "",
+    "common_name_state_language": "Гриб.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0105",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_11",
+        "source_pages": "470–471",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТЭЛЛЭЙ II",
+    "source_volume": 11,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0106",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тэтиҥ",
+    "names_other_varieties": [],
+    "russian_gloss": "Осина.",
+    "english_gloss": "",
+    "common_name_state_language": "Осина.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0106",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_11",
+        "source_pages": "523",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ТЭТИҤ",
+    "source_volume": 11,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0107",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "укуруоп",
+    "names_other_varieties": [],
+    "russian_gloss": "Однолетнее травянистое растение семейства зонтичных с мелкими листьями и жёлтыми соцветиями, употребляемое как приправа к пище, в солениях, укроп.",
+    "english_gloss": "",
+    "common_name_state_language": "Однолетнее травянистое растение семейства зонтичных с мелкими листьями и жёлтыми соцветиями, употребляемое как приправа к пище, в солениях, укроп.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0107",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "112",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "УКУРУОП",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0108",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "улаайы",
+    "names_other_varieties": [],
+    "russian_gloss": "Чозения крупночешуйчатая, ольха.",
+    "english_gloss": "",
+    "common_name_state_language": "Чозения крупночешуйчатая, ольха.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0108",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "112",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "УЛААЙЫ",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0109",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "уохта",
+    "names_other_varieties": [],
+    "russian_gloss": "Чёрная смородина-дикуша, охта, алданский виноград.",
+    "english_gloss": "",
+    "common_name_state_language": "Чёрная смородина-дикуша, охта, алданский виноград.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0109",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "243",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "УОХТА",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0110",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "үкэр",
+    "names_other_varieties": [],
+    "russian_gloss": "Осока. Үкэр от бүөлүү үүммүт ханнык эрэ чычаас сүлбэҕэ тиийэн кэлиллэр.",
+    "english_gloss": "",
+    "common_name_state_language": "Осока. Үкэр от бүөлүү үүммүт ханнык эрэ чычаас сүлбэҕэ тиийэн кэлиллэр.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0110",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ҮКЭР I",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0111",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "үөт",
+    "names_other_varieties": [],
+    "russian_gloss": "Кустарник или дерево с гибкими ветвями и узкими листьями, ива.",
+    "english_gloss": "",
+    "common_name_state_language": "Кустарник или дерево с гибкими ветвями и узкими листьями, ива.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0111",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "512–513",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ҮӨТ II",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0112",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "үүнээйи",
+    "names_other_varieties": [],
+    "russian_gloss": "Растение.",
+    "english_gloss": "",
+    "common_name_state_language": "Растение.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0112",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "584",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ҮҮНЭЭЙИ",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0113",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "үүттүйэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Млечник (вид травы).",
+    "english_gloss": "",
+    "common_name_state_language": "Млечник (вид травы).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0113",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_12",
+        "source_pages": "592",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ҮҮТТҮЙЭ",
+    "source_volume": 12,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0114",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чагда",
+    "names_other_varieties": [],
+    "russian_gloss": "Сосняк, растущий на сухом возвышенном месте; сосновый бор.",
+    "english_gloss": "",
+    "common_name_state_language": "Сосняк, растущий на сухом возвышенном месте; сосновый бор.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0114",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "83",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧАГДА",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0115",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чараҥ",
+    "names_other_varieties": [],
+    "russian_gloss": "Берёзовая роща, березняк. Үрүмэ долгун үөһүгэр чаллах хатыҥ намылыйан чараҥым саҕатыгар үүнэн турара.",
+    "english_gloss": "",
+    "common_name_state_language": "Берёзовая роща, березняк. Үрүмэ долгун үөһүгэр чаллах хатыҥ намылыйан чараҥым саҕатыгар үүнэн турара.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0115",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "115–116",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧАРАҤ",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0116",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чосунуок",
+    "names_other_varieties": [],
+    "russian_gloss": "Луковичное растение с острым вкусом и запахом, чеснок.",
+    "english_gloss": "",
+    "common_name_state_language": "Луковичное растение с острым вкусом и запахом, чеснок.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0116",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "196",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧОСУНУОК",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0117",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чочунаах",
+    "names_other_varieties": [],
+    "russian_gloss": "Дикий лук, черемша (растёт по окраинам полей и лугов, бывает небольшим в диаметре и не полым внутри).",
+    "english_gloss": "",
+    "common_name_state_language": "Дикий лук, черемша (растёт по окраинам полей и лугов, бывает небольшим в диаметре и не полым внутри).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0117",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "204",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧОЧУНААХ",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0118",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чуурукта",
+    "names_other_varieties": [],
+    "russian_gloss": "Травянистое растение с мелкими чешуйчатыми листьями, сросшимися в трубку, хвощ.",
+    "english_gloss": "",
+    "common_name_state_language": "Травянистое растение с мелкими чешуйчатыми листьями, сросшимися в трубку, хвощ.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0118",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "249",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧУУРУКТА",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0119",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чыыбаайы",
+    "names_other_varieties": [],
+    "russian_gloss": "Хвощ пёстрый (вид растения).",
+    "english_gloss": "",
+    "common_name_state_language": "Хвощ пёстрый (вид растения).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0119",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "278",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧЫЫБААЙЫ",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0120",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чэчик",
+    "names_other_varieties": [],
+    "russian_gloss": "Цветок. Үүнэллэр чээлэй күөх чэчиктэр.",
+    "english_gloss": "",
+    "common_name_state_language": "Цветок. Үүнэллэр чээлэй күөх чэчиктэр.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0120",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "303",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧЭЧИК",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0121",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чэчир",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодая берёзка с листвой, срубленная для украшения места проведения национального праздника ысыах или свадьбы.",
+    "english_gloss": "",
+    "common_name_state_language": "Молодая берёзка с листвой, срубленная для украшения места проведения национального праздника ысыах или свадьбы.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0121",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "303",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧЭЧИР",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0122",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чээрэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Чёрный гриб в виде нароста на стволе берёзы, чага.",
+    "english_gloss": "",
+    "common_name_state_language": "Чёрный гриб в виде нароста на стволе берёзы, чага.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0122",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "305",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЧЭЭРЭ II",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0123",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ыарҕа",
+    "names_other_varieties": [],
+    "russian_gloss": "Кустарник тальника, ерник. Үрүйэлии синньигэс, оттоммот үрэх куула саҕата ыарҕанан бүөлүү үүммүт этэ.",
+    "english_gloss": "",
+    "common_name_state_language": "Кустарник тальника, ерник. Үрүйэлии синньигэс, оттоммот үрэх куула саҕата ыарҕанан бүөлүү үүммүт этэ.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0123",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "330",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЫАРҔА",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0124",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ымыйах",
+    "names_other_varieties": [],
+    "russian_gloss": "Многолетнее растение семейства розоцветных, имеющее мощный корень, употребляемый в пищу, прикорневую розетку листьев, прямостоячий стебель, цветки, собранные в густые, тёмно-красны",
+    "english_gloss": "",
+    "common_name_state_language": "Многолетнее растение семейства розоцветных, имеющее мощный корень, употребляемый в пищу, прикорневую розетку листьев, прямостоячий стебель, цветки, собранные в густые, тёмно-красны",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0124",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_14",
+        "source_pages": "435",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЫМЫЙАХ",
+    "source_volume": 14,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0125",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эбиэс",
+    "names_other_varieties": [],
+    "russian_gloss": "Овёс (злак).",
+    "english_gloss": "",
+    "common_name_state_language": "Овёс (злак).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0125",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "134–135",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭБИЭС",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0126",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эбэлэй",
+    "names_other_varieties": [],
+    "russian_gloss": "Рыжик (гриб).",
+    "english_gloss": "",
+    "common_name_state_language": "Рыжик (гриб).",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0126",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "136",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭБЭЛЭЙ",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0127",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эмэһэлик",
+    "names_other_varieties": [],
+    "russian_gloss": "Особый род съедобной травы, растущей по склонам, обращённым к югу, выделяющей горький и липкий сок.",
+    "english_gloss": "",
+    "common_name_state_language": "Особый род съедобной травы, растущей по склонам, обращённым к югу, выделяющей горький и липкий сок.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0127",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "230",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭМЭһЭЛИК",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0128",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эрбинньэх",
+    "names_other_varieties": [],
+    "russian_gloss": "Низкорослое дерево, низкорослый тальник, кустарник.",
+    "english_gloss": "",
+    "common_name_state_language": "Низкорослое дерево, низкорослый тальник, кустарник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0128",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "275",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРБИННЬЭХ",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0129",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эрбэһин",
+    "names_other_varieties": [],
+    "russian_gloss": "Общее название сорных трав, полынь.",
+    "english_gloss": "",
+    "common_name_state_language": "Общее название сорных трав, полынь.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0129",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "277–278",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРБЭһИН",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0130",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эрилбэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Вид многолетнего травянистого растения семейства \"вьюнковые\" с вьющимся стеблем высотой примерно в 20-70 см, вьюнок полевой.",
+    "english_gloss": "",
+    "common_name_state_language": "Вид многолетнего травянистого растения семейства \"вьюнковые\" с вьющимся стеблем высотой примерно в 20-70 см, вьюнок полевой.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0130",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "315",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРИЛБЭ",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0131",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эриэппэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Репа.",
+    "english_gloss": "",
+    "common_name_state_language": "Репа.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0131",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРИЭППЭ",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0132",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эрэдьиискэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Редиска.",
+    "english_gloss": "",
+    "common_name_state_language": "Редиска.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0132",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "340–341",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРЭДЬИИСКЭ",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0133",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "эрээскэ",
+    "names_other_varieties": [],
+    "russian_gloss": "Карликовое цветочное растение, ряска.",
+    "english_gloss": "",
+    "common_name_state_language": "Карликовое цветочное растение, ряска.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0133",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_15",
+        "source_pages": "363",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ЭРЭЭСКЭ I",
+    "source_volume": 15,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0134",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хаабаҕатыҥылар",
+    "names_other_varieties": [],
+    "russian_gloss": "Растения, овощи, относящиеся к семейству пасленовых, паслёновые.",
+    "english_gloss": "",
+    "common_name_state_language": "Растения, овощи, относящиеся к семейству пасленовых, паслёновые.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0134",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "71",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХААБАҔАТЫҤЫЛАР",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0135",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хаппырыас",
+    "names_other_varieties": [],
+    "russian_gloss": "Черёмуха.",
+    "english_gloss": "",
+    "common_name_state_language": "Черёмуха.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0135",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "318",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАППЫРЫАС",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0136",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хаппыыста",
+    "names_other_varieties": [],
+    "russian_gloss": "Огородное растение семейства крестоцветных, растущее обычно кочаном, капуста.",
+    "english_gloss": "",
+    "common_name_state_language": "Огородное растение семейства крестоцветных, растущее обычно кочаном, капуста.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0136",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "319",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАППЫЫСТА",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0137",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хаптаҕас",
+    "names_other_varieties": [],
+    "russian_gloss": "Кустарник со съедобными кисловато-сладкими ягодами, а также самые ягоды, красная смородина.",
+    "english_gloss": "",
+    "common_name_state_language": "Кустарник со съедобными кисловато-сладкими ягодами, а также самые ягоды, красная смородина.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0137",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАПТАҔАС",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0138",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "харас",
+    "names_other_varieties": [],
+    "russian_gloss": "Черёмуха.",
+    "english_gloss": "",
+    "common_name_state_language": "Черёмуха.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0138",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "369",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАРАС",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0139",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "харба",
+    "names_other_varieties": [],
+    "russian_gloss": "Водяное многолетнее растение, достигающее длины до десяти-тридцати см, с листьями по пять-шесть в мутовке, с розовыми цветками, уруть мутовчатая.",
+    "english_gloss": "",
+    "common_name_state_language": "Водяное многолетнее растение, достигающее длины до десяти-тридцати см, с листьями по пять-шесть в мутовке, с розовыми цветками, уруть мутовчатая.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0139",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "384",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАРБА I",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0140",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "харыйа",
+    "names_other_varieties": [],
+    "russian_gloss": "Вечнозелёное хвойное дерево семейства сосновых с конусообразной кроной, ель.",
+    "english_gloss": "",
+    "common_name_state_language": "Вечнозелёное хвойное дерево семейства сосновых с конусообразной кроной, ель.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0140",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "410",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАРЫЙА",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0141",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хатыҥ",
+    "names_other_varieties": [],
+    "russian_gloss": "Берёза.",
+    "english_gloss": "",
+    "common_name_state_language": "Берёза.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0141",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "468–470",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАТЫҤ",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0142",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хахыйах",
+    "names_other_varieties": [],
+    "russian_gloss": "Молодая берёза, берёзка.",
+    "english_gloss": "",
+    "common_name_state_language": "Молодая берёза, берёзка.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0142",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "484",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХАХЫЙАХ",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0143",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "холуопак",
+    "names_other_varieties": [],
+    "russian_gloss": "Растение, семена которого покрыты пушистыми волосками, дающими хлопок, хлопчатник.",
+    "english_gloss": "",
+    "common_name_state_language": "Растение, семена которого покрыты пушистыми волосками, дающими хлопок, хлопчатник.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0143",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "553",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХОЛУОПАК",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0144",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хомус",
+    "names_other_varieties": [],
+    "russian_gloss": "Высокое водное или болотное растение семейства осоковых, камыш.",
+    "english_gloss": "",
+    "common_name_state_language": "Высокое водное или болотное растение семейства осоковых, камыш.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0144",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "567",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХОМУС II",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0145",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хортуоппуй",
+    "names_other_varieties": [],
+    "russian_gloss": "Картофель.",
+    "english_gloss": "",
+    "common_name_state_language": "Картофель.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0145",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "605",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХОРТУОППУЙ",
+    "source_volume": 13,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sakha_0146",
+    "language_id": "sakha",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "хоруун",
+    "names_other_varieties": [],
+    "russian_gloss": "Съедобный корень травы.",
+    "english_gloss": "",
+    "common_name_state_language": "Съедобный корень травы.",
+    "common_names_by_language": {},
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_sakha_0146",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sakha_dictionary_vol_13",
+        "source_pages": "612",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null
+      }
+    ],
+    "extraction_status": "dictionary_candidate_reviewed_by_gloss",
+    "source_lemma": "ХОРУУН",
+    "source_volume": 13,
+    "ipa": null
+  }
+]

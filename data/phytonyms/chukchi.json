@@ -1,0 +1,2545 @@
+[
+  {
+    "phytonym_id": "phy_chukchi_belichenko_001_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_001",
+    "name_native_language": "мыргомыр",
+    "names_other_varieties": [],
+    "russian_gloss": "крылатая ламинария",
+    "english_gloss": "winged kelp",
+    "common_name_state_language": "крылатая ламинария",
+    "common_names_by_language": {
+      "ru": "крылатая ламинария",
+      "en": "winged kelp"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_001_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "325",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 1,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "mәrɣomәr",
+    "source_volume": null,
+    "original_transcription": "mәrɣomәr",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_002_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_002",
+    "name_native_language": "майʼоԓаԓгыӈ",
+    "names_other_varieties": [],
+    "russian_gloss": "лук (шнитт-лук или лук-батун)",
+    "english_gloss": "chives / spring onion",
+    "common_name_state_language": "лук (шнитт-лук или лук-батун)",
+    "common_names_by_language": {
+      "ru": "лук (шнитт-лук или лук-батун)",
+      "en": "chives / spring onion"
+    },
+    "linguistic_comment": "Source: Allium shoenoprasum L.; Allium fistulosum L. (tundra Chukchi only); Allium sp. The printed spelling is retained in this note.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_002_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "325",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "majˀoɬaɬɣәŋ",
+    "source_volume": null,
+    "original_transcription": "majˀoɬaɬɣәŋ",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_003_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_003",
+    "name_native_language": "вирвир",
+    "names_other_varieties": [],
+    "russian_gloss": "ольха",
+    "english_gloss": "alder",
+    "common_name_state_language": "ольха",
+    "common_names_by_language": {
+      "ru": "ольха",
+      "en": "alder"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_003_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Medicine",
+          "Household"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 1,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "wirwir",
+    "source_volume": null,
+    "original_transcription": "wirwir",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_004_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_004",
+    "name_native_language": "икитут",
+    "names_other_varieties": [],
+    "russian_gloss": "дудник",
+    "english_gloss": "wild celery",
+    "common_name_state_language": "дудник",
+    "common_names_by_language": {
+      "ru": "дудник",
+      "en": "wild celery"
+    },
+    "linguistic_comment": "Source identifies the plant as Angelica gmelinii OR Angelica lucida.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_004_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Food"
+        ],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "ikitut",
+    "source_volume": null,
+    "original_transcription": "ikitut",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_005_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_005",
+    "name_native_language": "ӄԓуӄэт",
+    "names_other_varieties": [],
+    "russian_gloss": "толокнянка альпийская",
+    "english_gloss": "alpine bearberry",
+    "common_name_state_language": "толокнянка альпийская",
+    "common_names_by_language": {
+      "ru": "толокнянка альпийская",
+      "en": "alpine bearberry"
+    },
+    "linguistic_comment": "Children’s games also reported.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_005_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Children’s games"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "qɬuqet",
+    "source_volume": null,
+    "original_transcription": "qɬuqet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_006_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_006",
+    "name_native_language": "тыкэвʼэй",
+    "names_other_varieties": [],
+    "russian_gloss": "полынь",
+    "english_gloss": "stinkweed / wormwood",
+    "common_name_state_language": "полынь",
+    "common_names_by_language": {
+      "ru": "полынь",
+      "en": "stinkweed / wormwood"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_006_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Medicine",
+          "Household",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "tәkewˀej",
+    "source_volume": null,
+    "original_transcription": "tәkewˀej",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_007_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_007",
+    "name_native_language": "вырвыт",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза карликовая",
+    "english_gloss": "dwarf birch",
+    "common_name_state_language": "берёза карликовая",
+    "common_names_by_language": {
+      "ru": "берёза карликовая",
+      "en": "dwarf birch"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_007_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Household"
+        ],
+        "source_one_generation_uses": [
+          "Food"
+        ],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "wәrwәt",
+    "source_volume": null,
+    "original_transcription": "wәrwәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_008_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_008",
+    "name_native_language": "ыпʼэт",
+    "names_other_varieties": [],
+    "russian_gloss": "змеевик лекарственный",
+    "english_gloss": "bistort",
+    "common_name_state_language": "змеевик лекарственный",
+    "common_names_by_language": {
+      "ru": "змеевик лекарственный",
+      "en": "bistort"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_008_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "әpˀet",
+    "source_volume": null,
+    "original_transcription": "әpˀet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_009_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_009",
+    "name_native_language": "виԓуԓʼыт",
+    "names_other_varieties": [],
+    "russian_gloss": "калужница болотная",
+    "english_gloss": "marsh marigold",
+    "common_name_state_language": "калужница болотная",
+    "common_names_by_language": {
+      "ru": "калужница болотная",
+      "en": "marsh marigold"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_009_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 1,
+        "tundra_frequency_dots": 1,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "wiɬuɬˀәt",
+    "source_volume": null,
+    "original_transcription": "wiɬuɬˀәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_010_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_010",
+    "name_native_language": "кэнʼут",
+    "names_other_varieties": [],
+    "russian_gloss": "кассиопея четырёхгранная",
+    "english_gloss": "arctic bell-heather",
+    "common_name_state_language": "кассиопея четырёхгранная",
+    "common_names_by_language": {
+      "ru": "кассиопея четырёхгранная",
+      "en": "arctic bell-heather"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_010_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Medicine",
+          "Household",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "kenˀut",
+    "source_volume": null,
+    "original_transcription": "kenˀut",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_011_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_011",
+    "name_native_language": "ватап",
+    "names_other_varieties": [],
+    "russian_gloss": "ягель (кладония оленья)",
+    "english_gloss": "reindeer lichen",
+    "common_name_state_language": "ягель (кладония оленья)",
+    "common_names_by_language": {
+      "ru": "ягель (кладония оленья)",
+      "en": "reindeer lichen"
+    },
+    "linguistic_comment": "Food use specified as emergency food.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": "Recorded as fodder."
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_011_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "326",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food (emergency)",
+          "Medicine",
+          "Fodder"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "watap",
+    "source_volume": null,
+    "original_transcription": "watap",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_012_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_012",
+    "name_native_language": "кымчэк",
+    "names_other_varieties": [],
+    "russian_gloss": "клайтония остролистная",
+    "english_gloss": "Arctic springbeauty",
+    "common_name_state_language": "клайтония остролистная",
+    "common_names_by_language": {
+      "ru": "клайтония остролистная",
+      "en": "Arctic springbeauty"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_012_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 6,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "kәmçek",
+    "source_volume": null,
+    "original_transcription": "kәmçek",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_013_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_013",
+    "name_native_language": "пʼопʼоӄ",
+    "names_other_varieties": [],
+    "russian_gloss": "клайтония клубневая",
+    "english_gloss": "tuberous springbeauty",
+    "common_name_state_language": "клайтония клубневая",
+    "common_names_by_language": {
+      "ru": "клайтония клубневая",
+      "en": "tuberous springbeauty"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_013_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 6,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "pˀopˀoq",
+    "source_volume": null,
+    "original_transcription": "pˀopˀoq",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_014_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_014",
+    "name_native_language": "ԓыгуунʼыт",
+    "names_other_varieties": [],
+    "russian_gloss": "водяника чёрная",
+    "english_gloss": "crowberry",
+    "common_name_state_language": "водяника чёрная",
+    "common_names_by_language": {
+      "ru": "водяника чёрная",
+      "en": "crowberry"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_014_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Household"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 7,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "ɬәɣuunˀәt",
+    "source_volume": null,
+    "original_transcription": "ɬәɣuunˀәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_015_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_015",
+    "name_native_language": "вээвыт",
+    "names_other_varieties": [
+      "wewewtәt"
+    ],
+    "russian_gloss": "кипрей широколистный",
+    "english_gloss": "dwarf fireweed",
+    "common_name_state_language": "кипрей широколистный",
+    "common_names_by_language": {
+      "ru": "кипрей широколистный",
+      "en": "dwarf fireweed"
+    },
+    "linguistic_comment": "Source lists both forms as plurals.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_015_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "weewәt",
+    "source_volume": null,
+    "original_transcription": "weewәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_015_02",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_015",
+    "name_native_language": "вэвэвтыт",
+    "names_other_varieties": [
+      "weewәt"
+    ],
+    "russian_gloss": "кипрей широколистный",
+    "english_gloss": "dwarf fireweed",
+    "common_name_state_language": "кипрей широколистный",
+    "common_names_by_language": {
+      "ru": "кипрей широколистный",
+      "en": "dwarf fireweed"
+    },
+    "linguistic_comment": "Source lists both forms as plurals.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_015_02",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "wewewtәt",
+    "source_volume": null,
+    "original_transcription": "wewewtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_016_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_016",
+    "name_native_language": "титивтыт",
+    "names_other_varieties": [],
+    "russian_gloss": "хвощ полевой",
+    "english_gloss": "field horsetail",
+    "common_name_state_language": "хвощ полевой",
+    "common_names_by_language": {
+      "ru": "хвощ полевой",
+      "en": "field horsetail"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_016_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 1,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "titiwtәt",
+    "source_volume": null,
+    "original_transcription": "titiwtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_017_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_017",
+    "name_native_language": "ӄочап",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица узколистная",
+    "english_gloss": "common cottongrass",
+    "common_name_state_language": "пушица узколистная",
+    "common_names_by_language": {
+      "ru": "пушица узколистная",
+      "en": "common cottongrass"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_017_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Spiritual"
+        ],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "qoçap",
+    "source_volume": null,
+    "original_transcription": "qoçap",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_018_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_018",
+    "name_native_language": "миймий",
+    "names_other_varieties": [],
+    "russian_gloss": "копеечник",
+    "english_gloss": "sweetvetch",
+    "common_name_state_language": "копеечник",
+    "common_names_by_language": {
+      "ru": "копеечник",
+      "en": "sweetvetch"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": "Recorded as fodder."
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_018_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Fodder"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "mijmij",
+    "source_volume": null,
+    "original_transcription": "mijmij",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_019_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_019",
+    "name_native_language": "мытʼэт",
+    "names_other_varieties": [
+      "aŋqarәmawtәt"
+    ],
+    "russian_gloss": "гонкения",
+    "english_gloss": "sandwort",
+    "common_name_state_language": "гонкения",
+    "common_names_by_language": {
+      "ru": "гонкения",
+      "en": "sandwort"
+    },
+    "linguistic_comment": "Shared names with Mertensia maritima in the same source.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_019_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "mәtˀet",
+    "source_volume": null,
+    "original_transcription": "mәtˀet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_019_02",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_019",
+    "name_native_language": "аӈӄарымавтыт",
+    "names_other_varieties": [
+      "mәtˀet"
+    ],
+    "russian_gloss": "гонкения",
+    "english_gloss": "sandwort",
+    "common_name_state_language": "гонкения",
+    "common_names_by_language": {
+      "ru": "гонкения",
+      "en": "sandwort"
+    },
+    "linguistic_comment": "Shared names with Mertensia maritima in the same source.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_019_02",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "aŋqarәmawtәt",
+    "source_volume": null,
+    "original_transcription": "aŋqarәmawtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_020_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_020",
+    "name_native_language": "рымавыт",
+    "names_other_varieties": [
+      "rәmawtәt"
+    ],
+    "russian_gloss": "дикая ревень (кёнигия)",
+    "english_gloss": "wild rhubarb",
+    "common_name_state_language": "дикая ревень (кёнигия)",
+    "common_names_by_language": {
+      "ru": "дикая ревень (кёнигия)",
+      "en": "wild rhubarb"
+    },
+    "linguistic_comment": "Source spelling of taxonomic author is corrupted in PDF text; normalized author abbreviation.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_020_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Spiritual"
+        ],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 4,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "rәmawәt",
+    "source_volume": null,
+    "original_transcription": "rәmawәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_020_02",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_020",
+    "name_native_language": "рымавтыт",
+    "names_other_varieties": [
+      "rәmawәt"
+    ],
+    "russian_gloss": "дикая ревень (кёнигия)",
+    "english_gloss": "wild rhubarb",
+    "common_name_state_language": "дикая ревень (кёнигия)",
+    "common_names_by_language": {
+      "ru": "дикая ревень (кёнигия)",
+      "en": "wild rhubarb"
+    },
+    "linguistic_comment": "Source spelling of taxonomic author is corrupted in PDF text; normalized author abbreviation.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_020_02",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Spiritual"
+        ],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 4,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "rәmawtәt",
+    "source_volume": null,
+    "original_transcription": "rәmawtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_021_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_021",
+    "name_native_language": "мытʼэт",
+    "names_other_varieties": [
+      "aŋqarәmawtәt"
+    ],
+    "russian_gloss": "мертензия приморская",
+    "english_gloss": "oyster leaf",
+    "common_name_state_language": "мертензия приморская",
+    "common_names_by_language": {
+      "ru": "мертензия приморская",
+      "en": "oyster leaf"
+    },
+    "linguistic_comment": "Shared names with Honckenya peploides in the same source.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_021_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 1,
+        "tundra_frequency_dots": 1,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "mәtˀet",
+    "source_volume": null,
+    "original_transcription": "mәtˀet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_021_02",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_021",
+    "name_native_language": "аӈӄарымавтыт",
+    "names_other_varieties": [
+      "mәtˀet"
+    ],
+    "russian_gloss": "мертензия приморская",
+    "english_gloss": "oyster leaf",
+    "common_name_state_language": "мертензия приморская",
+    "common_names_by_language": {
+      "ru": "мертензия приморская",
+      "en": "oyster leaf"
+    },
+    "linguistic_comment": "Shared names with Honckenya peploides in the same source.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_021_02",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "327",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 1,
+        "tundra_frequency_dots": 1,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "aŋqarәmawtәt",
+    "source_volume": null,
+    "original_transcription": "aŋqarәmawtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_022_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_022",
+    "name_native_language": "чипʼэт",
+    "names_other_varieties": [
+      "çiwˀet",
+      "rәɬqәŋet"
+    ],
+    "russian_gloss": "камнеломка",
+    "english_gloss": "heartleaf / dotted saxifrage",
+    "common_name_state_language": "камнеломка",
+    "common_names_by_language": {
+      "ru": "камнеломка",
+      "en": "heartleaf / dotted saxifrage"
+    },
+    "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_022_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "çipˀet",
+    "source_volume": null,
+    "original_transcription": "çipˀet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_022_02",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_022",
+    "name_native_language": "чивʼэт",
+    "names_other_varieties": [
+      "çipˀet",
+      "rәɬqәŋet"
+    ],
+    "russian_gloss": "камнеломка",
+    "english_gloss": "heartleaf / dotted saxifrage",
+    "common_name_state_language": "камнеломка",
+    "common_names_by_language": {
+      "ru": "камнеломка",
+      "en": "heartleaf / dotted saxifrage"
+    },
+    "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_022_02",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "çiwˀet",
+    "source_volume": null,
+    "original_transcription": "çiwˀet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_022_03",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_022",
+    "name_native_language": "рыԓӄыӈэт",
+    "names_other_varieties": [
+      "çipˀet",
+      "çiwˀet"
+    ],
+    "russian_gloss": "камнеломка",
+    "english_gloss": "heartleaf / dotted saxifrage",
+    "common_name_state_language": "камнеломка",
+    "common_names_by_language": {
+      "ru": "камнеломка",
+      "en": "heartleaf / dotted saxifrage"
+    },
+    "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_022_03",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "rәɬqәŋet",
+    "source_volume": null,
+    "original_transcription": "rәɬqәŋet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_023_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_023",
+    "name_native_language": "вэчовтыт",
+    "names_other_varieties": [],
+    "russian_gloss": "кисличник двустолбиковый",
+    "english_gloss": "mountain sorrel",
+    "common_name_state_language": "кисличник двустолбиковый",
+    "common_names_by_language": {
+      "ru": "кисличник двустолбиковый",
+      "en": "mountain sorrel"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_023_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 4,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "weçowtәt",
+    "source_volume": null,
+    "original_transcription": "weçowtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_024_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_024",
+    "name_native_language": "рʼоравтыт",
+    "names_other_varieties": [],
+    "russian_gloss": "мы́тник мутовчатый",
+    "english_gloss": "whorled lousewort",
+    "common_name_state_language": "мы́тник мутовчатый",
+    "common_names_by_language": {
+      "ru": "мы́тник мутовчатый",
+      "en": "whorled lousewort"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_024_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 2,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "rˀorawtәt",
+    "source_volume": null,
+    "original_transcription": "rˀorawtәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_025_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_025",
+    "name_native_language": "ԓэмӄут",
+    "names_other_varieties": [],
+    "russian_gloss": "белокопытник холодный",
+    "english_gloss": "Arctic coltsfoot",
+    "common_name_state_language": "белокопытник холодный",
+    "common_names_by_language": {
+      "ru": "белокопытник холодный",
+      "en": "Arctic coltsfoot"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_025_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 4,
+        "tundra_frequency_dots": 4,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "ɬemqut",
+    "source_volume": null,
+    "original_transcription": "ɬemqut",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_026_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_026",
+    "name_native_language": "юӈэв",
+    "names_other_varieties": [],
+    "russian_gloss": "родиола",
+    "english_gloss": "roseroot",
+    "common_name_state_language": "родиола",
+    "common_names_by_language": {
+      "ru": "родиола",
+      "en": "roseroot"
+    },
+    "linguistic_comment": "Both Rhodiola integrifolia and Rhodiola rosea listed; prose discusses Sedum roseum as alternate referent.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_026_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 6,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "juŋew",
+    "source_volume": null,
+    "original_transcription": "juŋew",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_027_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_027",
+    "name_native_language": "нэчэӄут",
+    "names_other_varieties": [],
+    "russian_gloss": "багульник болотный",
+    "english_gloss": "marsh Labrador tea",
+    "common_name_state_language": "багульник болотный",
+    "common_names_by_language": {
+      "ru": "багульник болотный",
+      "en": "marsh Labrador tea"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_027_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Household",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 2,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "neçequt",
+    "source_volume": null,
+    "original_transcription": "neçequt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_028_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_028",
+    "name_native_language": "рыттыт",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "common_name_state_language": "морошка",
+    "common_names_by_language": {
+      "ru": "морошка",
+      "en": "cloudberry"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_028_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 7,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "rәttәt",
+    "source_volume": null,
+    "original_transcription": "rәttәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_029_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_029",
+    "name_native_language": "ӈыргэт",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель арктический",
+    "english_gloss": "arctic dock",
+    "common_name_state_language": "щавель арктический",
+    "common_names_by_language": {
+      "ru": "щавель арктический",
+      "en": "arctic dock"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_029_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 6,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "ŋәrɣet",
+    "source_volume": null,
+    "original_transcription": "ŋәrɣet",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_030_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_030",
+    "name_native_language": "мыргомыр",
+    "names_other_varieties": [],
+    "russian_gloss": "ламинария сахаристая",
+    "english_gloss": "sugar kelp",
+    "common_name_state_language": "ламинария сахаристая",
+    "common_names_by_language": {
+      "ru": "ламинария сахаристая",
+      "en": "sugar kelp"
+    },
+    "linguistic_comment": "Shared name with Alaria marginata on p. 325.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_030_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "328",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "mәrɣomәr",
+    "source_volume": null,
+    "original_transcription": "mәrɣomәr",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_031_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "name_native_language": "вытвыт",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "common_name_state_language": "ива",
+    "common_names_by_language": {
+      "ru": "ива",
+      "en": "willow"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_031_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "329",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Food",
+          "Medicine",
+          "Household",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Spiritual"
+        ],
+        "maritime_frequency_dots": 5,
+        "tundra_frequency_dots": 4,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "wәtwәt",
+    "source_volume": null,
+    "original_transcription": "wәtwәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_032_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_032",
+    "name_native_language": "витывит",
+    "names_other_varieties": [],
+    "russian_gloss": "сфагнум",
+    "english_gloss": "peat moss",
+    "common_name_state_language": "сфагнум",
+    "common_names_by_language": {
+      "ru": "сфагнум",
+      "en": "peat moss"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "Recorded as household use.",
+      "spiritual_use": "Recorded as spiritual use.",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_032_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "329",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "singular",
+        "source_use_categories": [
+          "Medicine",
+          "Household",
+          "Spiritual"
+        ],
+        "source_one_generation_uses": [
+          "Spiritual"
+        ],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "witәwit",
+    "source_volume": null,
+    "original_transcription": "witәwit",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_033_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_033",
+    "name_native_language": "ԓинԓыт",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "common_name_state_language": "голубика",
+    "common_names_by_language": {
+      "ru": "голубика",
+      "en": "bog blueberry"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_033_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "329",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [
+          "Medicine"
+        ],
+        "maritime_frequency_dots": 3,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "ɬinɬәt",
+    "source_volume": null,
+    "original_transcription": "ɬinɬәt",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_chukchi_belichenko_034_01",
+    "language_id": "chukchi",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_034",
+    "name_native_language": "вэривычʼыт",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "common_name_state_language": "брусника",
+    "common_names_by_language": {
+      "ru": "брусника",
+      "en": "lingonberry"
+    },
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Recorded in the source as medicinal use.",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Recorded as food use.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_chukchi_belichenko_034_01",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_belichenko_kolosova_jernigan_pupynina_2021",
+        "source_pages": "329",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "source_number": "Table 1",
+        "usage_context": "Maritime/Tundra comparison given in Table 1; no named locality is specified for this name.",
+        "name_number": "plural",
+        "source_use_categories": [
+          "Food",
+          "Medicine"
+        ],
+        "source_one_generation_uses": [],
+        "maritime_frequency_dots": 5,
+        "tundra_frequency_dots": 3,
+        "frequency_note": "A dot represents approximately ten use reports; the dots in Table 1 are not exact numeric counts."
+      }
+    ],
+    "extraction_status": "transcribed_from_article_table_1",
+    "source_lemma": "weriwәçˀәt",
+    "source_volume": null,
+    "original_transcription": "weriwәçˀәt",
+    "ipa": null
+  }
+]

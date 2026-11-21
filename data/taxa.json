@@ -1,0 +1,282 @@
+[
+  {
+    "taxon_id": "tax_amanita",
+    "scientific_name": "Amanita",
+    "botanical_family": "Amanitaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification inherited from source record; verify taxonomy."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_001",
+    "scientific_name": "Alaria marginata Postels & Ruprecht",
+    "botanical_family": "Alariaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_002",
+    "scientific_name": "Allium sp.",
+    "botanical_family": "Amaryllidaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Source: Allium shoenoprasum L.; Allium fistulosum L. (tundra Chukchi only); Allium sp. The printed spelling is retained in this note."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_003",
+    "scientific_name": "Alnus sp.",
+    "botanical_family": "Betulaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_004",
+    "scientific_name": "Angelica gmelinii (DC.) Pimenov / Angelica lucida L.",
+    "botanical_family": "Apiaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies the plant as Angelica gmelinii OR Angelica lucida."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_005",
+    "scientific_name": "Arctous alpina (L.) Nied.",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Children’s games also reported."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_006",
+    "scientific_name": "Artemisia tilesii Ledeb.",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_007",
+    "scientific_name": "Betula nana L.",
+    "botanical_family": "Betulaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_008",
+    "scientific_name": "Bistorta officinalis Delarbre",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_009",
+    "scientific_name": "Caltha palustris L.",
+    "botanical_family": "Ranunculaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_010",
+    "scientific_name": "Cassiope tetragona (L.) D.Don",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_011",
+    "scientific_name": "Cladonia rangiferina (L.) Weber ex F.H.Wigg.",
+    "botanical_family": "Cladoniaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Food use specified as emergency food."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_012",
+    "scientific_name": "Claytonia acutifolia Pall. ex Schult.",
+    "botanical_family": "Montiaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_013",
+    "scientific_name": "Claytonia tuberosa Pall. ex Schult.",
+    "botanical_family": "Montiaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_014",
+    "scientific_name": "Empetrum nigrum L.",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_015",
+    "scientific_name": "Epilobium latifolium L.",
+    "botanical_family": "Onagraceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Source lists both forms as plurals."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_016",
+    "scientific_name": "Equisetum arvense L.",
+    "botanical_family": "Equisetaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_017",
+    "scientific_name": "Eriophorum angustifolium Honck.",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_018",
+    "scientific_name": "Hedysarum hedysaroides (L.) Schinz & Thell.",
+    "botanical_family": "Fabaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_019",
+    "scientific_name": "Honckenya peploides (L.) Ehrh.",
+    "botanical_family": "Caryophyllaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Shared names with Mertensia maritima in the same source."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_020",
+    "scientific_name": "Koenigia tripterocarpa (A.Gray) T.M.Schust. & Reveal",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Source spelling of taxonomic author is corrupted in PDF text; normalized author abbreviation."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_021",
+    "scientific_name": "Mertensia maritima (L.) Gray",
+    "botanical_family": "Boraginaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Shared names with Honckenya peploides in the same source."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_022",
+    "scientific_name": "Micranthes nelsoniana (D.Don) Small / Micranthes punctata (L.) Losinsk.",
+    "botanical_family": "Saxifragaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_023",
+    "scientific_name": "Oxyria digyna (L.) Hill",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_024",
+    "scientific_name": "Pedicularis verticillata L.",
+    "botanical_family": "Orobanchaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_025",
+    "scientific_name": "Petasites frigidus (L.) Fr.",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_026",
+    "scientific_name": "Rhodiola integrifolia Raf. / Rhodiola rosea L.",
+    "botanical_family": "Crassulaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Both Rhodiola integrifolia and Rhodiola rosea listed; prose discusses Sedum roseum as alternate referent."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_027",
+    "scientific_name": "Rhododendron tomentosum Harmaja",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_028",
+    "scientific_name": "Rubus chamaemorus L.",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_029",
+    "scientific_name": "Rumex arcticus Trautv.",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_030",
+    "scientific_name": "Saccharina latissima (L.) C.E.Lane et al.",
+    "botanical_family": "Laminariaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Shared name with Alaria marginata on p. 325."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "scientific_name": "Salix sp.",
+    "botanical_family": "Salicaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_032",
+    "scientific_name": "Sphagnum sp.",
+    "botanical_family": "Sphagnaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_033",
+    "scientific_name": "Vaccinium uliginosum L.",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_chukchi_belichenko_034",
+    "scientific_name": "Vaccinium vitis-idaea L.",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "source_taxon_or_group",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxonomic identification follows the cited article (Table 1)."
+  }
+]

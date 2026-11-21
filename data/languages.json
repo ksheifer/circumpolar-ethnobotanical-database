@@ -1,0 +1,121 @@
+[
+  {
+    "language_id": "chavchuven-koryak",
+    "name_en": "Chavchuven Koryak",
+    "name_ru": "Корякский (чавчувенский)",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "chukchi",
+    "name_en": "Chukchi",
+    "name_ru": "Чукотский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "dolgan",
+    "name_en": "Dolgan",
+    "name_ru": "Долганский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "even",
+    "name_en": "Even",
+    "name_ru": "Эвенский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "evenki",
+    "name_en": "Evenki",
+    "name_ru": "Эвенкийский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "forest-enets",
+    "name_en": "Forest Enets",
+    "name_ru": "Лесной энецкий",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "forest-nenets",
+    "name_en": "Forest Nenets",
+    "name_ru": "Лесной ненецкий",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "forest-yukaghir",
+    "name_en": "Forest Yukaghir",
+    "name_ru": "Лесной юкагирский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "izhma-komi",
+    "name_en": "Izhma Komi",
+    "name_ru": "коми-ижемский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "kola-s-mi",
+    "name_en": "Kola Sámi",
+    "name_ru": "Кольский саамский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "nganasan",
+    "name_en": "Nganasan",
+    "name_ru": "Нганасанский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "non-chavchuven-koryak",
+    "name_en": "Non-Chavchuven Koryak",
+    "name_ru": "Корякский (нечавчувенский)",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "northern-khanty",
+    "name_en": "Northern Khanty",
+    "name_ru": "Севернохантыйский",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "sakha",
+    "name_en": "Sakha",
+    "name_ru": "саха",
+    "iso_639_3": "sah",
+    "notes": ""
+  },
+  {
+    "language_id": "tundra-enets",
+    "name_en": "Tundra Enets",
+    "name_ru": "Тундровый энецкий",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "tundra-nenets",
+    "name_en": "Tundra Nenets",
+    "name_ru": "Тундровый ненецкий",
+    "iso_639_3": "",
+    "notes": ""
+  },
+  {
+    "language_id": "tundra-yukaghir",
+    "name_en": "Tundra Yukaghir",
+    "name_ru": "Тундренный юкагирский",
+    "iso_639_3": "",
+    "notes": ""
+  }
+]

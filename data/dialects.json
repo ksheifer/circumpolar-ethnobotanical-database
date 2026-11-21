@@ -1,0 +1,740 @@
+[
+  {
+    "dialect_id": "dia_dolgan_001",
+    "language_id": "dolgan",
+    "name_ru": "Анабарская",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_044104300441043a044b043b04300445",
+      "loc_044e0440044e043d0433002d04450430044f"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_002",
+    "language_id": "dolgan",
+    "name_ru": "Восточная, нижняя группа",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_043604340430043d043804450430"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_003",
+    "language_id": "dolgan",
+    "name_ru": "Западная / смешанная",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_043f043e04420430043f043e0432043e"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_004",
+    "language_id": "dolgan",
+    "name_ru": "Западная группа",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_04450430043d0442043004390441043a043e04350020043e043704350440043e"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_005",
+    "language_id": "dolgan",
+    "name_ru": "Попигайская",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_043f043e043f0438043304300439"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_006",
+    "language_id": "dolgan",
+    "name_ru": "Разные говоры",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_0434044304340438043d043a0430"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_007",
+    "language_id": "dolgan",
+    "name_ru": "Хатангская",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_0445043004420430043d04330430"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_008",
+    "language_id": "dolgan",
+    "name_ru": "Хатангская, верхняя группа",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_043a04300442044b0440044b043a",
+      "loc_043a0440043504410442044b",
+      "loc_043d043e04320430044f",
+      "loc_0445043504420430"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_009",
+    "language_id": "dolgan",
+    "name_ru": "Хатангская, нижняя группа",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_043d043e0432043e0440044b0431043d0430044f",
+      "loc_0441044b043d0434043004410441043a043e"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_010",
+    "language_id": "dolgan",
+    "name_ru": "Центральная, авамская",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_044304410442044c002d043004320430043c"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_dolgan_011",
+    "language_id": "dolgan",
+    "name_ru": "Центральная, волочанская",
+    "name_en": "",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_0432043e043b043e04470430043d043a0430"
+    ],
+    "notes": "Provisional regional/dialect designation migrated from locality metadata; requires linguistic verification."
+  },
+  {
+    "dialect_id": "dia_sakha_central",
+    "language_id": "sakha",
+    "name_ru": "Центральный",
+    "name_en": "Central",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_sakha_amga",
+      "loc_sakha_berdigestyakh",
+      "loc_sakha_borogontsy",
+      "loc_sakha_churapcha",
+      "loc_sakha_kangalassy",
+      "loc_sakha_khatassy",
+      "loc_sakha_magan",
+      "loc_sakha_markha",
+      "loc_sakha_mayya",
+      "loc_sakha_mokhsogollokh",
+      "loc_sakha_namtsy",
+      "loc_sakha_nizhniy_bestyakh",
+      "loc_sakha_pokrovsk",
+      "loc_sakha_tabaga",
+      "loc_sakha_yakutsk",
+      "loc_sakha_ytyk_kyuyol",
+      "loc_sakha_zhatay"
+    ],
+    "notes": "Broad dialect zone, not village-by-village linguistic proof. Provisional locality association based on regional geography. Source: Voronkin four-zone classification (National Library of Sakha Republic, yakutia-lang.nlrs.ru). Dialect boundaries do not coincide strictly with district borders."
+  },
+  {
+    "dialect_id": "dia_sakha_vilyuy",
+    "language_id": "sakha",
+    "name_ru": "Вилюйский",
+    "name_en": "Vilyuy",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_sakha_nyurba",
+      "loc_sakha_suntar",
+      "loc_sakha_verkhnevilyuysk",
+      "loc_sakha_vilyuysk"
+    ],
+    "notes": "Broad dialect zone, not village-by-village linguistic proof. Provisional locality association based on regional geography. Source: Voronkin four-zone classification (National Library of Sakha Republic, yakutia-lang.nlrs.ru). Dialect boundaries do not coincide strictly with district borders."
+  },
+  {
+    "dialect_id": "dia_sakha_northwestern",
+    "language_id": "sakha",
+    "name_ru": "Северо-западный",
+    "name_en": "Northwestern",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_sakha_zhigansk"
+    ],
+    "notes": "Broad dialect zone, not village-by-village linguistic proof. Provisional locality association based on regional geography. Source: Voronkin four-zone classification (National Library of Sakha Republic, yakutia-lang.nlrs.ru). Dialect boundaries do not coincide strictly with district borders."
+  },
+  {
+    "dialect_id": "dia_sakha_northeastern",
+    "language_id": "sakha",
+    "name_ru": "Северо-восточный",
+    "name_en": "Northeastern",
+    "alternative_names": [],
+    "location_ids": [
+      "loc_0437044b0440044f043d043a0430",
+      "loc_sakha_batagay",
+      "loc_sakha_srednekolymsk",
+      "loc_sakha_verkhoyansk"
+    ],
+    "notes": "Broad dialect zone, not village-by-village linguistic proof. Provisional locality association based on regional geography. Source: Voronkin four-zone classification (National Library of Sakha Republic, yakutia-lang.nlrs.ru). Dialect boundaries do not coincide strictly with district borders."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_01",
+    "language_id": "evenki",
+    "name_ru": "аянский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "А",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_02",
+    "language_id": "evenki",
+    "name_ru": "верхнеалданско-зейский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Алд",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_03",
+    "language_id": "evenki",
+    "name_ru": "баунтовский говор витимо-нерчинского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Бнт",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_04",
+    "language_id": "evenki",
+    "name_ru": "баргузинский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Брг",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_05",
+    "language_id": "evenki",
+    "name_ru": "верхнеамурский говор верхнеалданско-зейского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "В-Ам",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_06",
+    "language_id": "evenki",
+    "name_ru": "верхоленский говор токминско-верхоленского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "В-Л",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_07",
+    "language_id": "evenki",
+    "name_ru": "вилюйский говор ербогаченского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Вл",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_08",
+    "language_id": "evenki",
+    "name_ru": "витимо-нерчинский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Втм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_09",
+    "language_id": "evenki",
+    "name_ru": "ербогаченский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Е",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_10",
+    "language_id": "evenki",
+    "name_ru": "зейский говор верхнеалданско-зейского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "З",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_11",
+    "language_id": "evenki",
+    "name_ru": "илимпийский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "И",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_12",
+    "language_id": "evenki",
+    "name_ru": "иенгринский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ие",
+    "location_ids": [
+      "loc_04380435043d043304400430"
+    ],
+    "source_id": "src_myreeva_2001",
+    "notes": "Условное сокращение и классификация из легенды Мыреевой (2001), (легенда предоставлена отдельно). Географические связи ограничены идентифицируемыми пунктами, не являются точками фиксации фитонимов."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_13",
+    "language_id": "evenki",
+    "name_ru": "майский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "М",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_14",
+    "language_id": "evenki",
+    "name_ru": "говор эвенков-манегров",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Мнгр",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_15",
+    "language_id": "evenki",
+    "name_ru": "непский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Н",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_16",
+    "language_id": "evenki",
+    "name_ru": "нерчинский говор витимо-нерчинского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Нрч",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_17",
+    "language_id": "evenki",
+    "name_ru": "олекминский говор витимо-олекминского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Олкм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_18",
+    "language_id": "evenki",
+    "name_ru": "говор орочонских эвенков КНР",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Орч",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_19",
+    "language_id": "evenki",
+    "name_ru": "подкаменно-тунгусский диалект и его говоры",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "П-Т",
+    "location_ids": [
+      "loc_043104300439043a04380442"
+    ],
+    "source_id": "src_myreeva_2001",
+    "notes": "Условное сокращение и классификация из легенды Мыреевой (2001), (легенда предоставлена отдельно). Географические связи ограничены идентифицируемыми пунктами, не являются точками фиксации фитонимов."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_20",
+    "language_id": "evenki",
+    "name_ru": "сымский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "С",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_21",
+    "language_id": "evenki",
+    "name_ru": "северобайкальский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "С-Б",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_22",
+    "language_id": "evenki",
+    "name_ru": "селемджинский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Слмд",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_23",
+    "language_id": "evenki",
+    "name_ru": "сахалинский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Сх",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_24",
+    "language_id": "evenki",
+    "name_ru": "токкинский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Тк",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_25",
+    "language_id": "evenki",
+    "name_ru": "токминский говор токминско-верхоленского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ткм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_26",
+    "language_id": "evenki",
+    "name_ru": "томмотский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Тмт",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_27",
+    "language_id": "evenki",
+    "name_ru": "тунгирский говор витимо-олекминского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Тнг",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_28",
+    "language_id": "evenki",
+    "name_ru": "тоттинский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Тт",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_29",
+    "language_id": "evenki",
+    "name_ru": "урмийский говор буреинско-урмийско-амгунского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Урм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_30",
+    "language_id": "evenki",
+    "name_ru": "учурско-зейский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Учр",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_31",
+    "language_id": "evenki",
+    "name_ru": "хинганский говор верхнеалданско-зейского диалекта",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Хнг",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_32",
+    "language_id": "evenki",
+    "name_ru": "чульманский говор",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Члм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_evenki_myreeva_33",
+    "language_id": "evenki",
+    "name_ru": "чумиканский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Чмк",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_01",
+    "language_id": "even",
+    "name_ru": "аллаиховский говор среднего наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Алл",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_02",
+    "language_id": "even",
+    "name_ru": "анюйский говор среднего наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ан",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_03",
+    "language_id": "even",
+    "name_ru": "анадырский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Анд",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_04",
+    "language_id": "even",
+    "name_ru": "арманский диалект",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Арм",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_05",
+    "language_id": "even",
+    "name_ru": "быстринский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Б",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_06",
+    "language_id": "even",
+    "name_ru": "колымско-омолонский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "К-О",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_07",
+    "language_id": "even",
+    "name_ru": "момский говор среднего наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "М",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_08",
+    "language_id": "even",
+    "name_ru": "ольский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ол",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_09",
+    "language_id": "even",
+    "name_ru": "охотский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ох",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_10",
+    "language_id": "even",
+    "name_ru": "пенжинский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "П",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_11",
+    "language_id": "even",
+    "name_ru": "североэвенский говор восточного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "С-Э",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_12",
+    "language_id": "even",
+    "name_ru": "саккырырский говор западного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Ск",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_13",
+    "language_id": "even",
+    "name_ru": "томпонский говор среднего наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Т",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_14",
+    "language_id": "even",
+    "name_ru": "тюгясирский говор западного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Тг",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_myreeva_15",
+    "language_id": "even",
+    "name_ru": "юкагирский говор западного наречия",
+    "name_en": "",
+    "alternative_names": [],
+    "source_abbreviation": "Юк",
+    "location_ids": [],
+    "source_id": "src_myreeva_2001",
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+  },
+  {
+    "dialect_id": "dia_even_sadovnikova_berezovsky",
+    "language_id": "even",
+    "name_ru": "березовский говор восточного наречия",
+    "name_en": "Beryozovka variety (Eastern dialect group)",
+    "alternative_names": [
+      "Бер"
+    ],
+    "location_ids": [
+      "loc_beryozovka_001"
+    ],
+    "notes": "Садовникова 2024: 103 (список сокращений), Бер — березовский говор восточного наречия.",
+    "source_abbreviation": "Бер"
+  }
+]

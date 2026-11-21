@@ -1,0 +1,3158 @@
+[
+  {
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "Среднеколымский улус / Srednekolymsky District",
+    "latitude": 67.13194,
+    "longitude": 156.59028,
+    "location_type": "settlement",
+    "coordinate_precision": "approximate",
+    "visibility": "public",
+    "notes": "Центр населённого пункта (не место сбора растений и не адрес информанта). Берёзовский национальный (кочевой) наслег. Coordinates and administrative affiliation: https://regionum.ru/respublika-saha-yakutiya/srednekolymskiy-ulus/beryozovka/ ; contextual identification: https://journals.tsu.ru/vestnik/&journal_page=archive&id=1906&article_id=42890 .",
+    "locality": "Берёзовка / Beryozovka",
+    "location_id": "loc_beryozovka_001",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Себян-Кюёль",
+    "location_id": "loc_044104350431044f043d002d043a044e0451043b044c",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тополиное",
+    "location_id": "loc_0442043e043f043e043b0438043d043e0435",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Андрюшкино",
+    "location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "language_ids": [
+      "even",
+      "tundra-yukaghir"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Сасыр",
+    "location_id": "loc_044104300441044b0440",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Хонуу",
+    "location_id": "loc_0445043e043d04430443",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": 67.79846,
+    "longitude": 130.40119,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+    "locality": "Батагай-Алыта",
+    "location_id": "loc_0431043004420430043304300439002d0430043b044b04420430",
+    "language_ids": [
+      "even",
+      "sakha"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Кустур",
+    "location_id": "loc_043a04430441044204430440",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Оленегорск",
+    "location_id": "loc_043e043b0435043d04350433043e04400441043a",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Уянди",
+    "location_id": "loc_0443044f043d04340438",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ючюгей",
+    "location_id": "loc_044e0447044e043304350439",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Арка",
+    "location_id": "loc_04300440043a0430",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Эссо",
+    "location_id": "loc_044d04410441043e",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ола",
+    "location_id": "loc_043e043b0430",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Гижига",
+    "location_id": "loc_043304380436043804330430",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Эвенск",
+    "location_id": "loc_044d04320435043d0441043a",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тополовка",
+    "location_id": "loc_0442043e043f043e043b043e0432043a0430",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Анавгай",
+    "location_id": "loc_0430043d04300432043304300439",
+    "language_ids": [
+      "even",
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Аянка",
+    "location_id": "loc_0430044f043d043a0430",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Оклан",
+    "location_id": "loc_043e043a043b0430043d",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ваеги",
+    "location_id": "loc_04320430043504330438",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ламутское",
+    "location_id": "loc_043b0430043c044304420441043a043e0435",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Омолон",
+    "location_id": "loc_043e043c043e043b043e043d",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Манилы",
+    "location_id": "loc_043c0430043d0438043b044b",
+    "language_ids": [
+      "even",
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Каменское",
+    "location_id": "loc_043a0430043c0435043d0441043a043e0435",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Слаутное",
+    "location_id": "loc_0441043b043004430442043d043e0435",
+    "language_ids": [
+      "even"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тура",
+    "location_id": "loc_0442044304400430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Чиринда",
+    "location_id": "loc_0447043804400438043d04340430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Эконда",
+    "location_id": "loc_044d043a043e043d04340430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нидым",
+    "location_id": "loc_043d04380434044b043c",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тутончаны",
+    "location_id": "loc_044204430442043e043d04470430043d044b",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Кислокан",
+    "location_id": "loc_043a04380441043b043e043a0430043d",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Байкит",
+    "location_id": "loc_043104300439043a04380442",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ванавара",
+    "location_id": "loc_04320430043d04300432043004400430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Суринда",
+    "location_id": "loc_0441044304400438043d04340430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Полигус",
+    "location_id": "loc_043f043e043b0438043304430441",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Стрелка-Чуня",
+    "location_id": "loc_0441044204400435043b043a0430002d04470443043d044f",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Иенгра",
+    "location_id": "loc_04380435043d043304400430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тяня",
+    "location_id": "loc_0442044f043d044f",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Усть-Нюкжа",
+    "location_id": "loc_044304410442044c002d043d044e043a04360430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Усть-Уркима",
+    "location_id": "loc_044304410442044c002d04430440043a0438043c0430",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": 60.41553,
+    "longitude": 134.54405,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+    "locality": "Усть-Мая",
+    "location_id": "loc_044304410442044c002d043c0430044f",
+    "language_ids": [
+      "evenki",
+      "sakha"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Перевоз",
+    "location_id": "loc_043f0435044004350432043e0437",
+    "language_ids": [
+      "evenki"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Волочанка",
+    "location_id": "loc_0432043e043b043e04470430043d043a0430",
+    "language_ids": [
+      "dolgan",
+      "nganasan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Усть-Авам",
+    "location_id": "loc_044304410442044c002d043004320430043c",
+    "language_ids": [
+      "dolgan",
+      "nganasan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Хантайское Озеро",
+    "location_id": "loc_04450430043d0442043004390441043a043e04350020043e043704350440043e",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Потапово",
+    "location_id": "loc_043f043e04420430043f043e0432043e",
+    "language_ids": [
+      "dolgan",
+      "forest-enets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Дудинка",
+    "location_id": "loc_0434044304340438043d043a0430",
+    "language_ids": [
+      "dolgan",
+      "nganasan",
+      "tundra-enets",
+      "forest-enets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Хатанга",
+    "location_id": "loc_0445043004420430043d04330430",
+    "language_ids": [
+      "dolgan",
+      "nganasan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Кресты",
+    "location_id": "loc_043a0440043504410442044b",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Новая",
+    "location_id": "loc_043d043e04320430044f",
+    "language_ids": [
+      "dolgan",
+      "nganasan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Хета",
+    "location_id": "loc_0445043504420430",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Катырык",
+    "location_id": "loc_043a04300442044b0440044b043a",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Новорыбная",
+    "location_id": "loc_043d043e0432043e0440044b0431043d0430044f",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Сындасско",
+    "location_id": "loc_0441044b043d0434043004410441043a043e",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Попигай",
+    "location_id": "loc_043f043e043f0438043304300439",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Красноярский край",
+    "district": "Таймырский Долгано-Ненецкий район",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Жданиха",
+    "location_id": "loc_043604340430043d043804450430",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Республика Саха (Якутия)",
+    "district": "Анабарский улус",
+    "latitude": 71.96347,
+    "longitude": 114.09199,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Coordinate reference: https://latlong.info/russia/sakha-republic",
+    "locality": "Саскылах",
+    "location_id": "loc_044104300441043a044b043b04300445",
+    "language_ids": [
+      "dolgan",
+      "sakha"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "Республика Саха (Якутия)",
+    "district": "Анабарский улус",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "Dialect-group labels in dialects.json; classifications provisional.",
+    "locality": "Юрюнг-Хая",
+    "location_id": "loc_044e0440044e043d0433002d04450430044f",
+    "language_ids": [
+      "dolgan"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Уэлен",
+    "location_id": "loc_0443044d043b0435043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Лорино",
+    "location_id": "loc_043b043e04400438043d043e",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Лаврентия",
+    "location_id": "loc_043b0430043204400435043d04420438044f",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нешкан",
+    "location_id": "loc_043d04350448043a0430043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Инчоун",
+    "location_id": "loc_0438043d0447043e0443043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Энурмино",
+    "location_id": "loc_044d043d04430440043c0438043d043e",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Амгуэма",
+    "location_id": "loc_0430043c04330443044d043c0430",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Конергино",
+    "location_id": "loc_043a043e043d0435044004330438043d043e",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Рыркайпий",
+    "location_id": "loc_0440044b0440043a04300439043f04380439",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ванкарем",
+    "location_id": "loc_04320430043d043a043004400435043c",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Энмелен",
+    "location_id": "loc_044d043d043c0435043b0435043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нунлигран",
+    "location_id": "loc_043d0443043d043b0438043304400430043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Хатырка",
+    "location_id": "loc_044504300442044b0440043a0430",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Алькатваам",
+    "location_id": "loc_0430043b044c043a04300442043204300430043c",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Айон",
+    "location_id": "loc_04300439043e043d",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Рыткучи",
+    "location_id": "loc_0440044b0442043a044304470438",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Биллингс",
+    "location_id": "loc_04310438043b043b0438043d04330441",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Илирней",
+    "location_id": "loc_0438043b04380440043d04350439",
+    "language_ids": [
+      "chukchi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ачайваям",
+    "location_id": "loc_043004470430043904320430044f043c",
+    "language_ids": [
+      "chukchi",
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Воронцово",
+    "location_id": "loc_0432043e0440043e043d0446043e0432043e",
+    "language_ids": [
+      "tundra-enets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Сеяха",
+    "location_id": "loc_04410435044f04450430",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Яр-Сале",
+    "location_id": "loc_044f0440002d04410430043b0435",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Панаевск",
+    "location_id": "loc_043f0430043d0430043504320441043a",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Новый Порт",
+    "location_id": "loc_043d043e0432044b04390020043f043e04400442",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Гыда",
+    "location_id": "loc_0433044b04340430",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Антипаюта",
+    "location_id": "loc_0430043d04420438043f0430044e04420430",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тазовский",
+    "location_id": "loc_044204300437043e04320441043a04380439",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Аксарка",
+    "location_id": "loc_0430043a044104300440043a0430",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нельмин Нос",
+    "location_id": "loc_043d0435043b044c043c0438043d0020043d043e0441",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Бугрино",
+    "location_id": "loc_04310443043304400438043d043e",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Несь",
+    "location_id": "loc_043d04350441044c",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нарьян-Мар",
+    "location_id": "loc_043d04300440044c044f043d002d043c04300440",
+    "language_ids": [
+      "tundra-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Харампур",
+    "location_id": "loc_0445043004400430043c043f04430440",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Халясавэй",
+    "location_id": "loc_04450430043b044f044104300432044d0439",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тарко-Сале",
+    "location_id": "loc_044204300440043a043e002d04410430043b0435",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Варьёган",
+    "location_id": "loc_043204300440044c045104330430043d",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Аган",
+    "location_id": "loc_043004330430043d",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нумто",
+    "location_id": "loc_043d0443043c0442043e",
+    "language_ids": [
+      "forest-nenets"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Казым",
+    "location_id": "loc_043a04300437044b043c",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Юильск",
+    "location_id": "loc_044e0438043b044c0441043a",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Полноват",
+    "location_id": "loc_043f043e043b043d043e043204300442",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ванзеват",
+    "location_id": "loc_04320430043d04370435043204300442",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Мужи",
+    "location_id": "loc_043c044304360438",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Овгорт",
+    "location_id": "loc_043e04320433043e04400442",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Питляр",
+    "location_id": "loc_043f04380442043b044f0440",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Горки",
+    "location_id": "loc_0433043e0440043a0438",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Лопхари",
+    "location_id": "loc_043b043e043f0445043004400438",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Шурышкары",
+    "location_id": "loc_044804430440044b0448043a04300440044b",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Салехард",
+    "location_id": "loc_04410430043b04350445043004400434",
+    "language_ids": [
+      "northern-khanty"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Колымское",
+    "location_id": "loc_043a043e043b044b043c0441043a043e0435",
+    "language_ids": [
+      "tundra-yukaghir"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Походск",
+    "location_id": "loc_043f043e0445043e04340441043a",
+    "language_ids": [
+      "tundra-yukaghir"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": 68.75325,
+    "longitude": 161.33197,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+    "locality": "Черский",
+    "location_id": "loc_0447043504400441043a04380439",
+    "language_ids": [
+      "tundra-yukaghir",
+      "sakha"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нелемное",
+    "location_id": "loc_043d0435043b0435043c043d043e0435",
+    "language_ids": [
+      "forest-yukaghir"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": 65.73489,
+    "longitude": 150.89429,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
+    "locality": "Зырянка",
+    "location_id": "loc_0437044b0440044f043d043a0430",
+    "language_ids": [
+      "forest-yukaghir",
+      "sakha"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Верхнеколымск",
+    "location_id": "loc_0432043504400445043d0435043a043e043b044b043c0441043a",
+    "language_ids": [
+      "forest-yukaghir"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Хаилино",
+    "location_id": "loc_044504300438043b0438043d043e",
+    "language_ids": [
+      "chavchuven-koryak",
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Средние Пахачи",
+    "location_id": "loc_0441044004350434043d043804350020043f04300445043004470438",
+    "language_ids": [
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Пахачи",
+    "location_id": "loc_043f04300445043004470438",
+    "language_ids": [
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тиличики",
+    "location_id": "loc_04420438043b043804470438043a0438",
+    "language_ids": [
+      "chavchuven-koryak",
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Апука",
+    "location_id": "loc_0430043f0443043a0430",
+    "language_ids": [
+      "chavchuven-koryak",
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Воямполка",
+    "location_id": "loc_0432043e044f043c043f043e043b043a0430",
+    "language_ids": [
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Седанка",
+    "location_id": "loc_0441043504340430043d043a0430",
+    "language_ids": [
+      "chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Парень",
+    "location_id": "loc_043f043004400435043d044c",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Вывенка",
+    "location_id": "loc_0432044b04320435043d043a0430",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Лесная",
+    "location_id": "loc_043b04350441043d0430044f",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Палана",
+    "location_id": "loc_043f0430043b0430043d0430",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Карага",
+    "location_id": "loc_043a04300440043004330430",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Тымлат",
+    "location_id": "loc_0442044b043c043b04300442",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Оссора",
+    "location_id": "loc_043e04410441043e04400430",
+    "language_ids": [
+      "non-chavchuven-koryak"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ижма",
+    "location_id": "loc_04380436043c0430",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Мохча",
+    "location_id": "loc_043c043e044504470430",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Сизябск",
+    "location_id": "loc_044104380437044f04310441043a",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Краснобор",
+    "location_id": "loc_043a044004300441043d043e0431043e0440",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Щельяюр",
+    "location_id": "loc_04490435043b044c044f044e0440",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Кипиево",
+    "location_id": "loc_043a0438043f043804350432043e",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Диюр",
+    "location_id": "loc_04340438044e0440",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Усть-Ижма",
+    "location_id": "loc_044304410442044c002d04380436043c0430",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Няшабож",
+    "location_id": "loc_043d044f044804300431043e0436",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ловоз",
+    "location_id": "loc_043b043e0432043e0437",
+    "language_ids": [
+      "izhma-komi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ловозеро",
+    "location_id": "loc_043b043e0432043e043704350440043e",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Краснощелье",
+    "location_id": "loc_043a044004300441043d043e04490435043b044c0435",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Ёна",
+    "location_id": "loc_0451043d0430",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Териберка",
+    "location_id": "loc_0442043504400438043104350440043a0430",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Воронье",
+    "location_id": "loc_0432043e0440043e043d044c0435",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Варзино",
+    "location_id": "loc_04320430044004370438043d043e",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Чальмны-Варрэ",
+    "location_id": "loc_04470430043b044c043c043d044b002d0432043004400440044d",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Кильдин",
+    "location_id": "loc_043a0438043b044c04340438043d",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "country": "Россия",
+    "region": "",
+    "district": "",
+    "latitude": null,
+    "longitude": null,
+    "location_type": "settlement",
+    "coordinate_precision": "",
+    "visibility": "public",
+    "notes": "",
+    "locality": "Нотозеро",
+    "location_id": "loc_043d043e0442043e043704350440043e",
+    "language_ids": [
+      "kola-s-mi"
+    ]
+  },
+  {
+    "location_id": "loc_sakha_aldan",
+    "locality": "Алдан / Aldan",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 58.61021,
+    "longitude": 125.39613,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_amga",
+    "locality": "Амга / Amga",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 60.90009,
+    "longitude": 131.97882,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_aykhal",
+    "locality": "Айхал / Aykhal",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 65.93381,
+    "longitude": 111.4834,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_batagay",
+    "locality": "Батагай / Batagay",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 67.65653,
+    "longitude": 134.63962,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_belaya_gora",
+    "locality": "Белая Гора / Belaya Gora",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 68.53805,
+    "longitude": 146.18583,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_berdigestyakh",
+    "locality": "Бердигестях / Berdigestyakh",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.09842,
+    "longitude": 126.69573,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_berkakit",
+    "locality": "Беркакит / Berkakit",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 56.57456,
+    "longitude": 124.77635,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_borogontsy",
+    "locality": "Борогонцы / Borogontsy",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.6706,
+    "longitude": 131.16344,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_chernyshevskiy",
+    "locality": "Чернышевский / Chernyshevskiy",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.01601,
+    "longitude": 112.46901,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_chokurdakh",
+    "locality": "Чокурдах / Chokurdakh",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 70.61897,
+    "longitude": 147.8973,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_chulman",
+    "locality": "Чульман / Chulman",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 56.84735,
+    "longitude": 124.90812,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_churapcha",
+    "locality": "Чурапча / Churapcha",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.99858,
+    "longitude": 132.43341,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_deputatsky",
+    "locality": "Депутатский / Deputatsky",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 69.30958,
+    "longitude": 139.97571,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_dzhebariki_khaya",
+    "locality": "Джебарики-Хая / Dzhebariki-Khaya",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.21084,
+    "longitude": 135.84876,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_kangalassy",
+    "locality": "Кангалассы / Kangalassy",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.34824,
+    "longitude": 129.96471,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_khandyga",
+    "locality": "Хандыга / Khandyga",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.65333,
+    "longitude": 135.5667,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_khatassy",
+    "locality": "Хатассы / Khatassy",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.90638,
+    "longitude": 129.63302,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_kysyl_syr",
+    "locality": "Кысыл-Сыр / Kysyl-Syr",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.89482,
+    "longitude": 122.7654,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_lensk",
+    "locality": "Ленск / Lensk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 60.72528,
+    "longitude": 114.92778,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_magan",
+    "locality": "Маган / Magan",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.10746,
+    "longitude": 129.53184,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_markha",
+    "locality": "Марха / Markha",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.11454,
+    "longitude": 129.74403,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_mayya",
+    "locality": "Майя / Mayya",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.73824,
+    "longitude": 130.28161,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_mirny",
+    "locality": "Мирный / Mirny",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.53528,
+    "longitude": 113.96111,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_mokhsogollokh",
+    "locality": "Мохсоголлох / Mokhsogollokh",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.39619,
+    "longitude": 128.9381,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_namtsy",
+    "locality": "Намцы / Namtsy",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.71959,
+    "longitude": 129.66722,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_neryungri",
+    "locality": "Нерюнгри / Neryungri",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 56.66637,
+    "longitude": 124.63825,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_nizhniy_bestyakh",
+    "locality": "Нижний Бестях / Nizhniy Bestyakh",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.96202,
+    "longitude": 129.91245,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_nyurba",
+    "locality": "Нюрба / Nyurba",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.28417,
+    "longitude": 118.33194,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_olenyok",
+    "locality": "Оленёк / Olenyok",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 68.50472,
+    "longitude": 112.4485,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_olyokminsk",
+    "locality": "Олёкминск / Olyokminsk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 60.3743,
+    "longitude": 120.4203,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_pokrovsk",
+    "locality": "Покровск / Pokrovsk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.47768,
+    "longitude": 129.13699,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_sangar",
+    "locality": "Сангар / Sangar",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.92301,
+    "longitude": 127.47135,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_srednekolymsk",
+    "locality": "Среднеколымск / Srednekolymsk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 67.45659,
+    "longitude": 153.70246,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_suntar",
+    "locality": "Сунтар / Suntar",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.14444,
+    "longitude": 117.63194,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_tabaga",
+    "locality": "Табага / Tabaga",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.85502,
+    "longitude": 129.60022,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_tiksi",
+    "locality": "Тикси / Tiksi",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 71.69002,
+    "longitude": 128.86467,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_tommot",
+    "locality": "Томмот / Tommot",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 58.95717,
+    "longitude": 126.29158,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_udachny",
+    "locality": "Удачный / Udachny",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 66.42989,
+    "longitude": 112.4021,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_ust_kuyga",
+    "locality": "Усть-Куйга / Ust-Kuyga",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 70.00208,
+    "longitude": 135.54876,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_ust_nera",
+    "locality": "Усть-Нера / Ust-Nera",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 64.56968,
+    "longitude": 143.237,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_verkhnevilyuysk",
+    "locality": "Верхневилюйск / Verkhnevilyuysk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.44578,
+    "longitude": 120.30739,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_verkhoyansk",
+    "locality": "Верхоянск / Verkhoyansk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 67.55387,
+    "longitude": 133.38976,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_vilyuysk",
+    "locality": "Вилюйск / Vilyuysk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 63.74683,
+    "longitude": 121.63339,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_vitim",
+    "locality": "Витим / Vitim",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 59.44326,
+    "longitude": 112.56993,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_yakutsk",
+    "locality": "Якутск / Yakutsk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 61.97382,
+    "longitude": 129.75403,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_ytyk_kyuyol",
+    "locality": "Ытык-Кюёль / Ytyk-Kyuyol",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.36119,
+    "longitude": 133.56044,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_zhatay",
+    "locality": "Жатай / Zhatay",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 62.15975,
+    "longitude": 129.82843,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_zhigansk",
+    "locality": "Жиганск / Zhigansk",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 66.76601,
+    "longitude": 123.37418,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  },
+  {
+    "location_id": "loc_sakha_nizhniy_kuranakh",
+    "locality": "Нижний Куранах / Nizhniy Kuranakh",
+    "country": "Россия / Russia",
+    "region": "Республика Саха (Якутия) / Sakha Republic (Yakutia)",
+    "district": "",
+    "location_type": "settlement",
+    "latitude": 58.8238,
+    "longitude": 125.52278,
+    "coordinate_precision": "approximate_settlement_centre",
+    "language_ids": [
+      "sakha"
+    ],
+    "visibility": "public",
+    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic"
+  }
+]

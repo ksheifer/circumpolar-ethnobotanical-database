@@ -1,0 +1,17 @@
+{
+  "schema_version": 3,
+  "collections": {
+    "languages": "languages.json",
+    "dialects": "dialects.json",
+    "locations": "locations.json",
+    "contributors": "contributors.json",
+    "sources": "sources.json",
+    "taxa": "taxa.json"
+  },
+  "phytonym_files": [
+    "phytonyms/even.json",
+    "phytonyms/sakha.json",
+    "phytonyms/evenki.json",
+    "phytonyms/chukchi.json"
+  ]
+}
