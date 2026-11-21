@@ -11,3 +11,44 @@
 .source-detail .profile-section{margin-top:8px}
 
 .profile .phonetics{font-size:13px;margin:1px 0 5px;color:#444}
+
+.resource-citation{font-size:13px;font-weight:600;color:inherit;margin-bottom:8px}
+.resource-entry .detail-table{margin:0}
+
+.resource-empty { font-size: 0.875rem; color: #777; margin: .4rem 0 1.5rem; }
+
+/* Leaflet layout safety net: tile/pane positioning must work even if CDN CSS is blocked. */
+#map.leaflet-container {position:relative;overflow:hidden;isolation:isolate;touch-action:none;background:#ddd}
+#map .leaflet-pane, #map .leaflet-tile, #map .leaflet-marker-icon, #map .leaflet-marker-shadow,
+#map .leaflet-tile-container, #map .leaflet-pane>svg, #map .leaflet-pane>canvas,
+#map .leaflet-image-layer, #map .leaflet-layer, #map .leaflet-zoom-box {position:absolute;top:0;left:0}
+#map .leaflet-map-pane {position:absolute;top:0;left:0}
+#map .leaflet-tile {width:256px;height:256px;max-width:none!important;max-height:none!important;visibility:hidden;border:0}
+#map .leaflet-tile-loaded {visibility:visible}
+#map .leaflet-tile-pane {z-index:200}
+#map .leaflet-overlay-pane {z-index:400}
+#map .leaflet-shadow-pane {z-index:500}
+#map .leaflet-marker-pane {z-index:600}
+#map .leaflet-tooltip-pane {z-index:650}
+#map .leaflet-popup-pane {z-index:700}
+#map .leaflet-control {position:relative;z-index:800;pointer-events:auto}
+#map .leaflet-top, #map .leaflet-bottom {position:absolute;z-index:1000;pointer-events:none}
+#map .leaflet-top {top:0} #map .leaflet-bottom {bottom:0}
+#map .leaflet-left {left:0} #map .leaflet-right {right:0}
+#map .leaflet-control {float:left;clear:both}
+#map .leaflet-right .leaflet-control {float:right}
+#map .leaflet-top .leaflet-control {margin-top:10px}
+#map .leaflet-bottom .leaflet-control {margin-bottom:10px}
+#map .leaflet-left .leaflet-control {margin-left:10px}
+#map .leaflet-right .leaflet-control {margin-right:10px}
+#map .leaflet-control-zoom a {display:block;width:30px;height:30px;text-align:center;line-height:30px;background:#fff;border:1px solid #bbb;text-decoration:none;color:#222;font-size:20px}
+#map .leaflet-control-attribution {background:#ffffffd9;padding:1px 5px;font-size:11px}
+#map .leaflet-popup {position:absolute;text-align:left;margin-bottom:20px}
+#map .leaflet-popup-content-wrapper {background:white;border:1px solid #999;padding:10px;box-shadow:0 1px 6px #0003}
+#map .leaflet-popup-tip-container {display:none}
+#map .leaflet-popup-close-button {position:absolute;right:3px;top:3px;z-index:1}
+#map .leaflet-marker-icon, #map .leaflet-marker-shadow {display:block}
+
+/* Phytonym names in language indexes remain clickable without underlining. */
+.index [data-profile],
+.index [data-profile]:hover { text-decoration: none; }

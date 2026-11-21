@@ -8,11 +8,6 @@
     "names_other_varieties": [],
     "russian_gloss": "крылатая ламинария",
     "english_gloss": "winged kelp",
-    "common_name_state_language": "крылатая ламинария",
-    "common_names_by_language": {
-      "ru": "крылатая ламинария",
-      "en": "winged kelp"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -58,7 +53,8 @@
     "source_lemma": "mәrɣomәr",
     "source_volume": null,
     "original_transcription": "mәrɣomәr",
-    "ipa": null
+    "ipa": "mәrɣomәr",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_002_01",
@@ -69,11 +65,6 @@
     "names_other_varieties": [],
     "russian_gloss": "лук (шнитт-лук или лук-батун)",
     "english_gloss": "chives / spring onion",
-    "common_name_state_language": "лук (шнитт-лук или лук-батун)",
-    "common_names_by_language": {
-      "ru": "лук (шнитт-лук или лук-батун)",
-      "en": "chives / spring onion"
-    },
     "linguistic_comment": "Source: Allium shoenoprasum L.; Allium fistulosum L. (tundra Chukchi only); Allium sp. The printed spelling is retained in this note.",
     "cognate": "",
     "ecological_data": {
@@ -122,7 +113,8 @@
     "source_lemma": "majˀoɬaɬɣәŋ",
     "source_volume": null,
     "original_transcription": "majˀoɬaɬɣәŋ",
-    "ipa": null
+    "ipa": "majˀoɬaɬɣәŋ",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_003_01",
@@ -133,11 +125,6 @@
     "names_other_varieties": [],
     "russian_gloss": "ольха",
     "english_gloss": "alder",
-    "common_name_state_language": "ольха",
-    "common_names_by_language": {
-      "ru": "ольха",
-      "en": "alder"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -186,7 +173,8 @@
     "source_lemma": "wirwir",
     "source_volume": null,
     "original_transcription": "wirwir",
-    "ipa": null
+    "ipa": "wirwir",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_004_01",
@@ -197,11 +185,6 @@
     "names_other_varieties": [],
     "russian_gloss": "дудник",
     "english_gloss": "wild celery",
-    "common_name_state_language": "дудник",
-    "common_names_by_language": {
-      "ru": "дудник",
-      "en": "wild celery"
-    },
     "linguistic_comment": "Source identifies the plant as Angelica gmelinii OR Angelica lucida.",
     "cognate": "",
     "ecological_data": {
@@ -251,7 +234,8 @@
     "source_lemma": "ikitut",
     "source_volume": null,
     "original_transcription": "ikitut",
-    "ipa": null
+    "ipa": "ikitut",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_005_01",
@@ -262,11 +246,6 @@
     "names_other_varieties": [],
     "russian_gloss": "толокнянка альпийская",
     "english_gloss": "alpine bearberry",
-    "common_name_state_language": "толокнянка альпийская",
-    "common_names_by_language": {
-      "ru": "толокнянка альпийская",
-      "en": "alpine bearberry"
-    },
     "linguistic_comment": "Children’s games also reported.",
     "cognate": "",
     "ecological_data": {
@@ -316,7 +295,8 @@
     "source_lemma": "qɬuqet",
     "source_volume": null,
     "original_transcription": "qɬuqet",
-    "ipa": null
+    "ipa": "qɬuqet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_006_01",
@@ -327,11 +307,6 @@
     "names_other_varieties": [],
     "russian_gloss": "полынь",
     "english_gloss": "stinkweed / wormwood",
-    "common_name_state_language": "полынь",
-    "common_names_by_language": {
-      "ru": "полынь",
-      "en": "stinkweed / wormwood"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -381,7 +356,8 @@
     "source_lemma": "tәkewˀej",
     "source_volume": null,
     "original_transcription": "tәkewˀej",
-    "ipa": null
+    "ipa": "tәkewˀej",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_007_01",
@@ -392,11 +368,6 @@
     "names_other_varieties": [],
     "russian_gloss": "берёза карликовая",
     "english_gloss": "dwarf birch",
-    "common_name_state_language": "берёза карликовая",
-    "common_names_by_language": {
-      "ru": "берёза карликовая",
-      "en": "dwarf birch"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -446,7 +417,8 @@
     "source_lemma": "wәrwәt",
     "source_volume": null,
     "original_transcription": "wәrwәt",
-    "ipa": null
+    "ipa": "wәrwәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_008_01",
@@ -457,11 +429,6 @@
     "names_other_varieties": [],
     "russian_gloss": "змеевик лекарственный",
     "english_gloss": "bistort",
-    "common_name_state_language": "змеевик лекарственный",
-    "common_names_by_language": {
-      "ru": "змеевик лекарственный",
-      "en": "bistort"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -509,7 +476,8 @@
     "source_lemma": "әpˀet",
     "source_volume": null,
     "original_transcription": "әpˀet",
-    "ipa": null
+    "ipa": "әpˀet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_009_01",
@@ -520,11 +488,6 @@
     "names_other_varieties": [],
     "russian_gloss": "калужница болотная",
     "english_gloss": "marsh marigold",
-    "common_name_state_language": "калужница болотная",
-    "common_names_by_language": {
-      "ru": "калужница болотная",
-      "en": "marsh marigold"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -570,7 +533,8 @@
     "source_lemma": "wiɬuɬˀәt",
     "source_volume": null,
     "original_transcription": "wiɬuɬˀәt",
-    "ipa": null
+    "ipa": "wiɬuɬˀәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_010_01",
@@ -581,11 +545,6 @@
     "names_other_varieties": [],
     "russian_gloss": "кассиопея четырёхгранная",
     "english_gloss": "arctic bell-heather",
-    "common_name_state_language": "кассиопея четырёхгранная",
-    "common_names_by_language": {
-      "ru": "кассиопея четырёхгранная",
-      "en": "arctic bell-heather"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -635,7 +594,8 @@
     "source_lemma": "kenˀut",
     "source_volume": null,
     "original_transcription": "kenˀut",
-    "ipa": null
+    "ipa": "kenˀut",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_011_01",
@@ -646,11 +606,6 @@
     "names_other_varieties": [],
     "russian_gloss": "ягель (кладония оленья)",
     "english_gloss": "reindeer lichen",
-    "common_name_state_language": "ягель (кладония оленья)",
-    "common_names_by_language": {
-      "ru": "ягель (кладония оленья)",
-      "en": "reindeer lichen"
-    },
     "linguistic_comment": "Food use specified as emergency food.",
     "cognate": "",
     "ecological_data": {
@@ -698,7 +653,8 @@
     "source_lemma": "watap",
     "source_volume": null,
     "original_transcription": "watap",
-    "ipa": null
+    "ipa": "watap",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_012_01",
@@ -709,11 +665,6 @@
     "names_other_varieties": [],
     "russian_gloss": "клайтония остролистная",
     "english_gloss": "Arctic springbeauty",
-    "common_name_state_language": "клайтония остролистная",
-    "common_names_by_language": {
-      "ru": "клайтония остролистная",
-      "en": "Arctic springbeauty"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -761,7 +712,8 @@
     "source_lemma": "kәmçek",
     "source_volume": null,
     "original_transcription": "kәmçek",
-    "ipa": null
+    "ipa": "kәmçek",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_013_01",
@@ -772,11 +724,6 @@
     "names_other_varieties": [],
     "russian_gloss": "клайтония клубневая",
     "english_gloss": "tuberous springbeauty",
-    "common_name_state_language": "клайтония клубневая",
-    "common_names_by_language": {
-      "ru": "клайтония клубневая",
-      "en": "tuberous springbeauty"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -824,7 +771,8 @@
     "source_lemma": "pˀopˀoq",
     "source_volume": null,
     "original_transcription": "pˀopˀoq",
-    "ipa": null
+    "ipa": "pˀopˀoq",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_014_01",
@@ -835,11 +783,6 @@
     "names_other_varieties": [],
     "russian_gloss": "водяника чёрная",
     "english_gloss": "crowberry",
-    "common_name_state_language": "водяника чёрная",
-    "common_names_by_language": {
-      "ru": "водяника чёрная",
-      "en": "crowberry"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -887,7 +830,8 @@
     "source_lemma": "ɬәɣuunˀәt",
     "source_volume": null,
     "original_transcription": "ɬәɣuunˀәt",
-    "ipa": null
+    "ipa": "ɬәɣuunˀәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_015_01",
@@ -900,11 +844,6 @@
     ],
     "russian_gloss": "кипрей широколистный",
     "english_gloss": "dwarf fireweed",
-    "common_name_state_language": "кипрей широколистный",
-    "common_names_by_language": {
-      "ru": "кипрей широколистный",
-      "en": "dwarf fireweed"
-    },
     "linguistic_comment": "Source lists both forms as plurals.",
     "cognate": "",
     "ecological_data": {
@@ -951,7 +890,8 @@
     "source_lemma": "weewәt",
     "source_volume": null,
     "original_transcription": "weewәt",
-    "ipa": null
+    "ipa": "weewәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_015_02",
@@ -964,11 +904,6 @@
     ],
     "russian_gloss": "кипрей широколистный",
     "english_gloss": "dwarf fireweed",
-    "common_name_state_language": "кипрей широколистный",
-    "common_names_by_language": {
-      "ru": "кипрей широколистный",
-      "en": "dwarf fireweed"
-    },
     "linguistic_comment": "Source lists both forms as plurals.",
     "cognate": "",
     "ecological_data": {
@@ -1015,7 +950,8 @@
     "source_lemma": "wewewtәt",
     "source_volume": null,
     "original_transcription": "wewewtәt",
-    "ipa": null
+    "ipa": "wewewtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_016_01",
@@ -1026,11 +962,6 @@
     "names_other_varieties": [],
     "russian_gloss": "хвощ полевой",
     "english_gloss": "field horsetail",
-    "common_name_state_language": "хвощ полевой",
-    "common_names_by_language": {
-      "ru": "хвощ полевой",
-      "en": "field horsetail"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1076,7 +1007,8 @@
     "source_lemma": "titiwtәt",
     "source_volume": null,
     "original_transcription": "titiwtәt",
-    "ipa": null
+    "ipa": "titiwtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_017_01",
@@ -1087,11 +1019,6 @@
     "names_other_varieties": [],
     "russian_gloss": "пушица узколистная",
     "english_gloss": "common cottongrass",
-    "common_name_state_language": "пушица узколистная",
-    "common_names_by_language": {
-      "ru": "пушица узколистная",
-      "en": "common cottongrass"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1141,7 +1068,8 @@
     "source_lemma": "qoçap",
     "source_volume": null,
     "original_transcription": "qoçap",
-    "ipa": null
+    "ipa": "qoçap",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_018_01",
@@ -1152,11 +1080,6 @@
     "names_other_varieties": [],
     "russian_gloss": "копеечник",
     "english_gloss": "sweetvetch",
-    "common_name_state_language": "копеечник",
-    "common_names_by_language": {
-      "ru": "копеечник",
-      "en": "sweetvetch"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1206,7 +1129,8 @@
     "source_lemma": "mijmij",
     "source_volume": null,
     "original_transcription": "mijmij",
-    "ipa": null
+    "ipa": "mijmij",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_019_01",
@@ -1219,11 +1143,6 @@
     ],
     "russian_gloss": "гонкения",
     "english_gloss": "sandwort",
-    "common_name_state_language": "гонкения",
-    "common_names_by_language": {
-      "ru": "гонкения",
-      "en": "sandwort"
-    },
     "linguistic_comment": "Shared names with Mertensia maritima in the same source.",
     "cognate": "",
     "ecological_data": {
@@ -1269,7 +1188,8 @@
     "source_lemma": "mәtˀet",
     "source_volume": null,
     "original_transcription": "mәtˀet",
-    "ipa": null
+    "ipa": "mәtˀet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_019_02",
@@ -1282,11 +1202,6 @@
     ],
     "russian_gloss": "гонкения",
     "english_gloss": "sandwort",
-    "common_name_state_language": "гонкения",
-    "common_names_by_language": {
-      "ru": "гонкения",
-      "en": "sandwort"
-    },
     "linguistic_comment": "Shared names with Mertensia maritima in the same source.",
     "cognate": "",
     "ecological_data": {
@@ -1332,7 +1247,8 @@
     "source_lemma": "aŋqarәmawtәt",
     "source_volume": null,
     "original_transcription": "aŋqarәmawtәt",
-    "ipa": null
+    "ipa": "aŋqarәmawtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_020_01",
@@ -1345,11 +1261,6 @@
     ],
     "russian_gloss": "дикая ревень (кёнигия)",
     "english_gloss": "wild rhubarb",
-    "common_name_state_language": "дикая ревень (кёнигия)",
-    "common_names_by_language": {
-      "ru": "дикая ревень (кёнигия)",
-      "en": "wild rhubarb"
-    },
     "linguistic_comment": "Source spelling of taxonomic author is corrupted in PDF text; normalized author abbreviation.",
     "cognate": "",
     "ecological_data": {
@@ -1399,7 +1310,8 @@
     "source_lemma": "rәmawәt",
     "source_volume": null,
     "original_transcription": "rәmawәt",
-    "ipa": null
+    "ipa": "rәmawәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_020_02",
@@ -1412,11 +1324,6 @@
     ],
     "russian_gloss": "дикая ревень (кёнигия)",
     "english_gloss": "wild rhubarb",
-    "common_name_state_language": "дикая ревень (кёнигия)",
-    "common_names_by_language": {
-      "ru": "дикая ревень (кёнигия)",
-      "en": "wild rhubarb"
-    },
     "linguistic_comment": "Source spelling of taxonomic author is corrupted in PDF text; normalized author abbreviation.",
     "cognate": "",
     "ecological_data": {
@@ -1466,7 +1373,8 @@
     "source_lemma": "rәmawtәt",
     "source_volume": null,
     "original_transcription": "rәmawtәt",
-    "ipa": null
+    "ipa": "rәmawtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_021_01",
@@ -1479,11 +1387,6 @@
     ],
     "russian_gloss": "мертензия приморская",
     "english_gloss": "oyster leaf",
-    "common_name_state_language": "мертензия приморская",
-    "common_names_by_language": {
-      "ru": "мертензия приморская",
-      "en": "oyster leaf"
-    },
     "linguistic_comment": "Shared names with Honckenya peploides in the same source.",
     "cognate": "",
     "ecological_data": {
@@ -1529,7 +1432,8 @@
     "source_lemma": "mәtˀet",
     "source_volume": null,
     "original_transcription": "mәtˀet",
-    "ipa": null
+    "ipa": "mәtˀet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_021_02",
@@ -1542,11 +1446,6 @@
     ],
     "russian_gloss": "мертензия приморская",
     "english_gloss": "oyster leaf",
-    "common_name_state_language": "мертензия приморская",
-    "common_names_by_language": {
-      "ru": "мертензия приморская",
-      "en": "oyster leaf"
-    },
     "linguistic_comment": "Shared names with Honckenya peploides in the same source.",
     "cognate": "",
     "ecological_data": {
@@ -1592,7 +1491,8 @@
     "source_lemma": "aŋqarәmawtәt",
     "source_volume": null,
     "original_transcription": "aŋqarәmawtәt",
-    "ipa": null
+    "ipa": "aŋqarәmawtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_01",
@@ -1606,11 +1506,6 @@
     ],
     "russian_gloss": "камнеломка",
     "english_gloss": "heartleaf / dotted saxifrage",
-    "common_name_state_language": "камнеломка",
-    "common_names_by_language": {
-      "ru": "камнеломка",
-      "en": "heartleaf / dotted saxifrage"
-    },
     "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
     "cognate": "",
     "ecological_data": {
@@ -1656,7 +1551,8 @@
     "source_lemma": "çipˀet",
     "source_volume": null,
     "original_transcription": "çipˀet",
-    "ipa": null
+    "ipa": "çipˀet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_02",
@@ -1670,11 +1566,6 @@
     ],
     "russian_gloss": "камнеломка",
     "english_gloss": "heartleaf / dotted saxifrage",
-    "common_name_state_language": "камнеломка",
-    "common_names_by_language": {
-      "ru": "камнеломка",
-      "en": "heartleaf / dotted saxifrage"
-    },
     "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
     "cognate": "",
     "ecological_data": {
@@ -1720,7 +1611,8 @@
     "source_lemma": "çiwˀet",
     "source_volume": null,
     "original_transcription": "çiwˀet",
-    "ipa": null
+    "ipa": "çiwˀet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_03",
@@ -1734,11 +1626,6 @@
     ],
     "russian_gloss": "камнеломка",
     "english_gloss": "heartleaf / dotted saxifrage",
-    "common_name_state_language": "камнеломка",
-    "common_names_by_language": {
-      "ru": "камнеломка",
-      "en": "heartleaf / dotted saxifrage"
-    },
     "linguistic_comment": "Two scientific taxa are given for the same grouping; do not assign a single species without corroboration.",
     "cognate": "",
     "ecological_data": {
@@ -1784,7 +1671,8 @@
     "source_lemma": "rәɬqәŋet",
     "source_volume": null,
     "original_transcription": "rәɬqәŋet",
-    "ipa": null
+    "ipa": "rәɬqәŋet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_023_01",
@@ -1795,11 +1683,6 @@
     "names_other_varieties": [],
     "russian_gloss": "кисличник двустолбиковый",
     "english_gloss": "mountain sorrel",
-    "common_name_state_language": "кисличник двустолбиковый",
-    "common_names_by_language": {
-      "ru": "кисличник двустолбиковый",
-      "en": "mountain sorrel"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1848,7 +1731,8 @@
     "source_lemma": "weçowtәt",
     "source_volume": null,
     "original_transcription": "weçowtәt",
-    "ipa": null
+    "ipa": "weçowtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_024_01",
@@ -1859,11 +1743,6 @@
     "names_other_varieties": [],
     "russian_gloss": "мы́тник мутовчатый",
     "english_gloss": "whorled lousewort",
-    "common_name_state_language": "мы́тник мутовчатый",
-    "common_names_by_language": {
-      "ru": "мы́тник мутовчатый",
-      "en": "whorled lousewort"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1910,7 +1789,8 @@
     "source_lemma": "rˀorawtәt",
     "source_volume": null,
     "original_transcription": "rˀorawtәt",
-    "ipa": null
+    "ipa": "rˀorawtәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_025_01",
@@ -1921,11 +1801,6 @@
     "names_other_varieties": [],
     "russian_gloss": "белокопытник холодный",
     "english_gloss": "Arctic coltsfoot",
-    "common_name_state_language": "белокопытник холодный",
-    "common_names_by_language": {
-      "ru": "белокопытник холодный",
-      "en": "Arctic coltsfoot"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -1972,7 +1847,8 @@
     "source_lemma": "ɬemqut",
     "source_volume": null,
     "original_transcription": "ɬemqut",
-    "ipa": null
+    "ipa": "ɬemqut",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_026_01",
@@ -1983,11 +1859,6 @@
     "names_other_varieties": [],
     "russian_gloss": "родиола",
     "english_gloss": "roseroot",
-    "common_name_state_language": "родиола",
-    "common_names_by_language": {
-      "ru": "родиола",
-      "en": "roseroot"
-    },
     "linguistic_comment": "Both Rhodiola integrifolia and Rhodiola rosea listed; prose discusses Sedum roseum as alternate referent.",
     "cognate": "",
     "ecological_data": {
@@ -2034,7 +1905,8 @@
     "source_lemma": "juŋew",
     "source_volume": null,
     "original_transcription": "juŋew",
-    "ipa": null
+    "ipa": "juŋew",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_027_01",
@@ -2045,11 +1917,6 @@
     "names_other_varieties": [],
     "russian_gloss": "багульник болотный",
     "english_gloss": "marsh Labrador tea",
-    "common_name_state_language": "багульник болотный",
-    "common_names_by_language": {
-      "ru": "багульник болотный",
-      "en": "marsh Labrador tea"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2098,7 +1965,8 @@
     "source_lemma": "neçequt",
     "source_volume": null,
     "original_transcription": "neçequt",
-    "ipa": null
+    "ipa": "neçequt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_028_01",
@@ -2109,11 +1977,6 @@
     "names_other_varieties": [],
     "russian_gloss": "морошка",
     "english_gloss": "cloudberry",
-    "common_name_state_language": "морошка",
-    "common_names_by_language": {
-      "ru": "морошка",
-      "en": "cloudberry"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2160,7 +2023,8 @@
     "source_lemma": "rәttәt",
     "source_volume": null,
     "original_transcription": "rәttәt",
-    "ipa": null
+    "ipa": "rәttәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_029_01",
@@ -2171,11 +2035,6 @@
     "names_other_varieties": [],
     "russian_gloss": "щавель арктический",
     "english_gloss": "arctic dock",
-    "common_name_state_language": "щавель арктический",
-    "common_names_by_language": {
-      "ru": "щавель арктический",
-      "en": "arctic dock"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2222,7 +2081,8 @@
     "source_lemma": "ŋәrɣet",
     "source_volume": null,
     "original_transcription": "ŋәrɣet",
-    "ipa": null
+    "ipa": "ŋәrɣet",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_030_01",
@@ -2233,11 +2093,6 @@
     "names_other_varieties": [],
     "russian_gloss": "ламинария сахаристая",
     "english_gloss": "sugar kelp",
-    "common_name_state_language": "ламинария сахаристая",
-    "common_names_by_language": {
-      "ru": "ламинария сахаристая",
-      "en": "sugar kelp"
-    },
     "linguistic_comment": "Shared name with Alaria marginata on p. 325.",
     "cognate": "",
     "ecological_data": {
@@ -2283,7 +2138,8 @@
     "source_lemma": "mәrɣomәr",
     "source_volume": null,
     "original_transcription": "mәrɣomәr",
-    "ipa": null
+    "ipa": "mәrɣomәr",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_031_01",
@@ -2294,11 +2150,6 @@
     "names_other_varieties": [],
     "russian_gloss": "ива",
     "english_gloss": "willow",
-    "common_name_state_language": "ива",
-    "common_names_by_language": {
-      "ru": "ива",
-      "en": "willow"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2349,7 +2200,8 @@
     "source_lemma": "wәtwәt",
     "source_volume": null,
     "original_transcription": "wәtwәt",
-    "ipa": null
+    "ipa": "wәtwәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_032_01",
@@ -2360,11 +2212,6 @@
     "names_other_varieties": [],
     "russian_gloss": "сфагнум",
     "english_gloss": "peat moss",
-    "common_name_state_language": "сфагнум",
-    "common_names_by_language": {
-      "ru": "сфагнум",
-      "en": "peat moss"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2414,7 +2261,8 @@
     "source_lemma": "witәwit",
     "source_volume": null,
     "original_transcription": "witәwit",
-    "ipa": null
+    "ipa": "witәwit",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_033_01",
@@ -2425,11 +2273,6 @@
     "names_other_varieties": [],
     "russian_gloss": "голубика",
     "english_gloss": "bog blueberry",
-    "common_name_state_language": "голубика",
-    "common_names_by_language": {
-      "ru": "голубика",
-      "en": "bog blueberry"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2478,7 +2321,8 @@
     "source_lemma": "ɬinɬәt",
     "source_volume": null,
     "original_transcription": "ɬinɬәt",
-    "ipa": null
+    "ipa": "ɬinɬәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_034_01",
@@ -2489,11 +2333,6 @@
     "names_other_varieties": [],
     "russian_gloss": "брусника",
     "english_gloss": "lingonberry",
-    "common_name_state_language": "брусника",
-    "common_names_by_language": {
-      "ru": "брусника",
-      "en": "lingonberry"
-    },
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -2540,6 +2379,7 @@
     "source_lemma": "weriwәçˀәt",
     "source_volume": null,
     "original_transcription": "weriwәçˀәt",
-    "ipa": null
+    "ipa": "weriwәçˀәt",
+    "ipa_source": "Belichenko et al. 2021: source transcription (IPA-style; unverified phonemic transcription)"
   }
 ]

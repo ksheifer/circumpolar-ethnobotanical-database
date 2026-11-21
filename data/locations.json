@@ -287,7 +287,7 @@
     "location_id": "loc_0430043d04300432043304300439",
     "language_ids": [
       "even",
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -384,7 +384,7 @@
     "location_id": "loc_043c0430043d0438043b044b",
     "language_ids": [
       "even",
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -1259,7 +1259,7 @@
     "location_id": "loc_043004470430043904320430044f043c",
     "language_ids": [
       "chukchi",
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -1853,8 +1853,8 @@
     "locality": "Хаилино",
     "location_id": "loc_044504300438043b0438043d043e",
     "language_ids": [
-      "chavchuven-koryak",
-      "non-chavchuven-koryak"
+      "koryak",
+      "alyutor"
     ]
   },
   {
@@ -1870,7 +1870,7 @@
     "locality": "Средние Пахачи",
     "location_id": "loc_0441044004350434043d043804350020043f04300445043004470438",
     "language_ids": [
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -1886,7 +1886,7 @@
     "locality": "Пахачи",
     "location_id": "loc_043f04300445043004470438",
     "language_ids": [
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -1902,8 +1902,8 @@
     "locality": "Тиличики",
     "location_id": "loc_04420438043b043804470438043a0438",
     "language_ids": [
-      "chavchuven-koryak",
-      "non-chavchuven-koryak"
+      "koryak",
+      "alyutor"
     ]
   },
   {
@@ -1919,8 +1919,8 @@
     "locality": "Апука",
     "location_id": "loc_0430043f0443043a0430",
     "language_ids": [
-      "chavchuven-koryak",
-      "non-chavchuven-koryak"
+      "koryak",
+      "alyutor"
     ]
   },
   {
@@ -1936,7 +1936,7 @@
     "locality": "Воямполка",
     "location_id": "loc_0432043e044f043c043f043e043b043a0430",
     "language_ids": [
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -1952,7 +1952,7 @@
     "locality": "Седанка",
     "location_id": "loc_0441043504340430043d043a0430",
     "language_ids": [
-      "chavchuven-koryak"
+      "koryak"
     ]
   },
   {
@@ -1968,7 +1968,7 @@
     "locality": "Парень",
     "location_id": "loc_043f043004400435043d044c",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -1984,7 +1984,7 @@
     "locality": "Вывенка",
     "location_id": "loc_0432044b04320435043d043a0430",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -2000,7 +2000,7 @@
     "locality": "Лесная",
     "location_id": "loc_043b04350441043d0430044f",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -2016,7 +2016,7 @@
     "locality": "Палана",
     "location_id": "loc_043f0430043b0430043d0430",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -2032,7 +2032,7 @@
     "locality": "Карага",
     "location_id": "loc_043a04300440043004330430",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -2048,7 +2048,7 @@
     "locality": "Тымлат",
     "location_id": "loc_0442044b043c043b04300442",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {
@@ -2064,7 +2064,7 @@
     "locality": "Оссора",
     "location_id": "loc_043e04410441043e04400430",
     "language_ids": [
-      "non-chavchuven-koryak"
+      "alyutor"
     ]
   },
   {

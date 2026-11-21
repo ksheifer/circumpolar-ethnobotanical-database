@@ -88,7 +88,7 @@ for s in tables['sources']:
     for language_id in s.get('language_ids', []):
         linked(language_id, ids['languages'], label)
 for lang in tables['languages']:
-    if lang['language_id'] == 'sakha' and (lang.get('name_ru') != 'саха' or lang.get('name_en') != 'Sakha'):
+    if lang['language_id'] == 'sakha' and (lang.get('name_ru') != 'Саха' or lang.get('name_en') != 'Sakha'):
         errors.append('sakha: incorrect display name')
 for p in tables['phytonyms']:
     label=p.get('phytonym_id')
@@ -98,6 +98,12 @@ for p in tables['phytonyms']:
         errors.append(f'{label}: Sakha phytonym must be lowercase')
     if 'ipa' not in p or (p['ipa'] is not None and not isinstance(p['ipa'], str)):
         errors.append(f'{label}: ipa must be a string or null')
+    if not isinstance(p.get('russian_gloss'),str) or not isinstance(p.get('english_gloss'),str) or not p['english_gloss'].strip():
+        errors.append(f'{label}: Russian and English glosses must be strings, English gloss must be present')
+    if 'common_name_state_language' in p or 'common_names_by_language' in p:
+        errors.append(f'{label}: obsolete common-name fields')
+    if p.get('language_id')=='chukchi' and p.get('ipa') != p.get('original_transcription'):
+        errors.append(f'{label}: Chukchi IPA must preserve source transcription')
     linked(p.get('language_id'),ids['languages'],label)
     linked(p.get('dialect_id'),ids['dialects'],label)
     linked(p.get('taxon_id'),ids['taxa'],label)
