@@ -127,12 +127,15 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
  const related=relatedProfilesByGloss(p);
  const entries=related.flatMap(locatableEntries);
  state.currentProfileEntries=entries;
+ const ownEntries=locatableEntries(p);
+ const ownPlaces=[...new Map(ownEntries.map(e=>[e.location_id,e])).values()];
+ const ownPlaceLinks=ownPlaces.map(e=>`<button type="button" class="plain-link map-place-link" data-map-location="${esc(e.location_id)}">${esc(e.locality)}</button> <span class="muted">(${esc(tr(e.kind==='attested'?'directPlace':'dialectPlace'))})</span>`).join('; ');
  const forms=related.map(candidate=>{
   const dialects=[candidate.dialect_id,...(candidate.attestations||[]).flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])].filter(Boolean);
   const dialectNames=[...new Set(dialects.map(dialName).filter(Boolean))];
   return `<li><button type="button" class="plain-link related-name" data-profile="${esc(candidate.phytonym_id)}">${esc(candidate.name_native_language)}</button> — ${esc(langName(candidate.language_id))}${dialectNames.length?`; ${esc(dialectNames.join('; '))}`:''}</li>`;
  }).join('');
- const mapSection=(p.english_gloss||locatableEntries(p).length)?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
+ const mapSection=(p.english_gloss||locatableEntries(p).length)?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3>${ownPlaceLinks?`<p class="map-own-places"><strong>${esc(state.lang==='ru'?'Географические точки выбранного названия':'Locations for this phytonym')}:</strong> ${ownPlaceLinks}</p>`:''}<div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
 
  return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
 }
@@ -254,21 +257,26 @@ function mountProfileMap(){
  const entries=state.currentProfileEntries||relatedGlossMapEntries(profile);
  if(!entries.length){target.textContent=tr('noGeolocations');target.classList.add('map-unavailable');return;}
  if(!window.L){target.textContent=tr('noMap');target.classList.add('map-unavailable');ensureLeaflet();return;}
+ const selectedIds=new Set(locatableEntries(profile).map(e=>e.location_id));
  const grouped=new Map();
  for(const entry of entries){const key=entry.location_id;const bucket=grouped.get(key)||{...entry,items:[]};bucket.items.push(entry);grouped.set(key,bucket);}
  const map=L.map(target);state.profileMap=map;
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:17,attribution:'© OpenStreetMap contributors'}).addTo(map);
  const markers=[];
  for(const group of grouped.values()){
-  const forms=[...new Map(group.items.map(item=>[item.phytonym_id+':'+item.kind,item])).values()];
+  const forms=[...new Map(group.items.map(item=>[item.phytonym_id+':'+item.kind,item])).values()].sort((a,b)=>Number(b.phytonym_id===profile.phytonym_id)-Number(a.phytonym_id===profile.phytonym_id));
+  const selected=selectedIds.has(group.location_id);
   const list=forms.map(item=>`<li><strong>${esc(item.name)}</strong> — ${esc(item.language)}${item.dialect?`; ${esc(item.dialect)}`:''}<br><small>${item.kind==='community'?'':esc(tr(item.kind==='attested'?'directPlace':'dialectPlace'))}</small>${item.source?`<br><small>${esc(item.source)}</small>`:''}</li>`).join('');
   const certain=forms.some(item=>item.kind==='attested');
-  const mark=L.circleMarker([group.latitude,group.longitude],{radius:6,color:certain?'#225a91':'#9b6c2d',weight:2,fillOpacity:certain?.85:0.7})
+  const mark=L.circleMarker([group.latitude,group.longitude],{radius:selected?10:5,color:selected?'#0a6ba8':certain?'#225a91':'#9b6c2d',weight:selected?3:2,fillOpacity:selected?1:certain?.85:0.55})
     .bindPopup(`<strong>${esc(group.locality)}</strong><ul class="map-popup-list">${list}</ul>`)
-    .bindTooltip(esc(forms.map(x=>x.name).filter((v,i,a)=>a.indexOf(v)===i).slice(0,2).join(' · '))+(forms.length>2?' …':''),{direction:'top',permanent:grouped.size<=12,className:'phytonym-tooltip'}).addTo(map);
+    .bindTooltip(selected?esc(group.locality+' — '+profile.name_native_language):esc(forms.map(x=>x.name).filter((v,i,a)=>a.indexOf(v)===i).slice(0,2).join(' · '))+(forms.length>2?' …':''),{direction:'top',permanent:selected||grouped.size<=12,className:'phytonym-tooltip'}).addTo(map);
+  if(!state.profileLocationMarkers)state.profileLocationMarkers=new Map();
+  state.profileLocationMarkers.set(group.location_id,mark);
   markers.push(mark);
  }
- map.fitBounds(L.featureGroup(markers).getBounds().pad(.2),{maxZoom:8});
+ const focusMarkers=[...selectedIds].map(id=>state.profileLocationMarkers.get(id)).filter(Boolean);
+ map.fitBounds(L.featureGroup(focusMarkers.length?focusMarkers:markers).getBounds().pad(.2),{maxZoom:8});
  requestAnimationFrame(()=>map.invalidateSize());
 }
 function cleanExcel(x){let s=String(x??'');return /^[\s\uFEFF]*[=+\-@\t\r]/.test(s)?"'"+s:s}
@@ -278,13 +286,14 @@ function render(){
  document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.lang===state.lang)));
  document.getElementById('navigation').innerHTML=NAMES.map(view=>`<button type="button" data-view="${view}" class="${(state.view===view||(state.view==='profile'&&view===state.returnView))?'active':''}" ${(state.view===view||(state.view==='profile'&&view===state.returnView))?'aria-current="page"':''}>${esc(tr(view))}</button>`).join('');
  if(state.profileMap){state.profileMap.remove();state.profileMap=null;}
+ state.profileLocationMarkers=new Map();
  document.getElementById('main').innerHTML=({profile:renderProfile,home:renderHome,catalog:renderCatalog,statistics:renderStatistics,sources:renderSources})[state.view]();
  if(state.view==='profile')mountProfileMap();
 }
 const DATA_RELEASE='20261121-links-clean';
 const fetchDataJSON=path=>fetch(new URL(path+'?v='+DATA_RELEASE,SITE_ROOT),{cache:'no-store'});
 async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}const queryLang=new URL(window.location.href).searchParams.get('language');if(queryLang&&state.data.languages.some(l=>l.language_id===queryLang))state.selectedLanguage=queryLang;if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render();scrollToHash()}
-document.addEventListener('click',e=>{const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const statLanguage=e.target.closest('[data-stat-language]');if(statLanguage){e.preventDefault();state.selectedLanguage=statLanguage.dataset.statLanguage;navigateSection('catalog');const url=sectionURL('catalog');url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
+document.addEventListener('click',e=>{const placeLink=e.target.closest('[data-map-location]');if(placeLink){const marker=state.profileLocationMarkers?.get(placeLink.dataset.mapLocation);if(marker&&state.profileMap){state.profileMap.setView(marker.getLatLng(),8);marker.openPopup();}return;}const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const statLanguage=e.target.closest('[data-stat-language]');if(statLanguage){e.preventDefault();state.selectedLanguage=statLanguage.dataset.statLanguage;navigateSection('catalog');const url=sectionURL('catalog');url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
 window.addEventListener('popstate',()=>{if(!state.data)return;state.view=sectionFromURL();const q=new URL(window.location.href).searchParams.get('language');if(q&&state.data.languages.some(l=>l.language_id===q))state.selectedLanguage=q;render();scrollToHash();});
 window.addEventListener('hashchange',()=>{if(state.data&&state.view==='sources')scrollToHash();});
 document.addEventListener('change',e=>{if(e.target.id==='languageFilter'){state.selectedLanguage=e.target.value;const url=sectionURL('catalog');if(state.selectedLanguage)url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);render()}});

@@ -8,7 +8,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лиственница",
     "english_gloss": "larch",
-    "linguistic_comment": "",
+    "linguistic_comment": "На с. 58 прямо дано: «лиственница, по-эвенкийски ... ирэктэ». Пищевые рецепты книги отчасти представлены как рекомендации автора, а не обязательно как старинный обычай.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -21,7 +21,7 @@
       "medicinal_use": "",
       "domestic_use": "",
       "spiritual_use": "",
-      "human_consumption": "",
+      "human_consumption": "Молодую хвою описывают как пищевую добавку; приводятся рецепты напитка и масла из хвои.",
       "animal_consumption": ""
     },
     "attestations": [
@@ -37,9 +37,22 @@
         "folklore": null,
         "dialect_ids": [],
         "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_evenki_sviridova_0001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "58",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
       }
     ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
+    "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "ирэктэ",
     "source_volume": null,
     "ipa": null
@@ -844,7 +857,7 @@
     "names_other_varieties": [],
     "russian_gloss": "сосна",
     "english_gloss": "pine",
-    "linguistic_comment": "",
+    "linguistic_comment": "На с. 58 явно приведён перевод «дягда — ... сосна». Описаны пищевые и общеоздоровительные представления, не клинически проверенные рекомендации.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -857,7 +870,7 @@
       "medicinal_use": "",
       "domestic_use": "",
       "spiritual_use": "",
-      "human_consumption": "",
+      "human_consumption": "Почки и молодые побеги сосны использовали для настоев и напитков; отмечено употребление свежих молодых побегов.",
       "animal_consumption": ""
     },
     "attestations": [
@@ -873,9 +886,22 @@
         "folklore": null,
         "dialect_ids": [],
         "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_evenki_sviridova_0002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "58–59",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
       }
     ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
+    "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "дягда",
     "source_volume": null,
     "ipa": null
@@ -1880,7 +1906,7 @@
     "names_other_varieties": [],
     "russian_gloss": "берёза",
     "english_gloss": "birch",
-    "linguistic_comment": "",
+    "linguistic_comment": "На с. 59 заголовок «ЧАЛБАН» следует непосредственно за разделом о кедре и относится к берёзе. С. 67–73 дополнительно посвящены берестяной утвари, но не содержат на этих страницах нового фитонима.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -1893,7 +1919,7 @@
       "medicinal_use": "",
       "domestic_use": "",
       "spiritual_use": "",
-      "human_consumption": "",
+      "human_consumption": "Весной собирали берёзовый сок; описано изготовление напитка/сиропа.",
       "animal_consumption": ""
     },
     "attestations": [
@@ -1909,9 +1935,22 @@
         "folklore": null,
         "dialect_ids": [],
         "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_evenki_sviridova_0004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_sviridova_1995_tuyun",
+        "source_pages": "59",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
       }
     ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
+    "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "чалбан",
     "source_volume": null,
     "ipa": null
@@ -3065,7 +3104,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
-    "name_native_language": "дулгикта",
+    "name_native_language": "дулгикта ~ дулгиктэ",
     "names_other_varieties": [],
     "russian_gloss": "ольха",
     "english_gloss": "alder",
@@ -3114,39 +3153,7 @@
           "И",
           "С-Б"
         ]
-      }
-    ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "дулгикта",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_myreeva_0061",
-    "language_id": "evenki",
-    "dialect_id": null,
-    "taxon_id": "tax_family_inferred_alnus",
-    "name_native_language": "дулгиктэ",
-    "names_other_varieties": [],
-    "russian_gloss": "ольха",
-    "english_gloss": "alder",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
+      },
       {
         "attestation_id": "att_evenki_myreeva_0061",
         "location_id": null,
@@ -3178,7 +3185,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "дулгиктэ",
+    "source_lemma": "дулгикта ~ дулгиктэ",
     "source_volume": null,
     "ipa": null
   },
@@ -5037,7 +5044,7 @@
     "language_id": "evenki",
     "dialect_id": "dia_evenki_myreeva_28",
     "taxon_id": "tax_family_inferred_rhododendron",
-    "name_native_language": "чэмкирэ",
+    "name_native_language": "чэмкирэ ~ чэнкирэ",
     "names_other_varieties": [],
     "russian_gloss": "багульник",
     "english_gloss": "labrador tea",
@@ -5074,39 +5081,7 @@
         "dialect_abbreviations": [
           "Тт"
         ]
-      }
-    ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "чэмкирэ",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_myreeva_0099",
-    "language_id": "evenki",
-    "dialect_id": "dia_evenki_myreeva_28",
-    "taxon_id": "tax_family_inferred_rhododendron",
-    "name_native_language": "чэнкирэ",
-    "names_other_varieties": [],
-    "russian_gloss": "багульник",
-    "english_gloss": "labrador tea",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
+      },
       {
         "attestation_id": "att_evenki_myreeva_0099",
         "location_id": null,
@@ -5126,7 +5101,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "чэнкирэ",
+    "source_lemma": "чэмкирэ ~ чэнкирэ",
     "source_volume": null,
     "ipa": null
   },
@@ -6508,7 +6483,7 @@
     "language_id": "evenki",
     "dialect_id": "dia_evenki_myreeva_30",
     "taxon_id": "tax_family_inferred_rhododendron",
-    "name_native_language": "огинкӣкта",
+    "name_native_language": "огинкӣкта ~ һогинкӣкта",
     "names_other_varieties": [],
     "russian_gloss": "рододендрон",
     "english_gloss": "rhododendron",
@@ -6545,39 +6520,7 @@
         "dialect_abbreviations": [
           "Учр"
         ]
-      }
-    ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "огинкӣкта",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_myreeva_0128",
-    "language_id": "evenki",
-    "dialect_id": "dia_evenki_myreeva_30",
-    "taxon_id": "tax_family_inferred_rhododendron",
-    "name_native_language": "һогинкӣкта",
-    "names_other_varieties": [],
-    "russian_gloss": "рододендрон",
-    "english_gloss": "rhododendron",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
+      },
       {
         "attestation_id": "att_evenki_myreeva_0128",
         "location_id": null,
@@ -6597,7 +6540,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "һогинкӣкта",
+    "source_lemma": "огинкӣкта ~ һогинкӣкта",
     "source_volume": null,
     "ipa": null
   },
@@ -8535,60 +8478,11 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_evenki_myreeva_0166",
-    "language_id": "evenki",
-    "dialect_id": "dia_evenki_myreeva_19",
-    "taxon_id": "tax_family_inferred_cannabis",
-    "name_native_language": "кэбдэкэ",
-    "names_other_varieties": [],
-    "russian_gloss": "конопля",
-    "english_gloss": "hemp",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_evenki_myreeva_0166",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_myreeva_2001",
-        "source_pages": "87",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [
-          "dia_evenki_myreeva_19"
-        ],
-        "dialect_abbreviations": [
-          "П-Т"
-        ]
-      }
-    ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "кэбдэкэ",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_evenki_myreeva_0167",
     "language_id": "evenki",
     "dialect_id": "dia_evenki_myreeva_19",
     "taxon_id": "tax_family_inferred_cannabis",
-    "name_native_language": "кэпдэкэ",
+    "name_native_language": "кэпдэкэ ~ кэбдэкэ",
     "names_other_varieties": [],
     "russian_gloss": "конопля",
     "english_gloss": "hemp",
@@ -8625,10 +8519,27 @@
         "dialect_abbreviations": [
           "П-Т"
         ]
+      },
+      {
+        "attestation_id": "att_evenki_myreeva_0166",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_myreeva_2001",
+        "source_pages": "87",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_evenki_myreeva_19"
+        ],
+        "dialect_abbreviations": [
+          "П-Т"
+        ]
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "кэпдэкэ",
+    "source_lemma": "кэпдэкэ ~ кэбдэкэ",
     "source_volume": null,
     "ipa": null
   },
@@ -14743,7 +14654,7 @@
     "language_id": "evenki",
     "dialect_id": "dia_evenki_myreeva_19",
     "taxon_id": "",
-    "name_native_language": "сиривэ",
+    "name_native_language": "сиривэ ~ суривэ",
     "names_other_varieties": [],
     "russian_gloss": "ягель",
     "english_gloss": "reindeer lichen",
@@ -14780,39 +14691,7 @@
         "dialect_abbreviations": [
           "П-Т"
         ]
-      }
-    ],
-    "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "сиривэ",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_myreeva_0289",
-    "language_id": "evenki",
-    "dialect_id": "dia_evenki_myreeva_19",
-    "taxon_id": "",
-    "name_native_language": "суривэ",
-    "names_other_varieties": [],
-    "russian_gloss": "ягель",
-    "english_gloss": "reindeer lichen",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
+      },
       {
         "attestation_id": "att_evenki_myreeva_0289",
         "location_id": null,
@@ -14832,7 +14711,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "суривэ",
+    "source_lemma": "сиривэ ~ суривэ",
     "source_volume": null,
     "ipa": null
   },
@@ -15164,96 +15043,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_evenki_sviridova_0001",
-    "language_id": "evenki",
-    "dialect_id": null,
-    "taxon_id": "tax_family_inferred_larix",
-    "name_native_language": "ирэктэ",
-    "names_other_varieties": [],
-    "russian_gloss": "лиственница",
-    "english_gloss": "larch",
-    "linguistic_comment": "На с. 58 прямо дано: «лиственница, по-эвенкийски ... ирэктэ». Пищевые рецепты книги отчасти представлены как рекомендации автора, а не обязательно как старинный обычай.",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "Молодую хвою описывают как пищевую добавку; приводятся рецепты напитка и масла из хвои.",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_evenki_sviridova_0001",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sviridova_1995_tuyun",
-        "source_pages": "58",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
-    "source_lemma": "ирэктэ",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_sviridova_0002",
-    "language_id": "evenki",
-    "dialect_id": null,
-    "taxon_id": "tax_family_inferred_pinus",
-    "name_native_language": "дягда",
-    "names_other_varieties": [],
-    "russian_gloss": "сосна",
-    "english_gloss": "pine",
-    "linguistic_comment": "На с. 58 явно приведён перевод «дягда — ... сосна». Описаны пищевые и общеоздоровительные представления, не клинически проверенные рекомендации.",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "Почки и молодые побеги сосны использовали для настоев и напитков; отмечено употребление свежих молодых побегов.",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_evenki_sviridova_0002",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sviridova_1995_tuyun",
-        "source_pages": "58–59",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
-    "source_lemma": "дягда",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_evenki_sviridova_0003",
     "language_id": "evenki",
     "dialect_id": null,
@@ -15295,51 +15084,6 @@
     ],
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "тактыкан",
-    "source_volume": null,
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_evenki_sviridova_0004",
-    "language_id": "evenki",
-    "dialect_id": null,
-    "taxon_id": "tax_family_inferred_betula",
-    "name_native_language": "чалбан",
-    "names_other_varieties": [],
-    "russian_gloss": "берёза",
-    "english_gloss": "birch",
-    "linguistic_comment": "На с. 59 заголовок «ЧАЛБАН» следует непосредственно за разделом о кедре и относится к берёзе. С. 67–73 дополнительно посвящены берестяной утвари, но не содержат на этих страницах нового фитонима.",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "Весной собирали берёзовый сок; описано изготовление напитка/сиропа.",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_evenki_sviridova_0004",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sviridova_1995_tuyun",
-        "source_pages": "59",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
-    "source_lemma": "чалбан",
     "source_volume": null,
     "ipa": null
   },

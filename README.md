@@ -38,7 +38,7 @@ The same validation runs in GitHub Actions when changes are pushed.
 
 ## Source-specific terminology
 
-The Evenki botanical terminology index is available at `/sviridova/` and in `data/evenki_sviridova_terminology.csv`. Citations give **printed pages** of Свиридова, *Приглашаем на туюн* (1995); the accompanying `docs/sviridova_tuyun_pp53-77.pdf` is a 25-page viewing extract. Navigation page offsets in PDF links are not bibliographic page numbers.
+The Evenki botanical terminology index is available at `/sviridova/` and in `data/evenki_sviridova_terminology.csv`. Citations give **printed pages** of Свиридова, *Приглашаем на туюн* (1995). No scanned book pages are included in the release.
 
 ## Geographic precision
 

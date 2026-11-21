@@ -39,8 +39,8 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .index th {font-weight:600;white-space:nowrap}
 .plain-link {border:0;text-align:left;text-decoration:underline;padding:0;color:inherit}
 .plain-link:hover {background:transparent}
-.index [data-profile],.profile-related [data-profile] {color:#155a9a;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
-.index [data-profile]:hover,.profile-related [data-profile]:hover {color:#0c3a66;background:#f0f6ff}
+.index [data-profile],.index [data-stat-language],.profile-related [data-profile] {color:#155a9a;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+.index [data-profile]:hover,.index [data-stat-language]:hover,.profile-related [data-profile]:hover {color:#0c3a66;background:#f0f6ff}
 .empty {padding:20px 0;color:#555}
 .error {color:#9b1515}
 .search-toolbar {display:flex;align-items:center;gap:12px;margin:8px 0 20px;flex-wrap:wrap}
@@ -94,3 +94,7 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .sortable-table .sort-header:focus-visible{outline:2px solid #275b97;outline-offset:3px}
 .sortable-table .sort-indicator{font-size:10px;color:#777;min-width:12px;user-select:none}
 .sortable-table th[aria-sort] .sort-indicator{color:#1b568d}
+
+.map-own-places {margin:10px 0 6px;line-height:1.7}
+.map-place-link {text-decoration:underline;text-underline-offset:3px}
+.map-place-link:hover {color:#07598a;background:#e8f3fb}

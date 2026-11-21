@@ -3767,7 +3767,7 @@
     "language_id": "komi",
     "dialect_id": null,
     "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "зэрамач",
+    "name_native_language": "зэрамач ~ зэрмач",
     "names_other_varieties": [],
     "russian_gloss": "дождевик шиповатый",
     "english_gloss": "common puffball",
@@ -3800,16 +3800,34 @@
         "folklore": null,
         "dialect_ids": [],
         "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_tsypanov2016_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С. Уд."
+        ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "source_lemma": "зэрамач ~ зэрмач",
+    "extraction_status": ""
   },
   {
     "phytonym_id": "phy_komi_tsypanov2016_003",
     "language_id": "komi",
     "dialect_id": null,
     "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "гымкольк",
+    "name_native_language": "гымкольк ~ дымкольк",
     "names_other_varieties": [],
     "russian_gloss": "дождевик шиповатый",
     "english_gloss": "common puffball",
@@ -3846,9 +3864,28 @@
         "dialect_abbreviations": [
           "вым."
         ]
+      },
+      {
+        "attestation_id": "att_tsypanov2016_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_komi_vym"
+        ],
+        "dialect_abbreviations": [
+          "вым."
+        ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "source_lemma": "гымкольк ~ дымкольк",
+    "extraction_status": ""
   },
   {
     "phytonym_id": "phy_komi_tsypanov2016_004",
@@ -3989,52 +4026,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_komi_tsypanov2016_007",
-    "language_id": "komi",
-    "dialect_id": null,
-    "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "дымкольк",
-    "names_other_varieties": [],
-    "russian_gloss": "дождевик шиповатый",
-    "english_gloss": "common puffball",
-    "linguistic_comment": "название, мотивированное громом",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_tsypanov2016_007",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_tsypanov_2016_puffball",
-        "source_pages": "86",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [
-          "dia_komi_vym"
-        ],
-        "dialect_abbreviations": [
-          "вым."
-        ]
-      }
-    ],
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_komi_tsypanov2016_008",
     "language_id": "komi",
     "dialect_id": null,
@@ -4085,11 +4076,11 @@
     "language_id": "komi",
     "dialect_id": null,
     "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "зьвернакольк",
+    "name_native_language": "зьвернакольк ~ зэрнакольк",
     "names_other_varieties": [],
     "russian_gloss": "дождевик шиповатый",
     "english_gloss": "common puffball",
-    "linguistic_comment": "название старого высохшего дождевика; букв. «яйцо для зверей»",
+    "linguistic_comment": "название старого высохшего дождевика; букв. «яйцо для зверей»; название, мотивированное дождём",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -4121,9 +4112,27 @@
         "unresolved_dialect_abbreviations": [
           "С."
         ]
+      },
+      {
+        "attestation_id": "att_tsypanov2016_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_tsypanov_2016_puffball",
+        "source_pages": "86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "unresolved_dialect_abbreviations": [
+          "С."
+        ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "source_lemma": "зьвернакольк ~ зэрнакольк",
+    "extraction_status": ""
   },
   {
     "phytonym_id": "phy_komi_tsypanov2016_010",
@@ -4221,51 +4230,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_komi_tsypanov2016_012",
-    "language_id": "komi",
-    "dialect_id": null,
-    "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "зэрмач",
-    "names_other_varieties": [],
-    "russian_gloss": "дождевик шиповатый",
-    "english_gloss": "common puffball",
-    "linguistic_comment": "название, мотивированное дождём",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_tsypanov2016_012",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_tsypanov_2016_puffball",
-        "source_pages": "86",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": [],
-        "unresolved_dialect_abbreviations": [
-          "С. Уд."
-        ]
-      }
-    ],
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_komi_tsypanov2016_013",
     "language_id": "komi",
     "dialect_id": null,
@@ -4307,51 +4271,6 @@
         "dialect_abbreviations": [
           "вв."
         ],
-        "unresolved_dialect_abbreviations": [
-          "С."
-        ]
-      }
-    ],
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_komi_tsypanov2016_014",
-    "language_id": "komi",
-    "dialect_id": null,
-    "taxon_id": "tax_lycoperdon_perlatum",
-    "name_native_language": "зэрнакольк",
-    "names_other_varieties": [],
-    "russian_gloss": "дождевик шиповатый",
-    "english_gloss": "common puffball",
-    "linguistic_comment": "название, мотивированное дождём",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_tsypanov2016_014",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_tsypanov_2016_puffball",
-        "source_pages": "86",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": [],
         "unresolved_dialect_abbreviations": [
           "С."
         ]
