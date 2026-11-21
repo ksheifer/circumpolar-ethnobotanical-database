@@ -89,3 +89,9 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .language-varieties ul{margin:0;padding-left:18px;columns:2}
 .language-varieties li{break-inside:avoid;margin:3px 0}
 @media(max-width:600px){.language-varieties ul{columns:1}}
+
+.variety-picker{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:8px 0 12px}
+.variety-picker select{max-width:100%;min-width:240px}
+.variety-link{background:none;border:0;padding:2px 0;text-decoration:underline;text-underline-offset:2px;color:#225a91;cursor:pointer;text-align:left;font:inherit}
+.variety-link:hover,.variety-link:focus-visible{color:#123b65}
+.variety-link.selected{font-weight:700}
