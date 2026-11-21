@@ -141,3 +141,45 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .lexical-correspondences h4{margin:0 0 10px;font-size:1rem}
 .lexical-correspondences ul{margin:0;padding-left:22px;line-height:1.7}
 .lexical-correspondences li{padding:2px 0}
+
+/* Lexical-map labels: each name is a horizontal line, never a column of letters. */
+#profile-map .leaflet-tooltip.phytonym-pin-label {
+  display: block !important;
+  width: max-content !important;
+  min-width: max-content !important;
+  max-width: none !important;
+  white-space: nowrap !important;
+  overflow-wrap: normal !important;
+  word-wrap: normal !important;
+  word-break: keep-all !important;
+  line-height: 1.35 !important;
+  padding: 4px 8px !important;
+  text-align: left !important;
+}
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word-list {
+  display: flex !important;
+  flex-direction: column !important;
+  width: max-content !important;
+  max-width: none !important;
+  max-height: 210px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {
+  display: block !important;
+  width: max-content !important;
+  white-space: nowrap !important;
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+}
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-language {display:none!important}
+#profile-map {height: 345px; min-height: 320px}
+.lexical-correspondences {margin: 12px 0 4px; padding-top: 10px; border-top: 1px solid #dedede}
+.lexical-correspondences h4 {font-size: 15px; margin: 0 0 8px}
+.lexical-correspondences ul {margin:0; padding:0; list-style:none; display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr));column-gap:18px}
+.lexical-correspondences li {padding:6px 0; border-bottom:1px solid #eee; line-height:1.45; overflow-wrap:anywhere}
+.lexical-correspondences button.related-name {font-weight:600; color:#155a9a; text-decoration:underline}
+@media (max-width:600px) {
+  #profile-map {height: 320px;min-height:300px}
+  #profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {white-space:nowrap!important;overflow-wrap:normal!important;word-break:keep-all!important}
+}
