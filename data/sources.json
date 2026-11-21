@@ -754,5 +754,53 @@
     "isbn": "",
     "url": "",
     "notes": ""
+  },
+  {
+    "source_id": "src_adaev_2023_nenets_food",
+    "publication_type": "journal_article",
+    "authors": "Адаев В. Н.",
+    "editors": "",
+    "title": "Пищевое использование растений в практике тундровых ненцев",
+    "subtitle": "",
+    "publisher": "",
+    "publication_place": "",
+    "year": "2023",
+    "total_pages": 19,
+    "journal": "Этнография / Etnografia",
+    "volume": "",
+    "issue": "1(19)",
+    "page_range": "164–182",
+    "doi": "10.31250/2618-8600-2023-1(19)-164-182",
+    "isbn": "",
+    "url": "https://etnografia.kunstkamera.ru/files/etnografia_journal/2023_01/08_adaev.pdf",
+    "notes": "",
+    "language_ids": [
+      "tundra-nenets"
+    ],
+    "citation_key": "Adaev"
+  },
+  {
+    "source_id": "src_laptander_2024_nenets_lichen",
+    "publication_type": "journal_article",
+    "authors": "Laptander, Roza; Stammler, Florian; Forbes, Bruce C.; Stark, Sari",
+    "editors": "",
+    "title": "Ways of identifying lichen and plant species by the Nenets reindeer herders in Yamal",
+    "subtitle": "",
+    "publisher": "",
+    "publication_place": "",
+    "year": "2024",
+    "total_pages": 18,
+    "journal": "Arctic Science",
+    "volume": "10",
+    "issue": "4",
+    "page_range": "713–730",
+    "doi": "10.1139/as-2023-0046",
+    "isbn": "",
+    "url": "https://cdnsciencepub.com/doi/full/10.1139/as-2023-0046",
+    "notes": "",
+    "language_ids": [
+      "tundra-nenets"
+    ],
+    "citation_key": "Laptander et al."
   }
 ]

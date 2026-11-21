@@ -124,5 +124,350 @@
       }
     ],
     "ipa": null
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_001",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_028",
+    "name_native_language": "čomo'l-mo'lje",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре, в том числе по заболоченным участкам",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_001_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "čomo'l-mo'lje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra, including marshy areas"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_002",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_034",
+    "name_native_language": "ke'ile-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_002_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "ke'ile-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_003",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_014",
+    "name_native_language": "parana'-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "шикша",
+    "english_gloss": "crowberry",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_003_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "parana'-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_004",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_033",
+    "name_native_language": "o'dun-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное; буквально «юкагирская ягода»; сопоставимо с одульским «одун лэбэйдии»",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "на моховой тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_004_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "o'dun-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "mossy tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_005",
+    "language_id": "tundra-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "canaga'i-lebe'idi",
+    "names_other_varieties": [],
+    "russian_gloss": "ягоды можжевельника",
+    "english_gloss": "juniper berries",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; ягоды некоторых видов запасали на зиму и ели замороженными, растирая с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_tundra_yukaghir_jochelson1926_005_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "canaga'i-lebe'idi",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    }
   }
 ]

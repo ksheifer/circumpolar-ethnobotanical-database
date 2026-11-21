@@ -117,6 +117,21 @@ for p in tables['phytonyms']:
     for key in ('ecological_data','indigenous_knowledge'):
         if not isinstance(p.get(key),dict):errors.append(f'{label}: expected {key} object')
     if 'traditional_knowledge' in p:errors.append(f'{label}: legacy traditional_knowledge key')
+    for group,fields in p.get('field_sources',{}).items():
+        if group not in ('ecological_data','indigenous_knowledge') or not isinstance(fields,dict):
+            errors.append(f'{label}: invalid evidence group {group}')
+            continue
+        for field,references in fields.items():
+            if not p.get(group,{}).get(field):
+                errors.append(f'{label}: evidence attached to empty {group}.{field}')
+            if not isinstance(references,list) or not references:
+                errors.append(f'{label}: no evidence references for {group}.{field}')
+                continue
+            for ref in references:
+                linked(ref.get('source_id'),ids['sources'],f'{label}.{group}.{field}.source_id')
+                if not ref.get('source_pages'):
+                    errors.append(f'{label}: missing evidence page for {group}.{field}')
+
     if not isinstance(p.get('attestations'),list):errors.append(f'{label}: attestations must be list')
     for a in p.get('attestations',[]):
         for field,table in [('location_id','locations'),('contributor_id','contributors'),('source_id','sources'),('dialect_id','dialects')]:

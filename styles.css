@@ -95,3 +95,5 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .variety-link{background:none;border:0;padding:2px 0;text-decoration:underline;text-underline-offset:2px;color:#225a91;cursor:pointer;text-align:left;font:inherit}
 .variety-link:hover,.variety-link:focus-visible{color:#123b65}
 .variety-link.selected{font-weight:700}
+
+.evidence-citations{display:inline-block;margin-left:0.35rem}.source-evidence{font-size:inherit}

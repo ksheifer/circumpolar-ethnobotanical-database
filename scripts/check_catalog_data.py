@@ -26,7 +26,7 @@ for filename in manifest['phytonym_files']:
 # Regression guards for records established from the Rakin, Kurilova,
 # Prokopeva, and Tsypanov publications. Do not remove these without
 # deliberately reviewing and documenting a source-data revision.
-expected_minimum = {'komi': 110, 'forest-yukaghir': 19, 'tundra-yukaghir': 3}
+expected_minimum = {'komi': 110, 'forest-yukaghir': 19, 'tundra-yukaghir': 3, 'tundra-nenets': 73}
 for language_id, minimum in expected_minimum.items():
     actual = counts[language_id]
     assert actual >= minimum, f'{language_id}: {actual} records; expected at least {minimum}'

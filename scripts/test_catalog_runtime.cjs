@@ -8,7 +8,7 @@ const assert = require('node:assert/strict');
 const root = path.resolve(__dirname, '..');
 const events = {};
 const elements = new Map();
-function el(id) { if(!elements.has(id)) elements.set(id,{id,innerHTML:'',value:'',dataset:{},focus(){},setSelectionRange(){},scrollIntoView(){}}); return elements.get(id); }
+function el(id) { if(!elements.has(id)) elements.set(id,{id,innerHTML:'',value:'',dataset:{},classList:{add(){}},focus(){},setSelectionRange(){},scrollIntoView(){}}); return elements.get(id); }
 const document = {
  documentElement:{lang:'en'},
  getElementById:el,
@@ -29,7 +29,7 @@ const wait = () => new Promise(resolve=>setTimeout(resolve,20));
  assert.match(el('main').innerHTML,/id="globalSearch"/);
  assert.doesNotMatch(el('main').innerHTML,/data-profile=/);
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'catalog'}}:null}}});
- for(const [language,expected] of [['komi',110],['forest-yukaghir',19],['tundra-yukaghir',3]]) {
+ for(const [language,expected] of [['komi',110],['forest-yukaghir',24],['tundra-yukaghir',8],['tundra-nenets',73]]) {
   events.change({target:{id:'languageFilter',value:language}});
   const html=el('main').innerHTML;
   const count=(html.match(/data-profile=/g)||[]).length;
@@ -41,18 +41,27 @@ const wait = () => new Promise(resolve=>setTimeout(resolve,20));
  assert.match(el('main').innerHTML,/id="varietyFilter"/);
  assert.match(el('main').innerHTML,/data-variety=/);
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'statistics'}}:null}}});
- for(const [language,count] of [['Komi',110],['Forest Yukaghir',19],['Tundra Yukaghir',3]]){
+ for(const [language,count] of [['Komi',110],['Forest Yukaghir',24],['Tundra Yukaghir',8],['Tundra Nenets',73]]){
    assert.ok(el('main').innerHTML.includes(language), `missing ${language} in Statistics`);
    assert.match(el('main').innerHTML,new RegExp(`${language}<\\/td><td class="numeric">${count}<\\/td>`));
  }
  // Search across all loaded languages, including both Yukaghir datasets.
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'home'}}:null}}});
- for(const language of ['komi','forest-yukaghir','tundra-yukaghir']) {
+ for(const language of ['komi','forest-yukaghir','tundra-yukaghir','tundra-nenets']) {
    const first=JSON.parse(fs.readFileSync(path.join(root,'data','phytonyms',language+'.json'),'utf8'))[0];
    const query=first.name_native_language;
    events.input({target:{id:'globalSearch',value:query,selectionStart:query.length}});
    assert.match(el('main').innerHTML,/data-profile=/,`${language}: ${query} not searchable`);
    console.log('PASS search',language,query);
  }
+ // New historical Yukaghir use data must render with page-specific links.
+ events.input({target:{id:'globalSearch',value:"tobo'ko-čalje",selectionStart:14}});
+ assert.match(el('main').innerHTML,/data-profile=/,'historical Yukaghir form not searchable');
+ const targetId='phy_forest_yukaghir_jochelson1926_001';
+ events.click({target:{closest(sel){return sel==='[data-profile]'?{dataset:{profile:targetId}}:null}}});
+ assert.match(el('main').innerHTML,/source-evidence/,'source links missing from traditional use fields');
+ assert.match(el('main').innerHTML,/Jochelson 1926/,'Jochelson citation missing from profile');
+ assert.match(el('main').innerHTML,/418/,'Jochelson printed page not shown');
+ console.log('PASS ethnobotanical fields and individual source citations');
  console.log('PASS statistics, citations, Komi varieties');
 })().catch(error=>{console.error(error);process.exitCode=1});

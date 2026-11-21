@@ -66,13 +66,22 @@ function locatableEntries(candidate){
 const relatedGlossMapEntries=profile=>relatedProfilesByGloss(profile).flatMap(locatableEntries);
 function pair(key,value){return filled(value)?`<tr><th scope="row">${esc(tr(key))}</th><td>${esc(Array.isArray(value)?value.join('; '):typeof value==='object'?Object.entries(value).filter(([,v])=>filled(v)).map(([k,v])=>`${k}: ${v}`).join('; '):value)}</td></tr>`:''}
 function section(title,rows){return rows.some(Boolean)?`<section class="profile-section"><h3>${esc(tr(title))}</h3><table class="detail-table"><tbody>${rows.join('')}</tbody></table></section>`:''}
+function sourcedDetailRows(profile,group){
+ const values=profile[group]||{}, translated=profile[group+'_en']||{}, refs=profile.field_sources?.[group]||{};
+ return Object.entries(values).filter(([,v])=>filled(v)).map(([key,value])=>{
+  const shown=(state.lang==='en'&&filled(translated[key]))?translated[key]:value;
+  const cites=(refs[key]||[]).map(a=>`<button type="button" class="plain-link source-evidence" data-source="${esc(a.source_id)}">${esc(citeSource(a.source_id,a.source_pages))}</button>`).join('; ');
+  return `<tr><th scope="row">${esc(tr(key))}</th><td>${esc(shown)}${cites?` <span class="evidence-citations">${cites}</span>`:''}</td></tr>`;
+ });
+}
+
 const alphabeticalPhytonyms=(a,b)=>a.name_native_language.localeCompare(b.name_native_language,'ru',{sensitivity:'base'})||a.phytonym_id.localeCompare(b.phytonym_id);
 const taxonomy=(a,b)=>{const ta=by('taxa',a.taxon_id)||{},tb=by('taxa',b.taxon_id)||{};return [ta.botanical_family||'\uffff',ta.scientific_name||'\uffff',a.name_native_language].join('\0').localeCompare([tb.botanical_family||'\uffff',tb.scientific_name||'\uffff',b.name_native_language].join('\0'),'ru')};
 function profile(p){const tax=by('taxa',p.taxon_id)||{};
  const main=section('linguistics',[pair('name',p.name_native_language),pair('ipa',p.ipa),pair('language',langName(p.language_id)),pair('dialect',dialName(p.dialect_id)),...['names_other_varieties','cognate','russian_gloss','english_gloss','linguistic_comment'].map(k=>pair(k,p[k]))]);
  const bot=section('botanical',[pair('taxon',tax.scientific_name),pair('family',tax.botanical_family),pair('conservation_invasiveness_status',tax.conservation_invasiveness_status)]);
- const eco=section('ecology',Object.entries(p.ecological_data||{}).map(([k,v])=>pair(k,v)));
- const know=section('knowledge',Object.entries(p.indigenous_knowledge||{}).map(([k,v])=>pair(k,v)));
+ const eco=section('ecology',sourcedDetailRows(p,'ecological_data'));
+ const know=section('knowledge',sourcedDetailRows(p,'indigenous_knowledge'));
  const attest=(p.attestations||[]).map(a=>{const c=by('contributors',a.contributor_id)||{};return section('evidence',[pair('locality',locName(a.location_id)),pair('dialect',attDialectFull(a)||dialName(a.dialect_id)),a.source_id?`<tr><th scope="row">${esc(tr('source'))}</th><td><button class="plain-link" data-source="${esc(a.source_id)}">${esc(citeSource(a.source_id,a.source_pages))}</button></td></tr>`:'',pair('last',c.last_name),pair('first',c.first_name),pair('patronymic',c.patronymic_name),pair('clan',c.clan),pair('gender',c.gender),pair('collector',a.collector),pair('year',a.recording_year),pair('recordDate',a.record_date),pair('name_number',a.name_number),pair('source_use_categories',a.source_use_categories),pair('source_one_generation_uses',a.source_one_generation_uses),pair('maritime_frequency_dots',a.maritime_frequency_dots),pair('tundra_frequency_dots',a.tundra_frequency_dots),pair('folklore',a.folklore)])}).join('');
  const related=relatedProfilesByGloss(p);
  const entries=related.flatMap(locatableEntries);
@@ -102,7 +111,7 @@ function searchIndexText(p){
  const dialects=[p.dialect_id,...a.flatMap(item=>[item.dialect_id,...(item.dialect_ids||[])])].filter(Boolean).map(id=>by('dialects',id)).filter(Boolean);
  const locations=a.map(item=>by('locations',item.location_id)).filter(Boolean);
  const sources=a.map(item=>by('sources',item.source_id)).filter(Boolean);
- const searchable=[p.name_native_language,p.names_other_varieties,p.ipa,p.source_lemma,p.russian_gloss,p.english_gloss,p.linguistic_comment,p.cognate,tax.scientific_name,tax.botanical_family,tax.description,language.name_en,language.name_ru,language.language_id,...dialects.flatMap(d=>[d.name_ru,d.name_en,d.source_abbreviation]),...locations.flatMap(l=>[l.name_ru,l.name_en,l.locality]),...sources.flatMap(src=>[src.citation_key,src.title,src.authors,src.year]),...a.map(item=>item.source_pages)];
+ const searchable=[p.name_native_language,p.names_other_varieties,p.ipa,p.source_lemma,p.source_transcription,p.russian_gloss,p.english_gloss,p.linguistic_comment,p.cognate,...Object.values(p.ecological_data||{}),...Object.values(p.indigenous_knowledge||{}),...Object.values(p.ecological_data_en||{}),...Object.values(p.indigenous_knowledge_en||{}),tax.scientific_name,tax.botanical_family,tax.description,language.name_en,language.name_ru,language.language_id,...dialects.flatMap(d=>[d.name_ru,d.name_en,d.source_abbreviation]),...locations.flatMap(l=>[l.name_ru,l.name_en,l.locality]),...sources.flatMap(src=>[src.citation_key,src.title,src.authors,src.year]),...a.map(item=>item.source_pages)];
  return searchNormalize(searchable.flatMap(value=>Array.isArray(value)?value:[value]).filter(value=>typeof value==='string'||typeof value==='number').join(' '));
 }
 function renderHome(){

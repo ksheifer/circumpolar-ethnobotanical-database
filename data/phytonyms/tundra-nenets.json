@@ -1,0 +1,4601 @@
+[
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_001",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_rubus_chamaemorus",
+    "name_native_language": "маранга",
+    "names_other_varieties": [
+      "maraŋga"
+    ],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": "; латинская запись maraŋga приведена по Laptander et al. (2024)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундра",
+      "plant_community": "",
+      "phenology": "в южной тундре созревает в начале июля, севернее ближе к августу",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды ели свежими; позднее начали подслащивать и варить варенье",
+      "animal_consumption": "листья, веточки, корни и ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "167",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_076",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "tundra",
+      "phenology": "ripens in early July in southern tundra and closer to August farther north"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "167"
+          }
+        ],
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "167"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "167"
+          }
+        ],
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries eaten fresh; more recently sweetened or made into jam",
+      "animal_consumption": "leaves, twigs, roots and berries eaten by reindeer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_002",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_uliginosum",
+    "name_native_language": "лынзермя",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "созревает в августе, к сентябрю ягоды начинают опадать",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды едят свежими, смешивают с морошкой, готовят морс и варенье",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "168",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "ripens in August and berries begin to fall by September"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "168"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "168"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries eaten fresh, mixed with cloudberry, used for drinks and jam"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_003",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
+    "name_native_language": "ензьдей",
+    "names_other_varieties": [
+      "yensdej"
+    ],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "; латинская запись yensdej приведена по Laptander et al. (2024)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "созревает в августе; ягоды сохраняются до снега",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "отвар листьев иногда использовали при заболеваниях почек; традиционное сообщение",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употребляют свежими или после хранения; готовят варенье",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "168–169",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_074",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "ripens in August; berries persist until snowfall"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "168–169"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "168–169"
+          }
+        ],
+        "medicinal_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "168–169"
+          }
+        ],
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries eaten fresh or stored, also made into jam",
+      "medicinal_use": "leaf decoction sometimes used for kidney complaints; reported historical practice",
+      "animal_consumption": "berries eaten by reindeer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_004",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_empetrum",
+    "name_native_language": "тосаля",
+    "names_other_varieties": [
+      "tosalja"
+    ],
+    "russian_gloss": "шикша",
+    "english_gloss": "crowberry",
+    "linguistic_comment": "; латинская запись tosalja приведена по Laptander et al. (2024)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "созревает в июле, сохраняется до весны",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды ранее употреблялись в пищу; сегодня иногда едят для утоления жажды",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "169",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_073",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "ripens in July and may remain until spring"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "169"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "169"
+          }
+        ],
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries formerly eaten; now occasionally consumed to quench thirst",
+      "animal_consumption": "berries eaten by reindeer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_005",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_rubus_arcticus",
+    "name_native_language": "лэ”мор’ нгодя",
+    "names_other_varieties": [
+      "le”mor'-ŋodja"
+    ],
+    "russian_gloss": "княженика",
+    "english_gloss": "arctic raspberry",
+    "linguistic_comment": "; латинская запись le”mor'-ŋodja приведена по Laptander et al. (2024)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "возвышенные места рядом с водоёмами",
+      "plant_community": "",
+      "phenology": "созревает на короткое время в августе",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "сладкие ягоды едят прямо с растения",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_075",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "elevated ground near water bodies",
+      "phenology": "ripens for a short period in August"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ],
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ],
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "sweet berries eaten directly from the plant",
+      "animal_consumption": "berries eaten by reindeer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_006",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_arctostaphylos_uva_ursi",
+    "name_native_language": "мало",
+    "names_other_varieties": [],
+    "russian_gloss": "толокнянка",
+    "english_gloss": "bearberry",
+    "linguistic_comment": "атрибуция ненецкого названия в источнике предположительная",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "южная тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "по историческим данным из ягод варили жидкую кашицу",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "southern tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "historical accounts describe boiling berries into a thin gruel"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_007",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_ribes",
+    "name_native_language": "хэбт",
+    "names_other_varieties": [],
+    "russian_gloss": "смородина",
+    "english_gloss": "currant",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лесотундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды известны части тундровых ненцев, остававшихся летом в южных районах",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "forest-tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries known to some tundra Nenets staying in southern areas in summer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_008",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ламдуй",
+    "names_other_varieties": [],
+    "russian_gloss": "черника",
+    "english_gloss": "bilberry",
+    "linguistic_comment": "у Адаева черника; у Laptander et al. lamduj относится к Vaccinium uliginosum, не объединять таксоны без проверки",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лесотундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды известны части тундровых ненцев на юге ареала",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "forest-tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries known to some tundra Nenets in the southern part of their range"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_009",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ибцяда нгодя",
+    "names_other_varieties": [],
+    "russian_gloss": "клюква",
+    "english_gloss": "cranberry",
+    "linguistic_comment": "научное видовое отождествление не указано источником; оставлено на уровне обычного названия",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лесотундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "употребление локально ограничено южными территориями",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "forest-tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "consumption locally limited to southern areas"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_010",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "харё нгодя",
+    "names_other_varieties": [],
+    "russian_gloss": "клюква",
+    "english_gloss": "cranberry",
+    "linguistic_comment": "вариант названия клюквы; вид не указан",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лесотундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "170",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "forest-tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "170"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_011",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "вануй",
+    "names_other_varieties": [],
+    "russian_gloss": "съедобный корень нескольких бобовых",
+    "english_gloss": "edible root of several legumes",
+    "linguistic_comment": "собирательное название минимум для Oxytropis sordida, Hedysarum sibiricum и H. arcticum; не отождествлять с одним видом",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "песчаные возвышенности и склоны оврагов",
+      "plant_community": "",
+      "phenology": "корни собирали преимущественно осенью и весной",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "для выкапывания корней раньше использовали специальные лопаточки из оленьего рога",
+      "spiritual_use": "",
+      "human_consumption": "корни ели сырыми; раньше сушили, растирали в муку и добавляли в мясную похлёбку",
+      "animal_consumption": "корни едят северные олени, медведи и зайцы"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "171–172",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "sandy elevations and ravine slopes",
+      "phenology": "roots chiefly collected in autumn and spring"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171–172"
+          }
+        ],
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171–172"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171–172"
+          }
+        ],
+        "animal_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171–172"
+          }
+        ],
+        "domestic_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171–172"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "roots eaten raw; formerly dried, ground to flour and added to meat soup",
+      "animal_consumption": "roots eaten by reindeer, bears and hares",
+      "domestic_use": "special scoops made of reindeer antler formerly used to dig roots"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_012",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "нарьяна вануй",
+    "names_other_varieties": [],
+    "russian_gloss": "красный вануй",
+    "english_gloss": "red edible root",
+    "linguistic_comment": "обозначает красноцветковые формы Hedysarum; вид зависит от контекста",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "съедобный корень копеечника",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "171",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "edible Hedysarum root"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "171"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_013",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_veratrum_lobelianum",
+    "name_native_language": "латабцо",
+    "names_other_varieties": [],
+    "russian_gloss": "чемерица Лобеля",
+    "english_gloss": "white false hellebore",
+    "linguistic_comment": "историческое описание токсичного применения; не медицинская рекомендация",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": "чрезвычайно ядовитое растение; проглатывание может привести к смерти"
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "в исторических сообщениях отвар корня применяли при расстройствах пищеварения; крайне опасная практика",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "сообщается, что олени иногда поедают небольшое количество ранних побегов"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "172–173",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "toxicity": "highly poisonous plant; ingestion can be fatal"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "toxicity": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "172–173"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "172–173"
+          }
+        ],
+        "medicinal_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "172–173"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer reportedly sometimes eat small amounts of early shoots",
+      "medicinal_use": "historical accounts report root decoction for digestive complaints; extremely dangerous practice"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_014",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_angelica_archangelica",
+    "name_native_language": "хути",
+    "names_other_varieties": [],
+    "russian_gloss": "дягиль",
+    "english_gloss": "angelica",
+    "linguistic_comment": "современное пищевое употребление автору подтвердить не удалось",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "старые стоянки в тундре",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "крупные соцветия использовали как мишени в детских играх с луком",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "173",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "old campsites in tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "173"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "173"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "large flower heads used as targets in children’s bow games"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_015",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "палла",
+    "names_other_varieties": [],
+    "russian_gloss": "сныть или борщевик",
+    "english_gloss": "ground elder or hogweed",
+    "linguistic_comment": "общее историческое название для Aegopodium podagraria и Heracleum sibiricum; использование могло быть заимствовано",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "по историческому сообщению листья и стебли двух растений употребляли в пищу",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "173–174",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "historical account describes eating leaves and stems of two plants"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "173–174"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_016",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_allium_schoenoprasum",
+    "name_native_language": "падъядэй",
+    "names_other_varieties": [],
+    "russian_gloss": "лук скорода",
+    "english_gloss": "chives",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "молодую зелень собирают летом",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "молодые побеги едят с рыбой, реже употребляют луковицы",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_016",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "174",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "phenology": "young greens collected in summer"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "phenology": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "174"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "174"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "young shoots eaten with fish; bulbs less often"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_017",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_rumex",
+    "name_native_language": "вымня",
+    "names_other_varieties": [],
+    "russian_gloss": "щавель",
+    "english_gloss": "sorrel",
+    "linguistic_comment": "название применяется к нескольким видам Rumex, включая R. lapponicus и R. arcticus",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "кислый отвар без сахара использовали для мытья головы",
+      "spiritual_use": "",
+      "human_consumption": "едят молодые побеги; из листьев и черешков варят кислый напиток",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_017",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "174–176",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "young shoots eaten; leaves and petioles boiled for a sour drink",
+      "domestic_use": "unsweetened sour decoction used to wash hair"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "174–176"
+          }
+        ],
+        "domestic_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "174–176"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_018",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_sakha1976_comarum_palustre",
+    "name_native_language": "то вар сяй",
+    "names_other_varieties": [],
+    "russian_gloss": "сабельник болотный",
+    "english_gloss": "marsh cinquefoil",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "влажные берега озёр и заболоченные места",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "из листьев заваривают чай",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_018",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "175–176",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "wet lake shores and marshes"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "175–176"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "175–176"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "leaves brewed as tea"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_019",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_sakha1976_comarum_palustre",
+    "name_native_language": "хоркы нгэ",
+    "names_other_varieties": [],
+    "russian_gloss": "сабельник болотный",
+    "english_gloss": "marsh cinquefoil",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "листья сравнивают с лапкой куропатки",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "листья заваривают как чай",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_019",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "176",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "description": "leaf shape compared with a ptarmigan foot"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "description": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "176"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "176"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "leaves brewed as tea"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_020",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_sakha1976_chamaenerion_angustifolium",
+    "name_native_language": "мара сяй",
+    "names_other_varieties": [],
+    "russian_gloss": "иван-чай",
+    "english_gloss": "fireweed",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "отваром цветков мыли волосы",
+      "spiritual_use": "",
+      "human_consumption": "из растения готовили травяной напиток",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_020",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "176",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "plant brewed as a herbal drink",
+      "domestic_use": "flower decoction used to wash hair"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "176"
+          }
+        ],
+        "domestic_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "176"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_adaev2023_021",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_inonotus_obliquus",
+    "name_native_language": "тюнаць’",
+    "names_other_varieties": [],
+    "russian_gloss": "чага",
+    "english_gloss": "chaga",
+    "linguistic_comment": "гриб, не сосудистое растение; сохранён как этномикологическая запись",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "не растёт в тундре; поступает из лесотундры и тайги через обмен",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "по этнографическим сообщениям настой пили при боли в животе и применяли для промывания раздражённых глаз",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "настой гриба употребляют как тонизирующий напиток",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_adaev2023_021",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_adaev_2023_nenets_food",
+        "source_pages": "177",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "does not grow in tundra; obtained from forest-tundra and taiga through exchange"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "177"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "177"
+          }
+        ],
+        "medicinal_use": [
+          {
+            "source_id": "src_adaev_2023_nenets_food",
+            "source_pages": "177"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "fungal infusion consumed as a stimulating drink",
+      "medicinal_use": "ethnographic reports describe infusion for stomach aches and eye washing"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_023",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_rangiferina",
+    "name_native_language": "ty njada",
+    "names_other_varieties": [],
+    "russian_gloss": "олений ягель",
+    "english_gloss": "reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "ценный зимний корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_023",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 10",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ty njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "valuable winter reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_024",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "moŋga-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "болотный лишайник",
+    "english_gloss": "marsh lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундровые низины у рек",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_024",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "moŋga-njada",
+    "ecological_data_en": {
+      "habitat": "river-side tundra lowlands"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_025",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_dactylina_arctica",
+    "name_native_language": "njaŋgdakhana-wadjodana-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник среди мхов",
+    "english_gloss": "lichen growing among mosses",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "моховой покров",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_025",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njaŋgdakhana-wadjodana-njada",
+    "ecological_data_en": {
+      "habitat": "moss cover"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_026",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_nephroma_arcticum",
+    "name_native_language": "njero-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник у ивы",
+    "english_gloss": "lichen near willow roots",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "кустарниковая тундра с ивой",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_026",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njero-njada",
+    "ecological_data_en": {
+      "habitat": "willow shrub tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_027",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "njero’-paŋgkhana-ŋeda-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник возле корней ивы",
+    "english_gloss": "lichen by willow roots",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "около корней ивы",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_027",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njero’-paŋgkhana-ŋeda-njada",
+    "ecological_data_en": {
+      "habitat": "near willow roots"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_028",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "sada-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник в лужах",
+    "english_gloss": "lichen growing in puddles",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "сырые места, лужи",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_028",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "sada-njada",
+    "ecological_data_en": {
+      "habitat": "wet places and puddles"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_029",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "yumburad’-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник на кочках",
+    "english_gloss": "lichen on hummocks",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "кочковатая тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_029",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "yumburad’-njada",
+    "ecological_data_en": {
+      "habitat": "hummocky tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_030",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_evernia_mesomorpha",
+    "name_native_language": "pja-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "древесный лишайник",
+    "english_gloss": "tree lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "стволы и ветви деревьев",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_030",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "pja-njada",
+    "ecological_data_en": {
+      "habitat": "tree trunks and branches"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_031",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "yarej-ya’-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник на песчаных холмах",
+    "english_gloss": "lichen on sandy hills",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "песчаные холмы",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_031",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "yarej-ya’-njada",
+    "ecological_data_en": {
+      "habitat": "sandy hills"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_032",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "khasuj-yara-ninja-wadjurta-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник на сухой песчаной почве",
+    "english_gloss": "lichen on dry sandy ground",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "сухие песчаные места",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_032",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 11",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "khasuj-yara-ninja-wadjurta-njada",
+    "ecological_data_en": {
+      "habitat": "dry sandy ground"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 11"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_033",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_sphaerophorus_globosus",
+    "name_native_language": "labas-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "шаровидный лишайник",
+    "english_gloss": "ball-shaped lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_033",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "labas-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_034",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_merochlorophaea",
+    "name_native_language": "ŋewakata-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник с небольшими головками",
+    "english_gloss": "little-headed lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_034",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ŋewakata-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_035",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_stellaris",
+    "name_native_language": "khalbuj-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "продолговатый лишайник",
+    "english_gloss": "oblong reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_035",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "khalbuj-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_036",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_thamnolia_vermicularis",
+    "name_native_language": "tjulisej-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "трубчатый белый лишайник",
+    "english_gloss": "white tube-shaped lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_036",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "tjulisej-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_037",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_sakha1976_peltigera_aphthosa",
+    "name_native_language": "labtsoj-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "плоский лишайник",
+    "english_gloss": "flat lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_037",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "labtsoj-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_038",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_mitis",
+    "name_native_language": "ljartsajada-njadakotsja",
+    "names_other_varieties": [],
+    "russian_gloss": "тонковетвистый лишайник",
+    "english_gloss": "thin-branched lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_038",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ljartsajada-njadakotsja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_039",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_subulata",
+    "name_native_language": "tyja-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "узковетвистый лишайник",
+    "english_gloss": "narrow-branched lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_039",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "tyja-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_040",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_flavocetraria_cucullata",
+    "name_native_language": "mjujda-siljaŋg-parjalakha-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "тонкотрубчатый лишайник",
+    "english_gloss": "fine tube-shaped lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_040",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "mjujda-siljaŋg-parjalakha-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_041",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_rangiferina",
+    "name_native_language": "nito-ninja-ŋoneda-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "слоисто растущий лишайник",
+    "english_gloss": "layered-growing lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_041",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 13",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "nito-ninja-ŋoneda-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_042",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_rangiferina",
+    "name_native_language": "ser”-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "белый ягель",
+    "english_gloss": "white reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_042",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ser”-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_043",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_portentosa",
+    "name_native_language": "ser”-syrej-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "белый зимний ягель",
+    "english_gloss": "white winter lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_043",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ser”-syrej-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_044",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_stellaris",
+    "name_native_language": "wul’tse-ser”-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "очень белый ягель",
+    "english_gloss": "extremely white reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_044",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "wul’tse-ser”-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_045",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_flavocetraria_nivalis",
+    "name_native_language": "yaberenja-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "блестящий белый ягель",
+    "english_gloss": "shining white lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_045",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "yaberenja-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_046",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cetraria_islandica",
+    "name_native_language": "ser”-torik-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "низкорослый белый лишайник",
+    "english_gloss": "low white lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_046",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ser”-torik-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_047",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_bryocaulon_divergens",
+    "name_native_language": "paridenja-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "чёрный ягель",
+    "english_gloss": "black reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_047",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "paridenja-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_048",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cetraria_islandica",
+    "name_native_language": "padjararka-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "зеленоватый ягель",
+    "english_gloss": "greenish lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_048",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "padjararka-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_049",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_floerkeana",
+    "name_native_language": "njarm-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "красный ягель",
+    "english_gloss": "red reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_049",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njarm-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_050",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_gracilis",
+    "name_native_language": "parakhej-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "серый лишайник",
+    "english_gloss": "grey lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_050",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 14",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "parakhej-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_051",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "pur”-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "ржавчатый ягель",
+    "english_gloss": "rust-like lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_051",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "pur”-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_052",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_stygia",
+    "name_native_language": "parjalakha-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник, похожий на кладовую",
+    "english_gloss": "lichen resembling a food store",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_052",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "parjalakha-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_053",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "ilebtsja-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лишайник дикого оленя",
+    "english_gloss": "wild-reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_053",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ilebtsja-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_054",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_amaurocraea",
+    "name_native_language": "somboj-warawrakha-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "волокнистый лишайник",
+    "english_gloss": "fibrous lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_054",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "somboj-warawrakha-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_055",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_stellaris",
+    "name_native_language": "pedarakorakha-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "лесоподобный ягель",
+    "english_gloss": "forest-like lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_055",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "pedarakorakha-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_056",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_arbuscula",
+    "name_native_language": "ty’-lambejrakha-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "ягель, похожий на оленьи рога",
+    "english_gloss": "antler-like lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_056",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ty’-lambejrakha-njada",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_057",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_cladonia_arbuscula",
+    "name_native_language": "syrej-njada",
+    "names_other_varieties": [],
+    "russian_gloss": "зимний ягель",
+    "english_gloss": "winter reindeer lichen",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "лесотундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм северного оленя"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_057",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 15",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "syrej-njada",
+    "ecological_data_en": {
+      "habitat": "forest-tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 15"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_058",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_festuca_ovina",
+    "name_native_language": "ŋuwetsja",
+    "names_other_varieties": [],
+    "russian_gloss": "низкая злаковая трава",
+    "english_gloss": "low grasses",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_058",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 17",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ŋuwetsja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 17"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_059",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "njanzjako-ŋuwetsja",
+    "names_other_varieties": [],
+    "russian_gloss": "мягкая трава",
+    "english_gloss": "soft grasses",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_059",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 17",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njanzjako-ŋuwetsja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 17"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_060",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_carex_aquatilis",
+    "name_native_language": "sada-ŋamded”",
+    "names_other_varieties": [],
+    "russian_gloss": "водная осока",
+    "english_gloss": "water sedge",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "болотистые места",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_060",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "sada-ŋamded”",
+    "ecological_data_en": {
+      "habitat": "wetlands"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_061",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_equisetum",
+    "name_native_language": "kharwkhako",
+    "names_other_varieties": [],
+    "russian_gloss": "хвощ",
+    "english_gloss": "horsetail",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_061",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "kharwkhako",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_062",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_tussilago_farfara",
+    "name_native_language": "kharkhako",
+    "names_other_varieties": [],
+    "russian_gloss": "мать-и-мачеха",
+    "english_gloss": "coltsfoot",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_062",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "kharkhako",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_063",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_eriophorum_vaginatum",
+    "name_native_language": "tarenzja",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица",
+    "english_gloss": "cottongrass",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей с весны до осени, включая корневища зимой"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_063",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "tarenzja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage from spring to autumn, including rhizomes in winter"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_064",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_sakha1976_menyanthes_trifoliata",
+    "name_native_language": "nărtso",
+    "names_other_varieties": [],
+    "russian_gloss": "вахта трёхлистная",
+    "english_gloss": "bogbean",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "влажные места",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "предпочитаемый корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_064",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "nărtso",
+    "ecological_data_en": {
+      "habitat": "wet places"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "highly preferred reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_065",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_rumex_arcticus",
+    "name_native_language": "ty-wemnja",
+    "names_other_varieties": [],
+    "russian_gloss": "олений щавель",
+    "english_gloss": "reindeer sorrel",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "любимый корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_065",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 18",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "ty-wemnja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "favoured reindeer forage"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 18"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_066",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_salix_glauca",
+    "name_native_language": "njero",
+    "names_other_varieties": [],
+    "russian_gloss": "ива сизая",
+    "english_gloss": "grey willow",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "важный летний корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_066",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 20",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njero",
+    "ecological_data_en": {
+      "habitat": "tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "important summer reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_067",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_salix_lanata",
+    "name_native_language": "narjana-njero",
+    "names_other_varieties": [],
+    "russian_gloss": "ива шерстистая",
+    "english_gloss": "woolly willow",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_067",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 20",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "narjana-njero",
+    "ecological_data_en": {
+      "habitat": "tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_068",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_salix_arctica",
+    "name_native_language": "njerka",
+    "names_other_varieties": [],
+    "russian_gloss": "ива арктическая",
+    "english_gloss": "arctic willow",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "берега рек",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_068",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 20",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njerka",
+    "ecological_data_en": {
+      "habitat": "river banks"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_069",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_betula_nana",
+    "name_native_language": "pjuŋg",
+    "names_other_varieties": [],
+    "russian_gloss": "карликовая берёза",
+    "english_gloss": "dwarf birch",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "корм оленей в начале лета"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_069",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 20",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "pjuŋg",
+    "ecological_data_en": {
+      "habitat": "tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 20"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "early-summer reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_070",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_boletus",
+    "name_native_language": "tudako",
+    "names_other_varieties": [],
+    "russian_gloss": "болетовые грибы",
+    "english_gloss": "bolete mushrooms",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "тундра",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "осенний корм оленей"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_070",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 21",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "tudako",
+    "ecological_data_en": {
+      "habitat": "tundra"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 21"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 21"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "autumn reindeer forage"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_071",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_carex_aquatilis",
+    "name_native_language": "soir”",
+    "names_other_varieties": [],
+    "russian_gloss": "осока водная",
+    "english_gloss": "water sedge",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "влажные места",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "водные осоки поедаются оленями"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_071",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 22",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "soir”",
+    "ecological_data_en": {
+      "habitat": "wet places"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 22"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 22"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "animal_consumption": "aquatic sedges eaten by reindeer"
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_072",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_uliginosum",
+    "name_native_language": "lamduj",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_072",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "lamduj",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "berries eaten by reindeer"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_077",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
+    "name_native_language": "njarjana-ngodja",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_077",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "njarjana-ngodja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "berries eaten by reindeer"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_tundra_nenets_laptander2024_078",
+    "language_id": "tundra-nenets",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
+    "name_native_language": "khorki-ngodja",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": "ягоды поедают олени"
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_tundra_nenets_laptander2024_078",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_laptander_2024_nenets_lichen",
+        "source_pages": "MS 19",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_lemma": "khorki-ngodja",
+    "indigenous_knowledge_en": {
+      "animal_consumption": "berries eaten by reindeer"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "animal_consumption": [
+          {
+            "source_id": "src_laptander_2024_nenets_lichen",
+            "source_pages": "MS 19"
+          }
+        ]
+      }
+    }
+  }
+]

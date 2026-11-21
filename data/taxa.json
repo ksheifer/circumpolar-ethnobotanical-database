@@ -1030,5 +1030,349 @@
     "taxon_rank": "species",
     "conservation_invasiveness_status": "",
     "notes": "The source prints the genus as Lykoperdon; standardized spelling Lycoperdon."
+  },
+  {
+    "taxon_id": "tax_nenets_rubus_chamaemorus",
+    "scientific_name": "Rubus chamaemorus",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_vaccinium_uliginosum",
+    "scientific_name": "Vaccinium uliginosum",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
+    "scientific_name": "Vaccinium vitis-idaea",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_empetrum",
+    "scientific_name": "Empetrum",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_rubus_arcticus",
+    "scientific_name": "Rubus arcticus",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_arctostaphylos_uva_ursi",
+    "scientific_name": "Arctostaphylos uva-ursi",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_ribes",
+    "scientific_name": "Ribes",
+    "botanical_family": "Grossulariaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_veratrum_lobelianum",
+    "scientific_name": "Veratrum lobelianum",
+    "botanical_family": "Melanthiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_angelica_archangelica",
+    "scientific_name": "Angelica archangelica",
+    "botanical_family": "Apiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_allium_schoenoprasum",
+    "scientific_name": "Allium schoenoprasum",
+    "botanical_family": "Amaryllidaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_rumex",
+    "scientific_name": "Rumex",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_inonotus_obliquus",
+    "scientific_name": "Inonotus obliquus",
+    "botanical_family": "Hymenochaetaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_rangiferina",
+    "scientific_name": "Cladonia rangiferina",
+    "botanical_family": "Cladoniaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_dactylina_arctica",
+    "scientific_name": "Dactylina arctica",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_nephroma_arcticum",
+    "scientific_name": "Nephroma arcticum",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_evernia_mesomorpha",
+    "scientific_name": "Evernia mesomorpha",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_sphaerophorus_globosus",
+    "scientific_name": "Sphaerophorus globosus",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_merochlorophaea",
+    "scientific_name": "Cladonia merochlorophaea",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_stellaris",
+    "scientific_name": "Cladonia stellaris",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_thamnolia_vermicularis",
+    "scientific_name": "Thamnolia vermicularis",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_mitis",
+    "scientific_name": "Cladonia mitis",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_subulata",
+    "scientific_name": "Cladonia subulata",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_flavocetraria_cucullata",
+    "scientific_name": "Flavocetraria cucullata",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_portentosa",
+    "scientific_name": "Cladonia portentosa",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_flavocetraria_nivalis",
+    "scientific_name": "Flavocetraria nivalis",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cetraria_islandica",
+    "scientific_name": "Cetraria islandica",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_bryocaulon_divergens",
+    "scientific_name": "Bryocaulon divergens",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_floerkeana",
+    "scientific_name": "Cladonia floerkeana",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_gracilis",
+    "scientific_name": "Cladonia gracilis",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_stygia",
+    "scientific_name": "Cladonia stygia",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_amaurocraea",
+    "scientific_name": "Cladonia amaurocraea",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_cladonia_arbuscula",
+    "scientific_name": "Cladonia arbuscula",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_festuca_ovina",
+    "scientific_name": "Festuca ovina",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_carex_aquatilis",
+    "scientific_name": "Carex aquatilis",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_equisetum",
+    "scientific_name": "Equisetum",
+    "botanical_family": "",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_tussilago_farfara",
+    "scientific_name": "Tussilago farfara",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_eriophorum_vaginatum",
+    "scientific_name": "Eriophorum vaginatum",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_rumex_arcticus",
+    "scientific_name": "Rumex arcticus",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_salix_glauca",
+    "scientific_name": "Salix glauca",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_salix_lanata",
+    "scientific_name": "Salix lanata",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_salix_arctica",
+    "scientific_name": "Salix arctica",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_betula_nana",
+    "scientific_name": "Betula nana",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_nenets_boletus",
+    "scientific_name": "Boletus",
+    "botanical_family": "",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Identification reported by source; may cover broader folk categories."
   }
 ]

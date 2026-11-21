@@ -11,17 +11,17 @@
     "linguistic_comment": "исторически также название лиственницы; современное основное значение «дерево»",
     "cognate": "",
     "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
+      "habitat": "лиственничные леса северо-восточной Сибири, в том числе речные долины",
+      "plant_community": "преобладающая древесная порода внутренних лесных районов",
       "phenology": "",
       "description": "",
       "toxicity": ""
     },
     "indigenous_knowledge": {
       "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
+      "domestic_use": "брёвна применяли для строительства домов; корни старой лиственницы отваривали для получения красной краски при окрашивании кожи",
+      "spiritual_use": "лиственничные брёвна использовали для подвесных погребальных сооружений; стоящие лиственницы служили опорами погребальных платформ",
+      "human_consumption": "внутренний слой коры использовали в пищу",
       "animal_consumption": ""
     },
     "attestations": [
@@ -39,7 +39,60 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "ecological_data_en": {
+      "habitat": "larch forests of northeastern Siberia, including river valleys",
+      "plant_community": "dominant tree of interior forest areas"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ],
+        "plant_community": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "343"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "400"
+          }
+        ],
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ],
+        "spiritual_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1924_part_ii",
+            "source_pages": "223"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "domestic_use": "logs used for houses; roots of old larch boiled for a red dye used to colour skins",
+      "human_consumption": "inner bark was eaten",
+      "spiritual_use": "larch beams used for elevated coffins; standing larches served as supports for funerary platforms"
+    }
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
@@ -635,7 +688,9 @@
     "dialect_id": null,
     "taxon_id": null,
     "name_native_language": "одун лэбэйдии",
-    "names_other_varieties": [],
+    "names_other_varieties": [
+      "o'dun-lebe'idi (Jochelson 1926)"
+    ],
     "russian_gloss": "голубика",
     "english_gloss": "bog blueberry",
     "linguistic_comment": "Буквально «юкагирская ягода»; приводится в статье на основании Иохельсона.",
@@ -651,7 +706,7 @@
       "medicinal_use": "",
       "domestic_use": "",
       "spiritual_use": "",
-      "human_consumption": "",
+      "human_consumption": "голубика названа любимой ягодой юкагиров; ягоды ели и запасали на зиму",
       "animal_consumption": ""
     },
     "attestations": [
@@ -669,7 +724,20 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "human_consumption": "bog blueberry described as a favourite berry; berries eaten and stored for winter"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
@@ -691,7 +759,7 @@
     },
     "indigenous_knowledge": {
       "medicinal_use": "",
-      "domestic_use": "",
+      "domestic_use": "берёзовую древесину использовали для изготовления нарт; из бересты делали сосуды",
       "spiritual_use": "",
       "human_consumption": "",
       "animal_consumption": ""
@@ -711,7 +779,24 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "birch wood used for sledges; birch bark for containers"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "413"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
@@ -733,7 +818,7 @@
     },
     "indigenous_knowledge": {
       "medicinal_use": "",
-      "domestic_use": "",
+      "domestic_use": "стволы тополя использовали для долблёных лодок",
       "spiritual_use": "",
       "human_consumption": "",
       "animal_consumption": ""
@@ -753,7 +838,20 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "poplar trunks used for dugout canoes"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          }
+        ]
+      }
+    }
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
@@ -775,9 +873,9 @@
     },
     "indigenous_knowledge": {
       "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
+      "domestic_use": "из ивовых прутьев делали рыболовные ловушки, плели верёвки и сооружали заграждения",
+      "spiritual_use": "ивовыми обручами скрепляли части погребального гроба",
+      "human_consumption": "внутреннюю кору ивы отваривали и ели при недостатке другой пищи; весной пили ивовый сок",
       "animal_consumption": ""
     },
     "attestations": [
@@ -795,6 +893,366 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "indigenous_knowledge_en": {
+      "domestic_use": "willow twigs used for fish traps, twisted ropes, and fish weirs",
+      "human_consumption": "inner willow bark boiled as famine food; willow sap drunk in spring",
+      "spiritual_use": "willow hoops used to secure parts of elevated burial coffins"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "domestic_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "373–374"
+          }
+        ],
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "419"
+          }
+        ],
+        "spiritual_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1924_part_ii",
+            "source_pages": "223"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_001",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "tobo'ko-čalje",
+    "names_other_varieties": [],
+    "russian_gloss": "малина",
+    "english_gloss": "raspberry",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "южные части территории, преимущественно лесная зона и речные долины",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "листья малины применяли при золотухе и опухании шейных желез",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; их замораживали на зиму и растирали с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_001_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "tobo'ko-čalje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "southern forest-region territory, including river valleys"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ],
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish",
+      "medicinal_use": "raspberry leaves were used for scrofula and swelling of neck glands"
+    }
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_002",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "yuku-ma'lje",
+    "names_other_varieties": [],
+    "russian_gloss": "княженика",
+    "english_gloss": "arctic bramble",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "южные части территории, преимущественно лесная зона и речные долины",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "ягоды употреблялись в пищу; их замораживали на зиму и растирали с жиром и рыбой",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_002_418",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "418",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "yuku-ma'lje",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "ecological_data_en": {
+      "habitat": "southern forest-region territory, including river valleys"
+    },
+    "field_sources": {
+      "ecological_data": {
+        "habitat": [
+          {
+            "source_id": "src_jochelson_yukaghir_1910_part_i",
+            "source_pages": "12"
+          },
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      },
+      "indigenous_knowledge": {
+        "human_consumption": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "418"
+          }
+        ]
+      }
+    },
+    "indigenous_knowledge_en": {
+      "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish"
+    }
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_003",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "xoid-ule'ge",
+    "names_other_varieties": [],
+    "russian_gloss": "чабрец",
+    "english_gloss": "wild thyme",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "листья курили с табаком против кашля или вдыхали дым от тлеющих листьев; при головной боли прикладывали ко лбу",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_003_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "xoid-ule'ge",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "leaves were smoked with tobacco against cough or their smoke inhaled; applied to the forehead for headache"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_004",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "n-u'tneye-la'rxul",
+    "names_other_varieties": [],
+    "russian_gloss": "растение, именуемое «пупочным корнем»",
+    "english_gloss": "navelwort",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное; ботаническая идентификация Cotyledon umbilicus дана по историческому источнику и не нормализована",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "корень отваривали и пили от боли в животе, которую связывали со смещением «корня пупка»",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_004_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "n-u'tneye-la'rxul",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "root boiled in water and drunk for stomach ache, traditionally understood as displacement of the navel root"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "phytonym_id": "phy_forest_yukaghir_jochelson1926_005",
+    "language_id": "forest-yukaghir",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "kere'ked-ule'ge",
+    "names_other_varieties": [],
+    "russian_gloss": "неопознанная горная трава с красными листьями",
+    "english_gloss": "unidentified red-leaved mountain herb",
+    "linguistic_comment": "историческая запись Иохельсона; источник не различает современные вадульский и одульский языки; отнесение к языковой группе предварительное",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "горная трава с красными листьями (ботанический вид не определён)",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "траву сжигали на углях и вдыхали дым для лечения инфекций",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_forest_yukaghir_jochelson1926_005_422",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_jochelson_yukaghir_1926_part_iii",
+        "source_pages": "422",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null,
+    "source_transcription": "kere'ked-ule'ge",
+    "historical_language_attribution": "provisional: Jochelson (1926) uses general Yukaghir; modern classification not explicitly supplied",
+    "indigenous_knowledge_en": {
+      "medicinal_use": "herb burned on charcoal and smoke inhaled to treat infections"
+    },
+    "field_sources": {
+      "indigenous_knowledge": {
+        "medicinal_use": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      },
+      "ecological_data": {
+        "description": [
+          {
+            "source_id": "src_jochelson_yukaghir_1926_part_iii",
+            "source_pages": "422"
+          }
+        ]
+      }
+    },
+    "ecological_data_en": {
+      "description": "mountain herb with red leaves (botanical species unidentified)"
+    }
   }
 ]
