@@ -7,7 +7,7 @@ button {cursor:pointer;background:#fff;border:1px solid #aaa;padding:5px 10px;bo
 button:hover {background:#f3f3f3}
 button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible {outline:2px solid #195c97;outline-offset:2px}
 .site-header {display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ccc;padding:16px 24px;gap:16px}
-.brand {font-size:26px;font-weight:700;line-height:1.18;letter-spacing:-.025em}
+.site-header .brand {font-size:36px;font-weight:700;line-height:1.15;letter-spacing:-.025em}
 .lang-switch {display:flex;gap:5px;flex-shrink:0}
 .lang-switch button[aria-pressed="true"] {background:#eaeaea}
 #navigation {display:flex;align-items:center;gap:0;width:100%;padding:0 24px;border-bottom:1px solid #ddd;overflow-x:auto}
@@ -67,7 +67,7 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 #profile-map .leaflet-popup-content {max-height:290px;overflow-y:auto}
 @media(max-width:720px) {
  .site-header {padding:12px;align-items:flex-start}
- .brand {font-size:22px}
+ .site-header .brand {font-size:28px}
  #navigation {padding:0 10px}
  #navigation button {padding:10px 12px}
  main {padding:20px 14px}
@@ -76,3 +76,7 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
  .search-toolbar input {flex-basis:100%}
  .map {height:400px}
 }
+
+.statistics-table{max-width:650px}
+.statistics-table .numeric{text-align:right;font-variant-numeric:tabular-nums}
+.statistics-table tfoot th,.statistics-table tfoot td{font-weight:700;border-top:2px solid #aaa}

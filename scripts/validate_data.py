@@ -106,7 +106,7 @@ for p in tables['phytonyms']:
         errors.append(f'{label}: Russian and English glosses must be strings, English gloss must be present')
     if 'common_name_state_language' in p or 'common_names_by_language' in p:
         errors.append(f'{label}: obsolete common-name fields')
-    if p.get('language_id')=='chukchi' and p.get('ipa') != p.get('original_transcription'):
+    if p.get('language_id')=='chukchi' and p.get('ipa') != p.get('source_lemma'):
         errors.append(f'{label}: Chukchi IPA must preserve source transcription')
     linked(p.get('language_id'),ids['languages'],label)
     linked(p.get('dialect_id'),ids['dialects'],label)
@@ -146,8 +146,8 @@ for p in tables['phytonyms']:
         native = p.get('name_native_language', '')
         if any('a' <= c.lower() <= 'z' for c in native) or 'ɬ' in native or 'ŋ' in native or 'ә' in native or 'q' in native:
             errors.append(f"{p.get('phytonym_id')}: non-Cyrillic Chukchi name")
-        if not p.get('original_transcription') or p.get('original_transcription') != p.get('source_lemma'):
-            errors.append(f"{p.get('phytonym_id')}: missing or inconsistent source transcription")
+        if not p.get('ipa') or p.get('ipa') != p.get('source_lemma'):
+            errors.append(f"{p.get('phytonym_id')}: missing or inconsistent IPA source spelling")
 if errors:
     for e in errors: print('ERROR:',e)
     sys.exit(1)
