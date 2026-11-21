@@ -1,0 +1,1058 @@
+[
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0001",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "алтаргана",
+    "names_other_varieties": [],
+    "russian_gloss": "золотарник",
+    "english_gloss": "goldenrod",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "алтаргана",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0002",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "аһылык",
+    "names_other_varieties": [],
+    "russian_gloss": "ягель",
+    "english_gloss": "reindeer lichen",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "аһылык",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0003",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "дөлүкүнэ",
+    "names_other_varieties": [],
+    "russian_gloss": "шиповник",
+    "english_gloss": "rosehip",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "дөлүкүнэ",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0004",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "каптагас",
+    "names_other_varieties": [],
+    "russian_gloss": "красная смородина",
+    "english_gloss": "red currant",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "каптагас",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0005",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "карыйа",
+    "names_other_varieties": [],
+    "russian_gloss": "ель; сосна",
+    "english_gloss": "spruce; pine",
+    "linguistic_comment": "В источнике одной лексеме соответствуют ель и сосна; вид не установлен.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "карыйа",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0006",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "катың",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "катың",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0007",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "киис аһыылыга",
+    "names_other_varieties": [],
+    "russian_gloss": "шикша сибирская, водяника",
+    "english_gloss": "crowberry",
+    "linguistic_comment": "Совместно с «чыычаак һугуна» приведено в одной словарной статье как название шикши.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "киис аһыылыга",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0008",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "чыычаак һугуна",
+    "names_other_varieties": [],
+    "russian_gloss": "шикша сибирская, водяника",
+    "english_gloss": "crowberry",
+    "linguistic_comment": "Совместно с «киис аһыылыга» приведено в одной словарной статье как название шикши.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "чыычаак һугуна",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0009",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "күөк һугун",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog blueberry",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "күөк һугун",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0010",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "кыа",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица",
+    "english_gloss": "cottongrass",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "кыа",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0011",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "лабыкта",
+    "names_other_varieties": [],
+    "russian_gloss": "ягель",
+    "english_gloss": "reindeer lichen",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "лабыкта",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0012",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_028",
+    "name_native_language": "морооско",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": "Источник отмечает заимствование из русского языка.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0012",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "морооско",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0013",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_032",
+    "name_native_language": "ньомулда",
+    "names_other_varieties": [],
+    "russian_gloss": "мох-сфагнум",
+    "english_gloss": "peat moss",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0013",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "ньомулда",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0014",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_034",
+    "name_native_language": "отон",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0014",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "отон",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0015",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "һаамай кыата",
+    "names_other_varieties": [],
+    "russian_gloss": "пушица",
+    "english_gloss": "cottongrass",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0015",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һаамай кыата",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0016",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "name_native_language": "һиикэй талак",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0016",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һиикэй талак",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0017",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_003",
+    "name_native_language": "һиһик",
+    "names_other_varieties": [],
+    "russian_gloss": "ольха",
+    "english_gloss": "alder",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0017",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һиһик",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0018",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "һуор аһыылыга",
+    "names_other_varieties": [],
+    "russian_gloss": "воронья ягода",
+    "english_gloss": "crowberry",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0018",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һуор аһыылыга",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0019",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "һэктэ",
+    "names_other_varieties": [],
+    "russian_gloss": "молодая лиственница",
+    "english_gloss": "young larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0019",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һэктэ",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0020",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "һэңкирэ",
+    "names_other_varieties": [],
+    "russian_gloss": "багульник",
+    "english_gloss": "Labrador tea",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0020",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "һэңкирэ",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0021",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "name_native_language": "талак",
+    "names_other_varieties": [],
+    "russian_gloss": "ива, тальник",
+    "english_gloss": "willow",
+    "linguistic_comment": "Полисемичная статья: 1) ветка; 2) ива, тальник; 3) куст; 4) кустарник. В качестве фитонима учтено значение 2.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0021",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "талак",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0022",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "тиитэ",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0022",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "тиитэ",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0023",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": null,
+    "name_native_language": "уоктала",
+    "names_other_varieties": [],
+    "russian_gloss": "карликовая берёза",
+    "english_gloss": "dwarf birch",
+    "linguistic_comment": "",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0023",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "уоктала",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_dolgan_aksyonova_2019_0024",
+    "language_id": "dolgan",
+    "dialect_id": null,
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "name_native_language": "үөт",
+    "names_other_varieties": [],
+    "russian_gloss": "ива, тальник",
+    "english_gloss": "willow",
+    "linguistic_comment": "Полисемичная статья: ива, тальник; сушняк. Фитонимное значение отделено от других значений.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_dolgan_aksyonova_2019_0024",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+        "source_pages": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "source_lemma": "үөт",
+    "extraction_status": "manually_checked_against_uploaded_draft_pdf",
+    "ipa": null
+  }
+]

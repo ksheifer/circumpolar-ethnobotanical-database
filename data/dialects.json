@@ -198,9 +198,14 @@
     "name_en": "Ayan dialect",
     "alternative_names": [],
     "source_abbreviation": "А",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_01"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Ayan settlement",
+    "geographic_reference_source": "https://awdb.ru/rasstoyanie/habarovskiy-kr/n/ayano-mayskiy/ayan/"
   },
   {
     "dialect_id": "dia_evenki_myreeva_02",
@@ -209,9 +214,11 @@
     "name_en": "Upper Aldan–Zeya dialect",
     "alternative_names": [],
     "source_abbreviation": "Алд",
-    "location_ids": [],
+    "location_ids": [
+      "loc_04380435043d043304400430"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены. Географический ориентир верхнеалданской части диалекта; Иенгра известна как центр верхнеалданских эвенков. https://atlaskmns.ru/page/ru/lang_evenki_all.html"
   },
   {
     "dialect_id": "dia_evenki_myreeva_03",
@@ -220,9 +227,14 @@
     "name_en": "Baunt variety of the Vitim–Nerchinsk dialect",
     "alternative_names": [],
     "source_abbreviation": "Бнт",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_03"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Bauntovsky Evenki District",
+    "geographic_reference_source": "https://www.komandirovka.ru/cities/bagdarin/"
   },
   {
     "dialect_id": "dia_evenki_myreeva_04",
@@ -231,9 +243,14 @@
     "name_en": "Barguzin dialect",
     "alternative_names": [],
     "source_abbreviation": "Брг",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_04"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Barguzin settlement",
+    "geographic_reference_source": "https://ru.wikipedia.org/wiki/Баргузин_(село)"
   },
   {
     "dialect_id": "dia_evenki_myreeva_05",
@@ -253,9 +270,11 @@
     "name_en": "Upper Lena variety of the Tokma–Upper Lena dialect",
     "alternative_names": [],
     "source_abbreviation": "В-Л",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_kachug"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены. Географический ориентир верхоленского (качугского) говора, Качугский район. https://www.ru.sberopedia.org/wiki/Эвенкийский_язык"
   },
   {
     "dialect_id": "dia_evenki_myreeva_07",
@@ -275,9 +294,11 @@
     "name_en": "Vitim–Nerchinsk dialect",
     "alternative_names": [],
     "source_abbreviation": "Втм",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_03"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены. Витимская часть ареала: Багдарин — опорный пункт для баунтовского говора, не весь ареал диалекта."
   },
   {
     "dialect_id": "dia_evenki_myreeva_09",
@@ -286,9 +307,14 @@
     "name_en": "Yerbogachen dialect",
     "alternative_names": [],
     "source_abbreviation": "Е",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_09"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Yerbogachen settlement",
+    "geographic_reference_source": "https://www.komandirovka.ru/cities/erbogachen_irk._obl./"
   },
   {
     "dialect_id": "dia_evenki_myreeva_10",
@@ -297,9 +323,14 @@
     "name_en": "Zeya variety of the Upper Aldan–Zeya dialect",
     "alternative_names": [],
     "source_abbreviation": "З",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_10"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Representative toponym Zeya; wider Zeya catchment not represented by a single village",
+    "geographic_reference_source": "https://na-meste.ru/amurskaya-oblast/zeya.php"
   },
   {
     "dialect_id": "dia_evenki_myreeva_11",
@@ -308,9 +339,14 @@
     "name_en": "Ilimpiya dialect",
     "alternative_names": [],
     "source_abbreviation": "И",
-    "location_ids": [],
+    "location_ids": [
+      "loc_0442044304400430"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Ilimpiya dialect includes Tura variety; broad dialect, one indicative locality",
+    "geographic_reference_source": "https://atlaskmns.ru/page/ru/lang_evenki_all.html"
   },
   {
     "dialect_id": "dia_evenki_myreeva_12",
@@ -332,9 +368,14 @@
     "name_en": "Maya variety",
     "alternative_names": [],
     "source_abbreviation": "М",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_13"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Maya variety of Ayano-Maysky district; indicative locality, not unique distribution",
+    "geographic_reference_source": "https://socio-siberian-lang.iling-ran.ru/event/ekspediciya-k-evenkam-ayano-mayskogo-rayona-khabarovskogo-kraya"
   },
   {
     "dialect_id": "dia_evenki_myreeva_14",
@@ -354,9 +395,14 @@
     "name_en": "Nepa dialect",
     "alternative_names": [],
     "source_abbreviation": "Н",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_15"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Nepa settlement",
+    "geographic_reference_source": "https://regionum.ru/irkutskaya-oblast/katangskiy-rayon/nepa/"
   },
   {
     "dialect_id": "dia_evenki_myreeva_16",
@@ -365,9 +411,14 @@
     "name_en": "Nerchinsk variety of the Vitim–Nerchinsk dialect",
     "alternative_names": [],
     "source_abbreviation": "Нрч",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_16"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Nerchinsk",
+    "geographic_reference_source": "https://herbariumle.ru/?id=1918&t=toponyms"
   },
   {
     "dialect_id": "dia_evenki_myreeva_17",
@@ -376,9 +427,14 @@
     "name_en": "Olyokma variety of the Vitim–Olyokma dialect",
     "alternative_names": [],
     "source_abbreviation": "Олкм",
-    "location_ids": [],
+    "location_ids": [
+      "loc_sakha_olyokminsk"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Regional toponym Olyokma; indicative locality, not source attestation",
+    "geographic_reference_source": "https://ru.wikipedia.org/wiki/Олёкминск"
   },
   {
     "dialect_id": "dia_evenki_myreeva_18",
@@ -411,9 +467,14 @@
     "name_en": "Sym dialect",
     "alternative_names": [],
     "source_abbreviation": "С",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_20"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Sym settlement",
+    "geographic_reference_source": "https://pogodaiklimat.ru/station/23975.htm"
   },
   {
     "dialect_id": "dia_evenki_myreeva_21",
@@ -422,9 +483,14 @@
     "name_en": "Northern Baikal dialect",
     "alternative_names": [],
     "source_abbreviation": "С-Б",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_21"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Northern Baikal geographic reference, indicative location",
+    "geographic_reference_source": "https://geo.satmaps.info/name/Северобайкальск/254598/"
   },
   {
     "dialect_id": "dia_evenki_myreeva_22",
@@ -433,9 +499,14 @@
     "name_en": "Selemdzha variety",
     "alternative_names": [],
     "source_abbreviation": "Слмд",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_22"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre of Selemdzhinsky District",
+    "geographic_reference_source": "https://moy-region.ru/loc/ekimchan"
   },
   {
     "dialect_id": "dia_evenki_myreeva_23",
@@ -444,9 +515,11 @@
     "name_en": "Sakhalin dialect",
     "alternative_names": [],
     "source_abbreviation": "Сх",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_nogliki"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены. Опорный населённый пункт на северном Сахалине с эвенкийским населением; не место зафиксированного фитонима. https://www.simdp.ru/peoples-of-the-far-north/"
   },
   {
     "dialect_id": "dia_evenki_myreeva_24",
@@ -455,9 +528,14 @@
     "name_en": "Tokko variety",
     "alternative_names": [],
     "source_abbreviation": "Тк",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_24"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Tokko settlement",
+    "geographic_reference_source": "https://www.komandirovka.ru/cities/tokko_sakha_r./"
   },
   {
     "dialect_id": "dia_evenki_myreeva_25",
@@ -466,9 +544,14 @@
     "name_en": "Tokma variety of the Tokma–Upper Lena dialect",
     "alternative_names": [],
     "source_abbreviation": "Ткм",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_25"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Tokma settlement",
+    "geographic_reference_source": "https://ru.wikipedia.org/wiki/Токма_(село)"
   },
   {
     "dialect_id": "dia_evenki_myreeva_26",
@@ -477,9 +560,14 @@
     "name_en": "Tommot variety",
     "alternative_names": [],
     "source_abbreviation": "Тмт",
-    "location_ids": [],
+    "location_ids": [
+      "loc_sakha_tommot"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Tommot; already in locations",
+    "geographic_reference_source": "https://ru.wikipedia.org/wiki/Томмот"
   },
   {
     "dialect_id": "dia_evenki_myreeva_27",
@@ -488,9 +576,14 @@
     "name_en": "Tungir variety of the Vitim–Olyokma dialect",
     "alternative_names": [],
     "source_abbreviation": "Тнг",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_27"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre of Tungiro-Olyokminsky District; only indicative",
+    "geographic_reference_source": "https://geotree.ru/oktmo?sort=rank&title=село+Тупик"
   },
   {
     "dialect_id": "dia_evenki_myreeva_28",
@@ -521,9 +614,11 @@
     "name_en": "Uchur–Zeya dialect",
     "alternative_names": [],
     "source_abbreviation": "Учр",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_10"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены. Географический ориентир зейской части учурско-зейского диалекта; не весь ареал диалекта. https://atlaskmns.ru/page/ru/lang_evenki_all.html"
   },
   {
     "dialect_id": "dia_evenki_myreeva_31",
@@ -543,9 +638,14 @@
     "name_en": "Chulman variety",
     "alternative_names": [],
     "source_abbreviation": "Члм",
-    "location_ids": [],
+    "location_ids": [
+      "loc_sakha_chulman"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Chulman; already in locations",
+    "geographic_reference_source": "https://timehelper.ru/coordinates/chulman"
   },
   {
     "dialect_id": "dia_evenki_myreeva_33",
@@ -554,9 +654,14 @@
     "name_en": "Chumikan dialect",
     "alternative_names": [],
     "source_abbreviation": "Чмк",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_evenki_myreeva_33"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Chumikan settlement",
+    "geographic_reference_source": "https://www.komandirovka.ru/cities/chumikan_khab._kr./"
   },
   {
     "dialect_id": "dia_even_myreeva_01",
@@ -565,9 +670,14 @@
     "name_en": "Allaikha variety of the Central dialect group",
     "alternative_names": [],
     "source_abbreviation": "Алл",
-    "location_ids": [],
+    "location_ids": [
+      "loc_sakha_chokurdakh"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Allaikhovsky Ulus",
+    "geographic_reference_source": "https://base.garant.ru/414278766/"
   },
   {
     "dialect_id": "dia_even_myreeva_02",
@@ -587,9 +697,14 @@
     "name_en": "Anadyr variety of the Eastern dialect group",
     "alternative_names": [],
     "source_abbreviation": "Анд",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_even_myreeva_03"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Anadyr; indicative, not individual attestation",
+    "geographic_reference_source": "https://timehelper.ru/coordinates/anadyr"
   },
   {
     "dialect_id": "dia_even_myreeva_04",
@@ -598,9 +713,14 @@
     "name_en": "Arman dialect",
     "alternative_names": [],
     "source_abbreviation": "Арм",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_even_myreeva_04"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Arman settlement",
+    "geographic_reference_source": "https://www.komandirovka.ru/cities/armankur/"
   },
   {
     "dialect_id": "dia_even_myreeva_05",
@@ -609,9 +729,14 @@
     "name_en": "Bystraya variety of the Eastern dialect group",
     "alternative_names": [],
     "source_abbreviation": "Б",
-    "location_ids": [],
+    "location_ids": [
+      "loc_044d04410441043e"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Bystrinsky District",
+    "geographic_reference_source": "https://essobmr.ru/"
   },
   {
     "dialect_id": "dia_even_myreeva_06",
@@ -631,9 +756,14 @@
     "name_en": "Moma variety of the Central dialect group",
     "alternative_names": [],
     "source_abbreviation": "М",
-    "location_ids": [],
+    "location_ids": [
+      "loc_0445043e043d04430443"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Momsky Ulus",
+    "geographic_reference_source": "https://atlaskmns.ru/page/ru/people_eveny_transport.html"
   },
   {
     "dialect_id": "dia_even_myreeva_08",
@@ -642,9 +772,14 @@
     "name_en": "Ola variety of the Eastern dialect group",
     "alternative_names": [],
     "source_abbreviation": "Ол",
-    "location_ids": [],
+    "location_ids": [
+      "loc_043e043b0430"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Ola settlement",
+    "geographic_reference_source": "https://na-meste.ru/magadanskaya-oblast/ola.php"
   },
   {
     "dialect_id": "dia_even_myreeva_09",
@@ -653,9 +788,14 @@
     "name_en": "Okhotsk variety of the Eastern dialect group",
     "alternative_names": [],
     "source_abbreviation": "Ох",
-    "location_ids": [],
+    "location_ids": [
+      "loc_dialect_reference_even_myreeva_09"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Toponymic reference: Okhotsk settlement",
+    "geographic_reference_source": "https://moy-region.ru/loc/ohotsk"
   },
   {
     "dialect_id": "dia_even_myreeva_10",
@@ -664,9 +804,14 @@
     "name_en": "Penzhina variety of the Eastern dialect group",
     "alternative_names": [],
     "source_abbreviation": "П",
-    "location_ids": [],
+    "location_ids": [
+      "loc_043a0430043c0435043d0441043a043e0435"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Penzhinsky District",
+    "geographic_reference_source": "https://www.zskk.ru/MSU/MOKk/obrazovanie/vse/penzhinskiy-munitsipalnyy-rayon/"
   },
   {
     "dialect_id": "dia_even_myreeva_11",
@@ -686,9 +831,14 @@
     "name_en": "Sakkyryr variety of the Western dialect group",
     "alternative_names": [],
     "source_abbreviation": "Ск",
-    "location_ids": [],
+    "location_ids": [
+      "loc_0431043004420430043304300439002d0430043b044b04420430"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Sakkyryr = Batagay-Alyta; administrative centre",
+    "geographic_reference_source": "https://sever.aero/sakkyryr/about/"
   },
   {
     "dialect_id": "dia_even_myreeva_13",
@@ -697,9 +847,14 @@
     "name_en": "Tompo variety of the Central dialect group",
     "alternative_names": [],
     "source_abbreviation": "Т",
-    "location_ids": [],
+    "location_ids": [
+      "loc_sakha_khandyga"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Administrative centre: Tomponsky District",
+    "geographic_reference_source": "https://www.rdnt-ykt.ru/information/ulusy/томпонский-район/"
   },
   {
     "dialect_id": "dia_even_myreeva_14",
@@ -708,9 +863,14 @@
     "name_en": "Tyugyasir variety of the Western dialect group",
     "alternative_names": [],
     "source_abbreviation": "Тг",
-    "location_ids": [],
+    "location_ids": [
+      "loc_0431043004420430043304300439002d0430043b044b04420430"
+    ],
     "source_id": "src_myreeva_2001",
-    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены."
+    "notes": "Сокращение и классификация из легенды Мыреевой (2001), предоставленной отдельно; местоположения для этого говора не установлены.",
+    "geographic_reference_kind": "dialect_reference",
+    "geographic_reference_basis": "Tyugyasir group associated with Batagay-Alyta, indicative",
+    "geographic_reference_source": "https://sciup.org/tjugjasirskie-jevenychislennost-i-rasselenie-v-hhnachale-xxi-v-149133731"
   },
   {
     "dialect_id": "dia_even_myreeva_15",

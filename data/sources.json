@@ -454,5 +454,29 @@
       "chukchi"
     ],
     "citation_key": "Belichenko et al."
+  },
+  {
+    "publication_type": "dictionary",
+    "authors": "Е. Е. Аксёнова; А. А. Барболина; Н. С. Кудрякова; Н. Н. Жаркова; С. Фудзисиро; А. А. Петров",
+    "editors": "А. А. Петров (научный редактор)",
+    "title": "Дулгаанныы-ньууччалыы тылдьыт. Долганско-русский словарь",
+    "subtitle": "Около 9000 слов",
+    "publisher": "Алмаз-Граф",
+    "publication_place": "Санкт-Петербург",
+    "year": "2019",
+    "total_pages": "608",
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "page_range": "",
+    "doi": "",
+    "isbn": "",
+    "url": "",
+    "notes": "",
+    "source_id": "src_aksyonova_et_al_2019_dolgan_ru",
+    "language_ids": [
+      "dolgan"
+    ],
+    "citation_key": "Aksyonova et al."
   }
 ]

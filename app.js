@@ -1,10 +1,10 @@
 'use strict';
 // Read-only client. All published data come from data/*.json.
 const LABELS = {
- en:{home:'Search',searchPlaceholder:'Search all phytonyms: Indigenous, Russian, English, scientific names…',resultCount:'Results',overview:'Overview',records:'Vegetation',catalog:'Languages',map:'Map',locations:'Locations',dialects:'Dialects',contributors:'Contributors',sources:'Resources',about:'About',search:'Search',all:'All languages',language:'Language',russian_gloss:'Russian gloss',english_gloss:'English gloss',dialect:'Dialect',locality:'Locality',name:'Indigenous phytonym',original_transcription:'Original transcription',ipa:'IPA',ipa_source:'IPA source / status',taxon:'Scientific name',family:'Taxonomic family',source:'Source',page:'Source page(s)',speaker:'Speaker',collector:'Collector',year:'Recording year',first:'First name',last:'Last name',patronymic:'Patronymic name',clan:'Clan',gender:'Gender',botanical:'Botanical classification',linguistics:'Linguistic information',ecology:'Ecological data',knowledge:'Indigenous Knowledge',evidence:'Documentation',folklore:'Folklore',description:'Description',cognate:'Cognate / etymology',names_other_varieties:'Names in other varieties',linguistic_comment:'Linguistic comment',conservation_invasiveness_status:'Conservation / invasiveness status',habitat:'Habitat',plant_community:'Plant community',phenology:'Phenology',toxicity:'Toxicity',medicinal_use:'Medicinal use',domestic_use:'Domestic use',spiritual_use:'Spiritual use',human_consumption:'Human consumption',animal_consumption:'Animal consumption',recordDate:'Recording date',source_use_categories:'Uses in source',source_one_generation_uses:'Uses reported for one generation',maritime_frequency_dots:'Maritime use-frequency dots',tundra_frequency_dots:'Tundra use-frequency dots',name_number:'Form (number)',saveExcel:'Save to Excel',nothing:'No records available.',places:'Places',published:'Published records',languagePrompt:'Select a language to see its names in taxonomic order.',mapNote:'Dots indicate settlement centres, not precise collection sites.',totalPages:'Total pages',publisher:'Publisher',title:'Title',authors:'Authors',type:'Type',editionYear:'Year',country:'Country',region:'Region',district:'District',count:'Records',notes:'Notes',taxa:'Taxa',languages:'Languages',locCount:'Localities',descriptionIntro:'Indigenous plant names, linguistic evidence, ethnobotanical knowledge, and geographic and bibliographic records.',aboutBody:'The database is a bilingual read-only research resource. Published data are maintained as JSON files in the repository.',noMap:'No coordinates available.',glossMap:'Lexical map',glossMapNote:'The map brings together phytonyms that share the same Russian gloss. Points show linked localities or dialect areas, not exact collection sites.',glossMapEntries:'Mapped forms',noExcel:'Excel export is unavailable. Please check the spreadsheet library connection.'},
- ru:{home:'Поиск',searchPlaceholder:'Поиск по всем фитонимам: коренные языки, русский, английский, научные названия…',resultCount:'Результатов',overview:'Обзор',records:'Растительность',catalog:'Языки',map:'Карта',locations:'Населённые пункты',dialects:'Диалекты',contributors:'Информанты',sources:'Источники',about:'О проекте',search:'Поиск',all:'Все языки',language:'Язык',russian_gloss:'Русское толкование',english_gloss:'Английское толкование',dialect:'Диалект',locality:'Населённый пункт',name:'Фитоним',original_transcription:'Оригинальная транскрипция',ipa:'МФА',ipa_source:'Источник / статус МФА',taxon:'Научное название',family:'Ботаническое семейство',source:'Источник',page:'Страницы источника',speaker:'Информант',collector:'Собиратель',year:'Год записи',first:'Имя',last:'Фамилия',patronymic:'Отчество',clan:'Род',gender:'Пол',botanical:'Ботаническая классификация',linguistics:'Лингвистические сведения',ecology:'Экологические данные',knowledge:'Знания коренных народов',evidence:'Сведения о фиксации',folklore:'Фольклор',description:'Описание',cognate:'Когнаты / этимология',names_other_varieties:'Названия в других вариантах',linguistic_comment:'Лингвистический комментарий',conservation_invasiveness_status:'Охранный / инвазивный статус',habitat:'Местообитание',plant_community:'Растительное сообщество',phenology:'Фенология',toxicity:'Токсичность',medicinal_use:'Лекарственное применение',domestic_use:'Бытовое применение',spiritual_use:'Духовное использование',human_consumption:'Употребление людьми',animal_consumption:'Употребление животными',recordDate:'Дата записи',source_use_categories:'Категории использования в источнике',source_one_generation_uses:'Использование, отмеченное для одного поколения',maritime_frequency_dots:'Частота упоминаний: приморские (точки)',tundra_frequency_dots:'Частота упоминаний: тундровые (точки)',name_number:'Форма (число)',saveExcel:'Сохранить в Excel',nothing:'Записей пока нет.',places:'Населённые пункты',published:'Опубликованные записи',languagePrompt:'Выберите язык для таксономического каталога фитонимов.',mapNote:'Точки обозначают центры населённых пунктов, не точные места сбора растений.',totalPages:'Общее число страниц',publisher:'Издательство',title:'Название',authors:'Авторы',type:'Тип',editionYear:'Год',country:'Страна',region:'Регион',district:'Район',count:'Записей',notes:'Примечания',taxa:'Таксоны',languages:'Языки',locCount:'Населённые пункты',descriptionIntro:'Названия растений, лингвистические свидетельства, знания коренных народов, географические и библиографические данные.',aboutBody:'Двуязычная исследовательская база только для чтения. Данные публикуются в JSON-файлах репозитория.',noMap:'Нет точек с координатами.',glossMap:'Лексическая карта',glossMapNote:'Карта объединяет фитонимы с одинаковым русским толкованием. Точки показывают связанные населённые пункты или ареалы диалектов, а не точные места фиксации.',glossMapEntries:'Формы на карте',noExcel:'Экспорт Excel недоступен. Проверьте загрузку библиотеки таблиц.'}
+ en:{home:'Search',searchPlaceholder:'Search all phytonyms: Indigenous, Russian, English, scientific names…',resultCount:'Results',overview:'Overview',records:'Vegetation',catalog:'Languages',map:'Map',locations:'Locations',dialects:'Dialects',contributors:'Contributors',sources:'Resources',about:'About',search:'Search',all:'All languages',language:'Language',russian_gloss:'Russian gloss',english_gloss:'English gloss',dialect:'Dialect',locality:'Locality',name:'Indigenous phytonym',original_transcription:'Original transcription',ipa:'IPA',ipa_source:'IPA source / status',taxon:'Scientific name',family:'Taxonomic family',source:'Source',page:'Source page(s)',speaker:'Speaker',collector:'Collector',year:'Recording year',first:'First name',last:'Last name',patronymic:'Patronymic name',clan:'Clan',gender:'Gender',botanical:'Botanical classification',linguistics:'Linguistic information',ecology:'Ecological data',knowledge:'Indigenous Knowledge',evidence:'Documentation',folklore:'Folklore',description:'Description',cognate:'Cognate / etymology',names_other_varieties:'Names in other varieties',linguistic_comment:'Linguistic comment',conservation_invasiveness_status:'Conservation / invasiveness status',habitat:'Habitat',plant_community:'Plant community',phenology:'Phenology',toxicity:'Toxicity',medicinal_use:'Medicinal use',domestic_use:'Domestic use',spiritual_use:'Spiritual use',human_consumption:'Human consumption',animal_consumption:'Animal consumption',recordDate:'Recording date',source_use_categories:'Uses in source',source_one_generation_uses:'Uses reported for one generation',maritime_frequency_dots:'Maritime use-frequency dots',tundra_frequency_dots:'Tundra use-frequency dots',name_number:'Form (number)',saveExcel:'Save to Excel',nothing:'No records available.',places:'Places',published:'Published records',totalPages:'Total pages',publisher:'Publisher',title:'Title',authors:'Authors',type:'Type',editionYear:'Year',country:'Country',region:'Region',district:'District',count:'Records',notes:'Notes',taxa:'Taxa',languages:'Languages',locCount:'Localities',descriptionIntro:'Indigenous plant names, linguistic evidence, ethnobotanical knowledge, and geographic and bibliographic records.',aboutBody:'The database is a bilingual read-only research resource. Published data are maintained as JSON files in the repository.',noMap:'No coordinates available.',glossMap:'Lexical map',glossMapEntries:'Corresponding names',noGeolocations:'No attested or dialect-linked coordinates for these forms.',directPlace:'Source-linked locality',dialectPlace:'Dialect reference locality',noExcel:'Excel export is unavailable. Please check the spreadsheet library connection.'},
+ ru:{home:'Поиск',searchPlaceholder:'Поиск по всем фитонимам: коренные языки, русский, английский, научные названия…',resultCount:'Результатов',overview:'Обзор',records:'Растительность',catalog:'Языки',map:'Карта',locations:'Населённые пункты',dialects:'Диалекты',contributors:'Информанты',sources:'Источники',about:'О проекте',search:'Поиск',all:'Все языки',language:'Язык',russian_gloss:'Русское толкование',english_gloss:'Английское толкование',dialect:'Диалект',locality:'Населённый пункт',name:'Фитоним',original_transcription:'Оригинальная транскрипция',ipa:'МФА',ipa_source:'Источник / статус МФА',taxon:'Научное название',family:'Ботаническое семейство',source:'Источник',page:'Страницы источника',speaker:'Информант',collector:'Собиратель',year:'Год записи',first:'Имя',last:'Фамилия',patronymic:'Отчество',clan:'Род',gender:'Пол',botanical:'Ботаническая классификация',linguistics:'Лингвистические сведения',ecology:'Экологические данные',knowledge:'Знания коренных народов',evidence:'Сведения о фиксации',folklore:'Фольклор',description:'Описание',cognate:'Когнаты / этимология',names_other_varieties:'Названия в других вариантах',linguistic_comment:'Лингвистический комментарий',conservation_invasiveness_status:'Охранный / инвазивный статус',habitat:'Местообитание',plant_community:'Растительное сообщество',phenology:'Фенология',toxicity:'Токсичность',medicinal_use:'Лекарственное применение',domestic_use:'Бытовое применение',spiritual_use:'Духовное использование',human_consumption:'Употребление людьми',animal_consumption:'Употребление животными',recordDate:'Дата записи',source_use_categories:'Категории использования в источнике',source_one_generation_uses:'Использование, отмеченное для одного поколения',maritime_frequency_dots:'Частота упоминаний: приморские (точки)',tundra_frequency_dots:'Частота упоминаний: тундровые (точки)',name_number:'Форма (число)',saveExcel:'Сохранить в Excel',nothing:'Записей пока нет.',places:'Населённые пункты',published:'Опубликованные записи',totalPages:'Общее число страниц',publisher:'Издательство',title:'Название',authors:'Авторы',type:'Тип',editionYear:'Год',country:'Страна',region:'Регион',district:'Район',count:'Записей',notes:'Примечания',taxa:'Таксоны',languages:'Языки',locCount:'Населённые пункты',descriptionIntro:'Названия растений, лингвистические свидетельства, знания коренных народов, географические и библиографические данные.',aboutBody:'Двуязычная исследовательская база только для чтения. Данные публикуются в JSON-файлах репозитория.',noMap:'Нет точек с координатами.',glossMap:'Лексическая карта',glossMapEntries:'Соответствующие названия',noGeolocations:'У этих названий нет координат, связанных с фиксацией или диалектом.',directPlace:'Населённый пункт, указанный в записи',dialectPlace:'Ориентир диалекта',noExcel:'Экспорт Excel недоступен. Проверьте загрузку библиотеки таблиц.'}
 };
-const state={lang:'en',view:'home',returnView:'home',selectedLanguage:'',selectedDialect:'',search:'',selectedSource:'',selectedProfile:'',data:null,map:null,profileMap:null};
+const state={lang:'en',view:'home',returnView:'home',selectedLanguage:'',search:'',selectedProfile:'',data:null,profileMap:null};
 const NAMES=['home','catalog','sources'];
 const tr=k=>LABELS[state.lang][k]||k;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -37,68 +37,60 @@ const attestationOverview=p=>{
   dialects:unique([dialName(p.dialect_id),...attestations.map(a=>attDialectLabels(a)||dialName(a.dialect_id))])
  };
 };
-const normalizeGloss=s=>String(s||'').toLowerCase().replace(/ё/g,'е').replace(/\s+/g,' ').trim();
-const glossTokens=s=>{
- const base=normalizeGloss(s);
- if(!base)return [];
- return [...new Set([base,...base.split(/[;,/]/).map(part=>normalizeGloss(part)).filter(Boolean)])];
-};
+// English glosses are the only lexical key for cross-language comparison.
+const normalizeGloss=s=>String(s||'').normalize('NFC').toLocaleLowerCase('en').replace(/[’‘]/g,"'").replace(/\s+/g,' ').trim();
+const glossTokens=s=>{const base=normalizeGloss(s);return base?[...new Set([base,...base.split(/[;,/]/).map(part=>normalizeGloss(part)).filter(Boolean)])]:[];};
 const glossMatches=(a,b)=>{const B=new Set(glossTokens(b));return glossTokens(a).some(token=>B.has(token));};
-const relatedProfilesByGloss=profile=>!profile?.russian_gloss?[]:state.data.phytonyms.filter(candidate=>candidate.russian_gloss&&glossMatches(profile.russian_gloss,candidate.russian_gloss));
-function inferLocationIdsForPhytonym(profile){
- const ids=new Set();
- (profile.attestations||[]).forEach(att=>{
-  if(att.location_id) ids.add(att.location_id);
-  (att.dialect_ids||[]).forEach(dialectId=>{(by('dialects',dialectId)?.location_ids||[]).forEach(locationId=>ids.add(locationId));});
- });
- if(profile.dialect_id){(by('dialects',profile.dialect_id)?.location_ids||[]).forEach(locationId=>ids.add(locationId));}
- if(!ids.size&&profile.language_id){state.data.locations.filter(location=>(location.language_ids||[]).includes(profile.language_id)).forEach(location=>ids.add(location.location_id));}
- return [...ids];
-}
-function relatedGlossMapEntries(profile){
+const relatedProfilesByGloss=profile=>!profile?.english_gloss?[]:state.data.phytonyms.filter(candidate=>candidate.english_gloss&&glossMatches(profile.english_gloss,candidate.english_gloss));
+function locatableEntries(candidate){
  const entries=[];
- for(const candidate of relatedProfilesByGloss(profile)){
-  const locIds=inferLocationIdsForPhytonym(candidate);
-  const dialects=[dialName(candidate.dialect_id),...(candidate.attestations||[]).flatMap(att=>(att.dialect_ids||[]).map(dialName))].filter(Boolean);
-  const dialectLabel=[...new Set(dialects)].join('; ');
-  const sources=[...new Set((candidate.attestations||[]).map(att=>citeSource(att.source_id,att.source_pages)).filter(Boolean))].join('; ');
-  for(const locationId of locIds){
-   const location=by('locations',locationId);
-   if(!location||location.visibility==='confidential'||!Number.isFinite(location.latitude)||!Number.isFinite(location.longitude)) continue;
-   entries.push({
-    location_id:location.location_id,
-    locality:locName(location.location_id),
-    latitude:location.latitude,
-    longitude:location.longitude,
-    phytonym_id:candidate.phytonym_id,
-    name:candidate.name_native_language,
-    language:langName(candidate.language_id),
-    dialect:dialectLabel,
-    russian_gloss:candidate.russian_gloss,
-    source:sources
-   });
-  }
- }
+ const emit=(locationId,kind)=>{
+  const location=by('locations',locationId);
+  if(!location||location.visibility==='confidential'||!Number.isFinite(location.latitude)||!Number.isFinite(location.longitude))return;
+  const dialectIds=[candidate.dialect_id,...(candidate.attestations||[]).flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])].filter(Boolean);
+  const dialect=[...new Set(dialectIds.map(dialName).filter(Boolean))].join('; ');
+  const source=[...new Set((candidate.attestations||[]).map(a=>citeSource(a.source_id,a.source_pages)).filter(Boolean))].join('; ');
+  entries.push({location_id:locationId,locality:locName(locationId),latitude:location.latitude,longitude:location.longitude,kind,
+   phytonym_id:candidate.phytonym_id,name:candidate.name_native_language,language:langName(candidate.language_id),dialect,source});
+ };
+ const explicit=new Set((candidate.attestations||[]).map(a=>a.location_id).filter(Boolean));
+ for(const id of explicit)emit(id,'attested');
+ // A dialect's location_ids are geographic reference points, NOT evidence of individual word use.
+ const dialectIds=[candidate.dialect_id,...(candidate.attestations||[]).flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])].filter(Boolean);
+ const reference=new Set(dialectIds.flatMap(id=>by('dialects',id)?.location_ids||[]));
+ for(const id of reference)if(!explicit.has(id))emit(id,'dialect');
  return entries;
 }
+const relatedGlossMapEntries=profile=>relatedProfilesByGloss(profile).flatMap(locatableEntries);
 function pair(key,value){return filled(value)?`<tr><th scope="row">${esc(tr(key))}</th><td>${esc(Array.isArray(value)?value.join('; '):typeof value==='object'?Object.entries(value).filter(([,v])=>filled(v)).map(([k,v])=>`${k}: ${v}`).join('; '):value)}</td></tr>`:''}
 function section(title,rows){return rows.some(Boolean)?`<section class="profile-section"><h3>${esc(tr(title))}</h3><table class="detail-table"><tbody>${rows.join('')}</tbody></table></section>`:''}
 const taxonomy=(a,b)=>{const ta=by('taxa',a.taxon_id)||{},tb=by('taxa',b.taxon_id)||{};return [ta.botanical_family||'\uffff',ta.scientific_name||'\uffff',a.name_native_language].join('\0').localeCompare([tb.botanical_family||'\uffff',tb.scientific_name||'\uffff',b.name_native_language].join('\0'),'ru')};
-function profile(p){const tax=by('taxa',p.taxon_id)||{},d=state.data;
+function profile(p){const tax=by('taxa',p.taxon_id)||{};
  const main=section('linguistics',[pair('name',p.name_native_language),pair('original_transcription',p.original_transcription),pair('ipa_source',p.ipa_source),pair('language',langName(p.language_id)),pair('dialect',dialName(p.dialect_id)),...['names_other_varieties','cognate','russian_gloss','english_gloss','linguistic_comment'].map(k=>pair(k,p[k]))]);
  const bot=section('botanical',[pair('taxon',tax.scientific_name),pair('family',tax.botanical_family),pair('conservation_invasiveness_status',tax.conservation_invasiveness_status)]);
  const eco=section('ecology',Object.entries(p.ecological_data||{}).map(([k,v])=>pair(k,v)));
  const know=section('knowledge',Object.entries(p.indigenous_knowledge||{}).map(([k,v])=>pair(k,v)));
  const attest=(p.attestations||[]).map(a=>{const c=by('contributors',a.contributor_id)||{};return section('evidence',[pair('locality',locName(a.location_id)),pair('dialect',attDialectFull(a)||dialName(a.dialect_id)),a.source_id?`<tr><th scope="row">${esc(tr('source'))}</th><td><button class="plain-link" data-source="${esc(a.source_id)}">${esc(citeSource(a.source_id,a.source_pages))}</button></td></tr>`:'',pair('last',c.last_name),pair('first',c.first_name),pair('patronymic',c.patronymic_name),pair('clan',c.clan),pair('gender',c.gender),pair('collector',a.collector),pair('year',a.recording_year),pair('recordDate',a.record_date),pair('name_number',a.name_number),pair('source_use_categories',a.source_use_categories),pair('source_one_generation_uses',a.source_one_generation_uses),pair('maritime_frequency_dots',a.maritime_frequency_dots),pair('tundra_frequency_dots',a.tundra_frequency_dots),pair('folklore',a.folklore)])}).join('');
- const relatedEntries=relatedGlossMapEntries(p);
- const mapSection=p.russian_gloss?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><p class="profile-map-note">${esc(tr('glossMapNote'))}</p><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${relatedEntries.length?`<details class="profile-map-list"><summary>${esc(tr('glossMapEntries'))}: ${relatedEntries.length}</summary><ul>${relatedEntries.map(entry=>`<li><strong>${esc(entry.name)}</strong> — ${esc(entry.language)}${entry.dialect?`; ${esc(entry.dialect)}`:''}${entry.locality?`; ${esc(entry.locality)}`:''}</li>`).join('')}</ul></details>`:`<p class="empty">${esc(tr('noMap'))}</p>`}</section>`:'';
+ const related=relatedProfilesByGloss(p);
+ const entries=related.flatMap(locatableEntries);
+ state.currentProfileEntries=entries;
+ const locationsByProfile=new Map();
+ for(const entry of entries){const group=locationsByProfile.get(entry.phytonym_id)||[];group.push(entry);locationsByProfile.set(entry.phytonym_id,group);}
+ const forms=related.map(candidate=>{
+  const ids=locationsByProfile.get(candidate.phytonym_id)||[];
+  const places=[...new Set(ids.map(e=>e.locality))];
+  const dialects=[candidate.dialect_id,...(candidate.attestations||[]).flatMap(a=>[a.dialect_id,...(a.dialect_ids||[])])].filter(Boolean);
+  const dialectNames=[...new Set(dialects.map(dialName).filter(Boolean))];
+  return `<li><button type="button" class="plain-link related-name" data-profile="${esc(candidate.phytonym_id)}">${esc(candidate.name_native_language)}</button> — ${esc(langName(candidate.language_id))}${dialectNames.length?`; ${esc(dialectNames.join('; '))}`:''}${places.length?`; ${esc(places.join('; '))}`:''}${!ids.length?` <span class="muted">(${esc(state.lang==='ru'?'без геопривязки':'not geolocated')})</span>`:''}</li>`;
+ }).join('');
+ const mapSection=p.english_gloss?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
+
  return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="phonetics">${esc(tr('ipa'))}: ${p.ipa?`[${esc(p.ipa)}]`:'—'}${p.original_transcription&&p.original_transcription!==p.ipa?' · '+esc(tr('original_transcription'))+': ('+esc(p.original_transcription)+')':''}</p><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
 }
 function table(headers,rows){return `<div class="table-wrap"><table class="index"><thead><tr>${headers.map(h=>`<th>${esc(tr(h))}</th>`).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table></div>`}
 function languageSelect(id){return `<select id="${id}" aria-label="${esc(tr('language'))}"><option value="">${esc(tr('all'))}</option>${state.data.languages.map(l=>`<option value="${esc(l.language_id)}" ${state.selectedLanguage===l.language_id?'selected':''}>${esc(langName(l.language_id))}</option>`).join('')}</select>`}
 function title(view){return `<h1>${esc(tr(view))}</h1>`}
 function renderProfile(){const p=state.data.phytonyms.find(x=>x.phytonym_id===state.selectedProfile);return `<button type="button" id="backToResults" class="plain-link">← ${esc(tr(state.returnView))}</button>`+(p?profile(p):`<p>${esc(tr('nothing'))}</p>`)}
-function renderRecords(){let plants=state.data.phytonyms.filter(p=>(!state.selectedLanguage||p.language_id===state.selectedLanguage)&&[p.name_native_language,p.ipa,p.original_transcription,p.russian_gloss,p.english_gloss,by('taxa',p.taxon_id)?.scientific_name||''].join(' ').toLowerCase().includes(state.search.toLowerCase()));return title('records')+`<div class="toolbar"><input id="search" type="search" value="${esc(state.search)}" placeholder="${esc(tr('search'))}">${languageSelect('languageFilter')}<span class="count">${plants.length}</span></div>`+(plants.length?plants.map(profile).join(''):`<p>${esc(tr('nothing'))}</p>`)}
 function phytonymRow(p,includeLanguage=false){
  const tax=by('taxa',p.taxon_id)||{},info=attestationOverview(p);
  return `<tr><td><button class="plain-link" data-profile="${esc(p.phytonym_id)}">${esc(p.name_native_language)}${p.ipa?' ['+esc(p.ipa)+']':''}${p.original_transcription&&p.original_transcription!==p.ipa?' ('+esc(p.original_transcription)+')':''}</button></td>${includeLanguage?`<td>${esc(langName(p.language_id))}</td>`:''}<td><i>${esc(tax.scientific_name||'—')}</i></td><td>${esc(tax.botanical_family||'—')}</td><td>${esc(p.russian_gloss||'—')}</td><td>${esc(p.english_gloss||'—')}</td><td>${esc(info.dialects||'—')}</td><td>${esc(info.localities||'—')}</td><td>${esc(info.citations||'—')}</td></tr>`;
@@ -123,11 +115,26 @@ function renderHome(){
 function renderCatalog(){
  const sel=state.selectedLanguage;
  const plants=state.data.phytonyms.filter(p=>p.language_id===sel).sort(taxonomy);
- return title('catalog')+`<p class="section-note">${esc(tr('languagePrompt'))}</p><div class="toolbar">${languageSelect('languageFilter')}<span class="count">${plants.length}</span>${sel?`<button id="excel" type="button" ${plants.length?'':'disabled'}>${esc(tr('saveExcel'))}</button>`:''}</div>`+table(['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source'],plants.map(p=>phytonymRow(p)));
+ return title('catalog')+`<div class="toolbar">${languageSelect('languageFilter')}<span class="count">${plants.length}</span>${sel?`<button id="excel" type="button" ${plants.length?'':'disabled'}>${esc(tr('saveExcel'))}</button>`:''}</div>`+table(['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source'],plants.map(p=>phytonymRow(p)));
+}
+// Resources use their own complete, consistently capitalized bilingual labels.
+const SOURCE_FIELD_LABELS={
+ en:{authors:'Authors',editors:'Editors',title:'Title',subtitle:'Subtitle',type:'Type',publisher:'Publisher',publication_place:'Publication place',editionYear:'Year',totalPages:'Total pages',journal:'Journal',volume:'Volume',issue:'Issue',page_range:'Page range',doi:'DOI',isbn:'ISBN',url:'URL',notes:'Notes'},
+ ru:{authors:'Авторы',editors:'Редакторы',title:'Название',subtitle:'Подзаголовок',type:'Тип',publisher:'Издательство',publication_place:'Место издания',editionYear:'Год',totalPages:'Общее число страниц',journal:'Журнал',volume:'Том',issue:'Выпуск',page_range:'Диапазон страниц',doi:'DOI',isbn:'ISBN',url:'URL',notes:'Примечания'}
+};
+const SOURCE_TYPES={
+ en:{dictionary:'Dictionary',book:'Book',journal_article:'Journal article'},
+ ru:{dictionary:'Словарь',book:'Книга',journal_article:'Научная статья'}
+};
+function sourceFieldRow(key,value){
+ if(!filled(value))return '';
+ const label=SOURCE_FIELD_LABELS[state.lang][key]||key.replaceAll('_',' ').replace(/^./,c=>c.toUpperCase());
+ const display=key==='type'?(SOURCE_TYPES[state.lang][value]||String(value).replaceAll('_',' ').replace(/^./,c=>c.toUpperCase())):value;
+ return `<tr><th scope="row">${esc(label)}</th><td>${esc(display)}</td></tr>`;
 }
 function renderSources(){
  const groups=[...state.data.languages].sort((a,b)=>a.west_east_order-b.west_east_order).map(language=>({language,sources:state.data.sources.filter(source=>(source.language_ids||[]).includes(language.language_id)).sort((a,b)=>(Number(a.year)||0)-(Number(b.year)||0)||String(a.volume||'').localeCompare(String(b.volume||''),undefined,{numeric:true})||String(a.title||'').localeCompare(String(b.title||'')))}));
- const fields=source=>Object.entries({authors:source.authors,editors:source.editors,title:source.title,subtitle:source.subtitle,type:source.publication_type,publisher:source.publisher,publication_place:source.publication_place,editionYear:source.year,totalPages:source.total_pages,journal:source.journal,volume:source.volume,issue:source.issue,page_range:source.page_range,doi:source.doi,isbn:source.isbn,url:source.url,notes:source.notes}).map(([key,value])=>pair(key,value)).filter(Boolean).join('');
+ const fields=source=>Object.entries({authors:source.authors,editors:source.editors,title:source.title,subtitle:source.subtitle,type:source.publication_type,publisher:source.publisher,publication_place:source.publication_place,editionYear:source.year,totalPages:source.total_pages,journal:source.journal,volume:source.volume,issue:source.issue,page_range:source.page_range,doi:source.doi,isbn:source.isbn,url:source.url,notes:source.notes}).map(([key,value])=>sourceFieldRow(key,value)).filter(Boolean).join('');
  const contents=`<nav class="resource-contents" aria-label="${esc(state.lang==='ru'?'Языки источников':'Resource languages')}">${groups.map(({language})=>`<a href="#resources-${esc(language.language_id)}">${esc(langName(language.language_id))}</a>`).join('')}</nav>`;
  const sections=groups.map(({language,sources})=>`<section class="resource-group" id="resources-${esc(language.language_id)}"><h2>${esc(langName(language.language_id))}</h2>${sources.length?sources.map(source=>`<article class="resource-entry" id="source-${esc(language.language_id)}-${esc(source.source_id)}"><div class="resource-citation">${esc(citeSource(source.source_id))}</div><table class="detail-table"><tbody>${fields(source)}</tbody></table></article>`).join(''):`<p class="resource-empty">${esc(state.lang==='ru'?'Источники пока не добавлены.':'No sources added yet.')}</p>`}</section>`).join('');
  return title('sources')+(groups.length?contents+sections:`<p>${esc(tr('nothing'))}</p>`);
@@ -136,25 +143,25 @@ function mountProfileMap(){
  const target=document.getElementById('profile-map');
  const profile=state.data.phytonyms.find(item=>item.phytonym_id===state.selectedProfile);
  if(!target||!profile)return;
- if(!window.L){target.textContent=tr('noMap');return;}
- const entries=relatedGlossMapEntries(profile);
- if(!entries.length){target.textContent=tr('noMap');return;}
+ const entries=state.currentProfileEntries||relatedGlossMapEntries(profile);
+ if(!entries.length){target.textContent=tr('noGeolocations');target.classList.add('map-unavailable');return;}
+ if(!window.L){target.textContent=tr('noMap');target.classList.add('map-unavailable');return;}
  const grouped=new Map();
- for(const entry of entries){
-  const bucket=grouped.get(entry.location_id)||{...entry,items:[]};
-  bucket.items.push(entry);
-  grouped.set(entry.location_id,bucket);
- }
- const map=L.map(target).setView([67,130],3);
- state.profileMap=map;
+ for(const entry of entries){const key=entry.location_id;const bucket=grouped.get(key)||{...entry,items:[]};bucket.items.push(entry);grouped.set(key,bucket);}
+ const map=L.map(target);state.profileMap=map;
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:17,attribution:'© OpenStreetMap contributors'}).addTo(map);
  const markers=[];
  for(const group of grouped.values()){
-  const list=group.items.map(item=>`<li><strong>${esc(item.name)}</strong> — ${esc(item.language)}${item.dialect?`; ${esc(item.dialect)}`:''}${item.source?`<br>${esc(item.source)}`:''}</li>`).join('');
-  const marker=L.marker([group.latitude,group.longitude]).bindPopup(`<strong>${esc(group.locality)}</strong><ul class="map-popup-list">${list}</ul>`).bindTooltip(esc(group.items[0].name)+(group.items.length>1?` +${group.items.length-1}`:''),{direction:'top'}).addTo(map);
-  markers.push(marker);
+  const forms=[...new Map(group.items.map(item=>[item.phytonym_id+':'+item.kind,item])).values()];
+  const list=forms.map(item=>`<li><strong>${esc(item.name)}</strong> — ${esc(item.language)}${item.dialect?`; ${esc(item.dialect)}`:''}<br><small>${esc(tr(item.kind==='attested'?'directPlace':'dialectPlace'))}</small>${item.source?`<br><small>${esc(item.source)}</small>`:''}</li>`).join('');
+  const certain=forms.some(item=>item.kind==='attested');
+  const mark=L.circleMarker([group.latitude,group.longitude],{radius:6,color:certain?'#225a91':'#9b6c2d',weight:2,fillOpacity:certain?.85:0.15})
+    .bindPopup(`<strong>${esc(group.locality)}</strong><ul class="map-popup-list">${list}</ul>`)
+    .bindTooltip(esc(forms.map(x=>x.name).filter((v,i,a)=>a.indexOf(v)===i).slice(0,2).join(' · '))+(forms.length>2?' …':''),{direction:'top',permanent:grouped.size<=12,className:'phytonym-tooltip'}).addTo(map);
+  markers.push(mark);
  }
- if(markers.length){map.fitBounds(L.featureGroup(markers).getBounds().pad(.2),{maxZoom:8});}
+ map.fitBounds(L.featureGroup(markers).getBounds().pad(.2),{maxZoom:8});
+ requestAnimationFrame(()=>map.invalidateSize());
 }
 function cleanExcel(x){let s=String(x??'');return /^[\s\uFEFF]*[=+\-@\t\r]/.test(s)?"'"+s:s}
 function exportExcel(){const sel=state.selectedLanguage;if(!sel)return;if(!window.XLSX){alert(tr('noExcel'));return}const plants=state.data.phytonyms.filter(p=>p.language_id===sel).sort(taxonomy);const rows=plants.map(p=>{const t=by('taxa',p.taxon_id)||{},info=attestationOverview(p);return {[tr('name')]:p.name_native_language,[tr('taxon')]:t.scientific_name||'',[tr('family')]:t.botanical_family||'',[tr('ipa')]:p.ipa||'',[tr('original_transcription')]:p.original_transcription||'',[tr('dialect')]:info.dialects,[tr('locality')]:info.localities,[tr('source')]:info.citations,[tr('russian_gloss')]:p.russian_gloss,[tr('english_gloss')]:p.english_gloss}}).map(o=>Object.fromEntries(Object.entries(o).map(([k,v])=>[k,cleanExcel(v)])));const wb=XLSX.utils.book_new(),ws=XLSX.utils.json_to_sheet(rows);XLSX.utils.book_append_sheet(wb,ws,'Phytonyms');XLSX.writeFile(wb,`circumpolar-ethnobotanical-database_${sel}.xlsx`)}
@@ -162,13 +169,12 @@ function render(){
  document.documentElement.lang=state.lang;
  document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.lang===state.lang)));
  document.getElementById('navigation').innerHTML=NAMES.map(view=>`<button type="button" data-view="${view}" class="${(state.view===view||(state.view==='profile'&&view===state.returnView))?'active':''}" ${(state.view===view||(state.view==='profile'&&view===state.returnView))?'aria-current="page"':''}>${esc(tr(view))}</button>`).join('');
- if(state.map){state.map.remove();state.map=null;}
  if(state.profileMap){state.profileMap.remove();state.profileMap=null;}
  document.getElementById('main').innerHTML=({profile:renderProfile,home:renderHome,catalog:renderCatalog,sources:renderSources})[state.view]();
  if(state.view==='profile')mountProfileMap();
 }
 async function load(){const manifest=await fetch('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetch('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render()}
-document.addEventListener('click',e=>{const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const view=e.target.closest('[data-view]');if(view){state.view=view.dataset.view;state.selectedSource='';if(state.view==='catalog'&&!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';render();return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){state.view=state.returnView;render();return}const src=e.target.closest('[data-source]');if(src){state.selectedSource=src.dataset.source;state.view='sources';const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];render();const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
-document.addEventListener('change',e=>{if(e.target.id==='languageFilter'||e.target.id==='mapLanguage'){state.selectedLanguage=e.target.value;state.selectedDialect='';render()}else if(e.target.id==='mapDialect'){state.selectedDialect=e.target.value;render()}});
+document.addEventListener('click',e=>{const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const view=e.target.closest('[data-view]');if(view){state.view=view.dataset.view;if(state.view==='catalog'&&!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';render();return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){state.view=state.returnView;render();return}const src=e.target.closest('[data-source]');if(src){state.view='sources';const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];render();const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
+document.addEventListener('change',e=>{if(e.target.id==='languageFilter'){state.selectedLanguage=e.target.value;render()}});
 document.addEventListener('input',e=>{if(e.target.id==='globalSearch'){const pos=e.target.selectionStart;state.search=e.target.value;render();const input=document.getElementById('globalSearch');input.focus();input.setSelectionRange(pos,pos)}});
 load().catch(e=>{document.getElementById('main').innerHTML=`<h1>Data loading error / Ошибка загрузки данных</h1><p class="error">${esc(e.message)}</p><p>Open the site via GitHub Pages or a local HTTP server.</p>`;console.error(e)});

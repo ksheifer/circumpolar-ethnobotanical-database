@@ -1,68 +1,78 @@
-:root{font-family:Arial,Helvetica,sans-serif;color:#171717;background:#fff;font-size:14px;line-height:1.55}*{box-sizing:border-box}body{margin:0}button,input,select{font:inherit;color:inherit}button{cursor:pointer;background:#fff;border:1px solid #aaa;padding:5px 10px;border-radius:0}button:hover{background:#f3f3f3}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #333;outline-offset:2px}.site-header{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ccc;padding:14px 24px;gap:16px}.brand{font-weight:600;font-size:17px}.lang-switch{display:flex;gap:5px}.lang-switch button[aria-pressed="true"]{background:#eaeaea}#navigation{display:flex;gap:4px;align-items:center;padding:0 24px;border-bottom:1px solid #ddd;overflow-x:auto}#navigation button{width:auto;min-width:96px;white-space:nowrap;text-align:center;padding:12px 16px;border:0;background:transparent}#navigation button.active{font-weight:bold;background:#f1f1f1}main{padding:26px 30px;max-width:1500px;width:100%;min-width:0;margin:0 auto}h1{font-size:21px;font-weight:600;margin:0 0 18px}h2{font-size:17px;font-weight:600;margin:0}h3{font-size:14px;font-weight:600;margin:20px 0 6px}p{margin:8px 0 16px}.muted{color:#666}.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0 18px}.toolbar input{min-width:220px;max-width:400px;flex:1}.toolbar input,.toolbar select{padding:6px;border:1px solid #aaa;border-radius:0;background:white}.count{color:#666;font-size:12px}.profile{padding:20px 0;border-top:1px solid #999}.profile:first-child{border-top:0}.profile h2{margin-bottom:4px}.profile>.muted{margin:0 0 12px}.profile-section{margin-top:16px}.profile-section h3{border-bottom:1px solid #ddd;padding-bottom:3px}.detail-table{border-collapse:collapse;width:100%;font-size:13px}.detail-table th,.detail-table td{border-bottom:1px solid #eee;padding:6px 10px 6px 0;vertical-align:top;text-align:left;white-space:pre-wrap;overflow-wrap:anywhere}.detail-table th{font-weight:normal;color:#555;width:225px}.table-wrap{max-width:100%;overflow-x:auto}table.index{border-collapse:collapse;width:100%;font-size:13px}.index th,.index td{padding:9px 12px 9px 0;border-bottom:1px solid #ddd;text-align:left;vertical-align:top}.index th{font-weight:600;white-space:nowrap}.plain-link{border:0;text-align:left;text-decoration:underline;padding:0;color:inherit}.plain-link:hover{background:transparent}.section-note{color:#666;max-width:65ch}.map{height:560px;width:100%;border:1px solid #ddd}.empty{padding:20px 0;color:#555}.error{color:#9b1515}.footer-note{margin-top:22px;font-size:12px;color:#666}@media(max-width:720px){.site-header{padding:12px}#navigation{padding:0 8px}#navigation button{min-width:0;padding:10px 13px}main{padding:20px 14px}.detail-table th{width:38%}.toolbar input{min-width:100%}.map{height:420px}}
-
-.resource-contents{display:flex;flex-wrap:wrap;gap:6px 18px;padding:0 0 16px;margin-bottom:20px;border-bottom:1px solid #ddd;font-size:13px}
-.resource-contents a{color:inherit;text-decoration:underline;text-underline-offset:2px}
-.resource-group{margin:0 0 32px;scroll-margin-top:16px}
-.resource-group h2{padding-bottom:6px;border-bottom:1px solid #999;margin:0 0 3px}
-.resource-entry{padding:13px 0;border-bottom:1px solid #e0e0e0;scroll-margin-top:16px}
-.resource-citation{font-size:12px;color:#555;margin-bottom:3px}
-.resource-meta{font-size:12px;margin-top:3px}
-.source-detail{margin:10px 0 4px;max-width:850px}
-.source-detail .profile-section{margin-top:8px}
-
-.profile .phonetics{font-size:13px;margin:1px 0 5px;color:#444}
-
-.resource-citation{font-size:13px;font-weight:600;color:inherit;margin-bottom:8px}
-.resource-entry .detail-table{margin:0}
-
-.resource-empty { font-size: 0.875rem; color: #777; margin: .4rem 0 1.5rem; }
-
-/* Leaflet layout safety net: tile/pane positioning must work even if CDN CSS is blocked. */
-#map.leaflet-container {position:relative;overflow:hidden;isolation:isolate;touch-action:none;background:#ddd}
-#map .leaflet-pane, #map .leaflet-tile, #map .leaflet-marker-icon, #map .leaflet-marker-shadow,
-#map .leaflet-tile-container, #map .leaflet-pane>svg, #map .leaflet-pane>canvas,
-#map .leaflet-image-layer, #map .leaflet-layer, #map .leaflet-zoom-box {position:absolute;top:0;left:0}
-#map .leaflet-map-pane {position:absolute;top:0;left:0}
-#map .leaflet-tile {width:256px;height:256px;max-width:none!important;max-height:none!important;visibility:hidden;border:0}
-#map .leaflet-tile-loaded {visibility:visible}
-#map .leaflet-tile-pane {z-index:200}
-#map .leaflet-overlay-pane {z-index:400}
-#map .leaflet-shadow-pane {z-index:500}
-#map .leaflet-marker-pane {z-index:600}
-#map .leaflet-tooltip-pane {z-index:650}
-#map .leaflet-popup-pane {z-index:700}
-#map .leaflet-control {position:relative;z-index:800;pointer-events:auto}
-#map .leaflet-top, #map .leaflet-bottom {position:absolute;z-index:1000;pointer-events:none}
-#map .leaflet-top {top:0} #map .leaflet-bottom {bottom:0}
-#map .leaflet-left {left:0} #map .leaflet-right {right:0}
-#map .leaflet-control {float:left;clear:both}
-#map .leaflet-right .leaflet-control {float:right}
-#map .leaflet-top .leaflet-control {margin-top:10px}
-#map .leaflet-bottom .leaflet-control {margin-bottom:10px}
-#map .leaflet-left .leaflet-control {margin-left:10px}
-#map .leaflet-right .leaflet-control {margin-right:10px}
-#map .leaflet-control-zoom a {display:block;width:30px;height:30px;text-align:center;line-height:30px;background:#fff;border:1px solid #bbb;text-decoration:none;color:#222;font-size:20px}
-#map .leaflet-control-attribution {background:#ffffffd9;padding:1px 5px;font-size:11px}
-#map .leaflet-popup {position:absolute;text-align:left;margin-bottom:20px}
-#map .leaflet-popup-content-wrapper {background:white;border:1px solid #999;padding:10px;box-shadow:0 1px 6px #0003}
-#map .leaflet-popup-tip-container {display:none}
-#map .leaflet-popup-close-button {position:absolute;right:3px;top:3px;z-index:1}
-#map .leaflet-marker-icon, #map .leaflet-marker-shadow {display:block}
-
-/* Phytonym links are underlined in search results and language lists. */
-.index [data-profile],
-.index [data-profile]:hover { text-decoration: underline; text-underline-offset: 2px; }
-
-.profile-map{height:420px;margin-top:8px}
-.profile-map-note{font-size:12px;color:#666;max-width:72ch;margin:0 0 10px}
-.profile-map-list{margin-top:8px}
-.profile-map-list summary{cursor:pointer}
-.profile-map-list ul{margin:8px 0 0 18px;padding:0}
-.map-popup-list{margin:8px 0 0 18px;padding:0}
-
-/* Cross-language search */
-.search-toolbar{display:flex;align-items:center;gap:12px;margin:8px 0 20px;flex-wrap:wrap}
-.search-toolbar label{font-weight:600}
-.search-toolbar input{flex:1 1 360px;min-width:180px;max-width:800px;padding:9px 11px;border:1px solid #aaa;background:white}
-.search-toolbar .count{white-space:nowrap}
-@media(max-width:720px){.search-toolbar input{flex-basis:100%}}
+/* Circumpolar Ethnobotanical Database — site styles */
+:root {font-family:Arial,Helvetica,sans-serif;color:#171717;background:#fff;font-size:14px;line-height:1.55}
+* {box-sizing:border-box}
+body {margin:0}
+button,input,select {font:inherit;color:inherit}
+button {cursor:pointer;background:#fff;border:1px solid #aaa;padding:5px 10px;border-radius:0}
+button:hover {background:#f3f3f3}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible {outline:2px solid #195c97;outline-offset:2px}
+.site-header {display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ccc;padding:16px 24px;gap:16px}
+.brand {font-size:26px;font-weight:700;line-height:1.18;letter-spacing:-.025em}
+.lang-switch {display:flex;gap:5px;flex-shrink:0}
+.lang-switch button[aria-pressed="true"] {background:#eaeaea}
+#navigation {display:flex;align-items:center;gap:0;width:100%;padding:0 24px;border-bottom:1px solid #ddd;overflow-x:auto}
+#navigation button {flex:0 0 auto;min-width:0;white-space:nowrap;text-align:center;padding:12px 19px;border:0;background:transparent}
+#navigation button.active {font-weight:bold;background:#f1f1f1}
+main {padding:26px 30px;max-width:1500px;width:100%;min-width:0;margin:0 auto}
+h1 {font-size:21px;font-weight:600;margin:0 0 18px}
+h2 {font-size:17px;font-weight:600;margin:0}
+h3 {font-size:14px;font-weight:600;margin:20px 0 6px}
+p {margin:8px 0 16px}
+.muted {color:#666}
+.toolbar {display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0 18px}
+.toolbar input {min-width:220px;max-width:400px;flex:1}
+.toolbar input,.toolbar select {padding:6px;border:1px solid #aaa;border-radius:0;background:#fff}
+.count {color:#666;font-size:12px}
+.profile {padding:20px 0;border-top:1px solid #999}
+.profile:first-child {border-top:0}
+.profile h2 {margin-bottom:4px}
+.profile>.muted {margin:0 0 12px}
+.profile .phonetics {font-size:13px;margin:1px 0 5px;color:#444}
+.profile-section {margin-top:16px}
+.profile-section h3 {border-bottom:1px solid #ddd;padding-bottom:3px}
+.detail-table {border-collapse:collapse;width:100%;font-size:13px}
+.detail-table th,.detail-table td {border-bottom:1px solid #eee;padding:6px 10px 6px 0;vertical-align:top;text-align:left;white-space:pre-wrap;overflow-wrap:anywhere}
+.detail-table th {font-weight:normal;color:#555;width:225px}
+.table-wrap {max-width:100%;overflow-x:auto}
+table.index {border-collapse:collapse;width:100%;font-size:13px}
+.index th,.index td {padding:9px 12px 9px 0;border-bottom:1px solid #ddd;text-align:left;vertical-align:top}
+.index th {font-weight:600;white-space:nowrap}
+.plain-link {border:0;text-align:left;text-decoration:underline;padding:0;color:inherit}
+.plain-link:hover {background:transparent}
+.index [data-profile],.profile-related [data-profile] {color:#155a9a;text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+.index [data-profile]:hover,.profile-related [data-profile]:hover {color:#0c3a66;background:#f0f6ff}
+.empty {padding:20px 0;color:#555}
+.error {color:#9b1515}
+.search-toolbar {display:flex;align-items:center;gap:12px;margin:8px 0 20px;flex-wrap:wrap}
+.search-toolbar label {font-weight:600}
+.search-toolbar input {flex:1 1 360px;min-width:180px;max-width:800px;padding:9px 11px;border:1px solid #aaa;background:#fff}
+.search-toolbar .count {white-space:nowrap}
+.resource-contents {display:flex;flex-wrap:wrap;gap:6px 18px;padding:0 0 16px;margin-bottom:20px;border-bottom:1px solid #ddd;font-size:13px}
+.resource-contents a {color:inherit;text-decoration:underline;text-underline-offset:2px}
+.resource-group {margin:0 0 32px;scroll-margin-top:16px}
+.resource-group h2 {padding-bottom:6px;border-bottom:1px solid #999;margin:0 0 3px}
+.resource-entry {padding:13px 0;border-bottom:1px solid #e0e0e0;scroll-margin-top:16px}
+.resource-citation {font-size:13px;font-weight:600;margin-bottom:8px}
+.resource-entry .detail-table {margin:0}
+.resource-empty {font-size:12px;color:#777;margin:6px 0 24px}
+.profile-related ul {margin:6px 0 12px 18px;padding:0}
+.profile-related li {padding:3px 0}
+.map {height:420px;width:100%;border:1px solid #ddd;margin-top:8px}
+.map-unavailable {height:auto;min-height:90px;display:flex;align-items:center;justify-content:center;padding:22px;color:#666;background:#fafafa}
+.map-popup-list {margin:8px 0 0 18px;padding:0}
+#profile-map.leaflet-container {position:relative;overflow:hidden;isolation:isolate}
+#profile-map .leaflet-tile,#profile-map .leaflet-marker-icon,#profile-map .leaflet-marker-shadow {max-width:none!important;max-height:none!important}
+#profile-map .leaflet-tile,#profile-map .leaflet-pane,#profile-map .leaflet-tile-container {position:absolute;left:0;top:0}
+#profile-map .leaflet-tooltip {background:rgba(255,255,255,.93);border:1px solid #c8c8c8;padding:2px 5px;color:#222;font-size:12px;box-shadow:none}
+#profile-map .leaflet-popup-content {max-height:290px;overflow-y:auto}
+@media(max-width:720px) {
+ .site-header {padding:12px;align-items:flex-start}
+ .brand {font-size:22px}
+ #navigation {padding:0 10px}
+ #navigation button {padding:10px 12px}
+ main {padding:20px 14px}
+ .detail-table th {width:38%}
+ .toolbar input {min-width:100%}
+ .search-toolbar input {flex-basis:100%}
+ .map {height:400px}
+}
