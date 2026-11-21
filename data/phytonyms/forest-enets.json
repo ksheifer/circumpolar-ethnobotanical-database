@@ -1,0 +1,101 @@
+[
+  {
+    "phytonym_id": "phy_forest_enets_001",
+    "language_id": "forest-enets",
+    "dialect_id": null,
+    "taxon_id": "tax_enets_betula",
+    "name_native_language": "ko",
+    "names_other_varieties": [
+      "koe"
+    ],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "лесноэнецкая форма; альтернативная форма koe приведена у Janhunen (2025)",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_enets_nganasan_001",
+        "source_id": "src_siegl_2013_forest_enets",
+        "source_pages": "97",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      },
+      {
+        "attestation_id": "att_enets_nganasan_002",
+        "source_id": "src_janhunen_2025_samoyedic",
+        "source_pages": "168",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_forest_enets_002",
+    "language_id": "forest-enets",
+    "dialect_id": null,
+    "taxon_id": "tax_enets_rubus_chamaemorus",
+    "name_native_language": "morga",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": "форма приведена в глоссированном примере; идентификация по английскому переводу. Общие сведения о сборе ягод лесными энцами не доказывают употребление именно этого вида в пищу",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_enets_nganasan_003",
+        "source_id": "src_siegl_2013_forest_enets",
+        "source_pages": "164",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]

@@ -802,5 +802,104 @@
       "tundra-nenets"
     ],
     "citation_key": "Laptander et al."
+  },
+  {
+    "source_id": "src_siegl_2013_forest_enets",
+    "citation_key": "Siegl",
+    "year": "2013",
+    "title": "Materials on Forest Enets, an indigenous language of northern Siberia",
+    "publication_type": "book",
+    "authors": "Florian Siegl",
+    "editors": "",
+    "subtitle": "",
+    "publisher": "Suomalais-Ugrilainen Seura",
+    "publication_place": "Helsinki",
+    "journal": "",
+    "volume": "267",
+    "issue": "",
+    "page_range": "",
+    "total_pages": 523,
+    "doi": "",
+    "isbn": "978-952-5667-45-5",
+    "url": "https://www.sgr.fi/en/files/original/ad6d806fc90daa70d8403f3293532ecf.pdf",
+    "language_ids": [
+      "forest-enets"
+    ],
+    "notes": ""
+  },
+  {
+    "source_id": "src_janhunen_2025_samoyedic",
+    "citation_key": "Janhunen",
+    "year": "2025",
+    "title": "Samoyedic vowel sequences and the status of the cluster *lk in Uralic",
+    "publication_type": "journal_article",
+    "authors": "Juha Janhunen",
+    "editors": "",
+    "subtitle": "",
+    "publisher": "",
+    "publication_place": "",
+    "journal": "Linguistica Uralica",
+    "volume": "61",
+    "issue": "3",
+    "page_range": "145–184",
+    "total_pages": "",
+    "doi": "10.3176/lu.2025.3.01",
+    "isbn": "",
+    "url": "https://kirj.ee/wp-content/plugins/kirj/pub/ling-2025-3-145-184_20250910124750.pdf",
+    "language_ids": [
+      "forest-enets",
+      "tundra-enets",
+      "nganasan"
+    ],
+    "notes": ""
+  },
+  {
+    "source_id": "src_wratil_2018_samoyedic",
+    "citation_key": "Wratil",
+    "year": "2018",
+    "title": "Structural case and objective conjugation in Northern Samoyedic",
+    "publication_type": "book",
+    "authors": "Melani Wratil",
+    "editors": "",
+    "subtitle": "",
+    "publisher": "Language Science Press",
+    "publication_place": "Berlin",
+    "journal": "Diachrony of differential argument marking",
+    "volume": "",
+    "issue": "",
+    "page_range": "345–375",
+    "total_pages": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://langsci-press.org/catalog/view/173/1279/1053-1",
+    "language_ids": [
+      "nganasan"
+    ],
+    "notes": ""
+  },
+  {
+    "source_id": "src_degtyarenko_2026_enets",
+    "citation_key": "Degtyarenko et al.",
+    "year": "2026",
+    "title": "The Enets Ethnic Knowledge about Food and Medicinal Plants, Recorded in Folklore Monuments",
+    "publication_type": "journal_article",
+    "authors": "Ksenia A. Degtyarenko; Anna A. Shurmanova; Sophia I. Yuferova; Sofia A. Mikhailova; Alexandra A. Garth",
+    "editors": "",
+    "subtitle": "",
+    "publisher": "",
+    "publication_place": "",
+    "journal": "Journal of Siberian Federal University. Humanities & Social Sciences",
+    "volume": "19",
+    "issue": "2",
+    "page_range": "259–270",
+    "total_pages": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://elib.sfu-kras.ru/handle/2311/158149",
+    "language_ids": [
+      "forest-enets",
+      "tundra-enets"
+    ],
+    "notes": ""
   }
 ]

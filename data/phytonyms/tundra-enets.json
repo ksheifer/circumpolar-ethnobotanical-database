@@ -1,0 +1,46 @@
+[
+  {
+    "phytonym_id": "phy_tundra_enets_001",
+    "language_id": "tundra-enets",
+    "dialect_id": null,
+    "taxon_id": "tax_enets_betula",
+    "name_native_language": "kua",
+    "names_other_varieties": [
+      "kue"
+    ],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "тундоэнецкие варианты kua ~ kue по Janhunen (2025); этимологическое сопоставление",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_enets_nganasan_004",
+        "source_id": "src_janhunen_2025_samoyedic",
+        "source_pages": "168",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]

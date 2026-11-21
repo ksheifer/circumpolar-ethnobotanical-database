@@ -1374,5 +1374,29 @@
     "taxon_rank": "genus",
     "conservation_invasiveness_status": "",
     "notes": "Identification reported by source; may cover broader folk categories."
+  },
+  {
+    "taxon_id": "tax_enets_betula",
+    "scientific_name": "Betula",
+    "botanical_family": "Betulaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Botanical identification at the level explicitly supported by the cited source."
+  },
+  {
+    "taxon_id": "tax_enets_rubus_chamaemorus",
+    "scientific_name": "Rubus chamaemorus",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Botanical identification at the level explicitly supported by the cited source."
+  },
+  {
+    "taxon_id": "tax_nganasan_larix",
+    "scientific_name": "Larix",
+    "botanical_family": "Pinaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Botanical identification at the level explicitly supported by the cited source."
   }
 ]

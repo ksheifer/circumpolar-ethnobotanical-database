@@ -1,0 +1,86 @@
+[
+  {
+    "phytonym_id": "phy_nganasan_001",
+    "language_id": "nganasan",
+    "dialect_id": null,
+    "taxon_id": "tax_enets_betula",
+    "name_native_language": "küe",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "форма и перевод прямо засвидетельствованы в этимологическом сопоставлении; оригинальная научная латиница сохранена",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_enets_nganasan_005",
+        "source_id": "src_janhunen_2025_samoyedic",
+        "source_pages": "168",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_nganasan_002",
+    "language_id": "nganasan",
+    "dialect_id": null,
+    "taxon_id": "tax_nganasan_larix",
+    "name_native_language": "sənəhu͡aa",
+    "names_other_varieties": [],
+    "russian_gloss": "лиственница",
+    "english_gloss": "larch",
+    "linguistic_comment": "в публикации это форма винительного падежа в нганасанском примере, а не проверенная словарная лемма; сохранена исходная научная транскрипция",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_enets_nganasan_006",
+        "source_id": "src_wratil_2018_samoyedic",
+        "source_pages": "352",
+        "location_id": null,
+        "contributor_id": null,
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": []
+      }
+    ],
+    "ipa": null
+  }
+]
