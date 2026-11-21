@@ -10,7 +10,7 @@
     ],
     "russian_gloss": "морошка",
     "english_gloss": "cloudberry",
-    "linguistic_comment": "; латинская запись maraŋga приведена по Laptander et al. (2024)",
+    "linguistic_comment": "Латинская запись: maraŋga.",
     "cognate": "",
     "ecological_data": {
       "habitat": "тундра",
@@ -177,7 +177,7 @@
     ],
     "russian_gloss": "брусника",
     "english_gloss": "lingonberry",
-    "linguistic_comment": "; латинская запись yensdej приведена по Laptander et al. (2024)",
+    "linguistic_comment": "Латинская запись: yensdej.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -276,7 +276,7 @@
     ],
     "russian_gloss": "шикша",
     "english_gloss": "crowberry",
-    "linguistic_comment": "; латинская запись tosalja приведена по Laptander et al. (2024)",
+    "linguistic_comment": "Латинская запись: tosalja.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -368,7 +368,7 @@
     ],
     "russian_gloss": "княженика",
     "english_gloss": "arctic raspberry",
-    "linguistic_comment": "; латинская запись le”mor'-ŋodja приведена по Laptander et al. (2024)",
+    "linguistic_comment": "Латинская запись: le”mor'-ŋodja.",
     "cognate": "",
     "ecological_data": {
       "habitat": "возвышенные места рядом с водоёмами",
@@ -601,7 +601,7 @@
     "names_other_varieties": [],
     "russian_gloss": "черника",
     "english_gloss": "bilberry",
-    "linguistic_comment": "у Адаева черника; у Laptander et al. lamduj относится к Vaccinium uliginosum, не объединять таксоны без проверки",
+    "linguistic_comment": "у Адаева черника; у Laptander et al. lamduj относится к Vaccinium uliginosum",
     "cognate": "",
     "ecological_data": {
       "habitat": "лесотундра",
@@ -669,7 +669,7 @@
     "names_other_varieties": [],
     "russian_gloss": "клюква",
     "english_gloss": "cranberry",
-    "linguistic_comment": "научное видовое отождествление не указано источником; оставлено на уровне обычного названия",
+    "linguistic_comment": "научное видовое отождествление не указано источником",
     "cognate": "",
     "ecological_data": {
       "habitat": "лесотундра",
@@ -794,7 +794,7 @@
     "names_other_varieties": [],
     "russian_gloss": "съедобный корень нескольких бобовых",
     "english_gloss": "edible root of several legumes",
-    "linguistic_comment": "собирательное название минимум для Oxytropis sordida, Hedysarum sibiricum и H. arcticum; не отождествлять с одним видом",
+    "linguistic_comment": "собирательное название минимум для Oxytropis sordida, Hedysarum sibiricum и H. arcticum",
     "cognate": "",
     "ecological_data": {
       "habitat": "песчаные возвышенности и склоны оврагов",
@@ -940,7 +940,7 @@
     "names_other_varieties": [],
     "russian_gloss": "чемерица Лобеля",
     "english_gloss": "white false hellebore",
-    "linguistic_comment": "историческое описание токсичного применения; не медицинская рекомендация",
+    "linguistic_comment": "историческое описание токсичного применения",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -1472,7 +1472,7 @@
     "names_other_varieties": [],
     "russian_gloss": "чага",
     "english_gloss": "chaga",
-    "linguistic_comment": "гриб, не сосудистое растение; сохранён как этномикологическая запись",
+    "linguistic_comment": "гриб, не сосудистое растение",
     "cognate": "",
     "ecological_data": {
       "habitat": "не растёт в тундре; поступает из лесотундры и тайги через обмен",

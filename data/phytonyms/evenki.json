@@ -8,7 +8,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лиственница",
     "english_gloss": "larch",
-    "linguistic_comment": "На с. 58 прямо дано: «лиственница, по-эвенкийски ... ирэктэ». Пищевые рецепты книги отчасти представлены как рекомендации автора, а не обязательно как старинный обычай.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -857,7 +857,7 @@
     "names_other_varieties": [],
     "russian_gloss": "сосна",
     "english_gloss": "pine",
-    "linguistic_comment": "На с. 58 явно приведён перевод «дягда — ... сосна». Описаны пищевые и общеоздоровительные представления, не клинически проверенные рекомендации.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -1906,7 +1906,7 @@
     "names_other_varieties": [],
     "russian_gloss": "берёза",
     "english_gloss": "birch",
-    "linguistic_comment": "На с. 59 заголовок «ЧАЛБАН» следует непосредственно за разделом о кедре и относится к берёзе. С. 67–73 дополнительно посвящены берестяной утвари, но не содержат на этих страницах нового фитонима.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -5769,7 +5769,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rosa",
-    "name_native_language": "сӱптылэ",
+    "name_native_language": "сӯптылэ",
     "names_other_varieties": [],
     "russian_gloss": "шиповник",
     "english_gloss": "rosehip",
@@ -5805,7 +5805,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "сӱптылэ",
+    "source_lemma": "сӯптылэ",
     "source_volume": null,
     "ipa": null
   },
@@ -5814,7 +5814,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rosa",
-    "name_native_language": "һӱптылэ",
+    "name_native_language": "һӯптылэ",
     "names_other_varieties": [],
     "russian_gloss": "шиповник",
     "english_gloss": "rosehip",
@@ -5858,7 +5858,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "һӱптылэ",
+    "source_lemma": "һӯптылэ",
     "source_volume": null,
     "ipa": null
   },
@@ -6598,7 +6598,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rhododendron",
-    "name_native_language": "нёр",
+    "name_native_language": "не̄р",
     "names_other_varieties": [],
     "russian_gloss": "рододендрон",
     "english_gloss": "rhododendron",
@@ -6642,7 +6642,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "нёр",
+    "source_lemma": "не̄р",
     "source_volume": null,
     "ipa": null
   },
@@ -6963,7 +6963,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
-    "name_native_language": "ӧктамкӯра",
+    "name_native_language": "о̄ктамкӯра",
     "names_other_varieties": [],
     "russian_gloss": "тальник",
     "english_gloss": "willow thicket",
@@ -7015,7 +7015,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "ӧктамкӯра",
+    "source_lemma": "о̄ктамкӯра",
     "source_volume": null,
     "ipa": null
   },
@@ -7024,7 +7024,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
-    "name_native_language": "ӧктан",
+    "name_native_language": "о̄ктан",
     "names_other_varieties": [],
     "russian_gloss": "тальник",
     "english_gloss": "willow thicket",
@@ -7076,7 +7076,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "ӧктан",
+    "source_lemma": "о̄ктан",
     "source_volume": null,
     "ipa": null
   },
@@ -7085,7 +7085,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
-    "name_native_language": "ӧктар",
+    "name_native_language": "о̄ктар",
     "names_other_varieties": [],
     "russian_gloss": "тальник",
     "english_gloss": "willow thicket",
@@ -7127,7 +7127,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "ӧктар",
+    "source_lemma": "о̄ктар",
     "source_volume": null,
     "ipa": null
   },
@@ -7440,7 +7440,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
-    "name_native_language": "ӱкэчиктэ",
+    "name_native_language": "ӯкэчиктэ",
     "names_other_varieties": [],
     "russian_gloss": "красный тальник (верба)",
     "english_gloss": "red willow",
@@ -7482,7 +7482,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "ӱкэчиктэ",
+    "source_lemma": "ӯкэчиктэ",
     "source_volume": null,
     "ipa": null
   },
@@ -9562,7 +9562,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lilium",
-    "name_native_language": "дёкта",
+    "name_native_language": "де̄кта",
     "names_other_varieties": [],
     "russian_gloss": "сарана (лилия)",
     "english_gloss": "sarana lily",
@@ -9604,7 +9604,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "дёкта",
+    "source_lemma": "де̄кта",
     "source_volume": null,
     "ipa": null
   },
@@ -10615,7 +10615,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
-    "name_native_language": "юӧклӣ",
+    "name_native_language": "юо̄клӣ",
     "names_other_varieties": [],
     "russian_gloss": "чёрная смородина",
     "english_gloss": "blackcurrant",
@@ -10651,7 +10651,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "юӧклӣ",
+    "source_lemma": "юо̄клӣ",
     "source_volume": null,
     "ipa": null
   },
@@ -11068,7 +11068,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
-    "name_native_language": "мӧннёгон",
+    "name_native_language": "мо̄нне̄гон",
     "names_other_varieties": [],
     "russian_gloss": "чёрная смородина",
     "english_gloss": "blackcurrant",
@@ -11110,7 +11110,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "мӧннёгон",
+    "source_lemma": "мо̄нне̄гон",
     "source_volume": null,
     "ipa": null
   },
@@ -13261,7 +13261,7 @@
     "language_id": "evenki",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rubus",
-    "name_native_language": "кӧмакта",
+    "name_native_language": "ко̄макта",
     "names_other_varieties": [],
     "russian_gloss": "костяника",
     "english_gloss": "stone bramble",
@@ -13303,7 +13303,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "кӧмакта",
+    "source_lemma": "ко̄макта",
     "source_volume": null,
     "ipa": null
   },
@@ -13987,7 +13987,7 @@
     "language_id": "evenki",
     "dialect_id": "dia_evenki_myreeva_16",
     "taxon_id": "tax_family_inferred_allium",
-    "name_native_language": "маӈёһун",
+    "name_native_language": "маӈе̄һун",
     "names_other_varieties": [],
     "russian_gloss": "степной дикий лук",
     "english_gloss": "wild steppe onion",
@@ -14027,7 +14027,7 @@
       }
     ],
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
-    "source_lemma": "маӈёһун",
+    "source_lemma": "маӈе̄һун",
     "source_volume": null,
     "ipa": null
   },
@@ -15051,7 +15051,7 @@
     "names_other_varieties": [],
     "russian_gloss": "кедр",
     "english_gloss": "Siberian pine / cedar pine",
-    "linguistic_comment": "«Кедр» в сибирском русском употреблении может означать кедровую сосну; указание Pinus sibirica здесь рабочее и требует флористической проверки.",
+    "linguistic_comment": "«Кедр» может обозначать кедровую сосну; видовая идентификация не установлена.",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -15096,7 +15096,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ива, тальник",
     "english_gloss": "willow",
-    "linguistic_comment": "В тексте с. 59 явно «СЕКТА. Это ива, она же тальник». Французский рецепт на с. 60 не приписывать эвенкийской традиции.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -15141,7 +15141,7 @@
     "names_other_varieties": [],
     "russian_gloss": "голубика",
     "english_gloss": "bog bilberry",
-    "linguistic_comment": "На с. 60 прямо «голубика. ДИКТЭ»; на с. 73 «диктэ» в описании берестяного приспособления для сбора голубики.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -15186,7 +15186,7 @@
     "names_other_varieties": [],
     "russian_gloss": "сарана, лилия кудреватая",
     "english_gloss": "martagon lily",
-    "linguistic_comment": "На с. 56 сарана названа «поно». В том же фрагменте описано различение съедобных и ядовитых луковиц; видовую идентификацию требуется подтвердить отдельно.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -15231,7 +15231,7 @@
     "names_other_varieties": [],
     "russian_gloss": "солодка (корень)",
     "english_gloss": "licorice",
-    "linguistic_comment": "На с. 54 указан корень солодки «синикта»; точный ботанический вид в тексте не определён.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -15276,7 +15276,7 @@
     "names_other_varieties": [],
     "russian_gloss": "папоротник",
     "english_gloss": "fern",
-    "linguistic_comment": "На с. 55 прямо дан термин «папоротники — орокомкура»; род/вид не установлен.",
+    "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
       "habitat": "",

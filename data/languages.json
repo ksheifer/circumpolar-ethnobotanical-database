@@ -103,10 +103,10 @@
   },
   {
     "language_id": "koryak",
-    "name_en": "Koryak / Alyutor",
-    "name_ru": "Корякский / алюторский",
+    "name_en": "Koryak",
+    "name_ru": "Корякский",
     "iso_639_3": "",
-    "notes": "Combined navigation/catalog group for Koryak and Alyutor. This editorial grouping does not imply identical linguistic varieties.",
+    "notes": "Alyutor is retained under Language variety for its corresponding phytonyms.",
     "west_east_order": 17
   },
   {

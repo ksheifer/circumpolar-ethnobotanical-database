@@ -3908,5 +3908,41 @@
     "language_ids": [
       "evenki"
     ]
+  },
+  {
+    "location_id": "loc_selkup_narym_reference",
+    "country": "Россия / Russia",
+    "region": "Томская область / Tomsk Oblast",
+    "district": "Парабельский район / Parabelsky District",
+    "latitude": 58.924118,
+    "longitude": 81.595585,
+    "location_type": "settlement",
+    "coordinate_precision": "settlement_centre",
+    "visibility": "public",
+    "notes": "Географический ориентир селькупского языкового сообщества; НЕ место фиксации какого-либо фитонима. Координаты центра населённого пункта: https://www.komandirovka.ru/cities/naryim/",
+    "locality": "Нарым / Narym",
+    "language_ids": [
+      "selkup"
+    ],
+    "name_ru": "Нарым",
+    "name_en": "Narym"
+  },
+  {
+    "location_id": "loc_selkup_krasnoselkup_reference",
+    "country": "Россия / Russia",
+    "region": "Ямало-Ненецкий автономный округ / Yamalo-Nenets Autonomous Okrug",
+    "district": "Красноселькупский район / Krasnoselkupsky District",
+    "latitude": 65.705556,
+    "longitude": 82.46,
+    "location_type": "settlement",
+    "coordinate_precision": "settlement_centre",
+    "visibility": "public",
+    "notes": "Географический ориентир селькупского языкового сообщества; НЕ место фиксации какого-либо фитонима. Координаты центра населённого пункта: https://www.komandirovka.ru/cities/krasnoselkup/",
+    "locality": "Красноселькуп / Krasnoselkup",
+    "language_ids": [
+      "selkup"
+    ],
+    "name_ru": "Красноселькуп",
+    "name_en": "Krasnoselkup"
   }
 ]

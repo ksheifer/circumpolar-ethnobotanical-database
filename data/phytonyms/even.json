@@ -6,7 +6,7 @@
     "cognate": "авур- ‘болтать вздор; сходить с ума’ [Robbek 2005: 305]",
     "russian_gloss": "поганка; мухомор",
     "english_gloss": "toadstool; fly agaric",
-    "linguistic_comment": "Comparison/etymology quoted as provided; linguistic relationship not independently verified.",
+    "linguistic_comment": "",
     "phytonym_id": "phy_avurukani_001",
     "language_id": "even",
     "taxon_id": "tax_amanita",
@@ -729,7 +729,7 @@
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
-    "name_native_language": "дёдан",
+    "name_native_language": "де̄дан",
     "names_other_varieties": [],
     "russian_gloss": "ольха",
     "english_gloss": "alder",
@@ -765,7 +765,7 @@
       }
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "дёдан",
+    "source_lemma": "де̄дан",
     "ipa": null
   },
   {
@@ -4656,7 +4656,7 @@
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
-    "name_native_language": "масилёк",
+    "name_native_language": "масиле̄к",
     "names_other_varieties": [],
     "russian_gloss": "василёк",
     "english_gloss": "cornflower",
@@ -4702,7 +4702,7 @@
       }
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "масилёк",
+    "source_lemma": "масиле̄к",
     "ipa": null
   },
   {

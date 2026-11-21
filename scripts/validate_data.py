@@ -187,6 +187,19 @@ for p in tables['phytonyms']:
                     errors.append(f'{label}: field-level source language mismatch')
 if len(attestation_ids) != len(set(attestation_ids)):
     errors.append('attestations: duplicate attestation_id')
+# Regression: new Sámi and Koryak additions must have a map-visible point.
+# A regional reference point is NOT an attested place of recording.
+for p in tables['phytonyms']:
+    if p.get('phytonym_id', '').startswith(('phy_sami_research_', 'phy_koryak_research_')):
+        direct = [a.get('location_id') for a in p['attestations'] if a.get('location_id')]
+        dids = [p.get('dialect_id')] + [a.get('dialect_id') for a in p['attestations']]
+        via_dialect = [loc for did in dids if did for d in tables['dialects'] if d['dialect_id'] == did for loc in d.get('location_ids', [])]
+        candidates = direct + via_dialect + [p.get('reference_location_id')]
+        visible = [loc for loc in tables['locations'] if loc['location_id'] in candidates and loc.get('visibility') != 'confidential' and loc.get('latitude') is not None and loc.get('longitude') is not None]
+        if not visible:
+            errors.append(f"{p['phytonym_id']}: no map-renderable locality")
+        if not direct and not via_dialect and not p.get('reference_location_source_url'):
+            errors.append(f"{p['phytonym_id']}: community reference lacks provenance URL")
 # Ensure all Yukaghir phytonyms have appropriate fallback geography.
 for p in tables['phytonyms']:
     expected_reference = {'forest-yukaghir': 'Нелемное', 'tundra-yukaghir': 'Андрюшкино'}.get(p['language_id'])
@@ -204,6 +217,21 @@ for p in tables['phytonyms']:
             errors.append(f"{p.get('phytonym_id')}: non-Cyrillic Chukchi name")
         if not p.get('ipa') or p.get('ipa') != p.get('source_lemma'):
             errors.append(f"{p.get('phytonym_id')}: missing or inconsistent IPA source spelling")
+
+# Avoid process notes leaking into public lexical descriptions and misleading citations.
+for source in tables['sources']:
+    key = str(source.get('citation_key', ''))
+    if key.endswith(str(source.get('year', ''))) and str(source.get('year', '')):
+        errors.append(f"{source['source_id']}: citation_key repeats the year")
+for plant in tables['phytonyms']:
+    for att in plant.get('attestations', []):
+        context = str(att.get('usage_context', ''))
+        if any(phrase in context.lower() for phrase in (
+            'compare the printed pdf', 'requires page-image verification',
+            'romanized source string from ocr', 'not merged merely',
+            'administrative reference point', 'not the individual page')):
+            errors.append(f"{plant['phytonym_id']}: editorial note in public usage_context")
+
 if errors:
     for e in errors: print('ERROR:',e)
     sys.exit(1)
