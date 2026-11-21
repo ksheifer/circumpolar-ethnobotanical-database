@@ -224,7 +224,7 @@
     "language_id": "dolgan",
     "dialect_id": null,
     "taxon_id": null,
-    "name_native_language": "катың",
+    "name_native_language": "катыӈ",
     "names_other_varieties": [],
     "russian_gloss": "берёза",
     "english_gloss": "birch",
@@ -259,7 +259,7 @@
         "dialect_abbreviations": []
       }
     ],
-    "source_lemma": "катың",
+    "source_lemma": "катыӈ",
     "extraction_status": "manually_checked_against_uploaded_draft_pdf",
     "ipa": null
   },
@@ -840,7 +840,7 @@
     "language_id": "dolgan",
     "dialect_id": null,
     "taxon_id": null,
-    "name_native_language": "һэңкирэ",
+    "name_native_language": "һэӈкирэ",
     "names_other_varieties": [],
     "russian_gloss": "багульник",
     "english_gloss": "labrador tea",
@@ -875,7 +875,7 @@
         "dialect_abbreviations": []
       }
     ],
-    "source_lemma": "һэңкирэ",
+    "source_lemma": "һэӈкирэ",
     "extraction_status": "manually_checked_against_uploaded_draft_pdf",
     "ipa": null
   },

@@ -278,5 +278,749 @@
     "taxon_rank": "source_taxon_or_group",
     "conservation_invasiveness_status": "",
     "notes": "Taxonomic identification follows the cited article (Table 1)."
+  },
+  {
+    "taxon_id": "tax_sakha1976_triglochin_palustris",
+    "scientific_name": "Triglochin palustris",
+    "botanical_family": "Juncaginaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_senecio_erucifolius",
+    "scientific_name": "Senecio erucifolius",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_scolochloa_festucacea",
+    "scientific_name": "Scolochloa festucacea",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_praecox",
+    "scientific_name": "Carex praecox",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_cicuta_virosa",
+    "scientific_name": "Cicuta virosa",
+    "botanical_family": "Apiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_elymus_repens",
+    "scientific_name": "Elymus repens",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_iris_setosa",
+    "scientific_name": "Iris setosa",
+    "botanical_family": "Iridaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_stellaria_crassifolia",
+    "scientific_name": "Stellaria crassifolia",
+    "botanical_family": "Caryophyllaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_comarum_palustre",
+    "scientific_name": "Comarum palustre",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_poa_angustifolia",
+    "scientific_name": "Poa angustifolia",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_hordeum_brevisubulatum",
+    "scientific_name": "Hordeum brevisubulatum",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_plantago",
+    "scientific_name": "Plantago",
+    "botanical_family": "Plantaginaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_castilleja_rubra",
+    "scientific_name": "Castilleja rubra",
+    "botanical_family": "Orobanchaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_sparganium_simplex",
+    "scientific_name": "Sparganium simplex",
+    "botanical_family": "Typhaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_equisetum_limosum",
+    "scientific_name": "Equisetum limosum",
+    "botanical_family": "Equisetaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_equisetum_palustre",
+    "scientific_name": "Equisetum palustre",
+    "botanical_family": "Equisetaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_equisetum_scirpoides",
+    "scientific_name": "Equisetum scirpoides",
+    "botanical_family": "Equisetaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_amgunensis",
+    "scientific_name": "Carex amgunensis",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_usnea",
+    "scientific_name": "Usnea",
+    "botanical_family": "Parmeliaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 375; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_agrostis_alba",
+    "scientific_name": "Agrostis alba",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_polygonum_sibiricum",
+    "scientific_name": "Polygonum sibiricum",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_pedicularis_palustris",
+    "scientific_name": "Pedicularis palustris",
+    "botanical_family": "Orobanchaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_sanguisorba_officinalis",
+    "scientific_name": "Sanguisorba officinalis",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_arctophila_fulva",
+    "scientific_name": "Arctophila fulva",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_glyceria",
+    "scientific_name": "Glyceria",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_poa_pratensis",
+    "scientific_name": "Poa pratensis",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_plantago_depressa",
+    "scientific_name": "Plantago depressa",
+    "botanical_family": "Plantaginaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_senecio_arcticus",
+    "scientific_name": "Senecio arcticus",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_willuica",
+    "scientific_name": "Carex willuica",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia_commutata",
+    "scientific_name": "Artemisia commutata",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_galium_verum",
+    "scientific_name": "Galium verum",
+    "botanical_family": "",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_hedysarum_arcticum",
+    "scientific_name": "Hedysarum arcticum",
+    "botanical_family": "Fabaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_menyanthes_trifoliata",
+    "scientific_name": "Menyanthes trifoliata",
+    "botanical_family": "Menyanthaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 376; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_cnidium_cnidiifolium",
+    "scientific_name": "Cnidium cnidiifolium",
+    "botanical_family": "Apiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_chenopodium_album",
+    "scientific_name": "Chenopodium album",
+    "botanical_family": "Amaranthaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_critesion_jubatum",
+    "scientific_name": "Critesion jubatum",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_rumex_thyrsiflorus",
+    "scientific_name": "Rumex thyrsiflorus",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_armoracia_sisymbrioides",
+    "scientific_name": "Armoracia sisymbrioides",
+    "botanical_family": "Brassicaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_achillea_millefolium",
+    "scientific_name": "Achillea millefolium",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_parnassia_palustris",
+    "scientific_name": "Parnassia palustris",
+    "botanical_family": "Celastraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_alopecurus_arundinaceus",
+    "scientific_name": "Alopecurus arundinaceus",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_puccinellia_hauptiana",
+    "scientific_name": "Puccinellia hauptiana",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_caltha_palustris",
+    "scientific_name": "Caltha palustris",
+    "botanical_family": "Ranunculaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_schoenoplectus_lacustris",
+    "scientific_name": "Schoenoplectus lacustris",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_geranium_pratense",
+    "scientific_name": "Geranium pratense",
+    "botanical_family": "Geraniaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_lactuca_sibirica",
+    "scientific_name": "Lactuca sibirica",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_trifolium_lupinaster",
+    "scientific_name": "Trifolium lupinaster",
+    "botanical_family": "Fabaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_sedum_purpureum",
+    "scientific_name": "Sedum purpureum",
+    "botanical_family": "Crassulaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_chamaenerion_angustifolium",
+    "scientific_name": "Chamaenerion angustifolium",
+    "botanical_family": "Onagraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_vicia_cracca",
+    "scientific_name": "Vicia cracca",
+    "botanical_family": "Fabaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_aster_sibiricus",
+    "scientific_name": "Aster sibiricus",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_veronica_incana",
+    "scientific_name": "Veronica incana",
+    "botanical_family": "Plantaginaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 377; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia_vulgaris",
+    "scientific_name": "Artemisia vulgaris",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia_tanacetifolia",
+    "scientific_name": "Artemisia tanacetifolia",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_polygonum_aviculare",
+    "scientific_name": "Polygonum aviculare",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_vesicata",
+    "scientific_name": "Carex vesicata",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_eriophorum_angustifolium",
+    "scientific_name": "Eriophorum angustifolium",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_roegneria",
+    "scientific_name": "Roegneria",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_pyrola_incarnata",
+    "scientific_name": "Pyrola incarnata",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_potentilla_anserina",
+    "scientific_name": "Potentilla anserina",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_thymus_serpyllum",
+    "scientific_name": "Thymus serpyllum",
+    "botanical_family": "Lamiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_digraphis_arundinacea",
+    "scientific_name": "Digraphis arundinacea",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_thlaspi_arvense",
+    "scientific_name": "Thlaspi arvense",
+    "botanical_family": "Brassicaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_inflata",
+    "scientific_name": "Carex inflata",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 378; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_glyceria_aquatica",
+    "scientific_name": "Glyceria aquatica",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_sagittaria_natans",
+    "scientific_name": "Sagittaria natans",
+    "botanical_family": "Alismataceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_taraxacum",
+    "scientific_name": "Taraxacum",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_castilleja_pallida",
+    "scientific_name": "Castilleja pallida",
+    "botanical_family": "Orobanchaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_linaria_acutiloba",
+    "scientific_name": "Linaria acutiloba",
+    "botanical_family": "Plantaginaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_corydalis_sibirica",
+    "scientific_name": "Corydalis sibirica",
+    "botanical_family": "Papaveraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_duriuscula",
+    "scientific_name": "Carex duriuscula",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_koeleria_gracilis",
+    "scientific_name": "Koeleria gracilis",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_glyceria_triflora",
+    "scientific_name": "Glyceria triflora",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_achillea_alpina",
+    "scientific_name": "Achillea alpina",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 379; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_ranunculus_borealis",
+    "scientific_name": "Ranunculus borealis",
+    "botanical_family": "Ranunculaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_dianthus_versicolor",
+    "scientific_name": "Dianthus versicolor",
+    "botanical_family": "Caryophyllaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_peltigera_aphthosa",
+    "scientific_name": "Peltigera aphthosa",
+    "botanical_family": "Peltigeraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_valeriana_capitata",
+    "scientific_name": "Valeriana capitata",
+    "botanical_family": "Caprifoliaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_pyrola",
+    "scientific_name": "Pyrola",
+    "botanical_family": "Ericaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_calamagrostis_langsdorffii",
+    "scientific_name": "Calamagrostis langsdorffii",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_alopecurus_alpinus",
+    "scientific_name": "Alopecurus alpinus",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_anemone_sibirica",
+    "scientific_name": "Anemone sibirica",
+    "botanical_family": "Ranunculaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_campanula_langsdorffiana",
+    "scientific_name": "Campanula langsdorffiana",
+    "botanical_family": "Campanulaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_campanula_glomerata",
+    "scientific_name": "Campanula glomerata",
+    "botanical_family": "Campanulaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia_jacutica",
+    "scientific_name": "Artemisia jacutica",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia_dracunculus",
+    "scientific_name": "Artemisia dracunculus",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_carex_stans",
+    "scientific_name": "Carex stans",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_bromus_ircutensis",
+    "scientific_name": "Bromus ircutensis",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_artemisia",
+    "scientific_name": "Artemisia",
+    "botanical_family": "Asteraceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_zygadenus_sibiricus",
+    "scientific_name": "Zygadenus sibiricus",
+    "botanical_family": "Melanthiaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_saxifraga_punctata",
+    "scientific_name": "Saxifraga punctata",
+    "botanical_family": "Saxifragaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_dasiphora_fruticosa",
+    "scientific_name": "Dasiphora fruticosa",
+    "botanical_family": "Rosaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
+  },
+  {
+    "taxon_id": "tax_sakha1976_veronica_longifolia",
+    "scientific_name": "Veronica longifolia",
+    "botanical_family": "Plantaginaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "As cited in Afanasyev, Voronkin & Alekseev (1976), p. 380; historical identification, not taxonomically reconciled."
   }
 ]

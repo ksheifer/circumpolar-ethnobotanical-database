@@ -80,3 +80,6 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .statistics-table{max-width:650px}
 .statistics-table .numeric{text-align:right;font-variant-numeric:tabular-nums}
 .statistics-table tfoot th,.statistics-table tfoot td{font-weight:700;border-top:2px solid #aaa}
+
+.resource-url{color:#165d9d;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere}
+.resource-url:hover{color:#0d4070}
