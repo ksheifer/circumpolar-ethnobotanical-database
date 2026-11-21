@@ -153,6 +153,47 @@ for filename in phy_files:
     if key not in ids['languages']:errors.append(f'{filename}: no matching language')
     for p in read(filename):
         if p.get('language_id') != key:errors.append(f'{filename}: wrong language for {p.get("phytonym_id")}')
+# Guard the join paths used by the browser map, source details and exports.
+attestation_ids = []
+for p in tables['phytonyms']:
+    label = p['phytonym_id']
+    reference = p.get('reference_location_id')
+    if reference:
+        linked(reference, ids['locations'], f'{label}.reference_location_id')
+        location = next((x for x in tables['locations'] if x['location_id'] == reference), None)
+        if location and p['language_id'] not in location.get('language_ids', []):
+            errors.append(f'{label}: reference locality belongs to another language')
+    for att in p['attestations']:
+        aid = att.get('attestation_id')
+        if not aid or not isinstance(aid, str):
+            errors.append(f'{label}: missing attestation_id')
+        else:
+            attestation_ids.append(aid)
+        loc_id = att.get('location_id')
+        if loc_id:
+            location = next((x for x in tables['locations'] if x['location_id'] == loc_id), None)
+            if location and p['language_id'] not in location.get('language_ids', []):
+                errors.append(f'{label}: attestation location belongs to another language')
+        dialect_id = att.get('dialect_id')
+        if dialect_id:
+            dialect = next((x for x in tables['dialects'] if x['dialect_id'] == dialect_id), None)
+            if dialect and dialect['language_id'] != p['language_id']:
+                errors.append(f'{label}: attestation dialect language mismatch')
+    for group, fields in p.get('field_sources', {}).items():
+        for field, refs in fields.items():
+            for ref in refs:
+                source = next((x for x in tables['sources'] if x['source_id'] == ref.get('source_id')), None)
+                if source and p['language_id'] not in source.get('language_ids', []):
+                    errors.append(f'{label}: field-level source language mismatch')
+if len(attestation_ids) != len(set(attestation_ids)):
+    errors.append('attestations: duplicate attestation_id')
+# Ensure all Yukaghir phytonyms have appropriate fallback geography.
+for p in tables['phytonyms']:
+    expected_reference = {'forest-yukaghir': 'Нелемное', 'tundra-yukaghir': 'Андрюшкино'}.get(p['language_id'])
+    if expected_reference and not any(a.get('location_id') for a in p['attestations']):
+        loc = next((x for x in tables['locations'] if x['location_id'] == p.get('reference_location_id')), None)
+        if not loc or loc.get('name_ru') != expected_reference or loc.get('latitude') is None:
+            errors.append(f"{p['phytonym_id']}: missing Yukaghir community fallback {expected_reference}")
 for c in tables['contributors']:
     if c.get('consent_status') in ('pending',):errors.append(f"{c['contributor_id']}: pending consent in public dataset")
 # Chukchi orthography and reversible source spelling.

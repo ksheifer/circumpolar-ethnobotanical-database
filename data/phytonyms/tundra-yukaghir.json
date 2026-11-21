@@ -39,7 +39,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_kurilova2026_001",
@@ -81,7 +82,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_prokopeva2026_extra_001",
@@ -123,7 +125,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_001",
@@ -195,7 +198,8 @@
     },
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
-    }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_002",
@@ -267,7 +271,8 @@
     },
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
-    }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_003",
@@ -339,7 +344,8 @@
     },
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
-    }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_004",
@@ -411,7 +417,8 @@
     },
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
-    }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_005",
@@ -468,6 +475,7 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
   }
 ]

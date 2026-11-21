@@ -92,7 +92,8 @@
       "domestic_use": "logs used for houses; roots of old larch boiled for a red dye used to colour skins",
       "human_consumption": "inner bark was eaten",
       "spiritual_use": "larch beams used for elevated coffins; standing larches served as supports for funerary platforms"
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
@@ -134,7 +135,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_003",
@@ -176,7 +178,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_004",
@@ -218,7 +221,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_005",
@@ -260,7 +264,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_006",
@@ -302,7 +307,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_007",
@@ -344,7 +350,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_008",
@@ -386,7 +393,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_009",
@@ -428,7 +436,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_010",
@@ -470,7 +479,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_011",
@@ -512,7 +522,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_012",
@@ -554,7 +565,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_013",
@@ -596,7 +608,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_014",
@@ -638,7 +651,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_015",
@@ -680,7 +694,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_001",
@@ -737,7 +752,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
@@ -796,7 +812,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
@@ -851,7 +868,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
@@ -920,7 +938,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_001",
@@ -999,7 +1018,8 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish",
       "medicinal_use": "raspberry leaves were used for scrofula and swelling of neck glands"
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_002",
@@ -1071,7 +1091,8 @@
     },
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish"
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_003",
@@ -1128,7 +1149,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_004",
@@ -1185,7 +1207,8 @@
           }
         ]
       }
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_005",
@@ -1253,6 +1276,7 @@
     },
     "ecological_data_en": {
       "description": "mountain herb with red leaves (botanical species unidentified)"
-    }
+    },
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
   }
 ]
