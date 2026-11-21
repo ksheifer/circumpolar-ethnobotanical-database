@@ -6,23 +6,36 @@ const LABELS = {
 };
 const state={lang:'en',view:'home',returnView:'home',selectedLanguage:'',search:'',selectedProfile:'',data:null,profileMap:null,tableSort:{home:{key:'family',direction:'asc'},catalog:{key:'name',direction:'asc'}}};
 const NAMES=['home','catalog','statistics','sources'];
-// Query-string routes work on GitHub Pages without server-side rewrites.
-// Examples: ?section=search, ?section=languages, ?section=statistics, ?section=resources.
+// Real short routes: /search, /languages, /statistics, /resources.
+// Each route has a static HTML entrypoint for GitHub Pages direct navigation.
 const SECTION_PATHS={home:'search',catalog:'languages',statistics:'statistics',sources:'resources'};
 const PATH_SECTIONS=Object.fromEntries(Object.entries(SECTION_PATHS).map(([view,path])=>[path,view]));
+const SITE_ROOT=new URL('./',document.querySelector('script[src*="app.js"]').src);
 function sectionFromURL(){
- const value=new URL(window.location.href).searchParams.get('section');
- return PATH_SECTIONS[value]||'home';
+ const segment=window.location.pathname.replace(/\/+$/,'').split('/').pop();
+ const route=PATH_SECTIONS[segment];
+ // Old links remain usable after the upgrade.
+ return route||PATH_SECTIONS[new URL(window.location.href).searchParams.get('section')]||'home';
 }
-function navigateSection(view,{replace=false}={}){
+function sectionURL(view,hash=''){
+ const url=new URL(SECTION_PATHS[view],SITE_ROOT);
+ if(hash)url.hash=hash;
+ return url;
+}
+function navigateSection(view,{replace=false,hash=''}={}){
  if(!SECTION_PATHS[view])return;
  state.view=view;
  if(view==='catalog'&&!state.selectedLanguage)state.selectedLanguage=state.data?.phytonyms[0]?.language_id||'';
- const url=new URL(window.location.href);
- url.searchParams.set('section',SECTION_PATHS[view]);
- url.hash='';
+ const url=sectionURL(view,hash);
  if(url.href!==window.location.href)window.history[replace?'replaceState':'pushState']({section:SECTION_PATHS[view]},'',url);
  render();
+ if(hash)scrollToHash();
+}
+function scrollToHash(){
+ const anchor=decodeURIComponent(window.location.hash.slice(1));
+ if(!anchor)return;
+ const target=document.getElementById(anchor);
+ if(target)target.scrollIntoView({block:'start'});
 }
 
 const tr=k=>LABELS[state.lang][k]||k;
@@ -55,7 +68,7 @@ const attestationOverview=p=>{
  const unique=values=>[...new Set(values.filter(Boolean))].join('; ');
  return {
   citations:unique(attestations.map(a=>citeSource(a.source_id,a.source_pages))),
-  localities:unique(attestations.map(a=>locName(a.location_id)).concat(!attestations.some(a=>a.location_id)&&p.reference_location_id?[locName(p.reference_location_id)+' ('+(state.lang==='ru'?'ориентир':'reference')+')']:[])),
+  localities:unique(attestations.map(a=>locName(a.location_id))),
   dialects:unique([dialName(p.dialect_id),...attestations.map(a=>attDialectLabels(a)||dialName(a.dialect_id))])
  };
 };
@@ -115,7 +128,7 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
  }).join('');
  const mapSection=p.english_gloss?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="profile-related"><h3>${esc(tr('glossMapEntries'))}: ${related.length}</h3><ul>${forms}</ul></div></section>`:'';
 
- return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${p.reference_location_id?section('evidence',[pair('referencePlace',locName(p.reference_location_id))]):''}${mapSection}</article>`;
+ return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
 }
 // Sort column values, not their rendered HTML. Missing values always follow filled cells.
 const sortCellValue=(p,key)=>{
@@ -214,9 +227,19 @@ function sourceFieldRow(key,value,source){
 function renderSources(){
  const groups=[...state.data.languages].sort((a,b)=>a.west_east_order-b.west_east_order).map(language=>({language,sources:state.data.sources.filter(source=>(source.language_ids||[]).includes(language.language_id)).sort((a,b)=>(Number(a.year)||0)-(Number(b.year)||0)||String(a.volume||'').localeCompare(String(b.volume||''),undefined,{numeric:true})||String(a.title||'').localeCompare(String(b.title||'')))}));
  const fields=source=>Object.entries({authors:source.authors,editors:source.editors,title:source.title,subtitle:source.source_id.startsWith('src_sakha_dictionary_vol_')?String(source.subtitle||'').replace(/(Том\s+)\d+/,(_,prefix)=>prefix+romanNumeral(source.volume)):source.subtitle,type:source.publication_type,publisher:source.publisher,publication_place:source.publication_place,editionYear:source.year,totalPages:source.total_pages,journal:source.journal,volume:displayVolume(source),issue:source.issue,page_range:source.page_range,doi:source.doi,isbn:source.isbn,url:source.url,amnh_url:source.amnh_url,notes:source.source_id==='src_afanasyev_voronkin_alekseev_1976'?(source['notes_'+state.lang]||source.notes):null}).map(([key,value])=>sourceFieldRow(key,value,source)).filter(Boolean).join('');
- const contents=`<nav class="resource-contents" aria-label="${esc(state.lang==='ru'?'Языки источников':'Resource languages')}">${groups.map(({language})=>`<a href="#resources-${esc(language.language_id)}">${esc(langName(language.language_id))}</a>`).join('')}</nav>`;
- const sections=groups.map(({language,sources})=>`<section class="resource-group" id="resources-${esc(language.language_id)}"><h2>${esc(langName(language.language_id))}</h2>${sources.length?sources.map(source=>`<article class="resource-entry" id="source-${esc(language.language_id)}-${esc(source.source_id)}"><div class="resource-citation">${esc(citeSource(source.source_id))}</div><table class="detail-table"><tbody>${fields(source)}</tbody></table></article>`).join(''):`<p class="resource-empty">${esc(state.lang==='ru'?'Источники пока не добавлены.':'No sources added yet.')}</p>`}</section>`).join('');
+ const contents=`<nav class="resource-contents" aria-label="${esc(state.lang==='ru'?'Языки источников':'Resource languages')}">${groups.map(({language})=>`<a href="#${esc(language.language_id)}">${esc(langName(language.language_id))}</a>`).join('')}</nav>`;
+ const sections=groups.map(({language,sources})=>`<section class="resource-group" id="${esc(language.language_id)}"><h2>${esc(langName(language.language_id))}</h2>${sources.length?sources.map(source=>`<article class="resource-entry" id="source-${esc(language.language_id)}-${esc(source.source_id)}"><div class="resource-citation">${esc(citeSource(source.source_id))}</div><table class="detail-table"><tbody>${fields(source)}</tbody></table></article>`).join(''):`<p class="resource-empty">${esc(state.lang==='ru'?'Источники пока не добавлены.':'No sources added yet.')}</p>`}</section>`).join('');
  return title('sources')+(groups.length?contents+sections:`<p>${esc(tr('nothing'))}</p>`);
+}
+let leafletFallbackRequested=false;
+function ensureLeaflet(){
+ if(window.L||leafletFallbackRequested)return;
+ leafletFallbackRequested=true;
+ const css=document.createElement('link');css.rel='stylesheet';css.href='https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css';document.head.appendChild(css);
+ const script=document.createElement('script');script.src='https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js';
+ script.onload=()=>{if(state.view==='profile'&&window.L){render();}};
+ script.onerror=()=>{const target=document.getElementById('profile-map');if(target)target.textContent=tr('noMap');};
+ document.head.appendChild(script);
 }
 function mountProfileMap(){
  const target=document.getElementById('profile-map');
@@ -224,7 +247,7 @@ function mountProfileMap(){
  if(!target||!profile)return;
  const entries=state.currentProfileEntries||relatedGlossMapEntries(profile);
  if(!entries.length){target.textContent=tr('noGeolocations');target.classList.add('map-unavailable');return;}
- if(!window.L){target.textContent=tr('noMap');target.classList.add('map-unavailable');return;}
+ if(!window.L){target.textContent=tr('noMap');target.classList.add('map-unavailable');ensureLeaflet();return;}
  const grouped=new Map();
  for(const entry of entries){const key=entry.location_id;const bucket=grouped.get(key)||{...entry,items:[]};bucket.items.push(entry);grouped.set(key,bucket);}
  const map=L.map(target);state.profileMap=map;
@@ -252,11 +275,12 @@ function render(){
  document.getElementById('main').innerHTML=({profile:renderProfile,home:renderHome,catalog:renderCatalog,statistics:renderStatistics,sources:renderSources})[state.view]();
  if(state.view==='profile')mountProfileMap();
 }
-const DATA_RELEASE='20261121-section-routes';
-const fetchDataJSON=path=>fetch(path+'?v='+DATA_RELEASE,{cache:'no-store'});
-async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render()}
-document.addEventListener('click',e=>{const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){navigateSection('sources');const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
-window.addEventListener('popstate',()=>{if(!state.data)return;state.view=sectionFromURL();render();});
+const DATA_RELEASE='20261121-short-paths-map-fix';
+const fetchDataJSON=path=>fetch(new URL(path+'?v='+DATA_RELEASE,SITE_ROOT),{cache:'no-store'});
+async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render();scrollToHash()}
+document.addEventListener('click',e=>{const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});
+window.addEventListener('popstate',()=>{if(!state.data)return;state.view=sectionFromURL();render();scrollToHash();});
+window.addEventListener('hashchange',()=>{if(state.data&&state.view==='sources')scrollToHash();});
 document.addEventListener('change',e=>{if(e.target.id==='languageFilter'){state.selectedLanguage=e.target.value;render()}});
 document.addEventListener('input',e=>{if(e.target.id==='globalSearch'){const pos=e.target.selectionStart;state.search=e.target.value;render();const input=document.getElementById('globalSearch');input.focus();input.setSelectionRange(pos,pos)}});
 load().catch(e=>{document.getElementById('main').innerHTML=`<h1>Data loading error / Ошибка загрузки данных</h1><p class="error">${esc(e.message)}</p><p>Open the site via GitHub Pages or a local HTTP server.</p>`;console.error(e)});
