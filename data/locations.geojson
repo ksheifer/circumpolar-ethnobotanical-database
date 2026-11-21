@@ -4512,6 +4512,26 @@
           "komi"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.820483,
+          58.67902
+        ]
+      },
+      "properties": {
+        "location_id": "loc_selkup_maksimkin_yar_reference",
+        "name_ru": "Максимкин Яр",
+        "name_en": "Maksimkin Yar",
+        "language_ids": [
+          "selkup"
+        ],
+        "coordinate_precision": "settlement_centre",
+        "notes": "Условная географическая привязка кетского варианта селькупского; не место документированной записи конкретного фитонима. Координаты центра населённого пункта: https://www.komandirovka.ru/cities/maksimkin-yar/"
+      }
     }
   ]
 }

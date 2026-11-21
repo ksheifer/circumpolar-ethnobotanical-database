@@ -952,7 +952,9 @@
     "name_en": "Southern Selkup, Narym dialect",
     "alternative_names": [],
     "source_abbreviation": "",
-    "location_ids": [],
+    "location_ids": [
+      "loc_selkup_narym_reference"
+    ],
     "classification_group": "Central in tripartite classifications"
   },
   {
@@ -1118,7 +1120,9 @@
     "name_en": "Northern Selkup, Taz variety",
     "alternative_names": [],
     "source_abbreviation": "тазов.",
-    "location_ids": [],
+    "location_ids": [
+      "loc_selkup_krasnoselkup_reference"
+    ],
     "classification_group": "unspecified subvariety"
   },
   {
@@ -1128,7 +1132,9 @@
     "name_en": "Southern Selkup, Ket variety",
     "alternative_names": [],
     "source_abbreviation": "кет.",
-    "location_ids": [],
+    "location_ids": [
+      "loc_selkup_maksimkin_yar_reference"
+    ],
     "classification_group": "unspecified subvariety"
   },
   {

@@ -3896,5 +3896,22 @@
     "language_ids": [
       "komi"
     ]
+  },
+  {
+    "location_id": "loc_selkup_maksimkin_yar_reference",
+    "country": "Россия / Russia",
+    "region": "Томская область / Tomsk Oblast",
+    "district": "Верхнекетский район / Verkhneketsky District",
+    "latitude": 58.67902,
+    "longitude": 86.820483,
+    "location_type": "settlement",
+    "coordinate_precision": "settlement_centre",
+    "visibility": "public",
+    "locality": "Максимкин Яр / Maksimkin Yar",
+    "language_ids": [
+      "selkup"
+    ],
+    "name_ru": "Максимкин Яр",
+    "name_en": "Maksimkin Yar"
   }
 ]
