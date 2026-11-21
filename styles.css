@@ -183,3 +183,20 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
   #profile-map {height: 320px;min-height:300px}
   #profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {white-space:nowrap!important;overflow-wrap:normal!important;word-break:keep-all!important}
 }
+
+/* v16: only phytonym spellings on the map; each on one horizontal line. */
+#profile-map .leaflet-tooltip.phytonym-pin-label,
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word-list,
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {
+  width: max-content !important;
+  min-width: max-content !important;
+  max-width: none !important;
+  white-space: nowrap !important;
+  overflow-wrap: normal !important;
+  word-break: keep-all !important;
+}
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word-list {
+  display: flex !important;
+  flex-direction: column !important;
+}
+#profile-map .leaflet-tooltip.phytonym-pin-label .pin-word {display: block !important;}

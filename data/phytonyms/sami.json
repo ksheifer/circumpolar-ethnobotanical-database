@@ -457,56 +457,5 @@
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
     "reference_location_type": "language_community_anchor"
-  },
-  {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_010",
-    "language_id": "sami",
-    "dialect_id": "dia_sami_kildin",
-    "taxon_id": null,
-    "name_native_language": "мӯрр",
-    "names_other_varieties": [],
-    "russian_gloss": "дерево",
-    "english_gloss": "tree",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_phy_sami_ivanishcheva_2016_010",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_ivanishcheva_2016_plants",
-        "source_pages": "90",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [
-          "dia_sami_kildin"
-        ],
-        "dialect_abbreviations": [],
-        "usage_context": ""
-      }
-    ],
-    "extraction_status": "source_text_layer_checked",
-    "source_lemma": "суэгкь",
-    "source_volume": null,
-    "ipa": null,
-    "reference_location_id": "loc_043b043e0432043e043704350440043e",
-    "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
   }
 ]
