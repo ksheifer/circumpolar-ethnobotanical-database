@@ -8,6 +8,8 @@ A bilingual (English/Russian) database of Indigenous plant names from circumpola
 
 Visit the [Circumpolar Ethnobotanical Database](https://ksheifer.github.io/circumpolar-ethnobotanical-database/) to search phytonyms, browse languages, view plant profiles and maps, and export language datasets to Excel.
 
+Each top-level section has a shareable URL: `?section=search`, `?section=languages`, `?section=statistics`, or `?section=resources`. Browser Back and Forward restore the selected section.
+
 ## Repository structure
 
 - `index.html`, `app.js`, `styles.css` — website interface.
