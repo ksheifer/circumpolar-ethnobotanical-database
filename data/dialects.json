@@ -1078,7 +1078,9 @@
     "name_ru": "лесной энецкий",
     "variety_type": "language variety",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_043f043e04420430043f043e0432043e"
+    ]
   },
   {
     "dialect_id": "enets-tundra",
@@ -1087,7 +1089,9 @@
     "name_ru": "тундровый энецкий",
     "variety_type": "language variety",
     "alternative_names": [],
-    "location_ids": []
+    "location_ids": [
+      "loc_0432043e0440043e043d0446043e0432043e"
+    ]
   },
   {
     "dialect_id": "dia_northern-selkup_taz_unspecified",

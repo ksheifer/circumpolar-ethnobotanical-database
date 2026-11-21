@@ -58,7 +58,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043f043e04420430043f043e0432043e"
   },
   {
     "phytonym_id": "phy_forest_enets_002",
@@ -102,7 +103,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_043f043e04420430043f043e0432043e"
   },
   {
     "phytonym_id": "phy_tundra_enets_001",
@@ -148,6 +150,7 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_0432043e0440043e043d0446043e0432043e"
   }
 ]

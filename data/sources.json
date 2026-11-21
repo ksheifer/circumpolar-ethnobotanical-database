@@ -620,8 +620,7 @@
     "page_range": "1–134",
     "doi": "",
     "isbn": "",
-    "url": "https://www.biodiversitylibrary.org/bibliography/88108",
-    "amnh_url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
+    "url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
   },
   {
     "source_id": "src_jochelson_yukaghir_1924_part_ii",
@@ -644,8 +643,7 @@
     "page_range": "135–342",
     "doi": "",
     "isbn": "",
-    "url": "https://www.biodiversitylibrary.org/bibliography/88108",
-    "amnh_url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
+    "url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
   },
   {
     "source_id": "src_jochelson_yukaghir_1926_part_iii",
@@ -668,8 +666,7 @@
     "page_range": "343–469",
     "doi": "",
     "isbn": "",
-    "url": "https://www.biodiversitylibrary.org/bibliography/88108",
-    "amnh_url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
+    "url": "https://digitallibrary.amnh.org/items/5e07158c-79fd-41a2-a630-42e09c8f772b"
   },
   {
     "source_id": "src_inel_selkup_corpus_2021",
@@ -1020,29 +1017,6 @@
     "volume": "",
     "issue": "",
     "doi": "",
-    "isbn": ""
-  },
-  {
-    "source_id": "src_burov_egorov_2023",
-    "citation_key": "Burov & Egorov",
-    "year": "2023",
-    "authors": "Daniil A. Burov; Ilya M. Egorov",
-    "title": "Materials from Kildin Saami: A trickster tale and a personal narrative",
-    "url": "https://rodyaz.ru/pdf/23-2/RY_232_7_Burov-Egorov.pdf",
-    "page_range": "156–192",
-    "publication_type": "article",
-    "journal": "Родной язык 2",
-    "language_ids": [
-      "sami"
-    ],
-    "editors": "",
-    "subtitle": "",
-    "publisher": "",
-    "publication_place": "",
-    "total_pages": "",
-    "volume": "",
-    "issue": "",
-    "doi": "10.37892/2313-5816-2023-2-156-192",
     "isbn": ""
   },
   {

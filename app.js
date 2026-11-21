@@ -35,9 +35,22 @@ function scrollToHash(){
  const anchor=decodeURIComponent(window.location.hash.slice(1));
  if(!anchor)return;
  const target=document.getElementById(anchor);
- if(target)target.scrollIntoView({block:'start'});
+ if(target){target.scrollIntoView({block:'start'});requestAnimationFrame(updateResourcesTopButton);}
 }
 
+function updateResourcesTopButton(){
+ const button=document.getElementById('resources-back-to-top');
+ if(!button)return;
+ const show=state.view==='sources'&&window.scrollY>220;
+ button.hidden=!show;
+ button.textContent=state.lang==='ru'?'↑ Наверх':'↑ Back to top';
+ button.setAttribute('aria-label',state.lang==='ru'?'Вернуться наверх страницы':'Back to top of page');
+}
+window.addEventListener('scroll',updateResourcesTopButton,{passive:true});
+document.addEventListener('click',event=>{
+ if(!event.target.closest('#resources-back-to-top'))return;
+ window.scrollTo({top:0,behavior:'smooth'});
+});
 const tr=k=>LABELS[state.lang][k]||k;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const filled=v=>v!==null&&v!==undefined&&v!==''&&(!Array.isArray(v)||v.length>0)&&(!(typeof v==='object'&&!Array.isArray(v))||Object.values(v).some(Boolean));
@@ -138,7 +151,7 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
  }).join('');
  const mapSection=(p.english_gloss||locatableEntries(p).length)?`<section class="profile-section"><h3>${esc(tr('glossMap'))}</h3><div id="profile-map" class="map profile-map" role="img" aria-label="${esc(tr('glossMap'))}"></div>${!entries.length?`<p class="muted">${esc(tr('noGeolocations'))}</p>`:''}<div class="lexical-correspondences"><h4>${esc(tr('glossMapEntries'))} (${related.length})${p.english_gloss?` · <em>${esc(p.english_gloss)}</em>`:''}</h4><ul>${forms}</ul></div></section>`:'';
 
- return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2><p class="muted">${esc(langName(p.language_id))}${tax.scientific_name?' · '+esc(tax.scientific_name):''}</p>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
+ return `<article class="profile" id="profile-${esc(p.phytonym_id)}"><h2>${esc(p.name_native_language)}</h2>${main}${bot}${eco}${know}${attest}${mapSection}</article>`;
 }
 // Sort column values, not their rendered HTML. Missing values always follow filled cells.
 const sortCellValue=(p,key)=>{
@@ -174,7 +187,7 @@ function table(headers,rows,view){
   return `<th scope="col" ${dir?`aria-sort="${dir==='asc'?'ascending':'descending'}"`:''}><button type="button" class="sort-header" data-sort-view="${esc(view)}" data-sort-key="${esc(h)}" aria-label="${esc(tr(h))}: ${esc(state.lang==='ru'?'сортировать':'sort')}" title="${esc(state.lang==='ru'?'Сортировать по столбцу':'Sort by column')}">${esc(tr(h))}<span class="sort-indicator" aria-hidden="true">${active?(dir==='asc'?'▲':'▼'):'↕'}</span></button></th>`;
  }).join('')}</tr></thead><tbody>${rows.join('')}</tbody></table></div>`;
 }
-function languageSelect(id){return `<select id="${id}" aria-label="${esc(tr('language'))}"><option value="">${esc(tr('all'))}</option>${state.data.languages.map(l=>`<option value="${esc(l.language_id)}" ${state.selectedLanguage===l.language_id?'selected':''}>${esc(langName(l.language_id))}</option>`).join('')}</select>`}
+function languageSelect(id){return `<select id="${id}" aria-label="${esc(tr('language'))}">${state.data.languages.map(l=>`<option value="${esc(l.language_id)}" ${state.selectedLanguage===l.language_id?'selected':''}>${esc(langName(l.language_id))}</option>`).join('')}</select>`}
 function title(view){return `<h1>${esc(tr(view))}</h1>`}
 function renderProfile(){const p=state.data.phytonyms.find(x=>x.phytonym_id===state.selectedProfile);return `<button type="button" id="backToResults" class="plain-link">← ${esc(tr(state.returnView))}</button>`+(p?profile(p):`<p>${esc(tr('nothing'))}</p>`)}
 function phytonymRow(p,includeLanguage=false){
@@ -216,8 +229,8 @@ function renderCatalog(){
 
 // Resources use their own complete, consistently capitalized bilingual labels.
 const SOURCE_FIELD_LABELS={
- en:{authors:'Authors',editors:'Editors',title:'Title',subtitle:'Subtitle',type:'Type',publisher:'Publisher',publication_place:'Publication place',editionYear:'Year',totalPages:'Total pages',journal:'Journal',volume:'Volume',issue:'Issue',page_range:'Page range',doi:'DOI',isbn:'ISBN',url:'URL',amnh_url:'AMNH'},
- ru:{authors:'Авторы',editors:'Редакторы',title:'Название',subtitle:'Подзаголовок',type:'Тип',publisher:'Издательство',publication_place:'Место издания',editionYear:'Год',totalPages:'Общее число страниц',journal:'Журнал',volume:'Том',issue:'Выпуск',page_range:'Диапазон страниц',doi:'DOI',isbn:'ISBN',url:'URL',amnh_url:'AMNH'}
+ en:{authors:'Authors',editors:'Editors',title:'Title',subtitle:'Subtitle',type:'Type',publisher:'Publisher',publication_place:'Publication place',editionYear:'Year',totalPages:'Total pages',journal:'Journal',volume:'Volume',issue:'Issue',page_range:'Page range',doi:'DOI',isbn:'ISBN',url:'URL'},
+ ru:{authors:'Авторы',editors:'Редакторы',title:'Название',subtitle:'Подзаголовок',type:'Тип',publisher:'Издательство',publication_place:'Место издания',editionYear:'Год',totalPages:'Общее число страниц',journal:'Журнал',volume:'Том',issue:'Выпуск',page_range:'Диапазон страниц',doi:'DOI',isbn:'ISBN',url:'URL'}
 };
 const SOURCE_TYPES={
  en:{dictionary:'Dictionary',book:'Book',journal_article:'Journal article',report:'Documentation'},
@@ -227,7 +240,7 @@ function sourceFieldRow(key,value,source){
  if(!filled(value))return '';
  const label=SOURCE_FIELD_LABELS[state.lang][key]||key.replaceAll('_',' ').replace(/^./,c=>c.toUpperCase());
  const display=key==='type'?(SOURCE_TYPES[state.lang][value]||String(value).replaceAll('_',' ').replace(/^./,c=>c.toUpperCase())):value;
- if(key==='url'||key==='amnh_url'){
+ if(key==='url'){
   const url=String(value).trim();
   if(!/^https:\/\/[^\s<>"']+$/i.test(url))return '';
   const linkText=source?.['url_label_'+state.lang]||url;
@@ -237,7 +250,7 @@ function sourceFieldRow(key,value,source){
 }
 function renderSources(){
  const groups=[...state.data.languages].sort((a,b)=>a.west_east_order-b.west_east_order).map(language=>({language,sources:state.data.sources.filter(source=>(source.language_ids||[]).includes(language.language_id)).sort((a,b)=>(Number(a.year)||0)-(Number(b.year)||0)||String(a.volume||'').localeCompare(String(b.volume||''),undefined,{numeric:true})||String(a.title||'').localeCompare(String(b.title||'')))}));
- const fields=source=>Object.entries({authors:source.authors,editors:source.editors,title:source.title,subtitle:source.source_id.startsWith('src_sakha_dictionary_vol_')?String(source.subtitle||'').replace(/(Том\s+)\d+/,(_,prefix)=>prefix+romanNumeral(source.volume)):source.subtitle,type:source.publication_type,publisher:source.publisher,publication_place:source.publication_place,editionYear:source.year,totalPages:source.total_pages,journal:source.journal,volume:displayVolume(source),issue:source.issue,page_range:source.page_range,doi:source.doi,isbn:source.isbn,url:source.url,amnh_url:source.amnh_url}).map(([key,value])=>sourceFieldRow(key,value,source)).filter(Boolean).join('');
+ const fields=source=>Object.entries({authors:source.authors,editors:source.editors,title:source.title,subtitle:source.source_id.startsWith('src_sakha_dictionary_vol_')?String(source.subtitle||'').replace(/(Том\s+)\d+/,(_,prefix)=>prefix+romanNumeral(source.volume)):source.subtitle,type:source.publication_type,publisher:source.publisher,publication_place:source.publication_place,editionYear:source.year,totalPages:source.total_pages,journal:source.journal,volume:displayVolume(source),issue:source.issue,page_range:source.page_range,doi:source.doi,isbn:source.isbn,url:source.url}).map(([key,value])=>sourceFieldRow(key,value,source)).filter(Boolean).join('');
  const contents=`<nav class="resource-contents" aria-label="${esc(state.lang==='ru'?'Языки источников':'Resource languages')}">${groups.map(({language})=>`<a href="#${esc(language.language_id)}">${esc(langName(language.language_id))}</a>`).join('')}</nav>`;
  const sections=groups.map(({language,sources})=>`<section class="resource-group" id="${esc(language.language_id)}"><h2>${esc(langName(language.language_id))}</h2>${sources.length?sources.map(source=>`<article class="resource-entry" id="source-${esc(language.language_id)}-${esc(source.source_id)}"><div class="resource-citation">${esc(citeSource(source.source_id))}</div><table class="detail-table"><tbody>${fields(source)}</tbody></table></article>`).join(''):`<p class="resource-empty">${esc(state.lang==='ru'?'Источники пока не добавлены.':'No sources added yet.')}</p>`}</section>`).join('');
  return title('sources')+(groups.length?contents+sections:`<p>${esc(tr('nothing'))}</p>`);
@@ -324,8 +337,9 @@ function render(){
  state.profileLocationMarkers=new Map();
  document.getElementById('main').innerHTML=({profile:renderProfile,home:renderHome,catalog:renderCatalog,statistics:renderStatistics,sources:renderSources})[state.view]();
  if(state.view==='profile')mountProfileMap();
+ updateResourcesTopButton();
 }
-const DATA_RELEASE='20261121-evenki-english-names-v19';
+const DATA_RELEASE='20261121-enets-variety-locations-v22';
 const fetchDataJSON=path=>fetch(new URL(path+'?v='+DATA_RELEASE,SITE_ROOT),{cache:'no-store'});
 async function load(){state.view=sectionFromURL();const manifest=await fetchDataJSON('data/manifest.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()});const paths=[...Object.values(manifest.collections),...manifest.phytonym_files];const vals=await Promise.all(paths.map(p=>fetchDataJSON('data/'+p).then(r=>{if(!r.ok)throw Error(p+' '+r.status);return r.json()})));state.data=Object.fromEntries(Object.keys(manifest.collections).map((k,i)=>[k,vals[i]]));state.data.phytonyms=vals.slice(Object.keys(manifest.collections).length).flat();const requiredLanguages=['enets','nganasan'];for(const languageId of requiredLanguages){if(!state.data.languages.some(l=>l.language_id===languageId)||!state.data.phytonyms.some(p=>p.language_id===languageId))throw Error('Missing published phytonym data for '+languageId+'; upload all files from the release, including data/manifest.json and data/phytonyms/');}const queryLang=new URL(window.location.href).searchParams.get('language');if(queryLang&&state.data.languages.some(l=>l.language_id===queryLang))state.selectedLanguage=queryLang;if(!state.selectedLanguage)state.selectedLanguage=state.data.phytonyms[0]?.language_id||'';state.index=Object.fromEntries(Object.entries(ID_FIELDS).map(([type,key])=>[type,new Map(state.data[type].map(item=>[item[key],item]))]));state.searchIndex=new Map(state.data.phytonyms.map(p=>[p.phytonym_id,searchIndexText(p)]));render();scrollToHash()}
 document.addEventListener('click',e=>{const compare=e.target.closest('[data-map-gloss]');if(compare){const gloss=compare.dataset.mapGloss;const selected=state.data.phytonyms.find(p=>p.english_gloss&&glossMatches(gloss,p.english_gloss));if(selected){if(state.view!=='profile')state.returnView=state.view;state.selectedProfile=selected.phytonym_id;state.view='profile';render();document.getElementById('profile-map')?.scrollIntoView({block:'nearest'});}return;}const placeLink=e.target.closest('[data-map-location]');if(placeLink){const marker=state.profileLocationMarkers?.get(placeLink.dataset.mapLocation);if(marker&&state.profileMap){state.profileMap.setView(marker.getLatLng(),8);}return;}const sortButton=e.target.closest('[data-sort-view][data-sort-key]');if(sortButton){const view=sortButton.dataset.sortView,key=sortButton.dataset.sortKey,allowed=view==='home'?['name','language','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:view==='catalog'?['name','taxon','family','russian_gloss','english_gloss','dialect','locality','source']:[];if(allowed.includes(key)){const current=state.tableSort[view];state.tableSort[view]={key,direction:current?.key===key&&current.direction==='asc'?'desc':'asc'};render();}return}const lang=e.target.closest('[data-lang]');if(lang){state.lang=lang.dataset.lang;render();return}const statLanguage=e.target.closest('[data-stat-language]');if(statLanguage){e.preventDefault();state.selectedLanguage=statLanguage.dataset.statLanguage;navigateSection('catalog');const url=sectionURL('catalog');url.searchParams.set('language',state.selectedLanguage);window.history.replaceState({section:'languages'},'',url);return}const view=e.target.closest('[data-view]');if(view){navigateSection(view.dataset.view);return}const profileLink=e.target.closest('[data-profile]');if(profileLink){state.selectedProfile=profileLink.dataset.profile;if(state.view!=='profile')state.returnView=state.view;state.view='profile';render();document.getElementById('main').scrollIntoView();return}if(e.target.closest('#backToResults')){navigateSection(state.returnView);return}const src=e.target.closest('[data-source]');if(src){const languageId=src.dataset.sourceLanguage||state.data.sources.find(s=>s.source_id===src.dataset.source)?.language_ids?.[0];navigateSection('sources',{hash:languageId});const target=document.getElementById('source-'+languageId+'-'+src.dataset.source);target?.scrollIntoView({block:'start'});return}if(e.target.closest('#excel'))exportExcel()});

@@ -39,7 +39,8 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_044304410442044c002d043004320430043c"
   },
   {
     "phytonym_id": "phy_nganasan_002",
@@ -81,6 +82,7 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "reference_location_id": "loc_044304410442044c002d043004320430043c"
   }
 ]
