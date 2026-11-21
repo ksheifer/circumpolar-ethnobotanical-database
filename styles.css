@@ -99,9 +99,7 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .map-place-link {text-decoration:underline;text-underline-offset:3px}
 .map-place-link:hover {color:#07598a;background:#e8f3fb}
 
-/* Language-wide map and no-CDN fallback. */
-.language-map-section {margin:18px 0 25px;padding-bottom:20px;border-bottom:1px solid #ddd}
-.language-map-section .muted{font-size:12px;margin:5px 0 9px}
+/* Coordinate fallback for individual phytonym profiles. */
 .coordinate-map{height:auto;min-height:300px;padding:8px;background:#fff}
 .coordinate-map svg{display:block;width:100%;height:auto;max-height:450px}
 .coordinate-map [data-coordinate-location]{cursor:pointer}
@@ -122,5 +120,4 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .coordinate-map .map-coordinate-details ul{margin:6px 0 8px 20px;padding:0;max-height:220px;overflow:auto}
 .coordinate-map .map-coordinate-details li{padding:4px 0}
 
-#language-map-gloss-control p{font-size:13px;margin:8px 0;line-height:1.5}
 .map-compare-gloss{font-weight:600;text-decoration:underline;text-underline-offset:2px}
