@@ -56,20 +56,12 @@
     "west_east_order": 7
   },
   {
-    "language_id": "forest-enets",
-    "name_en": "Forest Enets",
-    "name_ru": "Лесной энецкий",
+    "language_id": "enets",
+    "name_en": "Enets",
+    "name_ru": "Энецкий",
     "iso_639_3": "",
-    "notes": "",
+    "notes": "Forest and Tundra Enets are catalogued as language varieties; the source designations are preserved in each record.",
     "west_east_order": 8
-  },
-  {
-    "language_id": "tundra-enets",
-    "name_en": "Tundra Enets",
-    "name_ru": "Тундровый энецкий",
-    "iso_639_3": "",
-    "notes": "",
-    "west_east_order": 9
   },
   {
     "language_id": "nganasan",

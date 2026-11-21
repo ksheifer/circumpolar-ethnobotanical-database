@@ -848,7 +848,7 @@
     "location_id": "loc_043f043e04420430043f043e0432043e",
     "language_ids": [
       "dolgan",
-      "forest-enets"
+      "enets"
     ],
     "name_ru": "Потапово",
     "name_en": "Potapovo"
@@ -868,8 +868,7 @@
     "language_ids": [
       "dolgan",
       "nganasan",
-      "tundra-enets",
-      "forest-enets"
+      "enets"
     ],
     "name_ru": "Дудинка",
     "name_en": "Dudinka"
@@ -1431,7 +1430,7 @@
     "locality": "Воронцово",
     "location_id": "loc_0432043e0440043e043d0446043e0432043e",
     "language_ids": [
-      "tundra-enets"
+      "enets"
     ],
     "name_ru": "Воронцово",
     "name_en": "Vorontsovo"

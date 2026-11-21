@@ -823,7 +823,7 @@
     "isbn": "978-952-5667-45-5",
     "url": "https://www.sgr.fi/en/files/original/ad6d806fc90daa70d8403f3293532ecf.pdf",
     "language_ids": [
-      "forest-enets"
+      "enets"
     ],
     "notes": ""
   },
@@ -847,8 +847,7 @@
     "isbn": "",
     "url": "https://kirj.ee/wp-content/plugins/kirj/pub/ling-2025-3-145-184_20250910124750.pdf",
     "language_ids": [
-      "forest-enets",
-      "tundra-enets",
+      "enets",
       "nganasan"
     ],
     "notes": ""
@@ -897,8 +896,7 @@
     "isbn": "",
     "url": "https://elib.sfu-kras.ru/handle/2311/158149",
     "language_ids": [
-      "forest-enets",
-      "tundra-enets"
+      "enets"
     ],
     "notes": ""
   }

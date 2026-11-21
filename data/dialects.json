@@ -1257,5 +1257,25 @@
     "variety_type": "language",
     "classification_group": "Eastern Sámi; Kola Sámi",
     "notes": "Separate Sámi language grouped under the Sámi umbrella in this database. Classification: DOBES Kola Sámi (https://dobes.mpi.nl/projects/sami/language/). No individual locality linked without direct evidence."
+  },
+  {
+    "dialect_id": "enets-forest",
+    "language_id": "enets",
+    "name_en": "Forest Enets",
+    "name_ru": "лесной энецкий",
+    "variety_type": "language variety",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Catalog grouping; do not infer a collection locality."
+  },
+  {
+    "dialect_id": "enets-tundra",
+    "language_id": "enets",
+    "name_en": "Tundra Enets",
+    "name_ru": "тундровый энецкий",
+    "variety_type": "language variety",
+    "alternative_names": [],
+    "location_ids": [],
+    "notes": "Catalog grouping; do not infer a collection locality."
   }
 ]

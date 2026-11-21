@@ -45,7 +45,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -84,7 +84,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -206,7 +206,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -244,7 +244,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -301,7 +301,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -333,7 +333,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -389,7 +389,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -428,7 +428,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -1497,7 +1497,7 @@
     "names_other_varieties": [],
     "russian_gloss": "олений ягель",
     "english_gloss": "reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -1519,7 +1519,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 10",
+        "source_pages": "10",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1538,7 +1538,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 10"
+            "source_pages": "10"
           }
         ]
       }
@@ -1553,7 +1553,7 @@
     "names_other_varieties": [],
     "russian_gloss": "болотный лишайник",
     "english_gloss": "marsh lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "тундровые низины у рек",
@@ -1575,7 +1575,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1594,7 +1594,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1602,7 +1602,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1620,7 +1620,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник среди мхов",
     "english_gloss": "lichen growing among mosses",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "моховой покров",
@@ -1642,7 +1642,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1661,7 +1661,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1669,7 +1669,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1687,7 +1687,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник у ивы",
     "english_gloss": "lichen near willow roots",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "кустарниковая тундра с ивой",
@@ -1709,7 +1709,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1728,7 +1728,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1736,7 +1736,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1754,7 +1754,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник возле корней ивы",
     "english_gloss": "lichen by willow roots",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "около корней ивы",
@@ -1776,7 +1776,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1795,7 +1795,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1803,7 +1803,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1821,7 +1821,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник в лужах",
     "english_gloss": "lichen growing in puddles",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "сырые места, лужи",
@@ -1843,7 +1843,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1862,7 +1862,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1870,7 +1870,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1888,7 +1888,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник на кочках",
     "english_gloss": "lichen on hummocks",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "кочковатая тундра",
@@ -1910,7 +1910,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1929,7 +1929,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -1937,7 +1937,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -1955,7 +1955,7 @@
     "names_other_varieties": [],
     "russian_gloss": "древесный лишайник",
     "english_gloss": "tree lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "стволы и ветви деревьев",
@@ -1977,7 +1977,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -1996,7 +1996,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -2004,7 +2004,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -2022,7 +2022,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник на песчаных холмах",
     "english_gloss": "lichen on sandy hills",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "песчаные холмы",
@@ -2044,7 +2044,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2063,7 +2063,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -2071,7 +2071,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -2089,7 +2089,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник на сухой песчаной почве",
     "english_gloss": "lichen on dry sandy ground",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "сухие песчаные места",
@@ -2111,7 +2111,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 11",
+        "source_pages": "11",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2130,7 +2130,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       },
@@ -2138,7 +2138,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 11"
+            "source_pages": "11"
           }
         ]
       }
@@ -2156,7 +2156,7 @@
     "names_other_varieties": [],
     "russian_gloss": "шаровидный лишайник",
     "english_gloss": "ball-shaped lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2178,7 +2178,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2197,7 +2197,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2212,7 +2212,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник с небольшими головками",
     "english_gloss": "little-headed lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2234,7 +2234,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2253,7 +2253,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2268,7 +2268,7 @@
     "names_other_varieties": [],
     "russian_gloss": "продолговатый лишайник",
     "english_gloss": "oblong reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2290,7 +2290,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2309,7 +2309,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2324,7 +2324,7 @@
     "names_other_varieties": [],
     "russian_gloss": "трубчатый белый лишайник",
     "english_gloss": "white tube-shaped lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2346,7 +2346,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2365,7 +2365,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2380,7 +2380,7 @@
     "names_other_varieties": [],
     "russian_gloss": "плоский лишайник",
     "english_gloss": "flat lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2402,7 +2402,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2421,7 +2421,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2436,7 +2436,7 @@
     "names_other_varieties": [],
     "russian_gloss": "тонковетвистый лишайник",
     "english_gloss": "thin-branched lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2458,7 +2458,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2477,7 +2477,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2492,7 +2492,7 @@
     "names_other_varieties": [],
     "russian_gloss": "узковетвистый лишайник",
     "english_gloss": "narrow-branched lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2514,7 +2514,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2533,7 +2533,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2548,7 +2548,7 @@
     "names_other_varieties": [],
     "russian_gloss": "тонкотрубчатый лишайник",
     "english_gloss": "fine tube-shaped lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2570,7 +2570,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2589,7 +2589,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2604,7 +2604,7 @@
     "names_other_varieties": [],
     "russian_gloss": "слоисто растущий лишайник",
     "english_gloss": "layered-growing lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2626,7 +2626,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 13",
+        "source_pages": "13",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2645,7 +2645,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 13"
+            "source_pages": "13"
           }
         ]
       }
@@ -2660,7 +2660,7 @@
     "names_other_varieties": [],
     "russian_gloss": "белый ягель",
     "english_gloss": "white reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2682,7 +2682,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2701,7 +2701,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2716,7 +2716,7 @@
     "names_other_varieties": [],
     "russian_gloss": "белый зимний ягель",
     "english_gloss": "white winter lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2738,7 +2738,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2757,7 +2757,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2772,7 +2772,7 @@
     "names_other_varieties": [],
     "russian_gloss": "очень белый ягель",
     "english_gloss": "extremely white reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2794,7 +2794,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2813,7 +2813,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2828,7 +2828,7 @@
     "names_other_varieties": [],
     "russian_gloss": "блестящий белый ягель",
     "english_gloss": "shining white lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2850,7 +2850,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2869,7 +2869,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2884,7 +2884,7 @@
     "names_other_varieties": [],
     "russian_gloss": "низкорослый белый лишайник",
     "english_gloss": "low white lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2906,7 +2906,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2925,7 +2925,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2940,7 +2940,7 @@
     "names_other_varieties": [],
     "russian_gloss": "чёрный ягель",
     "english_gloss": "black reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -2962,7 +2962,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -2981,7 +2981,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -2996,7 +2996,7 @@
     "names_other_varieties": [],
     "russian_gloss": "зеленоватый ягель",
     "english_gloss": "greenish lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3018,7 +3018,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3037,7 +3037,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -3052,7 +3052,7 @@
     "names_other_varieties": [],
     "russian_gloss": "красный ягель",
     "english_gloss": "red reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3074,7 +3074,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3093,7 +3093,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -3108,7 +3108,7 @@
     "names_other_varieties": [],
     "russian_gloss": "серый лишайник",
     "english_gloss": "grey lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3130,7 +3130,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 14",
+        "source_pages": "14",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3149,7 +3149,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 14"
+            "source_pages": "14"
           }
         ]
       }
@@ -3164,7 +3164,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ржавчатый ягель",
     "english_gloss": "rust-like lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3186,7 +3186,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3205,7 +3205,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3220,7 +3220,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник, похожий на кладовую",
     "english_gloss": "lichen resembling a food store",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3242,7 +3242,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3261,7 +3261,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3276,7 +3276,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лишайник дикого оленя",
     "english_gloss": "wild-reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3298,7 +3298,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3317,7 +3317,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3332,7 +3332,7 @@
     "names_other_varieties": [],
     "russian_gloss": "волокнистый лишайник",
     "english_gloss": "fibrous lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3354,7 +3354,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3373,7 +3373,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3388,7 +3388,7 @@
     "names_other_varieties": [],
     "russian_gloss": "лесоподобный ягель",
     "english_gloss": "forest-like lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3410,7 +3410,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3429,7 +3429,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3444,7 +3444,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ягель, похожий на оленьи рога",
     "english_gloss": "antler-like lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3466,7 +3466,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3485,7 +3485,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3500,7 +3500,7 @@
     "names_other_varieties": [],
     "russian_gloss": "зимний ягель",
     "english_gloss": "winter reindeer lichen",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "лесотундра",
@@ -3522,7 +3522,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 15",
+        "source_pages": "15",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3541,7 +3541,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       },
@@ -3549,7 +3549,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 15"
+            "source_pages": "15"
           }
         ]
       }
@@ -3567,7 +3567,7 @@
     "names_other_varieties": [],
     "russian_gloss": "низкая злаковая трава",
     "english_gloss": "low grasses",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3589,7 +3589,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 17",
+        "source_pages": "17",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3608,7 +3608,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 17"
+            "source_pages": "17"
           }
         ]
       }
@@ -3623,7 +3623,7 @@
     "names_other_varieties": [],
     "russian_gloss": "мягкая трава",
     "english_gloss": "soft grasses",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3645,7 +3645,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 17",
+        "source_pages": "17",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3664,7 +3664,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 17"
+            "source_pages": "17"
           }
         ]
       }
@@ -3679,7 +3679,7 @@
     "names_other_varieties": [],
     "russian_gloss": "водная осока",
     "english_gloss": "water sedge",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "болотистые места",
@@ -3701,7 +3701,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3720,7 +3720,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       },
@@ -3728,7 +3728,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -3746,7 +3746,7 @@
     "names_other_varieties": [],
     "russian_gloss": "хвощ",
     "english_gloss": "horsetail",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3768,7 +3768,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3787,7 +3787,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -3802,7 +3802,7 @@
     "names_other_varieties": [],
     "russian_gloss": "мать-и-мачеха",
     "english_gloss": "coltsfoot",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3824,7 +3824,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3843,7 +3843,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -3858,7 +3858,7 @@
     "names_other_varieties": [],
     "russian_gloss": "пушица",
     "english_gloss": "cottongrass",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -3880,7 +3880,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3899,7 +3899,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -3914,7 +3914,7 @@
     "names_other_varieties": [],
     "russian_gloss": "вахта трёхлистная",
     "english_gloss": "bogbean",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "влажные места",
@@ -3936,7 +3936,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -3955,7 +3955,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       },
@@ -3963,7 +3963,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -3981,7 +3981,7 @@
     "names_other_varieties": [],
     "russian_gloss": "олений щавель",
     "english_gloss": "reindeer sorrel",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -4003,7 +4003,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 18",
+        "source_pages": "18",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4022,7 +4022,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 18"
+            "source_pages": "18"
           }
         ]
       }
@@ -4037,7 +4037,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ива сизая",
     "english_gloss": "grey willow",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "тундра",
@@ -4059,7 +4059,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 20",
+        "source_pages": "20",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4078,7 +4078,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       },
@@ -4086,7 +4086,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       }
@@ -4104,7 +4104,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ива шерстистая",
     "english_gloss": "woolly willow",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "тундра",
@@ -4126,7 +4126,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 20",
+        "source_pages": "20",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4145,7 +4145,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       },
@@ -4153,7 +4153,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       }
@@ -4171,7 +4171,7 @@
     "names_other_varieties": [],
     "russian_gloss": "ива арктическая",
     "english_gloss": "arctic willow",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "берега рек",
@@ -4193,7 +4193,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 20",
+        "source_pages": "20",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4212,7 +4212,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       },
@@ -4220,7 +4220,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       }
@@ -4238,7 +4238,7 @@
     "names_other_varieties": [],
     "russian_gloss": "карликовая берёза",
     "english_gloss": "dwarf birch",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "тундра",
@@ -4260,7 +4260,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 20",
+        "source_pages": "20",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4279,7 +4279,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       },
@@ -4287,7 +4287,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 20"
+            "source_pages": "20"
           }
         ]
       }
@@ -4305,7 +4305,7 @@
     "names_other_varieties": [],
     "russian_gloss": "болетовые грибы",
     "english_gloss": "bolete mushrooms",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "тундра",
@@ -4327,7 +4327,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 21",
+        "source_pages": "21",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4346,7 +4346,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 21"
+            "source_pages": "21"
           }
         ]
       },
@@ -4354,7 +4354,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 21"
+            "source_pages": "21"
           }
         ]
       }
@@ -4372,7 +4372,7 @@
     "names_other_varieties": [],
     "russian_gloss": "осока водная",
     "english_gloss": "water sedge",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "влажные места",
@@ -4394,7 +4394,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 22",
+        "source_pages": "22",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4413,7 +4413,7 @@
         "habitat": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 22"
+            "source_pages": "22"
           }
         ]
       },
@@ -4421,7 +4421,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 22"
+            "source_pages": "22"
           }
         ]
       }
@@ -4439,7 +4439,7 @@
     "names_other_varieties": [],
     "russian_gloss": "голубика",
     "english_gloss": "bog blueberry",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -4461,7 +4461,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4480,7 +4480,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -4495,7 +4495,7 @@
     "names_other_varieties": [],
     "russian_gloss": "брусника",
     "english_gloss": "lingonberry",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -4517,7 +4517,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4536,7 +4536,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }
@@ -4551,7 +4551,7 @@
     "names_other_varieties": [],
     "russian_gloss": "брусника",
     "english_gloss": "lingonberry",
-    "linguistic_comment": "латинская запись как в источнике; страницы MS относятся к авторской рукописи, не к журнальной пагинации",
+    "linguistic_comment": null,
     "cognate": "",
     "ecological_data": {
       "habitat": "",
@@ -4573,7 +4573,7 @@
         "location_id": null,
         "contributor_id": null,
         "source_id": "src_laptander_2024_nenets_lichen",
-        "source_pages": "MS 19",
+        "source_pages": "19",
         "record_date": null,
         "recording_year": null,
         "collector": null,
@@ -4592,7 +4592,7 @@
         "animal_consumption": [
           {
             "source_id": "src_laptander_2024_nenets_lichen",
-            "source_pages": "MS 19"
+            "source_pages": "19"
           }
         ]
       }

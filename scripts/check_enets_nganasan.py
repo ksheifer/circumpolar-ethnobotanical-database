@@ -3,7 +3,7 @@ r=pathlib.Path(__file__).resolve().parents[1]/'data'
 manifest=json.loads((r/'manifest.json').read_text())
 langs={x['language_id'] for x in json.loads((r/'languages.json').read_text())}
 sources={x['source_id'] for x in json.loads((r/'sources.json').read_text())}
-for lang in ('forest-enets','tundra-enets','nganasan'):
+for lang in ('enets','nganasan'):
  assert lang in langs
  assert 'phytonyms/'+lang+'.json' in manifest['phytonym_files']
  rows=json.loads((r/'phytonyms'/f'{lang}.json').read_text())

@@ -18,8 +18,7 @@
     "phytonyms/tundra-yukaghir.json",
     "phytonyms/forest-yukaghir.json",
     "phytonyms/tundra-nenets.json",
-    "phytonyms/forest-enets.json",
-    "phytonyms/tundra-enets.json",
-    "phytonyms/nganasan.json"
+    "phytonyms/nganasan.json",
+    "phytonyms/enets.json"
   ]
 }
