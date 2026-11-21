@@ -208,7 +208,7 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://ru.wikipedia.org/wiki/Арка_(Хабаровский_край)",
+    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); Координаты требуют независимого подтверждения первичным географическим источником.",
     "locality": "Арка",
     "location_id": "loc_04300440043a0430",
     "language_ids": [
@@ -1318,7 +1318,7 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://ru.wikipedia.org/wiki/Алькатваам_(село)",
+    "notes": "Координаты населённого пункта (не место аттестации); Координаты требуют независимого подтверждения первичным географическим источником.",
     "locality": "Алькатваам",
     "location_id": "loc_0430043b044c043a04300442043204300430043c",
     "language_ids": [
@@ -3598,7 +3598,7 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Barguzin settlement. Source: https://ru.wikipedia.org/wiki/Баргузин_(село)",
+    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Barguzin settlement; Координаты требуют независимого подтверждения первичным географическим источником.",
     "language_ids": [
       "evenki"
     ]
@@ -3778,7 +3778,7 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokma settlement. Source: https://ru.wikipedia.org/wiki/Токма_(село)",
+    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokma settlement; Координаты требуют независимого подтверждения первичным географическим источником.",
     "language_ids": [
       "evenki"
     ]
