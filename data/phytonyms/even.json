@@ -455,7 +455,7 @@
     "name_native_language": "болгит",
     "names_other_varieties": [],
     "russian_gloss": "кедровый стланик",
-    "english_gloss": "Siberian dwarf pine",
+    "english_gloss": "siberian dwarf pine",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -533,138 +533,6 @@
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "бучукат",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0011",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "василек",
-    "names_other_varieties": [],
-    "russian_gloss": "василёк",
-    "english_gloss": "cornflower",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0012",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "82",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "василек",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0012",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "виноград",
-    "names_other_varieties": [],
-    "russian_gloss": "виноград",
-    "english_gloss": "grape",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0013",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "82",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "виноград",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0013",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "вишня",
-    "names_other_varieties": [],
-    "russian_gloss": "вишня",
-    "english_gloss": "cherry",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0014",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "82",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "вишня",
     "ipa": null
   },
   {
@@ -857,50 +725,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0018",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "груша хятан",
-    "names_other_varieties": [],
-    "russian_gloss": "грушевое дерево",
-    "english_gloss": "pear tree",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0019",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "82",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "груша хятан",
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_even_sadovnikova_2024_0019",
     "language_id": "even",
     "dialect_id": null,
@@ -1074,50 +898,6 @@
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "дягда",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0023",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "земляника",
-    "names_other_varieties": [],
-    "russian_gloss": "земляника",
-    "english_gloss": "wild strawberry",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0024",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "82",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "земляника",
     "ipa": null
   },
   {
@@ -1587,50 +1367,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0034",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "клен",
-    "names_other_varieties": [],
-    "russian_gloss": "клён",
-    "english_gloss": "maple",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0035",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "83",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "клен",
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_even_sadovnikova_2024_0035",
     "language_id": "even",
     "dialect_id": null,
@@ -1804,50 +1540,6 @@
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "коӈӈа",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0039",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "кочия",
-    "names_other_varieties": [],
-    "russian_gloss": "растение старых гарей, отвар используется как чай",
-    "english_gloss": "plant growing on old burnt areas, whose decoction is used as tea",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0040",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "83",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "кочия",
     "ipa": null
   },
   {
@@ -2897,94 +2589,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0065",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "овёс",
-    "names_other_varieties": [],
-    "russian_gloss": "овёс",
-    "english_gloss": "oats",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0066",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "овёс",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0066",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "огурец",
-    "names_other_varieties": [],
-    "russian_gloss": "огурец",
-    "english_gloss": "cucumber",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0067",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "огурец",
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_even_sadovnikova_2024_0067",
     "language_id": "even",
     "dialect_id": null,
@@ -3293,50 +2897,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0074",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "редька",
-    "names_other_varieties": [],
-    "russian_gloss": "редька",
-    "english_gloss": "black radish",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0075",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "редька",
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_even_sadovnikova_2024_0075",
     "language_id": "even",
     "dialect_id": null,
@@ -3378,182 +2938,6 @@
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "репэ",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0076",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "рожь",
-    "names_other_varieties": [],
-    "russian_gloss": "рожь",
-    "english_gloss": "rye",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0077",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "рожь",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0077",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "рис",
-    "names_other_varieties": [],
-    "russian_gloss": "рис",
-    "english_gloss": "rice",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0078",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "рис",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0078",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "свёкла",
-    "names_other_varieties": [],
-    "russian_gloss": "свёкла",
-    "english_gloss": "beetroot",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0079",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "свёкла",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0079",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "слива",
-    "names_other_varieties": [],
-    "russian_gloss": "слива",
-    "english_gloss": "plum",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0080",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "84",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "слива",
     "ipa": null
   },
   {
@@ -3608,7 +2992,7 @@
     "name_native_language": "уйир",
     "names_other_varieties": [],
     "russian_gloss": "зверобой",
-    "english_gloss": "St John's wort",
+    "english_gloss": "st John's wort",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -3973,7 +3357,7 @@
     "name_native_language": "хинапэ",
     "names_other_varieties": [],
     "russian_gloss": "лилия даурская, сарана",
-    "english_gloss": "Daurian lily, sarana lily",
+    "english_gloss": "daurian lily, sarana lily",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -4273,7 +3657,7 @@
     "name_native_language": "хэӈкэс",
     "names_other_varieties": [],
     "russian_gloss": "багульник",
-    "english_gloss": "Labrador tea",
+    "english_gloss": "labrador tea",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -4506,7 +3890,7 @@
     "name_native_language": "чикэнмэт",
     "names_other_varieties": [],
     "russian_gloss": "княженика",
-    "english_gloss": "Arctic raspberry",
+    "english_gloss": "arctic raspberry",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
@@ -4644,50 +4028,6 @@
     "ipa": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0104",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "щавель",
-    "names_other_varieties": [],
-    "russian_gloss": "щавель",
-    "english_gloss": "sorrel",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0105",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "85",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "щавель",
-    "ipa": null
-  },
-  {
     "phytonym_id": "phy_even_sadovnikova_2024_0105",
     "language_id": "even",
     "dialect_id": null,
@@ -4817,94 +4157,6 @@
     ],
     "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
     "source_lemma": "эӈут",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0108",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "яблоня",
-    "names_other_varieties": [],
-    "russian_gloss": "яблоня",
-    "english_gloss": "apple tree",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0109",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "85",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "яблоня",
-    "ipa": null
-  },
-  {
-    "phytonym_id": "phy_even_sadovnikova_2024_0109",
-    "language_id": "even",
-    "dialect_id": null,
-    "taxon_id": null,
-    "name_native_language": "ячмень",
-    "names_other_varieties": [],
-    "russian_gloss": "ячмень",
-    "english_gloss": "barley",
-    "linguistic_comment": "",
-    "cognate": "",
-    "ecological_data": {
-      "habitat": "",
-      "plant_community": "",
-      "phenology": "",
-      "description": "",
-      "toxicity": ""
-    },
-    "indigenous_knowledge": {
-      "medicinal_use": "",
-      "domestic_use": "",
-      "spiritual_use": "",
-      "human_consumption": "",
-      "animal_consumption": ""
-    },
-    "attestations": [
-      {
-        "attestation_id": "att_even_sadovnikova_0110",
-        "location_id": null,
-        "contributor_id": null,
-        "source_id": "src_sadovnikova_2024",
-        "source_pages": "85",
-        "record_date": null,
-        "recording_year": null,
-        "collector": null,
-        "folklore": null,
-        "dialect_ids": [],
-        "dialect_abbreviations": []
-      }
-    ],
-    "extraction_status": "transcribed_from_sadovnikova_2024_review_recommended",
-    "source_lemma": "ячмень",
     "ipa": null
   },
   {
@@ -5761,7 +5013,7 @@
     "name_native_language": "оир",
     "names_other_varieties": [],
     "russian_gloss": "зверобой",
-    "english_gloss": "St John's wort",
+    "english_gloss": "st John's wort",
     "linguistic_comment": "",
     "cognate": "",
     "ecological_data": {
