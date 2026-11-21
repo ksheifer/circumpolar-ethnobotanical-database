@@ -4,7 +4,6 @@
     "name_en": "Sámi",
     "name_ru": "Саамский",
     "iso_639_3": "",
-    "notes": "Umbrella catalog entry. The four Kola Sámi varieties are separate languages in linguistic classification; see DOBES Kola Sámi documentation (https://dobes.mpi.nl/projects/sami/language/).",
     "west_east_order": 1
   },
   {
@@ -12,7 +11,6 @@
     "name_en": "Komi",
     "name_ru": "Коми",
     "iso_639_3": "kpv",
-    "notes": "Komi language, with dialect distinctions given in Rakin (1989).",
     "west_east_order": 2
   },
   {
@@ -20,7 +18,6 @@
     "name_en": "Nenets",
     "name_ru": "Ненецкий",
     "iso_639_3": "",
-    "notes": "Language varieties are listed separately in the Language variety field.",
     "west_east_order": 3
   },
   {
@@ -28,7 +25,6 @@
     "name_en": "Khanty",
     "name_ru": "Хантыйский",
     "iso_639_3": "",
-    "notes": "Language varieties are listed separately in the Language variety field.",
     "west_east_order": 5
   },
   {
@@ -36,7 +32,6 @@
     "name_en": "Selkup",
     "name_ru": "Селькупский",
     "iso_639_3": "",
-    "notes": "Language varieties are listed separately in the Language variety field.",
     "west_east_order": 6
   },
   {
@@ -44,7 +39,6 @@
     "name_en": "Enets",
     "name_ru": "Энецкий",
     "iso_639_3": "",
-    "notes": "Forest and Tundra Enets are catalogued as language varieties; the source designations are preserved in each record.",
     "west_east_order": 8
   },
   {
@@ -52,7 +46,6 @@
     "name_en": "Nganasan",
     "name_ru": "Нганасанский",
     "iso_639_3": "",
-    "notes": "",
     "west_east_order": 10
   },
   {
@@ -60,7 +53,6 @@
     "name_en": "Dolgan",
     "name_ru": "Долганский",
     "iso_639_3": "",
-    "notes": "",
     "west_east_order": 11
   },
   {
@@ -68,7 +60,6 @@
     "name_en": "Evenki",
     "name_ru": "Эвенкийский",
     "iso_639_3": "",
-    "notes": "",
     "west_east_order": 12
   },
   {
@@ -76,7 +67,6 @@
     "name_en": "Sakha",
     "name_ru": "Саха",
     "iso_639_3": "sah",
-    "notes": "",
     "west_east_order": 13
   },
   {
@@ -84,7 +74,6 @@
     "name_en": "Even",
     "name_ru": "Эвенский",
     "iso_639_3": "",
-    "notes": "",
     "west_east_order": 14
   },
   {
@@ -92,7 +81,6 @@
     "name_en": "Yukaghir",
     "name_ru": "Юкагирский",
     "iso_639_3": "",
-    "notes": "Language varieties are listed separately in the Language variety field.",
     "west_east_order": 15,
     "alternative_names_ru": [
       "Одульский"
@@ -106,7 +94,6 @@
     "name_en": "Koryak",
     "name_ru": "Корякский",
     "iso_639_3": "",
-    "notes": "Alyutor is retained under Language variety for its corresponding phytonyms.",
     "west_east_order": 17
   },
   {
@@ -114,7 +101,6 @@
     "name_en": "Chukchi",
     "name_ru": "Чукотский",
     "iso_639_3": "",
-    "notes": "",
     "west_east_order": 19
   }
 ]

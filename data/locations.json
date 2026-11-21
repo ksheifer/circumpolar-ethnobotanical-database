@@ -8,7 +8,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Центр населённого пункта (не место сбора растений и не адрес информанта). Берёзовский национальный (кочевой) наслег. Coordinates and administrative affiliation: https://regionum.ru/respublika-saha-yakutiya/srednekolymskiy-ulus/beryozovka/ ; contextual identification: https://journals.tsu.ru/vestnik/&journal_page=archive&id=1906&article_id=42890 .",
     "locality": "Берёзовка / Beryozovka",
     "location_id": "loc_beryozovka_001",
     "language_ids": [
@@ -26,7 +25,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sebyan-kyuel/",
     "locality": "Себян-Кюёль",
     "location_id": "loc_044104350431044f043d002d043a044e0451043b044c",
     "language_ids": [
@@ -44,7 +42,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/topolinyy/",
     "locality": "Тополиное",
     "location_id": "loc_0442043e043f043e043b0438043d043e0435",
     "language_ids": [
@@ -62,7 +59,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Ориентир языкового сообщества; не установленное место фиксации конкретного фитонима. Координаты приблизительно соответствуют центру населённого пункта. / Language-community reference point, not a verified attestation site; coordinates are approximate settlement-center locations.",
     "locality": "Андрюшкино",
     "location_id": "loc_0430043d04340440044e0448043a0438043d043e",
     "language_ids": [
@@ -81,7 +77,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sasyr_sakha_r./",
     "locality": "Сасыр",
     "location_id": "loc_044104300441044b0440",
     "language_ids": [
@@ -99,7 +94,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " | Geographic reference: https://atlaskmns.ru/page/ru/people_eveny_transport.html",
     "locality": "Хонуу",
     "location_id": "loc_0445043e043d04430443",
     "language_ids": [
@@ -117,7 +111,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
     "locality": "Батагай-Алыта",
     "location_id": "loc_0431043004420430043304300439002d0430043b044b04420430",
     "language_ids": [
@@ -136,7 +129,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16387958",
     "locality": "Кустур",
     "location_id": "loc_043a04430441044204430440",
     "language_ids": [
@@ -154,7 +146,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hayagastah/",
     "locality": "Оленегорск",
     "location_id": "loc_043e043b0435043d04350433043e04400441043a",
     "language_ids": [
@@ -172,7 +163,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/uyandi/",
     "locality": "Уянди",
     "location_id": "loc_0443044f043d04340438",
     "language_ids": [
@@ -190,7 +180,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N2294263139",
     "locality": "Ючюгей",
     "location_id": "loc_044e0447044e043304350439",
     "language_ids": [
@@ -208,7 +197,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); Координаты требуют независимого подтверждения первичным географическим источником.",
     "locality": "Арка",
     "location_id": "loc_04300440043a0430",
     "language_ids": [
@@ -226,7 +214,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " | Geographic reference: https://essobmr.ru/",
     "locality": "Эссо",
     "location_id": "loc_044d04410441043e",
     "language_ids": [
@@ -244,7 +231,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " | Geographic reference: https://na-meste.ru/magadanskaya-oblast/ola.php",
     "locality": "Ола",
     "location_id": "loc_043e043b0430",
     "language_ids": [
@@ -262,7 +248,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gizhiga_mag._obl./",
     "locality": "Гижига",
     "location_id": "loc_043304380436043804330430",
     "language_ids": [
@@ -280,7 +265,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jevensk_mag._obl./ Географический ориентир для полевого исследования Kurebito & Saito (2005): Эвенск является административным центром Северо-Эвенского района, не местом конкретной аттестации; источник: https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf (с. 65).",
     "locality": "Эвенск",
     "location_id": "loc_044d04320435043d0441043a",
     "language_ids": [
@@ -299,7 +283,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/topolovka/",
     "locality": "Тополовка",
     "location_id": "loc_0442043e043f043e043b043e0432043a0430",
     "language_ids": [
@@ -317,7 +300,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/anavgajj_kamch._kr./",
     "locality": "Анавгай",
     "location_id": "loc_0430043d04300432043304300439",
     "language_ids": [
@@ -336,7 +318,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ayanka_kamch._kr./",
     "locality": "Аянка",
     "location_id": "loc_0430044f043d043a0430",
     "language_ids": [
@@ -354,7 +335,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/oklan/",
     "locality": "Оклан",
     "location_id": "loc_043e043a043b0430043d",
     "language_ids": [
@@ -372,7 +352,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16585476",
     "locality": "Ваеги",
     "location_id": "loc_04320430043504330438",
     "language_ids": [
@@ -390,7 +369,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lamutskoe/",
     "locality": "Ламутское",
     "location_id": "loc_043b0430043c044304420441043a043e0435",
     "language_ids": [
@@ -408,7 +386,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/omolonlhz/",
     "locality": "Омолон",
     "location_id": "loc_043e043c043e043b043e043d",
     "language_ids": [
@@ -426,7 +403,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/manilyi/",
     "locality": "Манилы",
     "location_id": "loc_043c0430043d0438043b044b",
     "language_ids": [
@@ -445,7 +421,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " | Geographic reference: https://www.zskk.ru/MSU/MOKk/obrazovanie/vse/penzhinskiy-munitsipalnyy-rayon/",
     "locality": "Каменское",
     "location_id": "loc_043a0430043c0435043d0441043a043e0435",
     "language_ids": [
@@ -463,7 +438,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/slautnoe/",
     "locality": "Слаутное",
     "location_id": "loc_0441043b043004430442043d043e0435",
     "language_ids": [
@@ -481,7 +455,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " | Geographic reference: https://atlaskmns.ru/page/ru/lang_evenki_all.html",
     "locality": "Тура",
     "location_id": "loc_0442044304400430",
     "language_ids": [
@@ -499,7 +472,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/chirinda_krasn._kr./",
     "locality": "Чиринда",
     "location_id": "loc_0447043804400438043d04340430",
     "language_ids": [
@@ -517,7 +489,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jekonda_krasn._kr./",
     "locality": "Эконда",
     "location_id": "loc_044d043a043e043d04340430",
     "language_ids": [
@@ -535,7 +506,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/nidym_krasn._kr./",
     "locality": "Нидым",
     "location_id": "loc_043d04380434044b043c",
     "language_ids": [
@@ -553,7 +523,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tutonchany_krasn._kr./",
     "locality": "Тутончаны",
     "location_id": "loc_044204430442043e043d04470430043d044b",
     "language_ids": [
@@ -571,7 +540,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kislokan_krasn._kr./",
     "locality": "Кислокан",
     "location_id": "loc_043a04380441043b043e043a0430043d",
     "language_ids": [
@@ -589,7 +557,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Reference locality coordinates (not a phytonym attestation). Coordinate source: https://allardais.github.io/validwd/okato/04250.html",
     "locality": "Байкит",
     "location_id": "loc_043104300439043a04380442",
     "language_ids": [
@@ -607,7 +574,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vanavara_krasn._kr./",
     "locality": "Ванавара",
     "location_id": "loc_04320430043d04300432043004400430",
     "language_ids": [
@@ -625,7 +591,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/surinda_krasn._kr./",
     "locality": "Суринда",
     "location_id": "loc_0441044304400438043d04340430",
     "language_ids": [
@@ -643,7 +608,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/poligus/",
     "locality": "Полигус",
     "location_id": "loc_043f043e043b0438043304430441",
     "language_ids": [
@@ -661,7 +625,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/strelka_chunya_krasn._kr./",
     "locality": "Стрелка-Чуня",
     "location_id": "loc_0441044204400435043b043a0430002d04470443043d044f",
     "language_ids": [
@@ -679,7 +642,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Reference locality coordinates (not a phytonym attestation). Coordinate source: https://ru.db-city.com/Россия--Саха--Нерюнгринский-район--Иенгра",
     "locality": "Иенгра",
     "location_id": "loc_04380435043d043304400430",
     "language_ids": [
@@ -697,7 +659,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tyanya_sakha_r./",
     "locality": "Тяня",
     "location_id": "loc_0442044f043d044f",
     "language_ids": [
@@ -715,7 +676,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ust-nyukja/",
     "locality": "Усть-Нюкжа",
     "location_id": "loc_044304410442044c002d043d044e043a04360430",
     "language_ids": [
@@ -733,7 +693,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ust-urkima/",
     "locality": "Усть-Уркима",
     "location_id": "loc_044304410442044c002d04430440043a0438043c0430",
     "language_ids": [
@@ -751,7 +710,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
     "locality": "Усть-Мая",
     "location_id": "loc_044304410442044c002d043c0430044f",
     "language_ids": [
@@ -770,7 +728,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Перевоз",
     "location_id": "loc_043f0435044004350432043e0437",
     "language_ids": [
@@ -788,7 +745,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://regionum.ru/krasnoyarskiy-kray/taymyrskiy-dolgano-nenetskiy-rayon/volochanka/",
     "locality": "Волочанка",
     "location_id": "loc_0432043e043b043e04470430043d043a0430",
     "language_ids": [
@@ -807,7 +763,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://mapcarta.com/N1249500714/Map",
     "locality": "Усть-Авам",
     "location_id": "loc_044304410442044c002d043004320430043c",
     "language_ids": [
@@ -826,7 +781,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://www.plantarium.ru/page/landscapes/point/12292.html",
     "locality": "Хантайское Озеро",
     "location_id": "loc_04450430043d0442043004390441043a043e04350020043e043704350440043e",
     "language_ids": [
@@ -844,7 +798,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://www.komandirovka.ru/cities/potapovocko/",
     "locality": "Потапово",
     "location_id": "loc_043f043e04420430043f043e0432043e",
     "language_ids": [
@@ -863,7 +816,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://rosecomonitoring.ru/voda/krasnoyarsk/taymyrsky-dolgano-nenetsky/dudinka/",
     "locality": "Дудинка",
     "location_id": "loc_0434044304340438043d043a0430",
     "language_ids": [
@@ -883,7 +835,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://rgex.ru/rasstoyanie/krasnoyarskiy-kray/n/taymyrskiy-dolgano-neneckiy/hatanga/",
     "locality": "Хатанга",
     "location_id": "loc_0445043004420430043d04330430",
     "language_ids": [
@@ -902,7 +853,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Кресты",
     "location_id": "loc_043a0440043504410442044b",
     "language_ids": [
@@ -920,7 +870,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Новая",
     "location_id": "loc_043d043e04320430044f",
     "language_ids": [
@@ -939,7 +888,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Хета",
     "location_id": "loc_0445043504420430",
     "language_ids": [
@@ -957,7 +905,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Катырык",
     "location_id": "loc_043a04300442044b0440044b043a",
     "language_ids": [
@@ -975,7 +922,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Новорыбная",
     "location_id": "loc_043d043e0432043e0440044b0431043d0430044f",
     "language_ids": [
@@ -993,7 +939,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Сындасско",
     "location_id": "loc_0441044b043d0434043004410441043a043e",
     "language_ids": [
@@ -1011,7 +956,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Попигай",
     "location_id": "loc_043f043e043f0438043304300439",
     "language_ids": [
@@ -1029,7 +973,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://krasecology.ru/Storage/Index?guid=f5491e38-9d87-4d39-a253-416f727c463f",
     "locality": "Жданиха",
     "location_id": "loc_043604340430043d043804450430",
     "language_ids": [
@@ -1047,7 +990,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Coordinate reference: https://latlong.info/russia/sakha-republic",
     "locality": "Саскылах",
     "location_id": "loc_044104300441043a044b043b04300445",
     "language_ids": [
@@ -1066,7 +1008,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect-group labels in dialects.json; classifications provisional. | Reference locality coordinates (not a phytonym attestation). Coordinate source: https://ru.db-city.com/Россия--Саха--Анабарский-улус--Юрюнг-Хая",
     "locality": "Юрюнг-Хая",
     "location_id": "loc_044e0440044e043d0433002d04450430044f",
     "language_ids": [
@@ -1084,7 +1025,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/uelen/",
     "locality": "Уэлен",
     "location_id": "loc_0443044d043b0435043d",
     "language_ids": [
@@ -1102,7 +1042,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lorinolvu/",
     "locality": "Лорино",
     "location_id": "loc_043b043e04400438043d043e",
     "language_ids": [
@@ -1120,7 +1059,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lavrentiya/",
     "locality": "Лаврентия",
     "location_id": "loc_043b0430043204400435043d04420438044f",
     "language_ids": [
@@ -1138,7 +1076,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/neshkan/",
     "locality": "Нешкан",
     "location_id": "loc_043d04350448043a0430043d",
     "language_ids": [
@@ -1156,7 +1093,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/inchoun/",
     "locality": "Инчоун",
     "location_id": "loc_0438043d0447043e0443043d",
     "language_ids": [
@@ -1174,7 +1110,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enurmino/",
     "locality": "Энурмино",
     "location_id": "loc_044d043d04430440043c0438043d043e",
     "language_ids": [
@@ -1192,7 +1127,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/amguema/",
     "locality": "Амгуэма",
     "location_id": "loc_0430043c04330443044d043c0430",
     "language_ids": [
@@ -1210,7 +1144,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/konergino/",
     "locality": "Конергино",
     "location_id": "loc_043a043e043d0435044004330438043d043e",
     "language_ids": [
@@ -1228,7 +1161,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ryirkaypiy/",
     "locality": "Рыркайпий",
     "location_id": "loc_0440044b0440043a04300439043f04380439",
     "language_ids": [
@@ -1246,7 +1178,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vankarem/",
     "locality": "Ванкарем",
     "location_id": "loc_04320430043d043a043004400435043c",
     "language_ids": [
@@ -1264,7 +1195,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enmelen/",
     "locality": "Энмелен",
     "location_id": "loc_044d043d043c0435043b0435043d",
     "language_ids": [
@@ -1282,7 +1212,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/nunligran/",
     "locality": "Нунлигран",
     "location_id": "loc_043d0443043d043b0438043304400430043d",
     "language_ids": [
@@ -1300,7 +1229,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hatyirka/",
     "locality": "Хатырка",
     "location_id": "loc_044504300442044b0440043a0430",
     "language_ids": [
@@ -1318,7 +1246,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты населённого пункта (не место аттестации); Координаты требуют независимого подтверждения первичным географическим источником.",
     "locality": "Алькатваам",
     "location_id": "loc_0430043b044c043a04300442043204300430043c",
     "language_ids": [
@@ -1336,7 +1263,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Современное село на острове Айон. Источник координат: https://ru.db-city.com/Россия--Чукотский--Чаунский-район--Айон",
     "locality": "Айон",
     "location_id": "loc_04300439043e043d",
     "language_ids": [
@@ -1354,7 +1280,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ryitkuchi/",
     "locality": "Рыткучи",
     "location_id": "loc_0440044b0442043a044304470438",
     "language_ids": [
@@ -1372,7 +1297,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/billingsjbv/",
     "locality": "Биллингс",
     "location_id": "loc_04310438043b043b0438043d04330441",
     "language_ids": [
@@ -1390,7 +1314,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ilirney/",
     "locality": "Илирней",
     "location_id": "loc_0438043b04380440043d04350439",
     "language_ids": [
@@ -1408,7 +1331,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/achay-vayam/",
     "locality": "Ачайваям",
     "location_id": "loc_043004470430043904320430044f043c",
     "language_ids": [
@@ -1427,7 +1349,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/voroncovo_krasn._kr./",
     "locality": "Воронцово",
     "location_id": "loc_0432043e0440043e043d0446043e0432043e",
     "language_ids": [
@@ -1445,7 +1366,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/seyaha/",
     "locality": "Сеяха",
     "location_id": "loc_04410435044f04450430",
     "language_ids": [
@@ -1463,7 +1383,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/yarsale/",
     "locality": "Яр-Сале",
     "location_id": "loc_044f0440002d04410430043b0435",
     "language_ids": [
@@ -1481,7 +1400,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/panaevsk/",
     "locality": "Панаевск",
     "location_id": "loc_043f0430043d0430043504320441043a",
     "language_ids": [
@@ -1499,7 +1417,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/novyport/",
     "locality": "Новый Порт",
     "location_id": "loc_043d043e0432044b04390020043f043e04400442",
     "language_ids": [
@@ -1517,7 +1434,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gyda/",
     "locality": "Гыда",
     "location_id": "loc_0433044b04340430",
     "language_ids": [
@@ -1535,7 +1451,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/antipayuta/",
     "locality": "Антипаюта",
     "location_id": "loc_0430043d04420438043f0430044e04420430",
     "language_ids": [
@@ -1553,7 +1468,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tazovsky/",
     "locality": "Тазовский",
     "location_id": "loc_044204300437043e04320441043a04380439",
     "language_ids": [
@@ -1571,7 +1485,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/aksarka/",
     "locality": "Аксарка",
     "location_id": "loc_0430043a044104300440043a0430",
     "language_ids": [
@@ -1589,7 +1502,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/nelmin-nos/",
     "locality": "Нельмин Нос",
     "location_id": "loc_043d0435043b044c043c0438043d0020043d043e0441",
     "language_ids": [
@@ -1607,7 +1519,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/bugrinoroc/",
     "locality": "Бугрино",
     "location_id": "loc_04310443043304400438043d043e",
     "language_ids": [
@@ -1625,7 +1536,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/neskzx/",
     "locality": "Несь",
     "location_id": "loc_043d04350441044c",
     "language_ids": [
@@ -1643,7 +1553,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/fr/Narian-Mar",
     "locality": "Нарьян-Мар",
     "location_id": "loc_043d04300440044c044f043d002d043c04300440",
     "language_ids": [
@@ -1661,7 +1570,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Деревня; ориентировочный центр населённого пункта. Источник координат: https://www.kartatut.ru/карта_сельского_поселения_деревня_харампур.html",
     "locality": "Харампур",
     "location_id": "loc_0445043004400430043c043f04430440",
     "language_ids": [
@@ -1679,7 +1587,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/halyasavey/",
     "locality": "Халясавэй",
     "location_id": "loc_04450430043b044f044104300432044d0439",
     "language_ids": [
@@ -1697,7 +1604,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/tarko-sale/",
     "locality": "Тарко-Сале",
     "location_id": "loc_044204300440043a043e002d04410430043b0435",
     "language_ids": [
@@ -1715,7 +1621,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N600516713",
     "locality": "Варьёган",
     "location_id": "loc_043204300440044c045104330430043d",
     "language_ids": [
@@ -1733,7 +1638,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Посёлок Аган, не река Аган. Источник координат: https://moy-region.ru/loc/agan",
     "locality": "Аган",
     "location_id": "loc_043004330430043d",
     "language_ids": [
@@ -1751,7 +1655,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/numto/",
     "locality": "Нумто",
     "location_id": "loc_043d0443043c0442043e",
     "language_ids": [
@@ -1769,7 +1672,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kazym_khmao/",
     "locality": "Казым",
     "location_id": "loc_043a04300437044b043c",
     "language_ids": [
@@ -1787,7 +1689,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/yuilsk_khmao/",
     "locality": "Юильск",
     "location_id": "loc_044e0438043b044c0441043a",
     "language_ids": [
@@ -1805,7 +1706,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/polnovat/",
     "locality": "Полноват",
     "location_id": "loc_043f043e043b043d043e043204300442",
     "language_ids": [
@@ -1823,7 +1723,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vanzevat/",
     "locality": "Ванзеват",
     "location_id": "loc_04320430043d04370435043204300442",
     "language_ids": [
@@ -1841,7 +1740,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/muzhy/",
     "locality": "Мужи",
     "location_id": "loc_043c044304360438",
     "language_ids": [
@@ -1859,7 +1757,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/ovgort/",
     "locality": "Овгорт",
     "location_id": "loc_043e04320433043e04400442",
     "language_ids": [
@@ -1877,7 +1774,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/pitlyar/",
     "locality": "Питляр",
     "location_id": "loc_043f04380442043b044f0440",
     "language_ids": [
@@ -1895,7 +1791,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/gorkipeu/",
     "locality": "Горки",
     "location_id": "loc_0433043e0440043a0438",
     "language_ids": [
@@ -1913,7 +1808,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lophari/",
     "locality": "Лопхари",
     "location_id": "loc_043b043e043f0445043004400438",
     "language_ids": [
@@ -1931,7 +1825,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/shuryishkaryi/",
     "locality": "Шурышкары",
     "location_id": "loc_044804430440044b0448043a04300440044b",
     "language_ids": [
@@ -1949,7 +1842,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/Salekhard",
     "locality": "Салехард",
     "location_id": "loc_04410430043b04350445043004400434",
     "language_ids": [
@@ -1967,7 +1859,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/kolymskoe_sakha_r./",
     "locality": "Колымское",
     "location_id": "loc_043a043e043b044b043c0441043a043e0435",
     "language_ids": [
@@ -1985,7 +1876,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/16589628",
     "locality": "Походск",
     "location_id": "loc_043f043e0445043e04340441043a",
     "language_ids": [
@@ -2003,7 +1893,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
     "locality": "Черский",
     "location_id": "loc_0447043504400441043a04380439",
     "language_ids": [
@@ -2022,7 +1911,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Ориентир языкового сообщества; не установленное место фиксации конкретного фитонима. Координаты приблизительно соответствуют центру населённого пункта. / Language-community reference point, not a verified attestation site; coordinates are approximate settlement-center locations.",
     "locality": "Нелемное",
     "location_id": "loc_043d0435043b0435043c043d043e0435",
     "language_ids": [
@@ -2040,7 +1928,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": " | Coordinate reference: https://latlong.info/russia/sakha-republic",
     "locality": "Зырянка",
     "location_id": "loc_0437044b0440044f043d043a0430",
     "language_ids": [
@@ -2059,7 +1946,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://www.komandirovka.ru/cities/verhnekolyimsk/",
     "locality": "Верхнеколымск",
     "location_id": "loc_0432043504400445043d0435043a043e043b044b043c0441043a",
     "language_ids": [
@@ -2077,7 +1963,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/hailino/",
     "locality": "Хаилино",
     "location_id": "loc_044504300438043b0438043d043e",
     "language_ids": [
@@ -2095,7 +1980,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/srednyaya-pahacha/",
     "locality": "Средние Пахачи",
     "location_id": "loc_0441044004350434043d043804350020043f04300445043004470438",
     "language_ids": [
@@ -2113,7 +1997,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/pakhachi_kamch._kr./",
     "locality": "Пахачи",
     "location_id": "loc_043f04300445043004470438",
     "language_ids": [
@@ -2131,7 +2014,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tilichiki_kamch._kr./",
     "locality": "Тиличики",
     "location_id": "loc_04420438043b043804470438043a0438",
     "language_ids": [
@@ -2149,7 +2031,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/apuka/",
     "locality": "Апука",
     "location_id": "loc_0430043f0443043a0430",
     "language_ids": [
@@ -2167,7 +2048,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/voyampolkayjc/",
     "locality": "Воямполка",
     "location_id": "loc_0432043e044f043c043f043e043b043a0430",
     "language_ids": [
@@ -2185,7 +2065,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/sedanka/",
     "locality": "Седанка",
     "location_id": "loc_0441043504340430043d043a0430",
     "language_ids": [
@@ -2203,7 +2082,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/paren_kamch._kr./",
     "locality": "Парень",
     "location_id": "loc_043f043004400435043d044c",
     "language_ids": [
@@ -2221,7 +2099,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/vyivenka/",
     "locality": "Вывенка",
     "location_id": "loc_0432044b04320435043d043a0430",
     "language_ids": [
@@ -2239,7 +2116,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/lesnayarzw/",
     "locality": "Лесная",
     "location_id": "loc_043b04350441043d0430044f",
     "language_ids": [
@@ -2257,7 +2133,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/palana_kamch._kr./",
     "locality": "Палана",
     "location_id": "loc_043f0430043b0430043d0430",
     "language_ids": [
@@ -2275,7 +2150,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/karaga/",
     "locality": "Карага",
     "location_id": "loc_043a04300440043004330430",
     "language_ids": [
@@ -2293,7 +2167,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/tyimlat/",
     "locality": "Тымлат",
     "location_id": "loc_0442044b043c043b04300442",
     "language_ids": [
@@ -2311,7 +2184,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://routez.ru/ossora/",
     "locality": "Оссора",
     "location_id": "loc_043e04410441043e04400430",
     "language_ids": [
@@ -2329,7 +2201,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/izhma_komi._r./",
     "locality": "Ижма",
     "location_id": "loc_04380436043c0430",
     "language_ids": [
@@ -2347,7 +2218,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/mokhcha_komi._r./",
     "locality": "Мохча",
     "location_id": "loc_043c043e044504470430",
     "language_ids": [
@@ -2365,7 +2235,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607093790",
     "locality": "Сизябск",
     "location_id": "loc_044104380437044f04310441043a",
     "language_ids": [
@@ -2383,7 +2252,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607036315",
     "locality": "Краснобор",
     "location_id": "loc_043a044004300441043d043e0431043e0440",
     "language_ids": [
@@ -2401,7 +2269,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/shhelyayur_komi._r./",
     "locality": "Щельяюр",
     "location_id": "loc_04490435043b044c044f044e0440",
     "language_ids": [
@@ -2419,7 +2286,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/13442792",
     "locality": "Кипиево",
     "location_id": "loc_043a0438043f043804350432043e",
     "language_ids": [
@@ -2437,7 +2303,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/N607036316",
     "locality": "Диюр",
     "location_id": "loc_04340438044e0440",
     "language_ids": [
@@ -2455,7 +2320,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": " Координаты населённого пункта (не место аттестации); источник: https://mapcarta.com/13301840",
     "locality": "Усть-Ижма",
     "location_id": "loc_044304410442044c002d04380436043c0430",
     "language_ids": [
@@ -2473,7 +2337,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Село Няшабож, не центр сельского поселения. Источник координат: https://ko.2rus.org/nyashabozh/karta/sat/",
     "locality": "Няшабож",
     "location_id": "loc_043d044f044804300431043e0436",
     "language_ids": [
@@ -2491,7 +2354,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Ловоз",
     "location_id": "loc_043b043e0432043e0437",
     "language_ids": [
@@ -2509,7 +2371,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/hotels/lovozero_mur._obl./koavas-hotel/ В Burov & Egorov (2023: 181) Ловозеро упомянуто в контексте рассказа (дорога к Lujaav’v’r); точка обозначает топоним, а не место записи слова. https://rodyaz.ru/pdf/23-2/RY_232_7_Burov-Egorov.pdf",
     "locality": "Ловозеро",
     "location_id": "loc_043b043e0432043e043704350440043e",
     "language_ids": [
@@ -2527,7 +2388,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/krasnoshhele_mur._obl./",
     "locality": "Краснощелье",
     "location_id": "loc_043a044004300441043d043e04490435043b044c0435",
     "language_ids": [
@@ -2545,7 +2405,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/enawmr/",
     "locality": "Ёна",
     "location_id": "loc_0451043d0430",
     "language_ids": [
@@ -2563,7 +2422,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/teriberka/",
     "locality": "Териберка",
     "location_id": "loc_0442043504400438043104350440043a0430",
     "language_ids": [
@@ -2581,7 +2439,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Воронье",
     "location_id": "loc_0432043e0440043e043d044c0435",
     "language_ids": [
@@ -2599,7 +2456,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Варзино",
     "location_id": "loc_04320430044004370438043d043e",
     "language_ids": [
@@ -2617,7 +2473,6 @@
     "location_type": "historical_settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Геопривязка центра населённого пункта / исторического поселения, не места фиксации названия растения. Историческое упразднённое поселение; координаты исторического географического справочника грубой точности. Источник координат: https://geographic.org/geographic_names/name.php?c=russia&fid=5544&uni=-4054076",
     "locality": "Чальмны-Варрэ",
     "location_id": "loc_04470430043b044c043c043d044b002d0432043004400440044d",
     "language_ids": [
@@ -2635,7 +2490,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Кильдин",
     "location_id": "loc_043a0438043b044c04340438043d",
     "language_ids": [
@@ -2653,7 +2507,6 @@
     "location_type": "settlement",
     "coordinate_precision": "",
     "visibility": "public",
-    "notes": "",
     "locality": "Нотозеро",
     "location_id": "loc_043d043e0442043e043704350440043e",
     "language_ids": [
@@ -2676,7 +2529,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Алдан",
     "name_en": "Aldan"
   },
@@ -2694,7 +2546,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Амга",
     "name_en": "Amga"
   },
@@ -2712,7 +2563,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Айхал",
     "name_en": "Aykhal"
   },
@@ -2730,7 +2580,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Батагай",
     "name_en": "Batagay"
   },
@@ -2748,7 +2597,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Белая Гора",
     "name_en": "Belaya Gora"
   },
@@ -2766,7 +2614,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Бердигестях",
     "name_en": "Berdigestyakh"
   },
@@ -2784,7 +2631,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Беркакит",
     "name_en": "Berkakit"
   },
@@ -2802,7 +2648,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Борогонцы",
     "name_en": "Borogontsy"
   },
@@ -2820,7 +2665,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Чернышевский",
     "name_en": "Chernyshevskiy"
   },
@@ -2839,7 +2683,6 @@
       "even"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Чокурдах",
     "name_en": "Chokurdakh"
   },
@@ -2858,7 +2701,6 @@
       "evenki"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Чульман",
     "name_en": "Chulman"
   },
@@ -2876,7 +2718,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Чурапча",
     "name_en": "Churapcha"
   },
@@ -2894,7 +2735,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Депутатский",
     "name_en": "Deputatsky"
   },
@@ -2912,7 +2752,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Джебарики-Хая",
     "name_en": "Dzhebariki-Khaya"
   },
@@ -2930,7 +2769,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Кангалассы",
     "name_en": "Kangalassy"
   },
@@ -2949,7 +2787,6 @@
       "even"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Хандыга",
     "name_en": "Khandyga"
   },
@@ -2967,7 +2804,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Хатассы",
     "name_en": "Khatassy"
   },
@@ -2985,7 +2821,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Кысыл-Сыр",
     "name_en": "Kysyl-Syr"
   },
@@ -3003,7 +2838,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Ленск",
     "name_en": "Lensk"
   },
@@ -3021,7 +2855,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Маган",
     "name_en": "Magan"
   },
@@ -3039,7 +2872,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Марха",
     "name_en": "Markha"
   },
@@ -3057,7 +2889,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Майя",
     "name_en": "Mayya"
   },
@@ -3075,7 +2906,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Мирный",
     "name_en": "Mirny"
   },
@@ -3093,7 +2923,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Мохсоголлох",
     "name_en": "Mokhsogollokh"
   },
@@ -3111,7 +2940,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Намцы",
     "name_en": "Namtsy"
   },
@@ -3129,7 +2957,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Нерюнгри",
     "name_en": "Neryungri"
   },
@@ -3147,7 +2974,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Нижний Бестях",
     "name_en": "Nizhniy Bestyakh"
   },
@@ -3165,7 +2991,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Нюрба",
     "name_en": "Nyurba"
   },
@@ -3183,7 +3008,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Оленёк",
     "name_en": "Olenyok"
   },
@@ -3202,7 +3026,6 @@
       "evenki"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Олёкминск",
     "name_en": "Olyokminsk"
   },
@@ -3220,7 +3043,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Покровск",
     "name_en": "Pokrovsk"
   },
@@ -3238,7 +3060,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Сангар",
     "name_en": "Sangar"
   },
@@ -3256,7 +3077,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Среднеколымск",
     "name_en": "Srednekolymsk"
   },
@@ -3274,7 +3094,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Сунтар",
     "name_en": "Suntar"
   },
@@ -3292,7 +3111,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Табага",
     "name_en": "Tabaga"
   },
@@ -3310,7 +3128,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Тикси",
     "name_en": "Tiksi"
   },
@@ -3329,7 +3146,6 @@
       "evenki"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Томмот",
     "name_en": "Tommot"
   },
@@ -3347,7 +3163,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Удачный",
     "name_en": "Udachny"
   },
@@ -3365,7 +3180,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Усть-Куйга",
     "name_en": "Ust-Kuyga"
   },
@@ -3383,7 +3197,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Усть-Нера",
     "name_en": "Ust-Nera"
   },
@@ -3401,7 +3214,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Верхневилюйск",
     "name_en": "Verkhnevilyuysk"
   },
@@ -3419,7 +3231,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Верхоянск",
     "name_en": "Verkhoyansk"
   },
@@ -3437,7 +3248,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Вилюйск",
     "name_en": "Vilyuysk"
   },
@@ -3455,7 +3265,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Витим",
     "name_en": "Vitim"
   },
@@ -3473,7 +3282,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Якутск",
     "name_en": "Yakutsk"
   },
@@ -3491,7 +3299,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Ытык-Кюёль",
     "name_en": "Ytyk-Kyuyol"
   },
@@ -3509,7 +3316,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Жатай",
     "name_en": "Zhatay"
   },
@@ -3527,7 +3333,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Жиганск",
     "name_en": "Zhigansk"
   },
@@ -3545,7 +3350,6 @@
       "sakha"
     ],
     "visibility": "public",
-    "notes": "Geographical reference point only; not a lexical attestation or verified dialect boundary. Coordinates: https://latlong.info/russia/sakha-republic",
     "name_ru": "Нижний Куранах",
     "name_en": "Nizhniy Kuranakh"
   },
@@ -3562,7 +3366,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Ayan settlement. Source: https://awdb.ru/rasstoyanie/habarovskiy-kr/n/ayano-mayskiy/ayan/",
     "language_ids": [
       "evenki"
     ]
@@ -3580,7 +3383,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre: Bauntovsky Evenki District. Source: https://www.komandirovka.ru/cities/bagdarin/",
     "language_ids": [
       "evenki"
     ]
@@ -3598,7 +3400,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Barguzin settlement; Координаты требуют независимого подтверждения первичным географическим источником.",
     "language_ids": [
       "evenki"
     ]
@@ -3616,7 +3417,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Yerbogachen settlement. Source: https://www.komandirovka.ru/cities/erbogachen_irk._obl./",
     "language_ids": [
       "evenki"
     ]
@@ -3634,7 +3434,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Representative toponym Zeya; wider Zeya catchment not represented by a single village. Source: https://na-meste.ru/amurskaya-oblast/zeya.php",
     "language_ids": [
       "evenki"
     ]
@@ -3652,7 +3451,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Maya variety of Ayano-Maysky district; indicative locality, not unique distribution. Source: https://socio-siberian-lang.iling-ran.ru/event/ekspediciya-k-evenkam-ayano-mayskogo-rayona-khabarovskogo-kraya",
     "language_ids": [
       "evenki"
     ]
@@ -3670,7 +3468,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Nepa settlement. Source: https://regionum.ru/irkutskaya-oblast/katangskiy-rayon/nepa/",
     "language_ids": [
       "evenki"
     ]
@@ -3688,7 +3485,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Nerchinsk. Source: https://herbariumle.ru/?id=1918&t=toponyms",
     "language_ids": [
       "evenki"
     ]
@@ -3706,7 +3502,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Sym settlement. Source: https://pogodaiklimat.ru/station/23975.htm",
     "language_ids": [
       "evenki"
     ]
@@ -3724,7 +3519,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Northern Baikal geographic reference, indicative location. Source: https://geo.satmaps.info/name/Северобайкальск/254598/",
     "language_ids": [
       "evenki"
     ]
@@ -3742,7 +3536,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre of Selemdzhinsky District. Source: https://moy-region.ru/loc/ekimchan",
     "language_ids": [
       "evenki"
     ]
@@ -3760,7 +3553,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokko settlement. Source: https://www.komandirovka.ru/cities/tokko_sakha_r./",
     "language_ids": [
       "evenki"
     ]
@@ -3778,7 +3570,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Tokma settlement; Координаты требуют независимого подтверждения первичным географическим источником.",
     "language_ids": [
       "evenki"
     ]
@@ -3796,7 +3587,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Administrative centre of Tungiro-Olyokminsky District; only indicative. Source: https://geotree.ru/oktmo?sort=rank&title=село+Тупик",
     "language_ids": [
       "evenki"
     ]
@@ -3814,7 +3604,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Chumikan settlement. Source: https://www.komandirovka.ru/cities/chumikan_khab._kr./",
     "language_ids": [
       "evenki"
     ]
@@ -3832,7 +3621,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Anadyr; indicative, not individual attestation. Source: https://timehelper.ru/coordinates/anadyr",
     "language_ids": [
       "even"
     ]
@@ -3850,7 +3638,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not evidence of phytonym attestation. Toponymic reference: Arman settlement. Source: https://www.komandirovka.ru/cities/armankur/",
     "language_ids": [
       "even"
     ]
@@ -3868,7 +3655,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference locality; not a phonetic or phytonym attestation. Representative toponym: Okhotsk. Source: https://moy-region.ru/loc/ohotsk",
     "language_ids": [
       "even"
     ]
@@ -3886,7 +3672,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference only. Upper-Lena (Kachug) Evenki group. Linguistic area: https://www.ru.sberopedia.org/wiki/Эвенкийский_язык ; coordinate source: https://moy-region.ru/loc/kachug",
     "language_ids": [
       "evenki"
     ]
@@ -3904,7 +3689,6 @@
     "location_type": "settlement",
     "coordinate_precision": "approximate",
     "visibility": "public",
-    "notes": "Dialect geographic reference only (Sakhalin), not location of lexical attestation. Sakhalin Evenki residence: https://www.simdp.ru/peoples-of-the-far-north/ ; coordinate source: https://awdb.ru/rasstoyanie/sahalinskaya-obl/n/noglikskiy/nogliki/",
     "language_ids": [
       "evenki"
     ]
@@ -3919,7 +3703,6 @@
     "location_type": "settlement",
     "coordinate_precision": "settlement_centre",
     "visibility": "public",
-    "notes": "Географический ориентир селькупского языкового сообщества; НЕ место фиксации какого-либо фитонима. Координаты центра населённого пункта: https://www.komandirovka.ru/cities/naryim/",
     "locality": "Нарым / Narym",
     "language_ids": [
       "selkup"
@@ -3937,7 +3720,6 @@
     "location_type": "settlement",
     "coordinate_precision": "settlement_centre",
     "visibility": "public",
-    "notes": "Географический ориентир селькупского языкового сообщества; НЕ место фиксации какого-либо фитонима. Координаты центра населённого пункта: https://www.komandirovka.ru/cities/krasnoselkup/",
     "locality": "Красноселькуп / Krasnoselkup",
     "language_ids": [
       "selkup"
