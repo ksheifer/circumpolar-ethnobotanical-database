@@ -1,0 +1,291 @@
+[
+  {
+    "phytonym_id": "phy_sami_research_001",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_enets_betula",
+    "name_native_language": "суэгкь",
+    "names_other_varieties": [],
+    "russian_gloss": "берёза",
+    "english_gloss": "birch",
+    "linguistic_comment": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/categories-other/1J/Pages%20with%20entries/%D1%81%D0%BE%CC%84%D0%B9%D0%B5--%D1%81%D1%8B%D0%BB%D0%BB%D0%BF.html",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kaikki_kildin_01",
+        "source_pages": "электронная статья, без пагинации",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/categories-other/1J/Pages%20with%20entries/%D1%81%D0%BE%CC%84%D0%B9%D0%B5--%D1%81%D1%8B%D0%BB%D0%BB%D0%BF.html"
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "суэгкь",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sami_research_002",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_nenets_betula_nana",
+    "name_native_language": "кӣрре",
+    "names_other_varieties": [],
+    "russian_gloss": "карликовая берёза",
+    "english_gloss": "dwarf birch",
+    "linguistic_comment": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/categories-other/1J/Pages%20with%20entries/%D0%BA%D1%8D%D1%80%D1%81--%D0%BA%D3%AF%D0%BC%D0%BF%D0%B0%D1%80.html",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kaikki_kildin_02",
+        "source_pages": "электронная статья, без пагинации",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/categories-other/1J/Pages%20with%20entries/%D0%BA%D1%8D%D1%80%D1%81--%D0%BA%D3%AF%D0%BC%D0%BF%D0%B0%D1%80.html"
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "кӣрре",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sami_research_003",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_family_inferred_pinus",
+    "name_native_language": "пе̄дзь",
+    "names_other_varieties": [],
+    "russian_gloss": "сосна",
+    "english_gloss": "pine",
+    "linguistic_comment": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/words/%D0%BF%D0%B0%CC%84%D2%8B%D0%BA--%D0%BF%D0%BE%CC%84%D1%80%D1%80%D0%BC%D1%83%D1%88%D1%88.html",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kaikki_kildin_03",
+        "source_pages": "электронная статья, без пагинации",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/words/%D0%BF%D0%B0%CC%84%D2%8B%D0%BA--%D0%BF%D0%BE%CC%84%D1%80%D1%80%D0%BC%D1%83%D1%88%D1%88.html"
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "пе̄дзь",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sami_research_004",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_chukchi_belichenko_031",
+    "name_native_language": "пуай",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/pos-noun/%D0%BF%D0%BE%CC%84%D0%BD%D0%BD%D1%86--%D0%BF%D1%83%D3%A3%D3%A3%D1%8C%D0%BA.html",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kaikki_kildin_04",
+        "source_pages": "электронная статья, без пагинации",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. https://kaikki.org/dictionary/Kildin%20Sami/pos-noun/%D0%BF%D0%BE%CC%84%D0%BD%D0%BD%D1%86--%D0%BF%D1%83%D3%A3%D3%A3%D1%8C%D0%BA.html"
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "пуай",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sami_research_005",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_family_inferred_pinus",
+    "name_native_language": "ка̄рев",
+    "names_other_varieties": [],
+    "russian_gloss": "молодой сосновый лес",
+    "english_gloss": "young pine forest",
+    "linguistic_comment": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. Обозначение древостоя, не отдельного вида; помета «устаревшее или диалектное». https://kaikki.org/dictionary/Kildin%20Sami/meaning/%D0%BA/%D0%BA%D0%B0/%D0%BA%D0%B0%CC%84%D1%80%D0%B5%D0%B2.html",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kaikki_kildin_05",
+        "source_pages": "электронная статья, без пагинации",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Kildin Sámi dictionary entry (online, unpaginated); language variety securely identified; no evidence for a particular village. Обозначение древостоя, не отдельного вида; помета «устаревшее или диалектное». https://kaikki.org/dictionary/Kildin%20Sami/meaning/%D0%BA/%D0%BA%D0%B0/%D0%BA%D0%B0%CC%84%D1%80%D0%B5%D0%B2.html"
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "ка̄рев",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_sami_research_006",
+    "language_id": "sami",
+    "dialect_id": "dia_sami_kildin",
+    "taxon_id": "tax_enets_betula",
+    "name_native_language": "sueg’-eɲč",
+    "names_other_varieties": [],
+    "russian_gloss": "берёзка (уменьш.)",
+    "english_gloss": "small birch tree",
+    "linguistic_comment": "Форма в речи, не словарная лемма: birch-DIM.NOM.SG. В тексте упоминается дорога к Ловозеру, но место записи не установлено; ссылка на печатную с. 181.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_sami_research_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_burov_egorov_2023",
+        "source_pages": "181",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_sami_kildin"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Форма в речи, не словарная лемма: birch-DIM.NOM.SG. В тексте упоминается дорога к Ловозеру, но место записи не установлено; ссылка на печатную с. 181."
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "sueg’-eɲč",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_043b043e0432043e043704350440043e"
+  }
+]

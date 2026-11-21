@@ -1,0 +1,522 @@
+[
+  {
+    "phytonym_id": "phy_koryak_research_001",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_research_polygonum_sp",
+    "name_native_language": "mijmij",
+    "names_other_varieties": [],
+    "russian_gloss": "горец (род)",
+    "english_gloss": "knotweed",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Корневища собирали осенью; ели свежими с сырой печенью оленя либо сушили для зимы.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_001",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "68",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "mijmij",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_002",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_research_hedysarum_hedysaroides",
+    "name_native_language": "onat",
+    "names_other_varieties": [],
+    "russian_gloss": "копеечник",
+    "english_gloss": "hedysarum",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Корни собирали поздней весной или осенью, ели с жиром, часть сушили для зимы.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_002",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "68",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "onat",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_003",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_research_claytonia_sp",
+    "name_native_language": "jemŋojom",
+    "names_other_varieties": [],
+    "russian_gloss": "клайтония",
+    "english_gloss": "claytonia",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Листья и корни сушили и варили в супе с оленьей кровью; точный вид не установлен.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_003",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "68–69",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "jemŋojom",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_004",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
+    "name_native_language": "yajanšavanšan",
+    "names_other_varieties": [],
+    "russian_gloss": "брусника",
+    "english_gloss": "lingonberry",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized source string from OCR requires comparison with printed glyphs.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "Сообщается об использовании ягод при пониженном давлении (этнографическое сообщение, не медицинская рекомендация).",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Ягоды ели осенью и хранили зимой; в источнике также упомянуто смешивание с сахаром.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_004",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "71",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized source string from OCR requires comparison with printed glyphs."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "yajanšavanšan",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_005",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_vaccinium_uliginosum",
+    "name_native_language": "liŋəl",
+    "names_other_varieties": [],
+    "russian_gloss": "голубика",
+    "english_gloss": "bog bilberry",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Ягоды ели свежими либо добавляли в блюдо kilikil; на зиму хранили под мхом.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_005",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "71",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "liŋəl",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_006",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_nenets_rubus_chamaemorus",
+    "name_native_language": "jittəjit",
+    "names_other_varieties": [],
+    "russian_gloss": "морошка",
+    "english_gloss": "cloudberry",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "В источнике сообщается о мочегонном действии (историческая характеристика).",
+      "domestic_use": "",
+      "spiritual_use": "",
+      "human_consumption": "Ягоды собирали летом, ели свежими.",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_006",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "71",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "jittəjit",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_007",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_research_salix_sp",
+    "name_native_language": "pilyalšun",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "Использовали как дрова и древесину для ножен.",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_007",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "77",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Romanized spelling requires page-image verification."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "pilyalšun",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_008",
+    "language_id": "koryak",
+    "dialect_id": null,
+    "taxon_id": "tax_research_salix_sp",
+    "name_native_language": "ojkaw",
+    "names_other_varieties": [],
+    "russian_gloss": "ива",
+    "english_gloss": "willow",
+    "linguistic_comment": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Different source phytonym from pilyalšun; not merged merely due to same Russian gloss.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "Ветки использовали при забое оленей и во время установки летнего жилища.",
+      "human_consumption": "",
+      "animal_consumption": "Листья ели олени и лоси, ветви зимой — зайцы."
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_008",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_kurebito_saito_2005",
+        "source_pages": "85–86",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [],
+        "dialect_abbreviations": [],
+        "usage_context": "No. 13 reindeer-herding brigade, Severo-Evensky District; Evensk is administrative reference point, not attestation site. Source transcription in romanization; compare the printed PDF before quoting orthographic form. Different source phytonym from pilyalšun; not merged merely due to same Russian gloss."
+      }
+    ],
+    "extraction_status": "source_pdf_text_layer_transcription_requires_page_image_collation",
+    "source_lemma": "ojkaw",
+    "source_volume": null,
+    "ipa": null,
+    "reference_location_id": "loc_044d04320435043d0441043a"
+  },
+  {
+    "phytonym_id": "phy_koryak_research_009",
+    "language_id": "koryak",
+    "dialect_id": "dia_alyutor_group",
+    "taxon_id": "tax_koryak_cyperaceae_unspecified",
+    "name_native_language": "lǝʕutaŋ",
+    "names_other_varieties": [],
+    "russian_gloss": "осока (семейство)",
+    "english_gloss": "sedge",
+    "linguistic_comment": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "Участвует в ритуальной практике; в фольклоре связывается с защитой от злых духов.",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_009",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_golovaneva_2025",
+        "source_pages": "90–99",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_alyutor_group"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation."
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "lǝʕutaŋ",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_koryak_research_010",
+    "language_id": "koryak",
+    "dialect_id": "dia_alyutor_group",
+    "taxon_id": "tax_research_leymus_mollis",
+    "name_native_language": "tǝwaju",
+    "names_other_varieties": [],
+    "russian_gloss": "колосняк мягкий",
+    "english_gloss": "American dunegrass",
+    "linguistic_comment": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "Использовался для плетения циновок и корзин.",
+      "spiritual_use": "",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_010",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_golovaneva_2025",
+        "source_pages": "90–99",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_alyutor_group"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation."
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "tǝwaju",
+    "source_volume": null,
+    "ipa": null
+  },
+  {
+    "phytonym_id": "phy_koryak_research_011",
+    "language_id": "koryak",
+    "dialect_id": "dia_alyutor_group",
+    "taxon_id": "tax_sakha1976_poa_pratensis",
+    "name_native_language": "v’iʕe",
+    "names_other_varieties": [],
+    "russian_gloss": "мятлик луговой",
+    "english_gloss": "Kentucky bluegrass",
+    "linguistic_comment": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation.",
+    "cognate": "",
+    "ecological_data": {
+      "habitat": "",
+      "plant_community": "",
+      "phenology": "",
+      "description": "",
+      "toxicity": ""
+    },
+    "indigenous_knowledge": {
+      "medicinal_use": "",
+      "domestic_use": "",
+      "spiritual_use": "Персонифицирован в фольклорных повествованиях и загадках.",
+      "human_consumption": "",
+      "animal_consumption": ""
+    },
+    "attestations": [
+      {
+        "attestation_id": "att_phy_koryak_research_011",
+        "location_id": null,
+        "contributor_id": null,
+        "source_id": "src_golovaneva_2025",
+        "source_pages": "90–99",
+        "record_date": null,
+        "recording_year": null,
+        "collector": null,
+        "folklore": null,
+        "dialect_ids": [
+          "dia_alyutor_group"
+        ],
+        "dialect_abbreviations": [],
+        "usage_context": "Alyutor forms quoted in Golovaneva (2025) abstract. Online abstract gives printed article range 90–99, not the individual page of each lexeme; no precise locality of attestation."
+      }
+    ],
+    "extraction_status": "source_text_layer_checked",
+    "source_lemma": "v’iʕe",
+    "source_volume": null,
+    "ipa": null
+  }
+]

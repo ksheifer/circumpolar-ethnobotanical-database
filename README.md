@@ -43,3 +43,12 @@ The Evenki botanical terminology index is available at `/sviridova/` and in `dat
 ## Geographic precision
 
 `data/locations.json` records 216 localities, 210 with coordinates; `data/locations.geojson` and `.csv` are exports of the same data. A community or language-variety reference point is not necessarily the place where a word was recorded.
+
+## Sámi and Koryak/Alyutor additions (21 November 2026)
+
+- `data/phytonyms/sami.json`: six Kildin Sámi lexical records, one with a verified printed journal page (Burov & Egorov 2023: 181), five with direct URLs to unpaginated online dictionary entries.
+- `data/phytonyms/koryak.json`: eight Koryak records from Kurebito & Saito (2005: 68–86), plus three Alyutor records from Golovaneva (2025: 90–99). The Alyutor citation gives the *article's page range* because a lexeme-specific printed page was not established.
+- Latin-character Koryak source transcriptions extracted from the PDF text layer are labelled as requiring collation with the page images; they are not silently rewritten as standardized Cyrillic.
+- Evensk is a **district administrative reference**, not a geotag for individual word recordings. Lovozero is a **toponym/context point**, not automatically an attestation location. No fabricated GPS coordinates or personal locations were added.
+- Do not treat dictionary glosses as evidence of plant usage. Only source-supported ethnobotanical uses were added.
+

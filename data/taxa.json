@@ -2286,5 +2286,53 @@
     "taxon_rank": "species",
     "conservation_invasiveness_status": "",
     "notes": "Source identifies chaga."
+  },
+  {
+    "taxon_id": "tax_research_polygonum_sp",
+    "scientific_name": "Polygonum sp.",
+    "botanical_family": "Polygonaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxon as identified in cited source; no finer identification inferred."
+  },
+  {
+    "taxon_id": "tax_research_hedysarum_hedysaroides",
+    "scientific_name": "Hedysarum hedysaroides",
+    "botanical_family": "Fabaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxon as identified in cited source; no finer identification inferred."
+  },
+  {
+    "taxon_id": "tax_research_claytonia_sp",
+    "scientific_name": "Claytonia sp.",
+    "botanical_family": "Montiaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxon as identified in cited source; no finer identification inferred."
+  },
+  {
+    "taxon_id": "tax_research_salix_sp",
+    "scientific_name": "Salix sp.",
+    "botanical_family": "Salicaceae",
+    "taxon_rank": "genus",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxon as identified in cited source; no finer identification inferred."
+  },
+  {
+    "taxon_id": "tax_research_leymus_mollis",
+    "scientific_name": "Leymus mollis",
+    "botanical_family": "Poaceae",
+    "taxon_rank": "species",
+    "conservation_invasiveness_status": "",
+    "notes": "Taxon as identified in cited source; no finer identification inferred."
+  },
+  {
+    "taxon_id": "tax_koryak_cyperaceae_unspecified",
+    "scientific_name": "Cyperaceae",
+    "botanical_family": "Cyperaceae",
+    "taxon_rank": "family",
+    "conservation_invasiveness_status": "",
+    "notes": "Source identifies the grass at family level (Cyperaceae) only."
   }
 ]

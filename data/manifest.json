@@ -20,6 +20,8 @@
     "phytonyms/nenets.json",
     "phytonyms/selkup.json",
     "phytonyms/yukaghir.json",
-    "phytonyms/khanty.json"
+    "phytonyms/khanty.json",
+    "phytonyms/sami.json",
+    "phytonyms/koryak.json"
   ]
 }

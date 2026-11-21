@@ -409,11 +409,12 @@
         "location_type": "settlement",
         "coordinate_precision": "approximate",
         "visibility": "public",
-        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jevensk_mag._obl./",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/cities/jevensk_mag._obl./ Географический ориентир для полевого исследования Kurebito & Saito (2005): Эвенск является административным центром Северо-Эвенского района, не местом конкретной аттестации; источник: https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf (с. 65).",
         "locality": "Эвенск",
         "location_id": "loc_044d04320435043d0441043a",
         "language_ids": [
-          "even"
+          "even",
+          "koryak"
         ],
         "name_ru": "Эвенск",
         "name_en": "Evensk"
@@ -623,7 +624,7 @@
         "location_id": "loc_043c0430043d0438043b044b",
         "language_ids": [
           "even",
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Манилы",
         "name_en": "Manily"
@@ -2975,8 +2976,7 @@
         "locality": "Хаилино",
         "location_id": "loc_044504300438043b0438043d043e",
         "language_ids": [
-          "koryak",
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Хаилино",
         "name_en": "Khailino"
@@ -3054,8 +3054,7 @@
         "locality": "Тиличики",
         "location_id": "loc_04420438043b043804470438043a0438",
         "language_ids": [
-          "koryak",
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Тиличики",
         "name_en": "Tilichiki"
@@ -3081,8 +3080,7 @@
         "locality": "Апука",
         "location_id": "loc_0430043f0443043a0430",
         "language_ids": [
-          "koryak",
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Апука",
         "name_en": "Apuka"
@@ -3160,7 +3158,7 @@
         "locality": "Парень",
         "location_id": "loc_043f043004400435043d044c",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Парень",
         "name_en": "Paren"
@@ -3186,7 +3184,7 @@
         "locality": "Вывенка",
         "location_id": "loc_0432044b04320435043d043a0430",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Вывенка",
         "name_en": "Vyvenka"
@@ -3212,7 +3210,7 @@
         "locality": "Лесная",
         "location_id": "loc_043b04350441043d0430044f",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Лесная",
         "name_en": "Lesnaya"
@@ -3238,7 +3236,7 @@
         "locality": "Палана",
         "location_id": "loc_043f0430043b0430043d0430",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Палана",
         "name_en": "Palana"
@@ -3264,7 +3262,7 @@
         "locality": "Карага",
         "location_id": "loc_043a04300440043004330430",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Карага",
         "name_en": "Karaga"
@@ -3290,7 +3288,7 @@
         "locality": "Тымлат",
         "location_id": "loc_0442044b043c043b04300442",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Тымлат",
         "name_en": "Tymlat"
@@ -3316,7 +3314,7 @@
         "locality": "Оссора",
         "location_id": "loc_043e04410441043e04400430",
         "language_ids": [
-          "alyutor"
+          "koryak"
         ],
         "name_ru": "Оссора",
         "name_en": "Ossora"
@@ -3572,7 +3570,7 @@
         "location_type": "settlement",
         "coordinate_precision": "approximate",
         "visibility": "public",
-        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/hotels/lovozero_mur._obl./koavas-hotel/",
+        "notes": "Координаты центра населённого пункта (не место фиксации фитонима); источник: https://www.komandirovka.ru/hotels/lovozero_mur._obl./koavas-hotel/ В Burov & Egorov (2023: 181) Ловозеро упомянуто в контексте рассказа (дорога к Lujaav’v’r); точка обозначает топоним, а не место записи слова. https://rodyaz.ru/pdf/23-2/RY_232_7_Burov-Egorov.pdf",
         "locality": "Ловозеро",
         "location_id": "loc_043b043e0432043e043704350440043e",
         "language_ids": [
