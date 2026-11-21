@@ -16,7 +16,7 @@ const document = {
  addEventListener(name,callback){events[name]=callback},
 };
 const fetchMock = async url => {
- const target = path.resolve(root, url);
+ const target = path.resolve(root, url.split('?')[0]);
  if(!target.startsWith(path.resolve(root,'data')+path.sep)) throw Error('bad fetch '+url);
  return {ok:true,json:async()=>JSON.parse(fs.readFileSync(target,'utf8'))};
 };
@@ -29,25 +29,25 @@ const wait = () => new Promise(resolve=>setTimeout(resolve,20));
  assert.match(el('main').innerHTML,/id="globalSearch"/);
  assert.doesNotMatch(el('main').innerHTML,/data-profile=/);
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'catalog'}}:null}}});
- for(const [language,expected] of [['komi',110],['forest-yukaghir',24],['tundra-yukaghir',8],['tundra-nenets',73]]) {
+ for(const [language,expected] of [['komi',110],['forest-yukaghir',24],['tundra-yukaghir',8],['tundra-nenets',73],['forest-enets',2],['tundra-enets',1],['nganasan',2]]) {
   events.change({target:{id:'languageFilter',value:language}});
   const html=el('main').innerHTML;
   const count=(html.match(/data-profile=/g)||[]).length;
   assert.equal(count, expected,`${language}: only ${count} rows rendered; expected ${expected}`);
-  assert.match(html,/\[[^\]]+\d{4}: \d+\]/,`${language}: citations not visible`);
+  assert.match(html,/\[[^\]]+\d{4}(?: \S+)?: \d+\]/,`${language}: citations not visible`);
   console.log('PASS catalog',language,count);
  }
  events.change({target:{id:'languageFilter',value:'komi'}});
  assert.match(el('main').innerHTML,/id="varietyFilter"/);
  assert.match(el('main').innerHTML,/data-variety=/);
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'statistics'}}:null}}});
- for(const [language,count] of [['Komi',110],['Forest Yukaghir',24],['Tundra Yukaghir',8],['Tundra Nenets',73]]){
+ for(const [language,count] of [['Komi',110],['Forest Yukaghir',24],['Tundra Yukaghir',8],['Tundra Nenets',73],['Forest Enets',2],['Tundra Enets',1],['Nganasan',2]]){
    assert.ok(el('main').innerHTML.includes(language), `missing ${language} in Statistics`);
    assert.match(el('main').innerHTML,new RegExp(`${language}<\\/td><td class="numeric">${count}<\\/td>`));
  }
  // Search across all loaded languages, including both Yukaghir datasets.
  events.click({target:{closest(sel){return sel==='[data-view]'?{dataset:{view:'home'}}:null}}});
- for(const language of ['komi','forest-yukaghir','tundra-yukaghir','tundra-nenets']) {
+ for(const language of ['komi','forest-yukaghir','tundra-yukaghir','tundra-nenets','forest-enets','tundra-enets','nganasan']) {
    const first=JSON.parse(fs.readFileSync(path.join(root,'data','phytonyms',language+'.json'),'utf8'))[0];
    const query=first.name_native_language;
    events.input({target:{id:'globalSearch',value:query,selectionStart:query.length}});
