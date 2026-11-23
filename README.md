@@ -62,3 +62,17 @@ The same validation runs in GitHub Actions when changes are pushed.
 - 150 records have no taxon ID; 69 records contain Indigenous-use fields without field-specific source citations. These need editorial review, not automatic inference.
 - A contributor record had sensitive and inferred details without recorded consent; the publicly packaged fields were minimized.
 - Source-verification statuses in the JSON are editorial provenance, not linguistic commentary. They should not be rendered as lexical facts.
+
+## Content Editor (administrator only)
+
+A restricted content-only editor is included at `admin/`. It supports one-profile-at-a-time commits through an OAuth-authenticated Cloudflare Worker. **This ZIP does not create a live account or deploy the authentication service.** Installation and GitHub App/Worker authorization steps are in [`admin/SETUP.md`](admin/SETUP.md).
+
+The public site remains fully readable without the Worker. The editor requires GitHub authentication and cannot change the database schema. The Worker permits only explicitly whitelisted fields, validates IDs, and checks the latest Git file SHA before writing. Test the backend with:
+
+```bash
+node --experimental-default-type=module scripts/test_editor_worker.mjs
+```
+
+## Botanical classification status fields
+
+Each phytonym has `pan_arctic_species` and `endangered_species` (JSON boolean or `null`). All original records have `null`, rendered as **Not specified**. The Content Editor offers Not specified / Yes / No. `false` must only be used for a verified negative, not missing data. `endangered_species` refers to Red Data Book listing; future refinements should record jurisdiction and source.

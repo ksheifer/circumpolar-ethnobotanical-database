@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<base href="../">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Content Editor · Circumpolar Ethnobotanical Database</title>
+<link rel="stylesheet" href="styles.css?v=20261123-botanical-status-v1">
+<link rel="stylesheet" href="admin/editor.css?v=20261123-botanical-status-v1">
+<script defer src="admin/config.js"></script>
+<script defer src="admin/editor.js?v=20261123-botanical-status-v1"></script>
+</head>
+<body>
+<header class="site-header"><div class="brand">Circumpolar Ethnobotanical Database · Content Editor</div><div class="lang-switch"><a href="./search/">← Public site</a></div></header>
+<main class="editor-layout" id="editor" tabindex="-1">
+<h1>Content Editor</h1>
+<p class="muted">Edit existing phytonym profiles. The fields and structure are fixed. Saving changes commits only the selected profile to GitHub.</p>
+<div id="setup" class="editor-alert" hidden></div>
+<section class="editor-auth"><div id="auth-state">Not signed in</div><button id="login" type="button">Sign in with GitHub</button><button id="logout" type="button" hidden>Sign out</button></section>
+<section class="editor-picker"><label for="profile-search">Find a phytonym</label><input id="profile-search" type="search" placeholder="Search by word, gloss, language..." autocomplete="off"><select id="profile-select" size="7" aria-label="Phytonym search results"></select><button id="open-profile" type="button" disabled>Open selected profile</button></section>
+<div id="message" role="status" aria-live="polite"></div>
+<section id="profile-editor" hidden><form id="edit-form"><div class="editor-top"><div><h2 id="profile-heading"></h2><p id="profile-subheading" class="muted"></p></div><button id="reload" type="button">Reload from GitHub</button></div><div id="editor-fields"></div><div class="editor-actions"><button type="button" id="cancel-edit">Discard changes</button><button type="submit" id="save" disabled>Save profile to GitHub</button></div><p class="muted">One commit per profile. Other profiles and the database structure stay unchanged.</p></form></section>
+</main>
+</body></html>

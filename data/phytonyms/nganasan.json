@@ -40,7 +40,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_044304410442044c002d043004320430043c"
+    "reference_location_id": "loc_044304410442044c002d043004320430043c",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_nganasan_002",
@@ -83,6 +85,8 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_044304410442044c002d043004320430043c"
+    "reference_location_id": "loc_044304410442044c002d043004320430043c",
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]

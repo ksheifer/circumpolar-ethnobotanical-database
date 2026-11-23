@@ -46,7 +46,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_002",
@@ -95,7 +97,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_003",
@@ -144,7 +148,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_004",
@@ -193,7 +199,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_005",
@@ -242,7 +250,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_006",
@@ -291,7 +301,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_007",
@@ -340,7 +352,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_008",
@@ -389,7 +403,9 @@
     "ipa": null,
     "reference_location_id": "loc_044d04320435043d0441043a",
     "reference_location_type": "regional_administrative_reference",
-    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf"
+    "reference_location_source_url": "https://minpaku.repo.nii.ac.jp/record/38/files/SR%EF%BC%9AHOK%2014%EF%BC%9A63-92.pdf",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_009",
@@ -439,7 +455,9 @@
     "ipa": null,
     "reference_location_id": "loc_043e04410441043e04400430",
     "reference_location_source_url": "https://minlang.iling-ran.ru/lang/alyutorskiy-yazyk",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_010",
@@ -489,7 +507,9 @@
     "ipa": null,
     "reference_location_id": "loc_043e04410441043e04400430",
     "reference_location_source_url": "https://minlang.iling-ran.ru/lang/alyutorskiy-yazyk",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_koryak_research_011",
@@ -539,6 +559,8 @@
     "ipa": null,
     "reference_location_id": "loc_043e04410441043e04400430",
     "reference_location_source_url": "https://minlang.iling-ran.ru/lang/alyutorskiy-yazyk",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]

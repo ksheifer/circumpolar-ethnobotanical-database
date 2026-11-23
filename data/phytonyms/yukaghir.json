@@ -42,7 +42,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_kurilova2026_001",
@@ -87,7 +89,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_prokopeva2026_extra_001",
@@ -132,7 +136,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_001",
@@ -207,7 +213,9 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
     },
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_002",
@@ -282,7 +290,9 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
     },
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_003",
@@ -357,7 +367,9 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
     },
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_004",
@@ -432,7 +444,9 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten; some types were stored for winter, eaten frozen, or ground with fat and fish"
     },
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_tundra_yukaghir_jochelson1926_005",
@@ -492,7 +506,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e"
+    "reference_location_id": "loc_0430043d04340440044e0448043a0438043d043e",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_001",
@@ -590,7 +606,9 @@
       "human_consumption": "inner bark was eaten",
       "spiritual_use": "larch beams used for elevated coffins; standing larches served as supports for funerary platforms"
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
@@ -652,7 +670,9 @@
     "ipa": null,
     "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
     "source_lemma": "одун шаал ~ одуншаа",
-    "extraction_status": ""
+    "extraction_status": "",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_004",
@@ -697,7 +717,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_005",
@@ -742,7 +764,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_006",
@@ -787,7 +811,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_007",
@@ -832,7 +858,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_008",
@@ -877,7 +905,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_009",
@@ -922,7 +952,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_010",
@@ -967,7 +999,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_011",
@@ -1029,7 +1063,9 @@
     "ipa": null,
     "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
     "source_lemma": "орполубэ ~ орполубаа",
-    "extraction_status": ""
+    "extraction_status": "",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_013",
@@ -1091,7 +1127,9 @@
     "ipa": null,
     "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
     "source_lemma": "орпондьираа ~ орпонраа",
-    "extraction_status": ""
+    "extraction_status": "",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_015",
@@ -1136,7 +1174,9 @@
       }
     ],
     "ipa": null,
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_001",
@@ -1196,7 +1236,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
@@ -1258,7 +1300,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
@@ -1316,7 +1360,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
@@ -1388,7 +1434,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_001",
@@ -1470,7 +1518,9 @@
       "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish",
       "medicinal_use": "raspberry leaves were used for scrofula and swelling of neck glands"
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_002",
@@ -1545,7 +1595,9 @@
     "indigenous_knowledge_en": {
       "human_consumption": "berries were eaten, frozen for winter, and ground with fat and fish"
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_003",
@@ -1605,7 +1657,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_004",
@@ -1665,7 +1719,9 @@
         ]
       }
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_forest_yukaghir_jochelson1926_005",
@@ -1736,6 +1792,8 @@
     "ecological_data_en": {
       "description": "mountain herb with red leaves (botanical species unidentified)"
     },
-    "reference_location_id": "loc_043d0435043b0435043c043d043e0435"
+    "reference_location_id": "loc_043d0435043b0435043c043d043e0435",
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]

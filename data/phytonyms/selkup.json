@@ -67,7 +67,9 @@
     "ipa": null,
     "ecological_data_en": {
       "habitat": "floodplain valleys"
-    }
+    },
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_008",
@@ -137,7 +139,9 @@
     "ipa": null,
     "ecological_data_en": {
       "phenology": "pine nut gathering mainly in mid-September"
-    }
+    },
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_001",
@@ -194,7 +198,9 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_002",
@@ -251,7 +257,9 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_003",
@@ -308,7 +316,9 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_004",
@@ -365,7 +375,9 @@
         "dialect_abbreviations": []
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_006",
@@ -435,7 +447,9 @@
     "ipa": null,
     "ecological_data_en": {
       "phenology": "pine nut gathering mainly in mid-September"
-    }
+    },
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_007",
@@ -505,7 +519,9 @@
     "ipa": null,
     "ecological_data_en": {
       "phenology": "pine nut gathering mainly in mid-September"
-    }
+    },
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_009",
@@ -564,7 +580,9 @@
         ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_010",
@@ -623,7 +641,9 @@
         ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_selkup_2005_011",
@@ -682,6 +702,8 @@
         ]
       }
     ],
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]

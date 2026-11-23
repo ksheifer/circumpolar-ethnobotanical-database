@@ -48,7 +48,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_002",
@@ -99,7 +101,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_003",
@@ -150,7 +154,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_004",
@@ -201,7 +207,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_005",
@@ -252,7 +260,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_006",
@@ -303,7 +313,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_007",
@@ -354,7 +366,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_008",
@@ -405,7 +419,9 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_sami_ivanishcheva_2016_009",
@@ -456,6 +472,8 @@
     "ipa": null,
     "reference_location_id": "loc_043b043e0432043e043704350440043e",
     "reference_location_source_url": "https://dobes.mpi.nl/projects/sami/people-culture/",
-    "reference_location_type": "language_community_anchor"
+    "reference_location_type": "language_community_anchor",
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]

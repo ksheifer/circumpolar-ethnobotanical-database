@@ -1,0 +1,19 @@
+name = "circumpolar-ethnobotanical-editor"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+# Create a KV namespace with `npx wrangler kv namespace create SESSIONS`
+# and paste its ID below. Store no secrets in this file.
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "REPLACE_WITH_KV_ID"
+
+[vars]
+GITHUB_OWNER = "ksheifer"
+GITHUB_REPO = "circumpolar-ethnobotanical-database"
+GITHUB_BRANCH = "main"
+ADMIN_GITHUB_LOGIN = "ksheifer"
+EDITOR_ORIGIN = "https://ksheifer.github.io"
+API_BASE_URL = "https://REPLACE_WITH_YOUR_WORKER.workers.dev"
+GITHUB_CLIENT_ID = "REPLACE_WITH_GITHUB_APP_CLIENT_ID"
+# Set secret using `npx wrangler secret put GITHUB_CLIENT_SECRET` (NEVER commit it).

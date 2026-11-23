@@ -55,7 +55,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "ирэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0002",
@@ -104,7 +106,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ирэвэллэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0003",
@@ -159,7 +163,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няһамна",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0004",
@@ -212,7 +218,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няһамда",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0005",
@@ -263,7 +271,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няһимда",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0006",
@@ -312,7 +322,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чаһамна",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0007",
@@ -365,7 +377,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нинӈнукан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0008",
@@ -420,7 +434,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ниндукан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0009",
@@ -469,7 +485,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ниннукан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0010",
@@ -524,7 +542,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нуюӈникан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0011",
@@ -579,7 +599,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "асикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0012",
@@ -646,7 +668,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аһикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0013",
@@ -697,7 +721,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "асекта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0014",
@@ -748,7 +774,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ашекта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0015",
@@ -797,7 +825,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һуркӣкэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0016",
@@ -846,7 +876,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чакрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0017",
@@ -904,7 +936,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "дягда",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0018",
@@ -949,7 +983,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чагда",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0019",
@@ -998,7 +1034,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "шуден",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0020",
@@ -1047,7 +1085,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "онган",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0021",
@@ -1096,7 +1136,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "опкоро",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0022",
@@ -1153,7 +1195,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аһикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0023",
@@ -1212,7 +1256,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "каӈтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0024",
@@ -1267,7 +1313,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "каӈтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0025",
@@ -1318,7 +1366,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "каӈтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0026",
@@ -1369,7 +1419,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "наӈтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0027",
@@ -1418,7 +1470,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лаӈтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0028",
@@ -1467,7 +1521,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ӈэклӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0029",
@@ -1516,7 +1572,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няӈта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0030",
@@ -1565,7 +1623,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няӈта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0031",
@@ -1632,7 +1692,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "болгикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0032",
@@ -1681,7 +1743,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "болгитта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0033",
@@ -1730,7 +1794,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "болгикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0034",
@@ -1797,7 +1863,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тактыкан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0035",
@@ -1846,7 +1914,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "таӈса",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0036",
@@ -1895,7 +1965,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "колдон",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0037",
@@ -1953,7 +2025,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required; checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "чалбан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0038",
@@ -2004,7 +2078,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дялбӣн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0039",
@@ -2059,7 +2135,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дывэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0040",
@@ -2110,7 +2188,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "марикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0041",
@@ -2159,7 +2239,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "гуран",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0042",
@@ -2208,7 +2290,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нивэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0043",
@@ -2261,7 +2345,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һул",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0044",
@@ -2312,7 +2398,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сул",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0045",
@@ -2379,7 +2467,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һула",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0046",
@@ -2428,7 +2518,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "бургак",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0047",
@@ -2479,7 +2571,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сириктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0048",
@@ -2528,7 +2622,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тэтыӈ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0049",
@@ -2577,7 +2673,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кайлаһун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0050",
@@ -2626,7 +2724,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һул",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0051",
@@ -2693,7 +2793,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һула",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0052",
@@ -2742,7 +2844,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һули",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0053",
@@ -2791,7 +2895,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һулдан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0054",
@@ -2840,7 +2946,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ула",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0055",
@@ -2885,7 +2993,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "улдан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0056",
@@ -2934,7 +3044,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ологдан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0057",
@@ -2983,7 +3095,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "олока",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0058",
@@ -3032,7 +3146,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "олесон",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0059",
@@ -3097,7 +3213,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дулку",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0060",
@@ -3187,7 +3305,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дулгикта ~ дулгиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0062",
@@ -3236,7 +3356,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тулкуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0063",
@@ -3285,7 +3407,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дугиксэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0064",
@@ -3334,7 +3458,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дюгдэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0065",
@@ -3383,7 +3509,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "усикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0066",
@@ -3432,7 +3560,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чагамкура",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0067",
@@ -3481,7 +3611,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "килдэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0068",
@@ -3530,7 +3662,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "монон",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0069",
@@ -3579,7 +3713,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лакамавун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0070",
@@ -3628,7 +3764,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һэдэптэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0071",
@@ -3679,7 +3817,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һоло",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0072",
@@ -3728,7 +3868,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "олеһун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0073",
@@ -3779,7 +3921,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "элги",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0074",
@@ -3834,7 +3978,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "качикамкура",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0075",
@@ -3883,7 +4029,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кучикамкура",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0076",
@@ -3934,7 +4082,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "уликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0077",
@@ -3983,7 +4133,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кочикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0078",
@@ -4044,7 +4196,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "утумуктамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0079",
@@ -4107,7 +4261,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "утумуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0080",
@@ -4156,7 +4312,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һутумуктамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0081",
@@ -4225,7 +4383,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "утумуктэмкӯрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0082",
@@ -4274,7 +4434,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чулакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0083",
@@ -4323,7 +4485,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һаикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0084",
@@ -4372,7 +4536,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0085",
@@ -4421,7 +4587,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аиктамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0086",
@@ -4472,7 +4640,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "октала",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0087",
@@ -4521,7 +4691,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "бирган",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0088",
@@ -4570,7 +4742,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чурумкӯрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0089",
@@ -4621,7 +4795,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дяланкакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0090",
@@ -4674,7 +4850,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дяликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0091",
@@ -4727,7 +4905,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дяликтамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0092",
@@ -4776,7 +4956,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "деликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0093",
@@ -4825,7 +5007,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "деликтэмкӯрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0094",
@@ -4874,7 +5058,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "долгино",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0095",
@@ -4937,7 +5123,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сэнкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0096",
@@ -4986,7 +5174,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сэмкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0097",
@@ -5037,7 +5227,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сэмкэрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0098",
@@ -5103,7 +5295,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чэмкирэ ~ чэнкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0100",
@@ -5154,7 +5348,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "шэмкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0101",
@@ -5203,7 +5399,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няллӣг",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0102",
@@ -5252,7 +5450,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нялликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0103",
@@ -5305,7 +5505,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "няликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0104",
@@ -5354,7 +5556,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "яникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0105",
@@ -5403,7 +5607,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ардя",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0106",
@@ -5462,7 +5668,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "орокомкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0107",
@@ -5515,7 +5723,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һэнкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0108",
@@ -5566,7 +5776,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "шэмкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0109",
@@ -5615,7 +5827,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ардя",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0110",
@@ -5664,7 +5878,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дюлкэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0111",
@@ -5713,7 +5929,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дюмкирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0112",
@@ -5762,7 +5980,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эпкэкин",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0113",
@@ -5807,7 +6027,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сӯптылэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0114",
@@ -5860,7 +6082,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һӯптылэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0115",
@@ -5913,7 +6137,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "шӯптылэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0116",
@@ -5962,7 +6188,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "суптымкурэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0117",
@@ -6011,7 +6239,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һунмумкурэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0118",
@@ -6060,7 +6290,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "субуӈки",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0119",
@@ -6109,7 +6341,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һукты",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0120",
@@ -6172,7 +6406,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "супирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0121",
@@ -6221,7 +6457,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "супирэмкурэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0122",
@@ -6276,7 +6514,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һупирэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0123",
@@ -6327,7 +6567,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "копукша",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0124",
@@ -6376,7 +6618,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "конкокто",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0125",
@@ -6427,7 +6671,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эбкимкэрэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0126",
@@ -6476,7 +6722,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эрбэгу",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0127",
@@ -6542,7 +6790,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "огинкӣкта ~ һогинкӣкта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0129",
@@ -6591,7 +6841,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нор",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0130",
@@ -6644,7 +6896,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "не̄р",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0131",
@@ -6693,7 +6947,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кавва",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0132",
@@ -6742,7 +6998,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "накэлдывун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0133",
@@ -6791,7 +7049,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "модуги",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0134",
@@ -6848,7 +7108,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "иӈамуктамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0135",
@@ -6903,7 +7165,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һекта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0136",
@@ -6956,7 +7220,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "шекта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0137",
@@ -7017,7 +7283,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "о̄ктамкӯра",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0138",
@@ -7078,7 +7346,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "о̄ктан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0139",
@@ -7129,7 +7399,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "о̄ктар",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0140",
@@ -7178,7 +7450,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нямникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0141",
@@ -7227,7 +7501,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0142",
@@ -7282,7 +7558,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нӣвэк",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0143",
@@ -7331,7 +7609,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нӣваг",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0144",
@@ -7380,7 +7660,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нӣвактэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0145",
@@ -7433,7 +7715,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нӣвэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0146",
@@ -7484,7 +7768,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ӯкэчиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0147",
@@ -7535,7 +7821,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "комкари",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0148",
@@ -7584,7 +7872,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эвгэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0149",
@@ -7639,7 +7929,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "арна",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0150",
@@ -7688,7 +7980,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "арна",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0151",
@@ -7737,7 +8031,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һэӈнэпки",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0152",
@@ -7786,7 +8082,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сивэлэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0153",
@@ -7849,7 +8147,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сивуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0154",
@@ -7908,7 +8208,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сивэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0155",
@@ -7957,7 +8259,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нивэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0156",
@@ -8006,7 +8310,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "мориӈа",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0157",
@@ -8071,7 +8377,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ниргэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0158",
@@ -8124,7 +8432,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ниргактэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0159",
@@ -8173,7 +8483,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һакилдывун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0160",
@@ -8222,7 +8534,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чолимкура",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0161",
@@ -8271,7 +8585,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кистала",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0162",
@@ -8322,7 +8638,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тапчикакты",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0163",
@@ -8371,7 +8689,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нигири",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0164",
@@ -8420,7 +8740,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0165",
@@ -8475,7 +8797,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "онокто",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0167",
@@ -8541,7 +8865,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кэпдэкэ ~ кэбдэкэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0168",
@@ -8590,7 +8916,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чэнэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0169",
@@ -8641,7 +8969,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0170",
@@ -8694,7 +9024,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0171",
@@ -8745,7 +9077,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аникта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0172",
@@ -8802,7 +9136,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "панчара",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0173",
@@ -8853,7 +9189,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ламбара",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0174",
@@ -8902,7 +9240,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нюригды",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0175",
@@ -8951,7 +9291,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "суливӣктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0176",
@@ -9002,7 +9344,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сукай",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0177",
@@ -9051,7 +9395,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "инмэкэчин",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0178",
@@ -9100,7 +9446,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "топчикакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0179",
@@ -9149,7 +9497,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "идаривки",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0180",
@@ -9200,7 +9550,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "идакавкӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0181",
@@ -9251,7 +9603,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "диргивкӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0182",
@@ -9300,7 +9654,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кокунта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0183",
@@ -9357,7 +9713,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "улгукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0184",
@@ -9406,7 +9764,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дяланкур",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0185",
@@ -9455,7 +9815,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "гагакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0186",
@@ -9504,7 +9866,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "гакакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0187",
@@ -9555,7 +9919,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кукты авунин",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0188",
@@ -9606,7 +9972,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "де̄кта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0189",
@@ -9659,7 +10027,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "панэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0190",
@@ -9708,7 +10078,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "аргавакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0191",
@@ -9757,7 +10129,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нюкэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0192",
@@ -9802,7 +10176,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "диктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0193",
@@ -9847,7 +10223,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һӣмиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0194",
@@ -9898,7 +10276,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ямуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0195",
@@ -9961,7 +10341,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һӣмуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0196",
@@ -10012,7 +10394,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ймиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0197",
@@ -10061,7 +10445,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сӣмиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0198",
@@ -10114,7 +10500,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сймуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0199",
@@ -10163,7 +10551,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тыкили",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0200",
@@ -10212,7 +10602,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "алерсун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0201",
@@ -10263,7 +10655,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "диксиӈэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0202",
@@ -10314,7 +10708,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "диксивэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0203",
@@ -10363,7 +10759,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "диксигэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0204",
@@ -10412,7 +10810,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "декшигэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0205",
@@ -10461,7 +10861,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "никсимэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0206",
@@ -10510,7 +10912,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "умкачан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0207",
@@ -10559,7 +10963,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "демкурэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0208",
@@ -10608,7 +11014,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "унукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0209",
@@ -10653,7 +11061,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "юо̄клӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0210",
@@ -10704,7 +11114,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "коклӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0211",
@@ -10753,7 +11165,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "кэвлӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0212",
@@ -10810,7 +11224,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нэклӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0213",
@@ -10859,7 +11275,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "моклӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0214",
@@ -10910,7 +11328,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "мэклӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0215",
@@ -10963,7 +11383,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тӯрут",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0216",
@@ -11012,7 +11434,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чуриду",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0217",
@@ -11061,7 +11485,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дывсиӈэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0218",
@@ -11112,7 +11538,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "мо̄нне̄гон",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0219",
@@ -11175,7 +11603,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "игэликтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0220",
@@ -11224,7 +11654,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һигэликтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0221",
@@ -11273,7 +11705,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эгэликтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0222",
@@ -11322,7 +11756,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "еликтэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0223",
@@ -11371,7 +11807,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ожаликта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0224",
@@ -11422,7 +11860,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "алуг",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0225",
@@ -11471,7 +11911,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дулдэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0226",
@@ -11524,7 +11966,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "каптагас",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0227",
@@ -11573,7 +12017,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дылгиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0228",
@@ -11632,7 +12078,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тэвуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0229",
@@ -11683,7 +12131,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тэуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0230",
@@ -11734,7 +12184,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тавукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0231",
@@ -11783,7 +12235,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "таукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0232",
@@ -11832,7 +12286,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "токта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0233",
@@ -11881,7 +12337,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дывэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0234",
@@ -11930,7 +12388,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "такакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0235",
@@ -11979,7 +12439,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дергиктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0236",
@@ -12028,7 +12490,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дэткэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0237",
@@ -12083,7 +12547,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "инӈамукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0238",
@@ -12132,7 +12598,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "иӈамта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0239",
@@ -12181,7 +12649,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "иннэмуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0240",
@@ -12234,7 +12704,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "иӈамукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0241",
@@ -12283,7 +12755,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "бороӈо",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0242",
@@ -12336,7 +12810,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "мороҕо",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0243",
@@ -12385,7 +12861,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "бачи",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0244",
@@ -12438,7 +12916,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "инӈэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0245",
@@ -12487,7 +12967,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "иннэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0246",
@@ -12536,7 +13018,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "имнэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0247",
@@ -12585,7 +13069,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "энӈэктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0248",
@@ -12636,7 +13122,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "капарас",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0249",
@@ -12685,7 +13173,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "симирӣт",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0250",
@@ -12734,7 +13224,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чэрэмкэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0251",
@@ -12797,7 +13289,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "утумуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0252",
@@ -12848,7 +13342,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һутумукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0253",
@@ -12907,7 +13403,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "һутумуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0254",
@@ -12956,7 +13454,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "динминичэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0255",
@@ -13005,7 +13505,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "гучалдигина",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0256",
@@ -13054,7 +13556,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тустыӈӈилэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0257",
@@ -13105,7 +13609,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дюяпчу",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0258",
@@ -13154,7 +13660,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дюярипчу",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0259",
@@ -13203,7 +13711,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "суптылэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0260",
@@ -13254,7 +13764,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сахармукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0261",
@@ -13305,7 +13817,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ко̄макта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0262",
@@ -13356,7 +13870,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "коӈакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0263",
@@ -13405,7 +13921,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "куяакта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0264",
@@ -13454,7 +13972,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дуӈурика̄н",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0265",
@@ -13511,7 +14031,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нина тыӈилэкин",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0266",
@@ -13560,7 +14082,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "мэһэвкэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0267",
@@ -13617,7 +14141,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тӯрикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0268",
@@ -13670,7 +14196,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тӯрут",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0269",
@@ -13735,7 +14263,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "коӈномукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0270",
@@ -13784,7 +14314,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "улӣ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0271",
@@ -13833,7 +14365,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "туракӣ тэвуктэн",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0272",
@@ -13882,7 +14416,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "уӈуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0273",
@@ -13931,7 +14467,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "эӈуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0274",
@@ -13980,7 +14518,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "нуга",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0275",
@@ -14029,7 +14569,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "маӈе̄һун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0276",
@@ -14082,7 +14624,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "судуй",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0277",
@@ -14131,7 +14675,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "чиримча",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0278",
@@ -14182,7 +14728,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "говоһун",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0279",
@@ -14227,7 +14775,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "онко",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0280",
@@ -14272,7 +14822,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лавукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0281",
@@ -14323,7 +14875,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лабикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0282",
@@ -14382,7 +14936,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лавикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0283",
@@ -14437,7 +14993,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ловукта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0284",
@@ -14492,7 +15050,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лэвуктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0285",
@@ -14547,7 +15107,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лам",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0286",
@@ -14598,7 +15160,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "лом",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0287",
@@ -14647,7 +15211,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "ялбука",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0288",
@@ -14713,7 +15279,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сиривэ ~ суривэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0290",
@@ -14762,7 +15330,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "уркан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0291",
@@ -14811,7 +15381,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "сэничэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0292",
@@ -14856,7 +15428,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "моркоп",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0293",
@@ -14901,7 +15475,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "огурси",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0294",
@@ -14946,7 +15522,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "дявилика",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0295",
@@ -14991,7 +15569,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "гуруса",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_myreeva_0296",
@@ -15040,7 +15620,9 @@
     "extraction_status": "transcribed_from_scanned_excerpt_review_required",
     "source_lemma": "тӯрут",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0003",
@@ -15085,7 +15667,9 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "тактыкан",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0005",
@@ -15130,7 +15714,9 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "секта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0006",
@@ -15175,7 +15761,9 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "диктэ",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0007",
@@ -15220,7 +15808,9 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "поно",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0008",
@@ -15265,7 +15855,9 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "синикта",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   },
   {
     "phytonym_id": "phy_evenki_sviridova_0009",
@@ -15310,6 +15902,8 @@
     "extraction_status": "checked_against_printed_page_photograph; botanical_species_not_verified",
     "source_lemma": "орокомкура",
     "source_volume": null,
-    "ipa": null
+    "ipa": null,
+    "pan_arctic_species": null,
+    "endangered_species": null
   }
 ]
