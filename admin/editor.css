@@ -5,3 +5,11 @@ html.embedded-editor .site-header,html.embedded-editor .editor-layout>h1,html.em
 html.embedded-editor .editor-layout{width:calc(100% - 2rem);max-width:960px;margin:.7rem auto 3rem}
 html.embedded-editor .editor-auth{margin:.3rem 0 .7rem}
 html.embedded-editor .editor-top{margin:.5rem 0}
+
+/* The embedded view shows only a compact login strip until authenticated. */
+html.embedded-editor .editor-layout{margin:0 auto;max-width:960px}
+html.embedded-editor .editor-auth{padding:12px 14px;margin:8px 0;border:1px solid #d1d5db;min-height:60px}
+html.embedded-editor .editor-layout #message:empty{display:none}
+html.embedded-editor .editor-layout #setup[hidden]{display:none!important}
+html.embedded-editor .editor-layout #login,html.embedded-editor .editor-layout #logout{border-radius:7px;white-space:nowrap}
+html.embedded-editor .editor-layout #login{background:#f4f6f8;border-color:#bac4cc;font-weight:600}

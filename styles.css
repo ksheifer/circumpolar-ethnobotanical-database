@@ -223,3 +223,16 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 .profile-edit-top{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.65rem 1.2rem;border-bottom:1px solid #d6ded9;flex:none}
 .profile-edit-close{background:none;border:0;font-size:2rem;line-height:1;cursor:pointer;color:inherit;padding:0 .4rem}
 .profile-edit-shell iframe{width:100%;height:100%;flex:1;min-height:0;border:0;background:#fff}
+
+/* Compact, consistent icon and language controls. */
+.lang-switch{align-items:center;gap:6px}
+.lang-switch button,.profile-edit-pencil{height:36px;min-width:36px;padding:5px 10px;border:1px solid #b8c1c5;border-radius:7px;background:#fff;color:#242c30;display:inline-flex;align-items:center;justify-content:center;transition:background .12s,border-color .12s}
+.lang-switch button:hover,.profile-edit-pencil:hover{background:#f0f4f6;border-color:#75848e}
+.lang-switch button[aria-pressed="true"]{background:#e9eff3;border-color:#87949d;font-weight:700}
+.profile-edit-pencil{width:36px;padding:6px}
+.search-toolbar label{font-size:20px;line-height:1.25;font-weight:600}
+/* Before GitHub sign-in, display only a compact authentication dialog. */
+.profile-edit-dialog.auth-compact{width:min(94vw,600px);height:auto;max-height:min(86vh,420px)}
+.profile-edit-dialog.auth-compact .profile-edit-shell{height:auto;min-height:0}
+.profile-edit-dialog.auth-compact .profile-edit-shell iframe{height:140px;flex:none;min-height:0}
+@media(max-width:600px){.search-toolbar label{font-size:18px}.profile-edit-dialog.auth-compact{width:96vw}}
