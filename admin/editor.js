@@ -3,6 +3,8 @@
 const base=new URL('../',document.querySelector('script[src*="admin/editor.js"]').src);
 const api=(window.CEDB_EDITOR_API||'').replace(/\/$/,'');
 const SKEY='cedb_editor_session';
+const embedded=new URLSearchParams(location.search).get('embedded')==='1';
+if(embedded)document.documentElement.classList.add('embedded-editor');
 const refs={login:document.getElementById('login'),logout:document.getElementById('logout'),auth:document.getElementById('auth-state'),setup:document.getElementById('setup'),search:document.getElementById('profile-search'),select:document.getElementById('profile-select'),open:document.getElementById('open-profile'),message:document.getElementById('message'),area:document.getElementById('profile-editor'),fields:document.getElementById('editor-fields'),save:document.getElementById('save')};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const st={session:sessionStorage.getItem(SKEY)||'',login:null,rows:[],languages:[],dialects:[],locations:[],sources:[],profile:null,sha:'',dirty:false,busy:false};
@@ -18,7 +20,7 @@ function setBusy(value){st.busy=value;refs.save.disabled=value||!st.profile;refs
 async function call(path,{method='GET',body}={}){if(!api)throw Error('Backend is not configured. See admin/SETUP.md.');const r=await fetch(api+path,{method,headers:{'Authorization':'Bearer '+st.session,...(body?{'Content-Type':'application/json'}:{})},body:body?JSON.stringify(body):undefined});const result=await r.json();if(!r.ok)throw Object.assign(new Error(result.error||`HTTP ${r.status}`),{status:r.status});return result;}
 function authDisplay(){refs.auth.textContent=st.login?`Signed in as @${st.login}`:'Not signed in';refs.login.hidden=!!st.login;refs.logout.hidden=!st.login;refs.open.disabled=!st.login||!refs.select.value;}
 async function authCheck(){if(!st.session){st.login=null;authDisplay();return;}try{const me=await call('/api/me');st.login=me.login;notice(`Connected to ${me.repo}.`);}catch(e){sessionStorage.removeItem(SKEY);st.session='';st.login=null;notice(e.message);}authDisplay();}
-window.addEventListener('message',async event=>{if(!api||event.origin!==new URL(api).origin||event.data?.type!=='cedb-auth-success'||!event.data.session)return;st.session=event.data.session;sessionStorage.setItem(SKEY,st.session);await authCheck();});
+window.addEventListener('message',async event=>{if(!api||event.origin!==new URL(api).origin||event.data?.type!=='cedb-auth-success'||!event.data.session)return;st.session=event.data.session;sessionStorage.setItem(SKEY,st.session);await authCheck();if(embedded&&st.login){const q=new URLSearchParams(location.search);if(q.get('language')&&q.get('id'))await openProfile(q.get('language'),q.get('id'));}});
 refs.login.addEventListener('click',()=>{if(!api){notice('Configure admin/config.js and deploy the backend first.');return;}const popup=window.open(api+'/auth/start','cedb-github-auth','popup,width=620,height=760');if(!popup)notice('Browser blocked the sign-in popup. Allow popups for this site.');});
 refs.logout.addEventListener('click',async()=>{try{await call('/api/logout',{method:'POST'});}catch{}sessionStorage.removeItem(SKEY);st.session='';st.login=null;st.profile=null;refs.area.hidden=true;authDisplay();notice('Signed out.');});
 function languageName(id){const l=st.languages.find(x=>x.language_id===id);return l?.name_en||id;}
@@ -26,7 +28,7 @@ function filtered(){const q=refs.search.value.normalize('NFC').toLocaleLowerCase
 function refreshResults(){const selected=refs.select.value;refs.select.innerHTML=filtered().map(p=>`<option value="${esc(p.phytonym_id)}">${esc(p.name_native_language)} — ${esc(languageName(p.language_id))} — ${esc(p.english_gloss||'')}</option>`).join('');if([...refs.select.options].some(x=>x.value===selected))refs.select.value=selected;refs.open.disabled=!st.login||!refs.select.value;}
 refs.search.addEventListener('input',refreshResults);refs.select.addEventListener('change',()=>{refs.open.disabled=!st.login||!refs.select.value;});refs.select.addEventListener('dblclick',()=>refs.open.click());
 function selectedProfile(){return st.rows.find(p=>p.phytonym_id===refs.select.value);}
-async function openProfile(language,id){if(st.dirty&&!confirm('Discard unsaved edits to the current profile?'))return;setBusy(true);notice('Loading the latest profile from GitHub…');try{const d=await call(`/api/profile?language=${encodeURIComponent(language)}&id=${encodeURIComponent(id)}`);st.profile=d.profile;st.sha=d.sha;st.dirty=false;drawProfile();refs.area.hidden=false;notice(`Loaded ${st.profile.phytonym_id} from GitHub.`);history.replaceState(null,'',`?language=${encodeURIComponent(language)}&id=${encodeURIComponent(id)}`);}catch(e){notice(e.message);}finally{setBusy(false);}}
+async function openProfile(language,id){if(st.dirty&&!confirm('Discard unsaved edits to the current profile?'))return;setBusy(true);notice('Loading the latest profile from GitHub…');try{const d=await call(`/api/profile?language=${encodeURIComponent(language)}&id=${encodeURIComponent(id)}`);st.profile=d.profile;st.sha=d.sha;st.dirty=false;window.__cedbDirty=false;drawProfile();refs.area.hidden=false;notice(`Loaded ${st.profile.phytonym_id} from GitHub.`);history.replaceState(null,'',`?language=${encodeURIComponent(language)}&id=${encodeURIComponent(id)}`);}catch(e){notice(e.message);}finally{setBusy(false);}}
 refs.open.addEventListener('click',()=>{const p=selectedProfile();if(p)openProfile(p.language_id,p.phytonym_id);});
 function input(name,value,kind='text',label=name){const field=kind==='textarea'?`<textarea id="f-${esc(name)}" data-field="${esc(name)}" rows="3">${esc(value)}</textarea>`:`<input id="f-${esc(name)}" data-field="${esc(name)}" type="text" value="${esc(value)}">`;return `<div class="editor-field"><label for="f-${esc(name)}">${esc(label)}</label>${field}</div>`;}
 function singleSelect(name,label,value,options){return `<div class="editor-field"><label for="f-${esc(name)}">${esc(label)}</label><select id="f-${esc(name)}" data-field="${esc(name)}"><option value="">—</option>${options.map(x=>`<option value="${esc(x.id)}" ${x.id===value?'selected':''}>${esc(x.label)}</option>`).join('')}</select></div>`;}
@@ -61,7 +63,7 @@ function drawProfile(){const p=st.profile;const d=dialectOpts(),locations=locati
  html+='</div>';
  }
  html+='</section>';refs.fields.innerHTML=html;
- refs.fields.querySelectorAll('input,textarea,select').forEach(el=>el.addEventListener('input',()=>{st.dirty=true;notice('Unsaved changes.');}));
+ refs.fields.querySelectorAll('input,textarea,select').forEach(el=>el.addEventListener('input',()=>{st.dirty=true;window.__cedbDirty=true;notice('Unsaved changes.');}));
 }
 function gather(){const p=st.profile;const changes={};for(const key of ['name_native_language','phytonym_morphology','cognate','russian_gloss','english_gloss']){const value=readField(key);if(value!==(p[key]||''))changes[key]=value;}
  const forms=readField('names_other_varieties').split(/\r?\n/).map(x=>x.trim()).filter(Boolean);if(JSON.stringify(forms)!==JSON.stringify(p.names_other_varieties||[]))changes.names_other_varieties=forms;
@@ -77,12 +79,13 @@ function gather(){const p=st.profile;const changes={};for(const key of ['name_na
  }if(edits.length)changes.attestation_updates=edits;return changes;
 }
 document.getElementById('edit-form').addEventListener('submit',async e=>{e.preventDefault();if(!st.profile||st.busy)return;const changes=gather();if(!Object.keys(changes).length){notice('No changes to save.');return;}if(('name_native_language' in changes ? changes.name_native_language : st.profile.name_native_language).trim()==='') return notice('Phytonym name cannot be empty.');
- setBusy(true);notice('Checking and saving to GitHub…');try{const result=await call('/api/profile',{method:'POST',body:{language:st.profile.language_id,id:st.profile.phytonym_id,expectedSha:st.sha,changes}});st.profile=result.profile;st.sha=result.sha;st.dirty=false;drawProfile();refs.area.hidden=false;
+ setBusy(true);notice('Checking and saving to GitHub…');try{const result=await call('/api/profile',{method:'POST',body:{language:st.profile.language_id,id:st.profile.phytonym_id,expectedSha:st.sha,changes}});st.profile=result.profile;st.sha=result.sha;st.dirty=false;window.__cedbDirty=false;drawProfile();refs.area.hidden=false;
  const local=st.rows.find(x=>x.phytonym_id===st.profile.phytonym_id);if(local)Object.assign(local,st.profile);refreshResults();
+ if(embedded&&window.parent!==window)window.parent.postMessage({type:'cedb-profile-saved',profile:st.profile},location.origin);
  refs.message.textContent='Saved to GitHub. ';if(result.commit){const a=document.createElement('a');a.href=result.commit;a.target='_blank';a.rel='noopener noreferrer';a.textContent='View commit';refs.message.appendChild(a);}
  }catch(err){notice(err.message+(err.status===409?' Your changes remain in the editor; copy them before reloading.':''));}finally{setBusy(false);}});
 document.getElementById('reload').addEventListener('click',()=>{const p=st.profile;if(p)openProfile(p.language_id,p.phytonym_id);});
-document.getElementById('cancel-edit').addEventListener('click',()=>{if(st.dirty&&!confirm('Discard local changes?'))return;st.dirty=false;drawProfile();notice('Local changes discarded.');});
+document.getElementById('cancel-edit').addEventListener('click',()=>{if(st.dirty&&!confirm('Discard local changes?'))return;st.dirty=false;window.__cedbDirty=false;drawProfile();notice('Local changes discarded.');});
 window.addEventListener('beforeunload',e=>{if(st.dirty){e.preventDefault();e.returnValue='';}});
 (async function init(){if(!api){refs.setup.hidden=false;refs.setup.textContent='GitHub publishing is not yet configured. Deploy the Worker, then set its URL in admin/config.js. See admin/SETUP.md.';refs.login.disabled=true;}try{
  const manifest=await fetch(new URL('data/manifest.json',base)).then(r=>r.json());const [languages,dialects,locations,sources]=await Promise.all(['languages','dialects','locations','sources'].map(k=>fetch(new URL('data/'+manifest.collections[k],base)).then(r=>r.json())));

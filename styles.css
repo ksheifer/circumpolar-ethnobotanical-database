@@ -211,3 +211,15 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 
 /* Admin entry is public to view, but editing requires a verified GitHub login. */
 .admin-entry{font-size:.8rem;margin-right:.8rem;color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+/* Pencil action next to each phytonym article title */
+.profile-heading-edit{display:flex;align-items:center;gap:.5rem;margin-bottom:.5rem}
+.profile-heading-edit h2{margin:0}
+.profile-edit-pencil{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;border:1px solid transparent;background:transparent;color:inherit;cursor:pointer;border-radius:7px;width:36px;height:36px}
+.profile-edit-pencil:hover,.profile-edit-pencil:focus-visible{background:var(--surface-secondary,#edf2ef);border-color:#94a3a0}
+.profile-edit-dialog{padding:0;border:1px solid #bbc5c0;border-radius:12px;width:min(96vw,1060px);height:min(92vh,1100px);max-width:none;max-height:none;background:var(--surface,#fff);color:inherit;box-shadow:0 25px 80px #0005}
+.profile-edit-dialog::backdrop{background:#1118}
+.profile-edit-shell{display:flex;flex-direction:column;height:100%}
+.profile-edit-top{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.65rem 1.2rem;border-bottom:1px solid #d6ded9;flex:none}
+.profile-edit-close{background:none;border:0;font-size:2rem;line-height:1;cursor:pointer;color:inherit;padding:0 .4rem}
+.profile-edit-shell iframe{width:100%;height:100%;flex:1;min-height:0;border:0;background:#fff}
