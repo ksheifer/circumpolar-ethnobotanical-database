@@ -242,3 +242,9 @@ table.index {border-collapse:collapse;width:100%;font-size:13px}
 @media(max-width:640px){#navigation a{padding:10px 12px}}
 
 .lang-switch button:focus-visible,.profile-edit-pencil:focus-visible,#resources-back-to-top:focus-visible{outline:2px solid #246f9e;outline-offset:2px}
+
+/* Languages landing page does not silently choose a language. */
+.language-directory{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 32px}
+.language-directory-link{border:1px solid #b8c1c5;border-radius:7px;padding:9px 12px;background:#fff;color:#242c30;text-decoration:none}
+.language-directory-link:hover{background:#f0f4f6;border-color:#75848e}
+.language-directory-link:focus-visible{outline:2px solid #246f9e;outline-offset:2px}

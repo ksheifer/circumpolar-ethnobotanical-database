@@ -7,7 +7,7 @@
     "russian_gloss": "поганка; мухомор",
     "english_gloss": "toadstool; fly agaric",
     "linguistic_comment": "",
-    "phytonym_id": "phy_avurukani_001",
+    "phytonym_id": "00001",
     "language_id": "even",
     "taxon_id": "tax_amanita",
     "attestations": [
@@ -64,7 +64,7 @@
     "russian_gloss": "рыжий гриб",
     "english_gloss": "reddish mushroom",
     "linguistic_comment": "",
-    "phytonym_id": "phy_khulanyav_devenngit_001",
+    "phytonym_id": "00002",
     "language_id": "even",
     "taxon_id": null,
     "attestations": [
@@ -100,7 +100,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0001",
+    "phytonym_id": "00003",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -147,7 +147,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0002",
+    "phytonym_id": "00004",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -194,7 +194,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0003",
+    "phytonym_id": "00005",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -241,7 +241,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0004",
+    "phytonym_id": "00006",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -288,7 +288,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0005",
+    "phytonym_id": "00007",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -335,7 +335,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0006",
+    "phytonym_id": "00008",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_juniperus",
@@ -382,7 +382,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0007",
+    "phytonym_id": "00009",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -429,7 +429,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0008",
+    "phytonym_id": "00010",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_picea",
@@ -476,7 +476,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0009",
+    "phytonym_id": "00011",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -523,7 +523,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0010",
+    "phytonym_id": "00012",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -570,7 +570,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0014",
+    "phytonym_id": "00013",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -617,7 +617,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0015",
+    "phytonym_id": "00014",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -664,7 +664,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0016",
+    "phytonym_id": "00015",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -711,7 +711,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0017",
+    "phytonym_id": "00016",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -781,7 +781,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0019",
+    "phytonym_id": "00017",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -828,7 +828,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0020",
+    "phytonym_id": "00018",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -875,7 +875,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0021",
+    "phytonym_id": "00019",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -922,7 +922,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0022",
+    "phytonym_id": "00020",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -969,7 +969,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0024",
+    "phytonym_id": "00021",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_chamaenerion",
@@ -1016,7 +1016,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0025",
+    "phytonym_id": "00022",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -1063,7 +1063,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0026",
+    "phytonym_id": "00023",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -1110,7 +1110,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0027",
+    "phytonym_id": "00024",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rubus",
@@ -1180,7 +1180,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0028",
+    "phytonym_id": "00025",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -1250,7 +1250,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0029",
+    "phytonym_id": "00026",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_iris",
@@ -1297,7 +1297,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0030",
+    "phytonym_id": "00027",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -1344,7 +1344,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0031",
+    "phytonym_id": "00028",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1391,7 +1391,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0032",
+    "phytonym_id": "00029",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -1438,7 +1438,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0033",
+    "phytonym_id": "00030",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1485,7 +1485,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0035",
+    "phytonym_id": "00031",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1532,7 +1532,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0036",
+    "phytonym_id": "00032",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_arctostaphylos",
@@ -1579,7 +1579,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0037",
+    "phytonym_id": "00033",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1626,7 +1626,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0038",
+    "phytonym_id": "00034",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -1673,7 +1673,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0040",
+    "phytonym_id": "00035",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_juniperus",
@@ -1743,7 +1743,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0041",
+    "phytonym_id": "00036",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1790,7 +1790,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0042",
+    "phytonym_id": "00037",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -1837,7 +1837,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0043",
+    "phytonym_id": "00038",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -1884,7 +1884,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0045",
+    "phytonym_id": "00039",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -1931,7 +1931,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0046",
+    "phytonym_id": "00040",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -1978,7 +1978,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0047",
+    "phytonym_id": "00041",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -2025,7 +2025,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0048",
+    "phytonym_id": "00042",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_eriophorum",
@@ -2072,7 +2072,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0049",
+    "phytonym_id": "00043",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -2119,7 +2119,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0050",
+    "phytonym_id": "00044",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -2166,7 +2166,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0051",
+    "phytonym_id": "00045",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -2213,7 +2213,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0052",
+    "phytonym_id": "00046",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2260,7 +2260,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0053",
+    "phytonym_id": "00047",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_populus",
@@ -2307,7 +2307,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0054",
+    "phytonym_id": "00048",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -2354,7 +2354,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0055",
+    "phytonym_id": "00049",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2401,7 +2401,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0056",
+    "phytonym_id": "00050",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -2448,7 +2448,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0057",
+    "phytonym_id": "00051",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_sorbus",
@@ -2515,7 +2515,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0059",
+    "phytonym_id": "00052",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinaceae",
@@ -2562,7 +2562,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0060",
+    "phytonym_id": "00053",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2609,7 +2609,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0061",
+    "phytonym_id": "00054",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -2656,7 +2656,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0062",
+    "phytonym_id": "00055",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_sorbus",
@@ -2703,7 +2703,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0063",
+    "phytonym_id": "00056",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2750,7 +2750,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0064",
+    "phytonym_id": "00057",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2797,7 +2797,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0067",
+    "phytonym_id": "00058",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -2844,7 +2844,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0068",
+    "phytonym_id": "00059",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -2891,7 +2891,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0069",
+    "phytonym_id": "00060",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -2938,7 +2938,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0070",
+    "phytonym_id": "00061",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -2985,7 +2985,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0071",
+    "phytonym_id": "00062",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3032,7 +3032,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0072",
+    "phytonym_id": "00063",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3079,7 +3079,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0073",
+    "phytonym_id": "00064",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3126,7 +3126,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0075",
+    "phytonym_id": "00065",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -3173,7 +3173,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0080",
+    "phytonym_id": "00066",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lilium",
@@ -3220,7 +3220,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0081",
+    "phytonym_id": "00067",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_hypericum",
@@ -3267,7 +3267,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0082",
+    "phytonym_id": "00068",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3314,7 +3314,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0083",
+    "phytonym_id": "00069",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_empetrum",
@@ -3361,7 +3361,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0084",
+    "phytonym_id": "00070",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -3431,7 +3431,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0085",
+    "phytonym_id": "00071",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3478,7 +3478,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0086",
+    "phytonym_id": "00072",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -3525,7 +3525,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0087",
+    "phytonym_id": "00073",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3572,7 +3572,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0088",
+    "phytonym_id": "00074",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3619,7 +3619,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0089",
+    "phytonym_id": "00075",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lilium",
@@ -3666,7 +3666,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0090",
+    "phytonym_id": "00076",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3713,7 +3713,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0091",
+    "phytonym_id": "00077",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_populus",
@@ -3783,7 +3783,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0092",
+    "phytonym_id": "00078",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3830,7 +3830,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0094",
+    "phytonym_id": "00079",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lonicera",
@@ -3899,7 +3899,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0095",
+    "phytonym_id": "00080",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -3946,7 +3946,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0096",
+    "phytonym_id": "00081",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rhododendron",
@@ -4016,7 +4016,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0097",
+    "phytonym_id": "00082",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -4063,7 +4063,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0098",
+    "phytonym_id": "00083",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -4110,7 +4110,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0099",
+    "phytonym_id": "00084",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -4157,7 +4157,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0100",
+    "phytonym_id": "00085",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -4204,7 +4204,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0101",
+    "phytonym_id": "00086",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rubus",
@@ -4251,7 +4251,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0102",
+    "phytonym_id": "00087",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -4321,7 +4321,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0103",
+    "phytonym_id": "00088",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -4368,7 +4368,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0105",
+    "phytonym_id": "00089",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -4415,7 +4415,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0106",
+    "phytonym_id": "00090",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_tussilago",
@@ -4462,7 +4462,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0107",
+    "phytonym_id": "00091",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -4509,7 +4509,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0110",
+    "phytonym_id": "00092",
     "language_id": "even",
     "dialect_id": "dia_even_sadovnikova_berezovsky",
     "taxon_id": "tax_family_inferred_larix",
@@ -4559,7 +4559,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0111",
+    "phytonym_id": "00093",
     "language_id": "even",
     "dialect_id": "dia_even_sadovnikova_berezovsky",
     "taxon_id": "tax_family_inferred_larix",
@@ -4611,7 +4611,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0112",
+    "phytonym_id": "00094",
     "language_id": "even",
     "dialect_id": "dia_even_sadovnikova_berezovsky",
     "taxon_id": "tax_family_inferred_larix",
@@ -4661,7 +4661,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0113",
+    "phytonym_id": "00095",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -4711,7 +4711,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0114",
+    "phytonym_id": "00096",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_populus",
@@ -4763,7 +4763,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0115",
+    "phytonym_id": "00097",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -4815,7 +4815,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0116",
+    "phytonym_id": "00098",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -4862,7 +4862,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0117",
+    "phytonym_id": "00099",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -4918,7 +4918,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0118",
+    "phytonym_id": "00100",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -4970,7 +4970,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0119",
+    "phytonym_id": "00101",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_chamaenerion",
@@ -5022,7 +5022,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0120",
+    "phytonym_id": "00102",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -5078,7 +5078,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0121",
+    "phytonym_id": "00103",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rosa",
@@ -5134,7 +5134,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0122",
+    "phytonym_id": "00104",
     "language_id": "even",
     "dialect_id": "dia_even_sadovnikova_berezovsky",
     "taxon_id": "tax_family_inferred_fragaria",
@@ -5184,7 +5184,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0123",
+    "phytonym_id": "00105",
     "language_id": "even",
     "dialect_id": "dia_even_sadovnikova_berezovsky",
     "taxon_id": "tax_family_inferred_rubus",
@@ -5234,7 +5234,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0124",
+    "phytonym_id": "00106",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_prunella",
@@ -5292,7 +5292,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0125",
+    "phytonym_id": "00107",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -5344,7 +5344,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0126",
+    "phytonym_id": "00108",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -5391,7 +5391,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0127",
+    "phytonym_id": "00109",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_hypericum",
@@ -5441,7 +5441,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0128",
+    "phytonym_id": "00110",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_suillus",
@@ -5491,7 +5491,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0129",
+    "phytonym_id": "00111",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_suillus",
@@ -5541,7 +5541,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0130",
+    "phytonym_id": "00112",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,
@@ -5591,7 +5591,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_even_sadovnikova_2024_0131",
+    "phytonym_id": "00113",
     "language_id": "even",
     "dialect_id": null,
     "taxon_id": null,

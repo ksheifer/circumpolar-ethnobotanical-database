@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_sakha_0001",
+    "phytonym_id": "00114",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -46,7 +46,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0002",
+    "phytonym_id": "00115",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pimpinella",
@@ -92,7 +92,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0003",
+    "phytonym_id": "00116",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": null,
@@ -138,7 +138,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0004",
+    "phytonym_id": "00117",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -184,7 +184,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0005",
+    "phytonym_id": "00118",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": null,
@@ -230,7 +230,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0007",
+    "phytonym_id": "00119",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rhododendron",
@@ -276,7 +276,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0008",
+    "phytonym_id": "00120",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_crataegus",
@@ -322,7 +322,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0009",
+    "phytonym_id": "00121",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -390,7 +390,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0011",
+    "phytonym_id": "00122",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -447,7 +447,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0012",
+    "phytonym_id": "00123",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_plantago",
@@ -504,7 +504,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0013",
+    "phytonym_id": "00124",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_kobresia",
@@ -550,7 +550,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0014",
+    "phytonym_id": "00125",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_cicuta",
@@ -596,7 +596,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0015",
+    "phytonym_id": "00126",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_morchella",
@@ -642,7 +642,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0016",
+    "phytonym_id": "00127",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -688,7 +688,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0017",
+    "phytonym_id": "00128",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -734,7 +734,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0018",
+    "phytonym_id": "00129",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -780,7 +780,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0019",
+    "phytonym_id": "00130",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -848,7 +848,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0020",
+    "phytonym_id": "00131",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinaceae",
@@ -894,7 +894,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0021",
+    "phytonym_id": "00132",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -940,7 +940,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0023",
+    "phytonym_id": "00133",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_aconitum",
@@ -986,7 +986,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0024",
+    "phytonym_id": "00134",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_crataegus",
@@ -1043,7 +1043,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0025",
+    "phytonym_id": "00135",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rosa",
@@ -1089,7 +1089,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0026",
+    "phytonym_id": "00136",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_secale",
@@ -1135,7 +1135,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0027",
+    "phytonym_id": "00137",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -1181,7 +1181,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0028",
+    "phytonym_id": "00138",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -1227,7 +1227,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0029",
+    "phytonym_id": "00139",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_fragaria",
@@ -1273,7 +1273,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0030",
+    "phytonym_id": "00140",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_hordeum",
@@ -1319,7 +1319,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0031",
+    "phytonym_id": "00141",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_hedysarum",
@@ -1365,7 +1365,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0032",
+    "phytonym_id": "00142",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -1433,7 +1433,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0033",
+    "phytonym_id": "00143",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -1479,7 +1479,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0034",
+    "phytonym_id": "00144",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -1525,7 +1525,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0035",
+    "phytonym_id": "00145",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_humulus",
@@ -1571,7 +1571,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0036",
+    "phytonym_id": "00146",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -1617,7 +1617,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0037",
+    "phytonym_id": "00147",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lactarius",
@@ -1663,7 +1663,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0038",
+    "phytonym_id": "00148",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_schoenoplectus",
@@ -1709,7 +1709,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0039",
+    "phytonym_id": "00149",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -1755,7 +1755,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0040",
+    "phytonym_id": "00150",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lactarius",
@@ -1801,7 +1801,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0041",
+    "phytonym_id": "00151",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -1847,7 +1847,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0042",
+    "phytonym_id": "00152",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_chamaenerion",
@@ -1904,7 +1904,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0043",
+    "phytonym_id": "00153",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -1950,7 +1950,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0044",
+    "phytonym_id": "00154",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -1996,7 +1996,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0045",
+    "phytonym_id": "00155",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_polygonaceae",
@@ -2042,7 +2042,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0046",
+    "phytonym_id": "00156",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2099,7 +2099,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0047",
+    "phytonym_id": "00157",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pleuropogon",
@@ -2145,7 +2145,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0048",
+    "phytonym_id": "00158",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_leymus",
@@ -2191,7 +2191,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0049",
+    "phytonym_id": "00159",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_trollius",
@@ -2237,7 +2237,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0050",
+    "phytonym_id": "00160",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_juniperus",
@@ -2294,7 +2294,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0051",
+    "phytonym_id": "00161",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -2362,7 +2362,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0052",
+    "phytonym_id": "00162",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_veratrum",
@@ -2408,7 +2408,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0053",
+    "phytonym_id": "00163",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -2454,7 +2454,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0054",
+    "phytonym_id": "00164",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -2500,7 +2500,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0055",
+    "phytonym_id": "00165",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_linum",
@@ -2546,7 +2546,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0056",
+    "phytonym_id": "00166",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_senecio",
@@ -2592,7 +2592,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0058",
+    "phytonym_id": "00167",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -2638,7 +2638,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0060",
+    "phytonym_id": "00168",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -2684,7 +2684,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0061",
+    "phytonym_id": "00169",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rubus",
@@ -2730,7 +2730,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0063",
+    "phytonym_id": "00170",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rubus",
@@ -2776,7 +2776,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0064",
+    "phytonym_id": "00171",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -2822,7 +2822,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0065",
+    "phytonym_id": "00172",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -2868,7 +2868,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0066",
+    "phytonym_id": "00173",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -2914,7 +2914,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0067",
+    "phytonym_id": "00174",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_crataegus",
@@ -2960,7 +2960,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0068",
+    "phytonym_id": "00175",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pulsatilla",
@@ -3006,7 +3006,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0069",
+    "phytonym_id": "00176",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_taraxacum",
@@ -3075,7 +3075,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0070",
+    "phytonym_id": "00177",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_cucumis",
@@ -3121,7 +3121,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0071",
+    "phytonym_id": "00178",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -3167,7 +3167,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0072",
+    "phytonym_id": "00179",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_secale",
@@ -3213,7 +3213,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0073",
+    "phytonym_id": "00180",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3259,7 +3259,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0074",
+    "phytonym_id": "00181",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3305,7 +3305,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0075",
+    "phytonym_id": "00182",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3351,7 +3351,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0076",
+    "phytonym_id": "00183",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_solanum",
@@ -3397,7 +3397,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0077",
+    "phytonym_id": "00184",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3443,7 +3443,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0078",
+    "phytonym_id": "00185",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3489,7 +3489,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0079",
+    "phytonym_id": "00186",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salvia",
@@ -3535,7 +3535,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0080",
+    "phytonym_id": "00187",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_senecio",
@@ -3581,7 +3581,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0081",
+    "phytonym_id": "00188",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3627,7 +3627,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0082",
+    "phytonym_id": "00189",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3673,7 +3673,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0083",
+    "phytonym_id": "00190",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_sorbus",
@@ -3719,7 +3719,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0084",
+    "phytonym_id": "00191",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_hedysarum",
@@ -3765,7 +3765,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0085",
+    "phytonym_id": "00192",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lilium",
@@ -3811,7 +3811,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0086",
+    "phytonym_id": "00193",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -3857,7 +3857,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0087",
+    "phytonym_id": "00194",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -3914,7 +3914,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0088",
+    "phytonym_id": "00195",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_alnus",
@@ -3971,7 +3971,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0089",
+    "phytonym_id": "00196",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4017,7 +4017,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0090",
+    "phytonym_id": "00197",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -4063,7 +4063,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0091",
+    "phytonym_id": "00198",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_orobanche",
@@ -4109,7 +4109,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0092",
+    "phytonym_id": "00199",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_triticum",
@@ -4155,7 +4155,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0093",
+    "phytonym_id": "00200",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4201,7 +4201,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0094",
+    "phytonym_id": "00201",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4247,7 +4247,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0095",
+    "phytonym_id": "00202",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_saxifraga",
@@ -4293,7 +4293,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0096",
+    "phytonym_id": "00203",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_nicotiana",
@@ -4339,7 +4339,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0097",
+    "phytonym_id": "00204",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -4396,7 +4396,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0098",
+    "phytonym_id": "00205",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4442,7 +4442,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0099",
+    "phytonym_id": "00206",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -4499,7 +4499,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0100",
+    "phytonym_id": "00207",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_populus",
@@ -4556,7 +4556,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0101",
+    "phytonym_id": "00208",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_larix",
@@ -4602,7 +4602,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0102",
+    "phytonym_id": "00209",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_filipendula",
@@ -4648,7 +4648,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0103",
+    "phytonym_id": "00210",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4694,7 +4694,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0104",
+    "phytonym_id": "00211",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_cucurbita",
@@ -4740,7 +4740,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0105",
+    "phytonym_id": "00212",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4786,7 +4786,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0106",
+    "phytonym_id": "00213",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_populus",
@@ -4843,7 +4843,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0107",
+    "phytonym_id": "00214",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4889,7 +4889,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0108",
+    "phytonym_id": "00215",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -4935,7 +4935,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0109",
+    "phytonym_id": "00216",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -4981,7 +4981,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0110",
+    "phytonym_id": "00217",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_carex",
@@ -5027,7 +5027,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0111",
+    "phytonym_id": "00218",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -5084,7 +5084,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0112",
+    "phytonym_id": "00219",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5130,7 +5130,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0113",
+    "phytonym_id": "00220",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5176,7 +5176,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0114",
+    "phytonym_id": "00221",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -5222,7 +5222,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0115",
+    "phytonym_id": "00222",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -5268,7 +5268,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0116",
+    "phytonym_id": "00223",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -5314,7 +5314,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0117",
+    "phytonym_id": "00224",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_allium",
@@ -5360,7 +5360,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0118",
+    "phytonym_id": "00225",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -5406,7 +5406,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0119",
+    "phytonym_id": "00226",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -5452,7 +5452,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0120",
+    "phytonym_id": "00227",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5498,7 +5498,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0121",
+    "phytonym_id": "00228",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -5544,7 +5544,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0122",
+    "phytonym_id": "00229",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5590,7 +5590,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0123",
+    "phytonym_id": "00230",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -5636,7 +5636,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0124",
+    "phytonym_id": "00231",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5682,7 +5682,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0125",
+    "phytonym_id": "00232",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_avena",
@@ -5728,7 +5728,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0126",
+    "phytonym_id": "00233",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_lactarius",
@@ -5774,7 +5774,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0127",
+    "phytonym_id": "00234",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -5820,7 +5820,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0128",
+    "phytonym_id": "00235",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -5866,7 +5866,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0129",
+    "phytonym_id": "00236",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -5923,7 +5923,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0130",
+    "phytonym_id": "00237",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_convolvulus",
@@ -5969,7 +5969,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0131",
+    "phytonym_id": "00238",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -6015,7 +6015,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0132",
+    "phytonym_id": "00239",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -6061,7 +6061,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0133",
+    "phytonym_id": "00240",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -6107,7 +6107,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0134",
+    "phytonym_id": "00241",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_solanaceae",
@@ -6153,7 +6153,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0135",
+    "phytonym_id": "00242",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_prunus",
@@ -6210,7 +6210,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0136",
+    "phytonym_id": "00243",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -6256,7 +6256,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0137",
+    "phytonym_id": "00244",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -6302,7 +6302,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0138",
+    "phytonym_id": "00245",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_prunus",
@@ -6348,7 +6348,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0139",
+    "phytonym_id": "00246",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -6394,7 +6394,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0140",
+    "phytonym_id": "00247",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinaceae",
@@ -6462,7 +6462,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0141",
+    "phytonym_id": "00248",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -6530,7 +6530,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0142",
+    "phytonym_id": "00249",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -6587,7 +6587,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0143",
+    "phytonym_id": "00250",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -6633,7 +6633,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0144",
+    "phytonym_id": "00251",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_schoenoplectus",
@@ -6679,7 +6679,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0145",
+    "phytonym_id": "00252",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_solanum",
@@ -6725,7 +6725,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_0146",
+    "phytonym_id": "00253",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "",
@@ -6771,7 +6771,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_001",
+    "phytonym_id": "00254",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_triglochin_palustris",
@@ -6818,7 +6818,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_002",
+    "phytonym_id": "00255",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_senecio_erucifolius",
@@ -6865,7 +6865,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_003",
+    "phytonym_id": "00256",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_scolochloa_festucacea",
@@ -6912,7 +6912,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_004",
+    "phytonym_id": "00257",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_praecox",
@@ -6959,7 +6959,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_005",
+    "phytonym_id": "00258",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_cicuta_virosa",
@@ -7006,7 +7006,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_006",
+    "phytonym_id": "00259",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_elymus_repens",
@@ -7053,7 +7053,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_007",
+    "phytonym_id": "00260",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_iris_setosa",
@@ -7100,7 +7100,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_008",
+    "phytonym_id": "00261",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_stellaria_crassifolia",
@@ -7147,7 +7147,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_009",
+    "phytonym_id": "00262",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_comarum_palustre",
@@ -7194,7 +7194,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_010",
+    "phytonym_id": "00263",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_poa_angustifolia",
@@ -7241,7 +7241,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_011",
+    "phytonym_id": "00264",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_hordeum_brevisubulatum",
@@ -7288,7 +7288,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_012",
+    "phytonym_id": "00265",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_plantago",
@@ -7332,11 +7332,10 @@
     "source_area_abbreviations": "Т.",
     "reference_location_id": "loc_sakha_yakutsk",
     "pan_arctic_species": null,
-    "endangered_species": null,
-    "phytonym_morphology": ""
+    "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_013",
+    "phytonym_id": "00266",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_castilleja_rubra",
@@ -7383,7 +7382,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_014",
+    "phytonym_id": "00267",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_sparganium_simplex",
@@ -7430,7 +7429,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_015",
+    "phytonym_id": "00268",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_equisetum_limosum",
@@ -7477,7 +7476,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_016",
+    "phytonym_id": "00269",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_equisetum_palustre",
@@ -7524,7 +7523,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_017",
+    "phytonym_id": "00270",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_equisetum_scirpoides",
@@ -7571,7 +7570,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_018",
+    "phytonym_id": "00271",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_amgunensis",
@@ -7618,7 +7617,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_019",
+    "phytonym_id": "00272",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_usnea",
@@ -7665,7 +7664,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_020",
+    "phytonym_id": "00273",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_agrostis_alba",
@@ -7712,7 +7711,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_021",
+    "phytonym_id": "00274",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_polygonum_sibiricum",
@@ -7759,7 +7758,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_022",
+    "phytonym_id": "00275",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_pedicularis_palustris",
@@ -7806,7 +7805,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_023",
+    "phytonym_id": "00276",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_sanguisorba_officinalis",
@@ -7853,7 +7852,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_024",
+    "phytonym_id": "00277",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_arctophila_fulva",
@@ -7900,7 +7899,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_025",
+    "phytonym_id": "00278",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_glyceria",
@@ -7947,7 +7946,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_026",
+    "phytonym_id": "00279",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_poa_pratensis",
@@ -7994,7 +7993,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_027",
+    "phytonym_id": "00280",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_plantago_depressa",
@@ -8041,7 +8040,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_028",
+    "phytonym_id": "00281",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_senecio_arcticus",
@@ -8088,7 +8087,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_029",
+    "phytonym_id": "00282",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_willuica",
@@ -8135,7 +8134,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_030",
+    "phytonym_id": "00283",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia_commutata",
@@ -8182,7 +8181,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_031",
+    "phytonym_id": "00284",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_galium_verum",
@@ -8229,7 +8228,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_032",
+    "phytonym_id": "00285",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_hedysarum_arcticum",
@@ -8276,7 +8275,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_033",
+    "phytonym_id": "00286",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_menyanthes_trifoliata",
@@ -8323,7 +8322,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_034",
+    "phytonym_id": "00287",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_cnidium_cnidiifolium",
@@ -8370,7 +8369,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_035",
+    "phytonym_id": "00288",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_chenopodium_album",
@@ -8417,7 +8416,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_036",
+    "phytonym_id": "00289",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_critesion_jubatum",
@@ -8464,7 +8463,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_037",
+    "phytonym_id": "00290",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_rumex_thyrsiflorus",
@@ -8511,7 +8510,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_038",
+    "phytonym_id": "00291",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_armoracia_sisymbrioides",
@@ -8558,7 +8557,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_039",
+    "phytonym_id": "00292",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_achillea_millefolium",
@@ -8605,7 +8604,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_040",
+    "phytonym_id": "00293",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_parnassia_palustris",
@@ -8652,7 +8651,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_041",
+    "phytonym_id": "00294",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_alopecurus_arundinaceus",
@@ -8699,7 +8698,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_042",
+    "phytonym_id": "00295",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_puccinellia_hauptiana",
@@ -8746,7 +8745,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_043",
+    "phytonym_id": "00296",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_caltha_palustris",
@@ -8804,7 +8803,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_044",
+    "phytonym_id": "00297",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_schoenoplectus_lacustris",
@@ -8851,7 +8850,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_045",
+    "phytonym_id": "00298",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_geranium_pratense",
@@ -8898,7 +8897,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_046",
+    "phytonym_id": "00299",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_lactuca_sibirica",
@@ -8945,7 +8944,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_047",
+    "phytonym_id": "00300",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_trifolium_lupinaster",
@@ -8992,7 +8991,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_048",
+    "phytonym_id": "00301",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_sedum_purpureum",
@@ -9039,7 +9038,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_049",
+    "phytonym_id": "00302",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_chamaenerion_angustifolium",
@@ -9086,7 +9085,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_050",
+    "phytonym_id": "00303",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_vicia_cracca",
@@ -9133,7 +9132,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_051",
+    "phytonym_id": "00304",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_aster_sibiricus",
@@ -9180,7 +9179,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_052",
+    "phytonym_id": "00305",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_veronica_incana",
@@ -9227,7 +9226,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_053",
+    "phytonym_id": "00306",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia_vulgaris",
@@ -9274,7 +9273,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_054",
+    "phytonym_id": "00307",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia_tanacetifolia",
@@ -9321,7 +9320,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_055",
+    "phytonym_id": "00308",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_polygonum_aviculare",
@@ -9368,7 +9367,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_056",
+    "phytonym_id": "00309",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_vesicata",
@@ -9426,7 +9425,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_057",
+    "phytonym_id": "00310",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_eriophorum_angustifolium",
@@ -9473,7 +9472,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_058",
+    "phytonym_id": "00311",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_roegneria",
@@ -9520,7 +9519,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_059",
+    "phytonym_id": "00312",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_pyrola_incarnata",
@@ -9567,7 +9566,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_060",
+    "phytonym_id": "00313",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_potentilla_anserina",
@@ -9614,7 +9613,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_061",
+    "phytonym_id": "00314",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_thymus_serpyllum",
@@ -9661,7 +9660,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_062",
+    "phytonym_id": "00315",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_digraphis_arundinacea",
@@ -9708,7 +9707,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_063",
+    "phytonym_id": "00316",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_thlaspi_arvense",
@@ -9755,7 +9754,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_064",
+    "phytonym_id": "00317",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_inflata",
@@ -9802,7 +9801,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_065",
+    "phytonym_id": "00318",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_glyceria_aquatica",
@@ -9849,7 +9848,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_066",
+    "phytonym_id": "00319",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_sagittaria_natans",
@@ -9896,7 +9895,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_068",
+    "phytonym_id": "00320",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_castilleja_pallida",
@@ -9943,7 +9942,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_069",
+    "phytonym_id": "00321",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_linaria_acutiloba",
@@ -9990,7 +9989,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_070",
+    "phytonym_id": "00322",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_corydalis_sibirica",
@@ -10037,7 +10036,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_071",
+    "phytonym_id": "00323",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_duriuscula",
@@ -10084,7 +10083,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_072",
+    "phytonym_id": "00324",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_koeleria_gracilis",
@@ -10131,7 +10130,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_073",
+    "phytonym_id": "00325",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_glyceria_triflora",
@@ -10178,7 +10177,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_074",
+    "phytonym_id": "00326",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_achillea_alpina",
@@ -10225,7 +10224,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_075",
+    "phytonym_id": "00327",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_ranunculus_borealis",
@@ -10272,7 +10271,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_076",
+    "phytonym_id": "00328",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_dianthus_versicolor",
@@ -10319,7 +10318,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_077",
+    "phytonym_id": "00329",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_peltigera_aphthosa",
@@ -10366,7 +10365,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_078",
+    "phytonym_id": "00330",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_valeriana_capitata",
@@ -10413,7 +10412,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_079",
+    "phytonym_id": "00331",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_pyrola",
@@ -10460,7 +10459,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_080",
+    "phytonym_id": "00332",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_calamagrostis_langsdorffii",
@@ -10507,7 +10506,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_081",
+    "phytonym_id": "00333",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_alopecurus_alpinus",
@@ -10554,7 +10553,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_082",
+    "phytonym_id": "00334",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_anemone_sibirica",
@@ -10601,7 +10600,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_083",
+    "phytonym_id": "00335",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_campanula_langsdorffiana",
@@ -10648,7 +10647,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_084",
+    "phytonym_id": "00336",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_campanula_glomerata",
@@ -10695,7 +10694,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_085",
+    "phytonym_id": "00337",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia_jacutica",
@@ -10742,7 +10741,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_086",
+    "phytonym_id": "00338",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia_dracunculus",
@@ -10789,7 +10788,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_087",
+    "phytonym_id": "00339",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_carex_stans",
@@ -10836,7 +10835,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_088",
+    "phytonym_id": "00340",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_bromus_ircutensis",
@@ -10883,7 +10882,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_089",
+    "phytonym_id": "00341",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_artemisia",
@@ -10930,7 +10929,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_090",
+    "phytonym_id": "00342",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_zygadenus_sibiricus",
@@ -10977,7 +10976,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_091",
+    "phytonym_id": "00343",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_saxifraga_punctata",
@@ -11024,7 +11023,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_092",
+    "phytonym_id": "00344",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_dasiphora_fruticosa",
@@ -11071,7 +11070,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_afanasyev_1976_093",
+    "phytonym_id": "00345",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_veronica_longifolia",
@@ -11118,7 +11117,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0001",
+    "phytonym_id": "00346",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_adonis",
@@ -11164,7 +11163,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0002",
+    "phytonym_id": "00347",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_adonis",
@@ -11210,7 +11209,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0003",
+    "phytonym_id": "00348",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_acorus",
@@ -11256,7 +11255,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0004",
+    "phytonym_id": "00349",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_aconitum",
@@ -11302,7 +11301,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0005",
+    "phytonym_id": "00350",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rhododendron",
@@ -11348,7 +11347,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0006",
+    "phytonym_id": "00351",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -11394,7 +11393,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0007",
+    "phytonym_id": "00352",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_betula",
@@ -11440,7 +11439,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0008",
+    "phytonym_id": "00353",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -11486,7 +11485,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0009",
+    "phytonym_id": "00354",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_calluna",
@@ -11532,7 +11531,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0010",
+    "phytonym_id": "00355",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_geranium",
@@ -11578,7 +11577,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0011",
+    "phytonym_id": "00356",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_geranium",
@@ -11624,7 +11623,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0012",
+    "phytonym_id": "00357",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_fallopia",
@@ -11670,7 +11669,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0013",
+    "phytonym_id": "00358",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_fallopia",
@@ -11716,7 +11715,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0014",
+    "phytonym_id": "00359",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_polygonum",
@@ -11762,7 +11761,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0015",
+    "phytonym_id": "00360",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_polygonum",
@@ -11808,7 +11807,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0016",
+    "phytonym_id": "00361",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_gentiana",
@@ -11854,7 +11853,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0017",
+    "phytonym_id": "00362",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -11900,7 +11899,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0018",
+    "phytonym_id": "00363",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -11946,7 +11945,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0019",
+    "phytonym_id": "00364",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -11992,7 +11991,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0020",
+    "phytonym_id": "00365",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -12038,7 +12037,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0021",
+    "phytonym_id": "00366",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -12084,7 +12083,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0022",
+    "phytonym_id": "00367",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -12130,7 +12129,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0023",
+    "phytonym_id": "00368",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -12176,7 +12175,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0024",
+    "phytonym_id": "00369",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_salix",
@@ -12222,7 +12221,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0025",
+    "phytonym_id": "00370",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_pinus",
@@ -12268,7 +12267,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0026",
+    "phytonym_id": "00371",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_brassicaceae",
@@ -12314,7 +12313,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0027",
+    "phytonym_id": "00372",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -12360,7 +12359,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0028",
+    "phytonym_id": "00373",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ranunculus",
@@ -12406,7 +12405,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0029",
+    "phytonym_id": "00374",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ranunculus",
@@ -12452,7 +12451,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0030",
+    "phytonym_id": "00375",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ranunculus",
@@ -12498,7 +12497,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0031",
+    "phytonym_id": "00376",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ranunculus",
@@ -12544,7 +12543,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0032",
+    "phytonym_id": "00377",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_carex",
@@ -12590,7 +12589,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0033",
+    "phytonym_id": "00378",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_carex",
@@ -12636,7 +12635,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0034",
+    "phytonym_id": "00379",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_carex",
@@ -12682,7 +12681,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0035",
+    "phytonym_id": "00380",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_tanacetum",
@@ -12728,7 +12727,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0036",
+    "phytonym_id": "00381",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_plantago",
@@ -12774,7 +12773,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0037",
+    "phytonym_id": "00382",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -12820,7 +12819,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0038",
+    "phytonym_id": "00383",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -12866,7 +12865,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0039",
+    "phytonym_id": "00384",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -12912,7 +12911,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0040",
+    "phytonym_id": "00385",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_asteraceae",
@@ -12958,7 +12957,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0041",
+    "phytonym_id": "00386",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -13004,7 +13003,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0042",
+    "phytonym_id": "00387",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_artemisia",
@@ -13050,7 +13049,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0043",
+    "phytonym_id": "00388",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_sorbus",
@@ -13096,7 +13095,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0044",
+    "phytonym_id": "00389",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -13142,7 +13141,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0045",
+    "phytonym_id": "00390",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -13188,7 +13187,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0046",
+    "phytonym_id": "00391",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",
@@ -13234,7 +13233,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0047",
+    "phytonym_id": "00392",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -13280,7 +13279,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0048",
+    "phytonym_id": "00393",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_equisetum",
@@ -13326,7 +13325,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0049",
+    "phytonym_id": "00394",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_rosa",
@@ -13372,7 +13371,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0050",
+    "phytonym_id": "00395",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_cerastium",
@@ -13418,7 +13417,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sakha_added_0053",
+    "phytonym_id": "00396",
     "language_id": "sakha",
     "dialect_id": null,
     "taxon_id": "tax_family_inferred_ribes",

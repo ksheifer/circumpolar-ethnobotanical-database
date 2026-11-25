@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_001",
+    "phytonym_id": "00983",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_picea",
@@ -53,7 +53,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_002",
+    "phytonym_id": "00984",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_alnus",
@@ -106,7 +106,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_003",
+    "phytonym_id": "00985",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_populus",
@@ -159,7 +159,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_004",
+    "phytonym_id": "00986",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_sorbus",
@@ -212,7 +212,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_005",
+    "phytonym_id": "00987",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_prunus",
@@ -265,7 +265,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_006",
+    "phytonym_id": "00988",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_calluna",
@@ -318,7 +318,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_007",
+    "phytonym_id": "00989",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_nenets_rubus_chamaemorus",
@@ -371,7 +371,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_008",
+    "phytonym_id": "00990",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -424,7 +424,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_sami_ivanishcheva_2016_009",
+    "phytonym_id": "00991",
     "language_id": "sami",
     "dialect_id": "dia_sami_kildin",
     "taxon_id": null,

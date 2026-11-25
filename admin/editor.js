@@ -15,8 +15,8 @@ const FIELDS={
  ecological_data_en:[['habitat','Habitat (English)'],['plant_community','Plant community (English)'],['phenology','Phenology (English)'],['description','Description (English)'],['toxicity','Toxicity (English)']],
  indigenous_knowledge_en:[['medicinal_use','Medicinal use (English)'],['domestic_use','Domestic use (English)'],['spiritual_use','Spiritual use (English)'],['human_consumption','Human consumption (English)'],['animal_consumption','Animal consumption (English)']]
 };
-function notice(s){refs.message.textContent=s;}
-function setBusy(value){st.busy=value;refs.save.disabled=value||!st.profile;refs.deleteProfile.disabled=value||!st.profile||!st.login;refs.open.disabled=value||!refs.select.value;refs.login.disabled=value;}
+function notice(s,status='info'){refs.message.textContent=s;refs.message.dataset.status=status;}
+function setBusy(value){st.busy=value;refs.save.setAttribute('aria-busy',String(value));refs.save.innerHTML=value?'<span class="save-spinner" aria-hidden="true"></span> Saving…':'Save changes';refs.save.disabled=value||!st.profile;refs.deleteProfile.disabled=value||!st.profile||!st.login;refs.open.disabled=value||!refs.select.value;refs.login.disabled=value;}
 async function call(path,{method='GET',body}={}){if(!api)throw Error('Backend is not configured. See admin/SETUP.md.');const r=await fetch(api+path,{method,headers:{'Authorization':'Bearer '+st.session,...(body?{'Content-Type':'application/json'}:{})},body:body?JSON.stringify(body):undefined});const result=await r.json();if(!r.ok)throw Object.assign(new Error(result.error||`HTTP ${r.status}`),{status:r.status});return result;}
 function authDisplay(){refs.auth.textContent=st.login?`Signed in as @${st.login}`:'Not signed in';refs.login.hidden=!!st.login;refs.logout.hidden=!st.login;refs.open.disabled=!st.login||!refs.select.value;refs.deleteProfile.disabled=!st.login||!st.profile||st.busy;if(embedded&&window.parent!==window){window.parent.postMessage({type:'cedb-editor-auth-state',signedIn:!!st.login},location.origin);}}
 async function authCheck(){if(!st.session){st.login=null;authDisplay();return;}try{const me=await call('/api/me');st.login=me.login;notice(`Connected to ${me.repo}.`);}catch(e){sessionStorage.removeItem(SKEY);st.session='';st.login=null;notice(e.message);}authDisplay();}
@@ -79,11 +79,11 @@ function gather(){const p=st.profile;const changes={};for(const key of ['name_na
  }if(edits.length)changes.attestation_updates=edits;return changes;
 }
 document.getElementById('edit-form').addEventListener('submit',async e=>{e.preventDefault();if(!st.profile||st.busy)return;const changes=gather();if(!Object.keys(changes).length){notice('No changes to save.');return;}if(('name_native_language' in changes ? changes.name_native_language : st.profile.name_native_language).trim()==='') return notice('Phytonym name cannot be empty.');
- setBusy(true);notice('Checking and saving to GitHub…');try{const result=await call('/api/profile',{method:'POST',body:{language:st.profile.language_id,id:st.profile.phytonym_id,expectedSha:st.sha,changes}});st.profile=result.profile;st.sha=result.sha;st.dirty=false;window.__cedbDirty=false;drawProfile();refs.area.hidden=false;
+ setBusy(true);notice('Saving changes to GitHub…');try{const result=await call('/api/profile',{method:'POST',body:{language:st.profile.language_id,id:st.profile.phytonym_id,expectedSha:st.sha,changes}});st.profile=result.profile;st.sha=result.sha;st.dirty=false;window.__cedbDirty=false;drawProfile();refs.area.hidden=false;
  const local=st.rows.find(x=>x.phytonym_id===st.profile.phytonym_id);if(local)Object.assign(local,st.profile);refreshResults();
  if(embedded&&window.parent!==window)window.parent.postMessage({type:'cedb-profile-saved',profile:st.profile},location.origin);
- refs.message.textContent='Saved to GitHub. ';if(result.commit){const a=document.createElement('a');a.href=result.commit;a.target='_blank';a.rel='noopener noreferrer';a.textContent='View commit';refs.message.appendChild(a);}
- }catch(err){notice(err.message+(err.status===409?' Your changes remain in the editor; copy them before reloading.':''));}finally{setBusy(false);}});
+ refs.message.dataset.status='success';refs.message.textContent='✓ Changes saved to GitHub. ';if(result.commit){const a=document.createElement('a');a.href=result.commit;a.target='_blank';a.rel='noopener noreferrer';a.textContent='View commit';refs.message.appendChild(a);}
+ }catch(err){notice(err.message+(err.status===409?' Your changes remain in the editor; copy them before reloading.':''),'error');}finally{setBusy(false);}});
 refs.deleteProfile.addEventListener('click',async()=>{
  if(!st.profile||!st.login||st.busy)return;
  const p=st.profile;

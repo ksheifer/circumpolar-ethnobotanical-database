@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_nganasan_001",
+    "phytonym_id": "00865",
     "language_id": "nganasan",
     "dialect_id": null,
     "taxon_id": "tax_enets_betula",
@@ -45,7 +45,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_nganasan_002",
+    "phytonym_id": "00866",
     "language_id": "nganasan",
     "dialect_id": null,
     "taxon_id": "tax_nganasan_larix",

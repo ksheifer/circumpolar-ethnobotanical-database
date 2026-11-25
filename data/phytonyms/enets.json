@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_forest_enets_001",
+    "phytonym_id": "00867",
     "language_id": "enets",
     "dialect_id": "enets-forest",
     "taxon_id": "tax_enets_betula",
@@ -64,7 +64,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_enets_002",
+    "phytonym_id": "00868",
     "language_id": "enets",
     "dialect_id": "enets-forest",
     "taxon_id": "tax_enets_rubus_chamaemorus",
@@ -111,7 +111,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_enets_001",
+    "phytonym_id": "00869",
     "language_id": "enets",
     "dialect_id": "enets-tundra",
     "taxon_id": "tax_enets_betula",

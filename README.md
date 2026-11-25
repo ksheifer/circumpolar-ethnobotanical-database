@@ -100,3 +100,7 @@ validator rejects any reintroduced `sviridova/` directory.
 
 ### Chukchi group map anchors
 For Belichenko et al. (2021) Chukchi profiles, `group_reference_location_ids` uses Lorino for the Maritime group and Ryrkaypiy for the Tundra group. These are **conventional group reference points**, NOT places where any individual phytonym was documented. The original frequencies remain in `attestations`, and Documentation > Locality stays unfilled unless independently attested. English/Russian labels: Maritime / Морской and Tundra / Тундренный.
+
+
+### 2026-11-25: short record IDs
+All phytonym IDs are unique five-digit strings `00001`–`01002`. `data/id-aliases.json` maps previous IDs to new IDs so existing public profile links can redirect client-side; existing bookmarks should not be rewritten by hand. Publish **all updated phytonym JSON files, app.js, data/id-aliases.json, and the editor** together, since the GitHub editor must use the new IDs after publication. This is a migration of the records, not only a cosmetic link change. Unselected `/languages/` now opens a language directory without a query parameter.

@@ -196,7 +196,7 @@ if len(attestation_ids) != len(set(attestation_ids)):
 # Regression: new Sámi and Koryak additions must have a map-visible point.
 # A regional reference point is NOT an attested place of recording.
 for p in tables['phytonyms']:
-    if p.get('phytonym_id', '').startswith(('phy_sami_research_', 'phy_koryak_research_')):
+    if p.get('language_id') in ('sami', 'koryak'):
         direct = [a.get('location_id') for a in p['attestations'] if a.get('location_id')]
         dids = [p.get('dialect_id')] + [a.get('dialect_id') for a in p['attestations']]
         via_dialect = [loc for did in dids if did for d in tables['dialects'] if d['dialect_id'] == did for loc in d.get('location_ids', [])]

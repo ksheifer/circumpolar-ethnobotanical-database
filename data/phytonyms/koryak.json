@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_koryak_research_001",
+    "phytonym_id": "00992",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_research_polygonum_sp",
@@ -51,7 +51,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_002",
+    "phytonym_id": "00993",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_research_hedysarum_hedysaroides",
@@ -102,7 +102,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_003",
+    "phytonym_id": "00994",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_research_claytonia_sp",
@@ -153,7 +153,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_004",
+    "phytonym_id": "00995",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_nenets_vaccinium_vitis_idaea",
@@ -204,7 +204,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_005",
+    "phytonym_id": "00996",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_nenets_vaccinium_uliginosum",
@@ -255,7 +255,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_006",
+    "phytonym_id": "00997",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_nenets_rubus_chamaemorus",
@@ -306,7 +306,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_007",
+    "phytonym_id": "00998",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_research_salix_sp",
@@ -357,7 +357,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_008",
+    "phytonym_id": "00999",
     "language_id": "koryak",
     "dialect_id": null,
     "taxon_id": "tax_research_salix_sp",
@@ -408,7 +408,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_009",
+    "phytonym_id": "01000",
     "language_id": "koryak",
     "dialect_id": "dia_alyutor_group",
     "taxon_id": "tax_koryak_cyperaceae_unspecified",
@@ -460,7 +460,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_010",
+    "phytonym_id": "01001",
     "language_id": "koryak",
     "dialect_id": "dia_alyutor_group",
     "taxon_id": "tax_research_leymus_mollis",
@@ -512,7 +512,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_koryak_research_011",
+    "phytonym_id": "01002",
     "language_id": "koryak",
     "dialect_id": "dia_alyutor_group",
     "taxon_id": "tax_sakha1976_poa_pratensis",

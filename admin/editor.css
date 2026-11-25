@@ -18,3 +18,14 @@ html.embedded-editor .editor-layout #login{background:#f4f6f8;border-color:#bac4
 .editor-actions .editor-delete{display:inline-flex;gap:.45rem;align-items:center;justify-content:center;margin-right:auto;color:#a32525;border:1px solid #b94747;background:#fff;border-radius:7px}
 .editor-actions .editor-delete:hover:not(:disabled){background:#fff0f0;border-color:#9d1d1d}
 .editor-actions .editor-delete:focus-visible{outline:3px solid #cc6666;outline-offset:2px}
+
+/* Match the EN/RU, pencil and trash controls exactly across editor actions. */
+.editor-layout .editor-actions .editor-action-button {height:36px;min-height:36px;min-width:36px;padding:5px 10px;border:1px solid #b8c1c5;border-radius:7px;background:#fff;color:#242c30;box-shadow:none;font:inherit;font-size:14px;font-weight:500;line-height:1;display:inline-flex;align-items:center;justify-content:center;gap:.45rem;transition:background .12s,border-color .12s}
+.editor-layout .editor-actions .editor-action-button:hover:not(:disabled){background:#f0f4f6;border-color:#75848e;color:#242c30}
+.editor-layout .editor-actions .editor-action-button:focus-visible{outline:2px solid #246f9e;outline-offset:2px}
+.editor-layout .editor-actions .editor-action-button:disabled{opacity:.55;cursor:not-allowed}
+.editor-layout .editor-actions #save[aria-busy="true"]{background:#e9eff3;border-color:#87949d}
+.editor-layout .editor-actions #save .save-spinner {width:13px;height:13px;border:2px solid #899ba5;border-top-color:#234c68;border-radius:50%;display:inline-block;animation:cedb-editor-spin .65s linear infinite}
+@keyframes cedb-editor-spin{to{transform:rotate(360deg)}}
+.editor-layout #message[data-status="success"]{border-left-color:#3a8966;background:#f0f7f4}
+.editor-layout #message[data-status="error"]{border-left-color:#b94747;background:#fff3f3}

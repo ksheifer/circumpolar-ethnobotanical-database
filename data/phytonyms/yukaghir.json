@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_000",
+    "phytonym_id": "00954",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_family_inferred_eriophorum",
@@ -47,7 +47,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_kurilova2026_001",
+    "phytonym_id": "00955",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": null,
@@ -94,7 +94,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_prokopeva2026_extra_001",
+    "phytonym_id": "00956",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -141,7 +141,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_001",
+    "phytonym_id": "00957",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_chukchi_belichenko_028",
@@ -218,7 +218,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_002",
+    "phytonym_id": "00958",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_chukchi_belichenko_034",
@@ -295,7 +295,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_003",
+    "phytonym_id": "00959",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_chukchi_belichenko_014",
@@ -372,7 +372,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_004",
+    "phytonym_id": "00960",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_chukchi_belichenko_033",
@@ -449,7 +449,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_tundra_yukaghir_jochelson1926_005",
+    "phytonym_id": "00961",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_tundra_yukaghir",
     "taxon_id": "tax_family_inferred_juniperus",
@@ -511,7 +511,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_001",
+    "phytonym_id": "00962",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -611,7 +611,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_002",
+    "phytonym_id": "00963",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -675,7 +675,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_004",
+    "phytonym_id": "00964",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -722,7 +722,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_005",
+    "phytonym_id": "00965",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -769,7 +769,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_006",
+    "phytonym_id": "00966",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -816,7 +816,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_007",
+    "phytonym_id": "00967",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -863,7 +863,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_008",
+    "phytonym_id": "00968",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": null,
@@ -910,7 +910,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_009",
+    "phytonym_id": "00969",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -957,7 +957,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_010",
+    "phytonym_id": "00970",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -1004,7 +1004,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_011",
+    "phytonym_id": "00971",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_pinaceae",
@@ -1068,7 +1068,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_013",
+    "phytonym_id": "00972",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -1132,7 +1132,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_015",
+    "phytonym_id": "00973",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_larix",
@@ -1179,7 +1179,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_001",
+    "phytonym_id": "00974",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_vaccinium",
@@ -1241,7 +1241,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_002",
+    "phytonym_id": "00975",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_betula",
@@ -1305,7 +1305,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_003",
+    "phytonym_id": "00976",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_populus",
@@ -1365,7 +1365,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_prokopeva2026_extra_004",
+    "phytonym_id": "00977",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_salix",
@@ -1439,7 +1439,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_jochelson1926_001",
+    "phytonym_id": "00978",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_rubus",
@@ -1523,7 +1523,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_jochelson1926_002",
+    "phytonym_id": "00979",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_rubus",
@@ -1600,7 +1600,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_jochelson1926_003",
+    "phytonym_id": "00980",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": "tax_family_inferred_thymus",
@@ -1662,7 +1662,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_jochelson1926_004",
+    "phytonym_id": "00981",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": null,
@@ -1724,7 +1724,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_forest_yukaghir_jochelson1926_005",
+    "phytonym_id": "00982",
     "language_id": "yukaghir",
     "dialect_id": "dia_group_forest_yukaghir",
     "taxon_id": null,

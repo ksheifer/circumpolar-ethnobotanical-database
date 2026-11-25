@@ -1,6 +1,6 @@
 [
   {
-    "phytonym_id": "phy_selkup_2005_005",
+    "phytonym_id": "00943",
     "language_id": "selkup",
     "dialect_id": "dia_northern-selkup_taz_unspecified",
     "taxon_id": "tax_selkup_sarana",
@@ -72,7 +72,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_008",
+    "phytonym_id": "00944",
     "language_id": "selkup",
     "dialect_id": "dia_northern-selkup_taz_unspecified",
     "taxon_id": "tax_selkup_pine",
@@ -144,7 +144,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_001",
+    "phytonym_id": "00945",
     "language_id": "selkup",
     "dialect_id": "dia_group_southern_selkup",
     "taxon_id": "tax_selkup_currant",
@@ -203,7 +203,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_002",
+    "phytonym_id": "00946",
     "language_id": "selkup",
     "dialect_id": "dia_group_southern_selkup",
     "taxon_id": "tax_selkup_bird_cherry",
@@ -262,7 +262,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_003",
+    "phytonym_id": "00947",
     "language_id": "selkup",
     "dialect_id": "dia_group_southern_selkup",
     "taxon_id": "tax_selkup_lingonberry",
@@ -321,7 +321,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_004",
+    "phytonym_id": "00948",
     "language_id": "selkup",
     "dialect_id": "dia_group_southern_selkup",
     "taxon_id": "tax_selkup_cranberry",
@@ -380,7 +380,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_006",
+    "phytonym_id": "00949",
     "language_id": "selkup",
     "dialect_id": "dia_southern-selkup_ket_unspecified",
     "taxon_id": "tax_selkup_pine",
@@ -452,7 +452,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_007",
+    "phytonym_id": "00950",
     "language_id": "selkup",
     "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_pine",
@@ -524,7 +524,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_009",
+    "phytonym_id": "00951",
     "language_id": "selkup",
     "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_poplar",
@@ -585,7 +585,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_010",
+    "phytonym_id": "00952",
     "language_id": "selkup",
     "dialect_id": "dia_southern-selkup_ket_unspecified",
     "taxon_id": "tax_selkup_chaga",
@@ -646,7 +646,7 @@
     "endangered_species": null
   },
   {
-    "phytonym_id": "phy_selkup_2005_011",
+    "phytonym_id": "00953",
     "language_id": "selkup",
     "dialect_id": "dia_southern-selkup_narym",
     "taxon_id": "tax_selkup_chaga",

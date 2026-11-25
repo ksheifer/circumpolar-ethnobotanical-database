@@ -5,10 +5,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Content Editor · Circumpolar Ethnobotanical Database</title>
-<link rel="stylesheet" href="styles.css?v=20261125-button-style-v1">
-<link rel="stylesheet" href="admin/editor.css?v=20261125-profile-delete-v1">
+<link rel="stylesheet" href="styles.css?v=20261125-short-ids-editor-v1">
+<link rel="stylesheet" href="admin/editor.css?v=20261125-short-ids-editor-v1">
 <script defer src="admin/config.js?v=20261125-profile-delete-v1"></script>
-<script defer src="admin/editor.js?v=20261125-profile-delete-v1"></script>
+<script defer src="admin/editor.js?v=20261125-short-ids-editor-v1"></script>
 </head>
 <body>
 <header class="site-header"><div class="brand">Circumpolar Ethnobotanical Database · Content Editor</div><div class="lang-switch"><a href="./search/">← Public site</a></div></header>
@@ -19,6 +19,6 @@
 <section class="editor-auth"><div id="auth-state">Not signed in</div><button id="login" type="button">Sign in with GitHub</button><button id="logout" type="button" hidden>Sign out</button></section>
 <section class="editor-picker"><label for="profile-search">Find a phytonym</label><input id="profile-search" type="search" placeholder="Search by word, gloss, language..." autocomplete="off"><select id="profile-select" size="7" aria-label="Phytonym search results"></select><button id="open-profile" type="button" disabled>Open selected profile</button></section>
 <div id="message" role="status" aria-live="polite"></div>
-<section id="profile-editor" hidden><form id="edit-form"><div class="editor-top"><div><h2 id="profile-heading"></h2><p id="profile-subheading" class="muted"></p></div><button id="reload" type="button">Reload from GitHub</button></div><div id="editor-fields"></div><div class="editor-actions"><button type="button" id="delete-profile" class="editor-delete" disabled aria-label="Delete this phytonym profile" title="Delete this phytonym profile"><svg aria-hidden="true" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M8 6V4h8v2m3 0-1 14H6L5 6m5 4v7m4-7v7"/></svg><span>Delete profile</span></button><button type="button" id="cancel-edit">Discard changes</button><button type="submit" id="save" disabled>Save profile to GitHub</button></div><p class="muted">One commit per profile. Other profiles and the database structure stay unchanged.</p></form></section>
+<section id="profile-editor" hidden><form id="edit-form"><div class="editor-top"><div><h2 id="profile-heading"></h2><p id="profile-subheading" class="muted"></p></div><button id="reload" type="button">Reload from GitHub</button></div><div id="editor-fields"></div><div class="editor-actions"><button type="button" id="delete-profile" class="editor-delete editor-action-button" disabled aria-label="Delete this phytonym profile" title="Delete this phytonym profile"><svg aria-hidden="true" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M8 6V4h8v2m3 0-1 14H6L5 6m5 4v7m4-7v7"/></svg><span>Delete profile</span></button><button type="button" id="cancel-edit" class="editor-action-button">Discard changes</button><button type="submit" id="save" class="editor-action-button" disabled>Save changes</button></div></form></section>
 </main>
 </body></html>
