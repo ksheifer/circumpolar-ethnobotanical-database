@@ -7293,9 +7293,7 @@
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_plantago",
     "name_native_language": "биэс тымыр",
-    "names_other_varieties": [
-      "Literally \"five veins/ribs\" due to the leaf structure"
-    ],
+    "names_other_varieties": [],
     "russian_gloss": "подорожник",
     "english_gloss": "plantain",
     "linguistic_comment": "",
@@ -7334,7 +7332,8 @@
     "source_area_abbreviations": "Т.",
     "reference_location_id": "loc_sakha_yakutsk",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "phytonym_morphology": "Literally \"five veins/ribs\" due to the leaf structure"
   },
   {
     "phytonym_id": "00266",
