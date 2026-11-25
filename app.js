@@ -188,7 +188,7 @@ function profile(p){const tax=by('taxa',p.taxon_id)||{};
   `<tr><th scope="row">${esc(tr('source'))}</th><td>${sourceLinks||'—'}</td></tr>`,
   pair('dialect',uniqueAttValues(a=>attDialectFull(a)||dialName(a.dialect_id))),
   ...['last','first','patronymic','clan','gender'].map(key=>pair(key,uniqueAttValues(a=>(by('contributors',a.contributor_id)||{})[key==='last'?'last_name':key==='first'?'first_name':key==='patronymic'?'patronymic_name':key]))),
-  ...['collector','recording_year','record_date','name_number','source_use_categories','source_one_generation_uses','folklore'].map((key)=>pair(key==='recording_year'?'year':key==='record_date'?'recordDate':key,uniqueAttValues(a=>a[key])))
+  ...['collector','recording_year','record_date','source_use_categories','source_one_generation_uses','folklore'].map((key)=>pair(key==='recording_year'?'year':key==='record_date'?'recordDate':key,uniqueAttValues(a=>a[key])))
  ]);
  const related=relatedProfilesByGloss(p).length?relatedProfilesByGloss(p):[p];
  const entries=related.flatMap(locatableEntries);
