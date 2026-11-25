@@ -232,6 +232,17 @@ for plant in tables['phytonyms']:
             'administrative reference point', 'not the individual page')):
             errors.append(f"{plant['phytonym_id']}: editorial note in public usage_context")
 
+
+# Repository hygiene: removed legacy pages must never return in future builds.
+from pathlib import Path as _Path
+_repo_root = _Path(__file__).resolve().parents[1]
+for _legacy in ('sviridova',):
+    if (_repo_root / _legacy).exists():
+        errors.append(f'legacy directory {_legacy}/ must be deleted from repository (git rm -r {_legacy})')
+_geo_text = (_repo_root / 'data' / 'locations.geojson').read_text(encoding='utf-8')
+if 'Burov & Egorov' in _geo_text or 'RY_232_7_Burov-Egorov.pdf' in _geo_text:
+    errors.append('obsolete Burov & Egorov citation in locations.geojson')
+
 if errors:
     for e in errors: print('ERROR:',e)
     sys.exit(1)

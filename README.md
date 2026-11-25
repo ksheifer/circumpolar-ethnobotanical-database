@@ -76,3 +76,24 @@ node --experimental-default-type=module scripts/test_editor_worker.mjs
 ## Botanical classification status fields
 
 Each phytonym has `pan_arctic_species` and `endangered_species` (JSON boolean or `null`). All original records have `null`, rendered as **Not specified**. The Content Editor offers Not specified / Yes / No. `false` must only be used for a verified negative, not missing data. `endangered_species` refers to Red Data Book listing; future refinements should record jurisdiction and source.
+
+
+## Removing obsolete files when updating the site
+
+Replacing or uploading files from a release ZIP does **not** remove tracked
+files absent from that ZIP. The old `sviridova/` page must be deleted from
+the Git repository separately. In a local clone, run:
+
+```bash
+bash scripts/remove_legacy_paths.sh
+git diff --cached --stat
+git commit -m "Remove obsolete Sviridova website directory"
+git push origin main
+```
+
+The historical bibliographic source *Sviridova 1995* in `data/sources.json`
+is distinct from the obsolete site directory and is cited by Evenki data.
+
+Run `python scripts/audit_project.py` for an attribute inventory, unused
+bibliography list and missing-geolocation summary. The continuous-integration
+validator rejects any reintroduced `sviridova/` directory.
