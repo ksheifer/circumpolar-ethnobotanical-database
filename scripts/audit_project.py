@@ -24,7 +24,9 @@ for p in plants:
     dialect_ids = [p.get('dialect_id'), *(a.get('dialect_id') for a in p.get('attestations',[])), *(d for a in p.get('attestations',[]) for d in a.get('dialect_ids',[]))]
     has_dialect = any(locations.get(loc,{}).get('latitude') is not None for did in dialect_ids if did in dialects for loc in dialects[did].get('location_ids',[]))
     has_fallback = locations.get(p.get('reference_location_id'),{}).get('latitude') is not None
-    if not (has_attested or has_dialect or has_fallback): missing_geo[p['language_id']] += 1
+    # Conventional group anchor, not evidence of an attested locality.
+    has_group_anchor = any(locations.get(loc_id,{}).get('latitude') is not None for loc_id in p.get('group_reference_location_ids',{}).values())
+    if not (has_attested or has_dialect or has_fallback or has_group_anchor): missing_geo[p['language_id']] += 1
 
 common_keys = ['phytonym_id','language_id','dialect_id','taxon_id','name_native_language','names_other_varieties','russian_gloss','english_gloss','cognate','ecological_data','indigenous_knowledge','attestations','pan_arctic_species','endangered_species']
 optional_keys = sorted(set().union(*(set(p) for p in plants))-set(common_keys))
@@ -48,7 +50,7 @@ for k in optional_keys:
 print('\n## Unused bibliography entries (not necessarily deletable; may be resources-only)')
 for s in unused_sources:
     print(f'- {s["source_id"]} — {s.get("citation_key","")} {s.get("year","")}')
-print('\n## Phytonyms with no available map coordinate')
+print('\n## Phytonyms with no available map coordinate (including conventional group anchors)')
 print(f'- Total: {sum(missing_geo.values())}')
 for lang,count in sorted(missing_geo.items(),key=lambda x:-x[1]): print(f'- {lang}: {count}')
 print('\n## Source provenance distinctions')

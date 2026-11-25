@@ -106,6 +106,12 @@ for p in tables['phytonyms']:
         errors.append(f'{label}: Russian and English glosses must be strings, English gloss must be present')
     if 'common_name_state_language' in p or 'common_names_by_language' in p:
         errors.append(f'{label}: obsolete common-name fields')
+    group_refs=p.get('group_reference_location_ids', {})
+    if group_refs:
+        if p.get('language_id') != 'chukchi' or set(group_refs) != {'maritime','tundra'}:
+            errors.append(f'{label}: invalid cartographic group anchors')
+        for group, loc_id in group_refs.items():
+            linked(loc_id, ids['locations'], f'{label}.{group}')
     if p.get('language_id')=='chukchi' and p.get('ipa') != p.get('source_lemma'):
         errors.append(f'{label}: Chukchi IPA must preserve source transcription')
     linked(p.get('language_id'),ids['languages'],label)

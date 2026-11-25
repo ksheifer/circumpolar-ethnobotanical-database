@@ -97,3 +97,6 @@ is distinct from the obsolete site directory and is cited by Evenki data.
 Run `python scripts/audit_project.py` for an attribute inventory, unused
 bibliography list and missing-geolocation summary. The continuous-integration
 validator rejects any reintroduced `sviridova/` directory.
+
+### Chukchi group map anchors
+For Belichenko et al. (2021) Chukchi profiles, `group_reference_location_ids` uses Lorino for the Maritime group and Ryrkaypiy for the Tundra group. These are **conventional group reference points**, NOT places where any individual phytonym was documented. The original frequencies remain in `attestations`, and Documentation > Locality stays unfilled unless independently attested. English/Russian labels: Maritime / Морской and Tundra / Тундренный.

@@ -54,7 +54,11 @@
     "source_volume": null,
     "ipa": "mәrɣomәr",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_002_01",
@@ -114,7 +118,11 @@
     "source_volume": null,
     "ipa": "majˀoɬaɬɣәŋ",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_003_01",
@@ -174,7 +182,11 @@
     "source_volume": null,
     "ipa": "wirwir",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_004_01",
@@ -235,7 +247,11 @@
     "source_volume": null,
     "ipa": "ikitut",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_005_01",
@@ -296,7 +312,11 @@
     "source_volume": null,
     "ipa": "qɬuqet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_006_01",
@@ -357,7 +377,11 @@
     "source_volume": null,
     "ipa": "tәkewˀej",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_007_01",
@@ -418,7 +442,11 @@
     "source_volume": null,
     "ipa": "wәrwәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_008_01",
@@ -477,7 +505,11 @@
     "source_volume": null,
     "ipa": "әpˀet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_009_01",
@@ -534,7 +566,11 @@
     "source_volume": null,
     "ipa": "wiɬuɬˀәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_010_01",
@@ -595,7 +631,11 @@
     "source_volume": null,
     "ipa": "kenˀut",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_011_01",
@@ -654,7 +694,11 @@
     "source_volume": null,
     "ipa": "watap",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_012_01",
@@ -713,7 +757,11 @@
     "source_volume": null,
     "ipa": "kәmçek",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_013_01",
@@ -772,7 +820,11 @@
     "source_volume": null,
     "ipa": "pˀopˀoq",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_014_01",
@@ -831,7 +883,11 @@
     "source_volume": null,
     "ipa": "ɬәɣuunˀәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_015_01",
@@ -891,7 +947,11 @@
     "source_volume": null,
     "ipa": "weewәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_015_02",
@@ -951,7 +1011,11 @@
     "source_volume": null,
     "ipa": "wewewtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_016_01",
@@ -1008,7 +1072,11 @@
     "source_volume": null,
     "ipa": "titiwtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_017_01",
@@ -1069,7 +1137,11 @@
     "source_volume": null,
     "ipa": "qoçap",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_018_01",
@@ -1130,7 +1202,11 @@
     "source_volume": null,
     "ipa": "mijmij",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_019_01",
@@ -1189,7 +1265,11 @@
     "source_volume": null,
     "ipa": "mәtˀet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_019_02",
@@ -1248,7 +1328,11 @@
     "source_volume": null,
     "ipa": "aŋqarәmawtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_020_01",
@@ -1311,7 +1395,11 @@
     "source_volume": null,
     "ipa": "rәmawәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_020_02",
@@ -1374,7 +1462,11 @@
     "source_volume": null,
     "ipa": "rәmawtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_021_01",
@@ -1433,7 +1525,11 @@
     "source_volume": null,
     "ipa": "mәtˀet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_021_02",
@@ -1492,7 +1588,11 @@
     "source_volume": null,
     "ipa": "aŋqarәmawtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_01",
@@ -1552,7 +1652,11 @@
     "source_volume": null,
     "ipa": "çipˀet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_02",
@@ -1612,7 +1716,11 @@
     "source_volume": null,
     "ipa": "çiwˀet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_022_03",
@@ -1672,7 +1780,11 @@
     "source_volume": null,
     "ipa": "rәɬqәŋet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_023_01",
@@ -1732,7 +1844,11 @@
     "source_volume": null,
     "ipa": "weçowtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_024_01",
@@ -1790,7 +1906,11 @@
     "source_volume": null,
     "ipa": "rˀorawtәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_025_01",
@@ -1848,7 +1968,11 @@
     "source_volume": null,
     "ipa": "ɬemqut",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_026_01",
@@ -1906,7 +2030,11 @@
     "source_volume": null,
     "ipa": "juŋew",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_027_01",
@@ -1966,7 +2094,11 @@
     "source_volume": null,
     "ipa": "neçequt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_028_01",
@@ -2024,7 +2156,11 @@
     "source_volume": null,
     "ipa": "rәttәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_029_01",
@@ -2082,7 +2218,11 @@
     "source_volume": null,
     "ipa": "ŋәrɣet",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_030_01",
@@ -2139,7 +2279,11 @@
     "source_volume": null,
     "ipa": "mәrɣomәr",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_031_01",
@@ -2201,7 +2345,11 @@
     "source_volume": null,
     "ipa": "wәtwәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_032_01",
@@ -2262,7 +2410,11 @@
     "source_volume": null,
     "ipa": "witәwit",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_033_01",
@@ -2322,7 +2474,11 @@
     "source_volume": null,
     "ipa": "ɬinɬәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   },
   {
     "phytonym_id": "phy_chukchi_belichenko_034_01",
@@ -2380,6 +2536,10 @@
     "source_volume": null,
     "ipa": "weriwәçˀәt",
     "pan_arctic_species": null,
-    "endangered_species": null
+    "endangered_species": null,
+    "group_reference_location_ids": {
+      "maritime": "loc_043b043e04400438043d043e",
+      "tundra": "loc_0440044b0440043a04300439043f04380439"
+    }
   }
 ]
