@@ -37,7 +37,7 @@ function multipleSelect(name,label,values,options){const selected=new Set(values
 function dialectOpts(){return st.dialects.filter(d=>d.language_id===st.profile.language_id).map(d=>({id:d.dialect_id,label:d.name_en||d.source_abbreviation||d.dialect_id})).sort((a,b)=>a.label.localeCompare(b.label));}
 function locationOpts(){return st.locations.map(l=>({id:l.location_id,label:l.name_ru||l.locality||l.location_id})).sort((a,b)=>a.label.localeCompare(b.label,'ru'));}
 function readField(key){return document.querySelector(`[data-field="${key}"]`)?.value||'';}
-function drawProfile(){const p=st.profile;const d=dialectOpts(),locations=locationOpts();document.getElementById('profile-heading').textContent=p.name_native_language;document.getElementById('profile-subheading').textContent=`${languageName(p.language_id)} · ${p.phytonym_id}`;
+function drawProfile(){const p=st.profile;const d=dialectOpts(),locations=locationOpts();document.getElementById('profile-heading').textContent=p.name_native_language;
  let html='<section class="editor-section"><h3>Linguistic information</h3>';
  html+=input('name_native_language',p.name_native_language,'text','Phytonym');
  html+=input('language_id',languageName(p.language_id),'text','Language (read only)').replace('data-field="language_id"','disabled');
@@ -102,7 +102,6 @@ refs.deleteProfile.addEventListener('click',async()=>{
  }catch(err){notice(err.message+(err.status===409?' Reload this profile to get the latest GitHub version.':''));}
  finally{setBusy(false);}
 });
-document.getElementById('reload').addEventListener('click',()=>{const p=st.profile;if(p)openProfile(p.language_id,p.phytonym_id);});
 document.getElementById('cancel-edit').addEventListener('click',()=>{if(st.dirty&&!confirm('Discard local changes?'))return;st.dirty=false;window.__cedbDirty=false;drawProfile();notice('Local changes discarded.');});
 window.addEventListener('beforeunload',e=>{if(st.dirty){e.preventDefault();e.returnValue='';}});
 (async function init(){if(!api){refs.setup.hidden=false;refs.setup.textContent='GitHub publishing is not yet configured. Deploy the Worker, then set its URL in admin/config.js. See admin/SETUP.md.';refs.login.disabled=true;}try{
