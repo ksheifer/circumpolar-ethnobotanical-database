@@ -353,13 +353,20 @@ function leafletStylesReady(){
  sample.remove();
  return ready;
 }
+// Use one continuous eastward longitude axis for Eurasia and Chukotka.
+// E.g. Lorino at -171.7° is rendered at the equivalent 188.3°.
+// This is presentation-only: location coordinates in JSON remain untouched.
+function mapLongitude(longitude){
+ const lon=Number(longitude);
+ return lon<0?lon+360:lon;
+}
 function drawMap(target,entries,selectedIds=new Set()){
  if(!target)return;
  const groups=groupedMapEntries(entries);
  if(!groups.length){target.textContent=tr('noGeolocations');target.classList.add('map-unavailable');return;}
  if(!window.L||!leafletStylesReady()){target.innerHTML='<p class="map-load-error">Loading map…</p>';ensureLeaflet();return;}
  target.replaceChildren();
- const map=L.map(target);
+ const map=L.map(target,{worldCopyJump:false});
  if(state.view==='profile')state.profileMap=map;
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:17,attribution:'© OpenStreetMap contributors'}).addTo(map);
  const markers=[];
@@ -367,7 +374,7 @@ function drawMap(target,entries,selectedIds=new Set()){
   const selected=selectedIds.has(group.location_id);
   const caption=pinCaption(group);
   const selectedClass=selected?' pin-tooltip-selected':'';
-  const marker=L.marker([group.latitude,group.longitude],{icon:L.divIcon({className:'phytonym-pin-icon',html:'<span class="phytonym-pin-dot"></span>',iconSize:[22,32],iconAnchor:[11,30]})})
+  const marker=L.marker([group.latitude,mapLongitude(group.longitude)],{icon:L.divIcon({className:'phytonym-pin-icon',html:'<span class="phytonym-pin-dot"></span>',iconSize:[22,32],iconAnchor:[11,30]})})
    .bindTooltip(caption,{permanent:true,direction:'top',offset:[0,-21],className:'phytonym-pin-label'+selectedClass,opacity:1,interactive:false})
    .addTo(map);
   if(state.view==='profile')state.profileLocationMarkers.set(group.location_id,marker);
