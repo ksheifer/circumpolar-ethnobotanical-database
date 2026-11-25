@@ -13,3 +13,8 @@ html.embedded-editor .editor-layout #message:empty{display:none}
 html.embedded-editor .editor-layout #setup[hidden]{display:none!important}
 html.embedded-editor .editor-layout #login,html.embedded-editor .editor-layout #logout{border-radius:7px;white-space:nowrap}
 html.embedded-editor .editor-layout #login{background:#f4f6f8;border-color:#bac4cc;font-weight:600}
+
+/* Destructive profile action stays separate from ordinary Save/Discard controls. */
+.editor-actions .editor-delete{display:inline-flex;gap:.45rem;align-items:center;justify-content:center;margin-right:auto;color:#a32525;border:1px solid #b94747;background:#fff;border-radius:7px}
+.editor-actions .editor-delete:hover:not(:disabled){background:#fff0f0;border-color:#9d1d1d}
+.editor-actions .editor-delete:focus-visible{outline:3px solid #cc6666;outline-offset:2px}

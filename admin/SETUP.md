@@ -60,9 +60,15 @@ Click **Sign in with GitHub**, authorize as the configured administrator, find a
 * Records are matched by stable `phytonym_id` and `language_id`. Other records in the same file remain intact.
 * Only allowed content keys can change. Reference IDs and profile structure are not editable through this UI. The backend verifies dialect and locality IDs exist.
 * The content editor supports: name, one primary variety (`dialect_id`), other-variety forms, morphology, related forms, Russian/English glosses, ecological data and its English translations, Indigenous Knowledge and its English translations, reference locality, and per-attestation locality, dialect IDs and source pages.
-* **Not yet included**: adding/removing phytonym records, creating new source/taxon/dialect/locality records, editing global bibliographic/taxonomic datasets, adding/removing attestations or editing field-level citations (`field_sources`). These would require additional content-editor controls, but no structure-editor access.
+* **Not yet included**: adding new phytonym records, creating new source/taxon/dialect/locality records, editing global bibliographic/taxonomic datasets, adding/removing attestations or editing field-level citations (`field_sources`). These would require additional content-editor controls, but no structure-editor access.
 * The OAuth popup issues a random session identifier kept in `sessionStorage`, and the Worker stores the GitHub user token in a short-lived private KV record. The Worker checks the GitHub login on OAuth callback; the client cannot self-assign administrator status.
 * The Worker requires `EDITOR_ORIGIN` for CORS and validates GitHub identity + bearer session for each data write.
 * Source JSON is UTF-8, formatted with two spaces. If the existing GitHub App/Worker is disabled, the public database remains readable.
 
 **Never commit `worker/wrangler.toml`, `.env`, GitHub secrets, OAuth access tokens, or API tokens.**
+
+## Delete a phytonym profile
+
+Open a profile with the pencil, sign in as the configured editor and click the trash-can **Delete profile** button at the bottom. The browser warns and requires the **exact current phytonym name**. The Worker then authenticates the request, checks the exact `phytonym_id` and `language_id`, checks the file SHA against the version opened by the editor, verifies the confirmation text, and commits the JSON file with only that record removed. No other phytonyms are modified. Deleted records can be restored using Git history.
+
+**After updating the website files, redeploy the updated `worker/index.js` to the existing Cloudflare Worker.** Without that step, the new Delete button will receive 404 from the old backend. Keep the same KV binding, credentials and Worker URL; no new credentials or database upload is required.

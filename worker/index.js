@@ -28,6 +28,20 @@ async function api(req,env,url){const session=await allowedSession(req,env);if(!
   const profile=rows.find(p=>p.phytonym_id===id && p.language_id===lang);
   return profile?json({profile,sha:file.sha}):fail('Profile not found',404);
  }
+ if(url.pathname==='/api/profile/delete'&&req.method==='POST'){
+  let input;try{input=await req.json();}catch{return fail('Invalid JSON');}
+  const {language,id,expectedSha,confirmName}=input||{};
+  if(!LANGUAGE_ID.test(language||'')||!ITEM_ID.test(id||'')||!(/^[a-f0-9]{40}$/.test(expectedSha||''))||typeof confirmName!=='string'||confirmName.length>2000)return fail('Invalid deletion request');
+  const {file,rows}=await collection(env,session.token,language);
+  if(file.sha!==expectedSha)return fail('The file changed in GitHub. Reload this profile before deleting; no records were removed.',409);
+  const index=rows.findIndex(p=>p.phytonym_id===id&&p.language_id===language);
+  if(index<0)return fail('Profile not found',404);
+  const removed=rows[index];
+  if(confirmName!==removed.name_native_language)return fail('The confirmation name does not match the current phytonym.',400);
+  rows.splice(index,1);
+  const committed=await github(env,session.token,'PUT',pathFor(env,language),{message:`Delete ${language} phytonym ${id}`,content:toBase64(JSON.stringify(rows,null,2)+'\n'),sha:file.sha,branch:env.GITHUB_BRANCH||'main'});
+  return json({ok:true,deleted:{language_id:language,phytonym_id:id,name_native_language:removed.name_native_language},commit:committed.commit?.html_url||null,sha:committed.content?.sha||null});
+ }
  if(url.pathname==='/api/profile'&&req.method==='POST'){
   let input;try{input=await req.json();}catch{return fail('Invalid JSON');}
   const {language,id,expectedSha,changes}=input||{};

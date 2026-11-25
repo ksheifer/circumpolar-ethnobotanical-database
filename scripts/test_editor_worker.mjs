@@ -15,5 +15,12 @@ r=await request({language:'evenki',id:'phy_test_1',expectedSha:'a'.repeat(40),ch
 r=await request({language:'evenki',id:'phy_test_1',expectedSha:sha,changes:{language_id:'wrong'}});assert.equal(r.status,400);
 r=await worker.fetch(new Request('https://worker.example/api/profile?language=evenki&id=phy_test_1',{headers:{Origin:'https://ksheifer.github.io'}}),env);assert.equal(r.status,401);
 r=await worker.fetch(new Request('https://worker.example/api/profile?language=evenki&id=phy_test_1',{headers:{Origin:'https://malicious.example',Authorization:'Bearer '+token}}),env);assert.equal(r.status,403);
-console.log('PASS: one-profile save, version conflict, whitelist, authentication, origin validation.');
+// Profile deletion must be exact, authenticated and optimistic-lock safe.
+const deletion=(body)=>worker.fetch(new Request('https://worker.example/api/profile/delete',{method:'POST',headers:{Origin:'https://ksheifer.github.io',Authorization:'Bearer '+token,'Content-Type':'application/json'},body:JSON.stringify(body)}),env);
+let current=sha;
+r=await deletion({language:'evenki',id:'phy_test_1',expectedSha:current,confirmName:'WRONG'});assert.equal(r.status,400);assert.equal(rows.length,2);
+r=await deletion({language:'evenki',id:'phy_test_1',expectedSha:'a'.repeat(40),confirmName:'old'});assert.equal(r.status,409);assert.equal(rows.length,2);
+r=await deletion({language:'evenki',id:'phy_test_1',expectedSha:current,confirmName:'old'});assert.equal(r.status,200);assert.equal(rows.length,1);assert.equal(rows[0].phytonym_id,'phy_test_2');
+r=await deletion({language:'evenki',id:'phy_test_1',expectedSha:sha,confirmName:'old'});assert.equal(r.status,404);
+console.log('PASS: one-profile save, version conflict, whitelist, authentication, origin validation; protected exact single-profile deletion.');
 globalThis.fetch=orig;
