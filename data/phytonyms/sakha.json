@@ -7293,7 +7293,9 @@
     "dialect_id": null,
     "taxon_id": "tax_sakha1976_plantago",
     "name_native_language": "биэс тымыр",
-    "names_other_varieties": [],
+    "names_other_varieties": [
+      "Literally \"five veins/ribs\" due to the leaf structure"
+    ],
     "russian_gloss": "подорожник",
     "english_gloss": "plantain",
     "linguistic_comment": "",
